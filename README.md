@@ -17,9 +17,10 @@ All of this was made with [VimWiki](https://github.com/vimwiki/vimwiki). Enjoy â
 ---
 
 ## ToDo
-- [ ] how to use nerdtree
-- [ ] see if https://github.com/dense-analysis/ale is worth it
-- [ ] update bookmarks
+- [ ] vim-pluggin/how to use nerdtree
+- [ ] vim-pluggin/see if https://github.com/dense-analysis/ale is worth it
+- [ ] secondbrain/update bookmarks
+- [ ] maltt/learningdashboards
 
 ## License
 
