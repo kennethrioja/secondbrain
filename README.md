@@ -2,7 +2,7 @@
 [Articles](articles.md)<br>
 [Books](books.md)<br>
 Talks<br>
-Courses<br>
+[Courses](courses/index.md)<br>
 Ideas<br>
 [Bookmarks](bookmarks.md)<br>
 
