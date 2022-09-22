@@ -18,6 +18,9 @@
 [edtech/tools/h5p](https://h5p.org/) -> interactive HTML5 content<br>
 [edtech/tools/padlet](https://padlet.com/) -> collaborative panels<br>
 [edtech/tools/prezi](https://prezi.com/) -> presentation<br>
+[funds/fit](https://www.fondation-fit.ch/fr/) - Fondation pour Innovation Technologique<br>
+[funds/fongit](https://www.fongit.ch/fr/) - Fondation Genevoise pour l'Innovation Technologique<br>
+[funds/innogap](https://www.unige.ch/unitec/fr/presentation/fonds-innogap/innogappreuvedeconcept/innogappreuveconcept/) - for UNIGE and HUG researchers
 [misc/english-expressions](https://www.laculturegenerale.com/expressions-anglaises-traductions/)<br>
 [misc/pentaform](https://www.pentaform.co.uk/) - 8GB ram, 128GB computer in a keyboard<br>
 [networking/gamelab](https://wp.unil.ch/gamelab/) - research lab about video games between UNIL and EPFL<br>
@@ -32,4 +35,4 @@
 [programming/general/kaggle-courses](https://www.kaggle.com/learn) - courses to learn prog, python, etc.<br>
 [programming/markdown/markdown-editor](https://jbt.github.io/markdown-editor/)<br>
 [programming/vim/NERDTree](https://github.com/preservim/nerdtree) - display your current directory (Stop using Finder or the File Explorer !)<br>
-[programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br>
+[programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br><br>

@@ -6,6 +6,7 @@
 
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
+* [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [](#)
 
 <!-- vim-markdown-toc -->
@@ -55,6 +56,20 @@
 **Comments**
 - 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
 
+## [Plass et al., 2015 : Foundations of Game-Based Learning](https://doi.org/10.1080/00461520.2015.1122533)
+
+**THM** : 
+
+**Authors** : Jan L. Plass, Bruce D. Homer & Charles K. Kinzer
+
+**Tags** :
+
+**Abstract** : In this article we argue that to study or apply games as learning environments, multiple perspectives have to be taken into account. We first define game-based learning and gamification, and then discuss theoretical models that describe learning with games, arguing that playfulness is orthogonal to learning theory. We then review design elements of games that facilitate learning by fostering learners' cognitive, behavioral, affective, and sociocultural engagement with the subject matter. Finally, we discuss the basis of these design elements in cognitive, motivational, affective, and sociocultural foundations by reviewing key theories from education and psychology that are the most pertinent to game-based learning and by describing empirical research on learning with games that has been or should be conducted. We conclude that a combination of cognitive, motivational, affective, and sociocultural perspectives is necessary for both game design and game research to fully capture what games have to offer for learning.
+
+**Notes** :
+- 
+
+**Comments**
 
 <!-- struct 
 
