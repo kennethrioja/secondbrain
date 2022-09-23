@@ -35,4 +35,13 @@
 [programming/general/kaggle-courses](https://www.kaggle.com/learn) - courses to learn prog, python, etc.<br>
 [programming/markdown/markdown-editor](https://jbt.github.io/markdown-editor/)<br>
 [programming/vim/NERDTree](https://github.com/preservim/nerdtree) - display your current directory (Stop using Finder or the File Explorer !)<br>
-[programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br><br>
+[programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br><br><br>
+[unige/agenda](https://agenda.unige.ch/) - events happening at UNIGE<br>
+[blogs/wowchemy](https://wowchemy.com/hugo-themes/) - free templates for websites<br>
+[blogs/barelysignificant](https://www.barelysignificant.com/) - stats<br>
+[blogs/psyetgeek](https://psyetgeek.com/) - psychology and vg<br>
+[blogs/science4all](https://www.science4all.org/about/) - maths and science of great quality<br>
+[mooc/epflx](https://www.edx.org/school/epflx) - free courses on edx from EPFL<br>
+[mooc/vglearning](https://mediaspace.wisc.edu/channel/Video+Games+and+Learning+MOOC/37038962) - from UW-Madison<br>
+[blogs/sharpbrains](https://sharpbrains.com/brainteasers) - teasers, puzzles and games that trick your brain<br>
+
