@@ -1,12 +1,13 @@
 # Books
 
 ## Table of Contents
-
 <!-- vim-markdown-toc GFM -->
 
+* [Deep Work - Cal Newport](#deep-work---cal-newport)
+* [FREE - Game Programming Patters - Robert Nystrom](#free---game-programming-patters---robert-nystrom)
+* [FREE - Learning Vim Script The Hard Way - Steve Losh](#free---learning-vim-script-the-hard-way---steve-losh)
 * [Making Games for Impact - Kirt Squire](#making-games-for-impact---kirt-squire)
 * [The Gamer's Brain - Celia Hodent](#the-gamers-brain---celia-hodent)
-* [Deep Work - Cal Newport](#deep-work---cal-newport)
 
 <!-- vim-markdown-toc -->
 
@@ -14,11 +15,11 @@
 
 ## FREE - Game Programming Patters - Robert Nystrom
 
-[books/gameprogrammingpatterns](http://gameprogrammingpatterns.com/contents.html) - coding/game free book<br>
+Free link : [books/gameprogrammingpatterns](http://gameprogrammingpatterns.com/contents.html)
 
 ## FREE - Learning Vim Script The Hard Way - Steve Losh
 
-[books/learnvimscriptthehardway](https://learnvimscriptthehardway.stevelosh.com/) - coding/vim free book<br>
+Free link : [books/learnvimscriptthehardway](https://learnvimscriptthehardway.stevelosh.com/)
 
 ## Making Games for Impact - Kirt Squire
 
