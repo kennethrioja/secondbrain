@@ -5,6 +5,7 @@ Talks<br>
 [Courses](courses/index.md)<br>
 Ideas<br>
 [Bookmarks](bookmarks.md)<br>
+[Vimshortcuts](vimshortcuts.md)<br>
 
 ---
 
@@ -17,10 +18,7 @@ All of this was made with [VimWiki](https://github.com/vimwiki/vimwiki). Enjoy â
 ---
 
 ## ToDo
-- [ ] vim-pluggin/how to use nerdtree
-- [ ] vim-pluggin/see if https://github.com/dense-analysis/ale is worth it
-- [ ] secondbrain/update bookmarks
-- [ ] maltt/learningdashboards
+- https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 read this more in-depth
 
 ## License
 

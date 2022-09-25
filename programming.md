@@ -4,9 +4,20 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [Mastering the Vim Language](#mastering-the-vim-language)
 * [Why should you use a basic text editor?](#why-should-you-use-a-basic-text-editor)
 
 <!-- vim-markdown-toc -->
+
+## Mastering the Vim Language
+
+25 sept. 2022
+
+Notes taken from : [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0), [slides](https://ctoomey.com/mastering-the-vim-language-slides.pdf)
+
+- [Typing is not the bottleneck](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/) : "the hard part of programming is thinking" - increase productivity in your team 1) writing a microtest that fails before you change any code, 2) adopt a "no-pair no-keep" agreement, 3) establish a shared understanding of code quality. What will slow you down is every flawed decision.
+- power of `.`, `c`, `i[wt"p]`, `f`, `t` (cf. https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language , https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/ , https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 , https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 )
+- 
 
 ## Why should you use a basic text editor?
 
@@ -31,5 +42,4 @@ I will mostly focus on vim since I have been using this since the beginning
 
 **Going further**
 
-- [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
 - [How to Do 90% of What Plugings Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
