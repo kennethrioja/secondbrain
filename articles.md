@@ -4,12 +4,25 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [To read](#to-read)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [](#)
 
 <!-- vim-markdown-toc -->
+
+## To read
+
+*Edtech:*
+
+- Amadieu & Tricot (2014), Apprendre avec le numérique. Mythes et réalités. Ed. Retz.
+- Barrette, C. (2011). Un voyage au pays des TIC. Pédagogie Collégiale, 24(4), 4'9.
+- Bétrancourt, M. & Sutter-Widmer, D. (2013). Integrer les MITIC dans mon etablissement : enjeux et defis. In Actes du 84e seminaire de la CRoTCES - Conference Romande et tessinoise des chefs d'etablissement secondaire (pp 10 ' 15), Montana, 18-21 Septembre 2012.Boéchat-Heer, S. (2011). L'adaptation des enseignants aux usages des MITIC: sentiment d'auto-efficacité, formation et pratiques en classe, Formation et pratiques d'enseignement en question, 12, 81'97.
+- Depover, C., Karsenti, T., & Komis, V. (2007). Enseigner avec les technologies : favoriser les apprentissages, développer des compétences. Québec: Presses de l'Université du Québec.
+- Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf
+- Shin, T., Koehler, M., & Mishra, P. (2009). Changing technological pedagogical content knowledge (TPACK) through course experiences. In International Conference of the Society for the Information and Technology & Teacher Education. Charleston, South Carolina.
+- Zucker, A., & Light, D. (2009). Laptop programs for students. Science, 323(January), 82-85.
 
 ## [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](https://doi.org/10.1080/09297049.2022.2110577)
 

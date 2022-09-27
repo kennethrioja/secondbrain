@@ -86,6 +86,5 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 
 ## TODO
 
-- inscription moodle
 - consituer groupe sur moodle pour poster (4-6)
 - read book
