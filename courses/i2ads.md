@@ -1,3 +1,10 @@
+<!-- vim-markdown-toc GFM -->
+
+* [20.09.2022 - Linux 1](#20092022---linux-1)
+* [26.09.2022 - Linux 2](#26092022---linux-2)
+
+<!-- vim-markdown-toc -->
+
 # 20.09.2022 - Linux 1
 
 [exercises](https://www.dropbox.com/s/h29ar582qy0th2f/linux_part1_ex.pdf?dl=0)
