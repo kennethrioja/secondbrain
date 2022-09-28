@@ -1,5 +1,6 @@
 https://tecfalms.unige.ch/moodle/course/view.php?id=448
 
+## Table of contents
 <!-- vim-markdown-toc GFM -->
 
 * [28.09.2022 - Comment apprend-on? Définitions, courants et processus](#28092022---comment-apprend-on-définitions-courants-et-processus)
@@ -12,6 +13,8 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 <!-- vim-markdown-toc -->
 
 # 28.09.2022 - Comment apprend-on? Définitions, courants et processus
+
+https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s <br>
 
 - 5 : 
     - LED - le coeur reste l'apprentissage, se former sur théories, sur processus, mécanismes favorisant l'apprentissage.
