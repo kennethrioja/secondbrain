@@ -15,4 +15,5 @@
 | `ma` or `mz`                            | sets `a` or `z` mark to current location                 |
 | `'a` or `'z`                            | moves to begining of the line containing `a` or `z` mark |
 | `\`a` or `\`z`                          | moves to exact location of `a` or `z` mark               |
+| `ds"` or `cs"'`                         | delete surrounding quotes or replace by '                |
 |                                         |                                                          |
