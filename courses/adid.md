@@ -4,6 +4,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 <!-- vim-markdown-toc GFM -->
 
 * [28.09.2022 - Comment apprend-on? Définitions, courants et processus](#28092022---comment-apprend-on-définitions-courants-et-processus)
+* [29.09.2022 -](#29092022--)
 * [TODO](#todo)
 * [Resources](#resources)
     * [EduTechWiki](#edutechwiki)
@@ -86,10 +87,19 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s <br>
     - Le désaccord/conflit socio-cognitif
 - Place du numérique dans un cours : béquille, medium, continuité, réduction de la charge cognitive, aide/prolongement à une mise en oeuvre d'une approche
 - Philo du TECFA : approche centrée humain (pas centrée technologie), apprentissage d'abord, et comptendre le dispositif de formation et comment concevoir pour supporter des processus.
-- 
+
+# 29.09.2022 - 
+
+- edutechwiki : ok english et ok repartir sur qqun tout en citant
+- 2 :
+    - relation entre représentation/perception et des pratiques
+    - 
 
 # TODO
-- 
+
+- lire document des tâches
+- guide lecture simple>complexe
+- pairs-ception
 
 # Resources
 
