@@ -15,7 +15,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 
 # 28.09.2022 - Comment apprend-on? Définitions, courants et processus
 
-https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s <br>
+https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 
 - 5 : 
     - LED - le coeur reste l'apprentissage, se former sur théories, sur processus, mécanismes favorisant l'apprentissage.
@@ -104,14 +104,14 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s <br>
 # Resources
 
 ## EduTechWiki
-[productions](https://edutechwiki.unige.ch/fr/ADID1_:_Les_productions_des_%C3%A9tudiants)<br>
+[productions](https://edutechwiki.unige.ch/fr/ADID1_:_Les_productions_des_%C3%A9tudiants?link_credit=KennethRioja)<br>
 
 ## Books
-[Learning Experience Design](https://www.amazon.fr/Learning-Experience-Design-Create-Effective/dp/1398602620/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30S38MSJ0Z79M&keywords=Learning+Experience+Design%3A+How+to+Create+Effective+Learning+that+Works&qid=1664352752&qu=eyJxc2MiOiIwLjM3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=learning+experience+design+how+to+create+effective+learning+that+works+%2Caps%2C91&sr=8-1)<br>
-[Mythes et réalités - Les neurosciences en éducation - E. Sander](https://www.satas.com/fr/neurosciences-epigenetique/6185-mythes-et-realites--les-neurosciences-en-education.html)<br>
-[Mythes et réalités - Apprendre avec le numérique - Tricot et Amadieu](https://livre.fnac.com/a7410341/Andre-Tricot-Apprendre-avec-le-numerique)<br>
-[Psychologie de l'éducation - M. Crahay](https://www.amazon.fr/Psychologie-l%C3%A9ducation-Marcel-Crahay/dp/2130633994)<br>
+[Learning Experience Design](https://www.amazon.fr/Learning-Experience-Design-Create-Effective/dp/1398602620/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30S38MSJ0Z79M&keywords=Learning+Experience+Design%3A+How+to+Create+Effective+Learning+that+Works&qid=1664352752&qu=eyJxc2MiOiIwLjM3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=learning+experience+design+how+to+create+effective+learning+that+works+%2Caps%2C91&sr=8-1?link_credit=KennethRioja)<br>
+[Mythes et réalités - Les neurosciences en éducation - E. Sander](https://www.satas.com/fr/neurosciences-epigenetique/6185-mythes-et-realites--les-neurosciences-en-education.html?link_credit=KennethRioja)<br>
+[Mythes et réalités - Apprendre avec le numérique - Tricot et Amadieu](https://livre.fnac.com/a7410341/Andre-Tricot-Apprendre-avec-le-numerique?link_credit=KennethRioja)<br>
+[Psychologie de l'éducation - M. Crahay](https://www.amazon.fr/Psychologie-l%C3%A9ducation-Marcel-Crahay/dp/2130633994?link_credit=KennethRioja)<br>
 
 ## People
-[Michael James Baker](https://www.researchgate.net/profile/Michael-Baker-44)<br>
+[Michael James Baker](https://www.researchgate.net/profile/Michael-Baker-44?link_credit=KennethRioja)<br>
 

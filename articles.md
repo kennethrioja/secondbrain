@@ -20,11 +20,11 @@
 - Barrette, C. (2011). Un voyage au pays des TIC. Pédagogie Collégiale, 24(4), 4'9.
 - Bétrancourt, M. & Sutter-Widmer, D. (2013). Integrer les MITIC dans mon etablissement : enjeux et defis. In Actes du 84e seminaire de la CRoTCES - Conference Romande et tessinoise des chefs d'etablissement secondaire (pp 10 ' 15), Montana, 18-21 Septembre 2012.Boéchat-Heer, S. (2011). L'adaptation des enseignants aux usages des MITIC: sentiment d'auto-efficacité, formation et pratiques en classe, Formation et pratiques d'enseignement en question, 12, 81'97.
 - Depover, C., Karsenti, T., & Komis, V. (2007). Enseigner avec les technologies : favoriser les apprentissages, développer des compétences. Québec: Presses de l'Université du Québec.
-- Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf
+- Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf?link_credit=KennethRioja
 - Shin, T., Koehler, M., & Mishra, P. (2009). Changing technological pedagogical content knowledge (TPACK) through course experiences. In International Conference of the Society for the Information and Technology & Teacher Education. Charleston, South Carolina.
 - Zucker, A., & Light, D. (2009). Laptop programs for students. Science, 323(January), 82-85.
 
-## [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](https://doi.org/10.1080/09297049.2022.2110577)
+## [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](https://doi.org/10.1080/09297049.2022.2110577?link_credit=KennethRioja)
 
 **THM** : Importance of child-parent interaction during screen exposure, even at 8-12 yo, associated with better cognitive abilities - may allow a better error monitoring, leading to better learning patterns.
 
@@ -47,10 +47,10 @@
 > Overall, higher screen access measure was related to decreased functional connectivity between networks related to attention and modulation of cognitive control, and increased functional connectivity between networks related to cognitive control and learning was associated with lower screen dialogue measure.
 
 **Comments**
-- the screen content items are indicated as difficult for parents to answer for their children probably due to the young age of children () and/or social desirability bias ([Hutton et al., 2020](https://doi.org/10.1038/s41390-020-0765-1))
+- the screen content items are indicated as difficult for parents to answer for their children probably due to the young age of children () and/or social desirability bias ([Hutton et al., 2020](https://doi.org/10.1038/s41390-020-0765-1?link_credit=KennethRioja))
 - the screen content subscale ranges from 0-5, 0 is no violent media + child never dl apps + talk/sing media VS. 5 is often violent media + often child dl apps + fast more action
 
-## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577)
+## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577?link_credit=KennethRioja)
 
 **THM** : AVG effects = improved inhibition (stroop), flexibility (WCST, only "3D group"), but no effect on continuous attention.
 

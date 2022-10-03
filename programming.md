@@ -13,10 +13,10 @@
 
 25 sept. 2022
 
-Notes taken from : [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0), [slides](https://ctoomey.com/mastering-the-vim-language-slides.pdf)
+Notes taken from : [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0?link_credit=KennethRioja), [slides](https://ctoomey.com/mastering-the-vim-language-slides.pdf?link_credit=KennethRioja)
 
-- [Typing is not the bottleneck](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/) : "the hard part of programming is thinking" - increase productivity in your team 1) writing a microtest that fails before you change any code, 2) adopt a "no-pair no-keep" agreement, 3) establish a shared understanding of code quality. What will slow you down is every flawed decision.
-- power of `.`, `c`, `i[wt"p]`, `f`, `t` (cf. https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language , https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/ , https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 , https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 )
+- [Typing is not the bottleneck](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/?link_credit=KennethRioja) : "the hard part of programming is thinking" - increase productivity in your team 1) writing a microtest that fails before you change any code, 2) adopt a "no-pair no-keep" agreement, 3) establish a shared understanding of code quality. What will slow you down is every flawed decision.
+- power of `.`, `c`, `i[wt"p]`, `f`, `t` (cf. https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language?link_credit=KennethRioja , https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/?link_credit=KennethRioja , https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1?link_credit=KennethRioja , https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118?link_credit=KennethRioja )
 
 ## Why should you use a basic text editor?
 
@@ -24,7 +24,7 @@ Notes taken from : [Mastering the Vim Language](https://www.youtube.com/watch?v=
 
 I will mostly focus on vim since I have been using this since the beginning
 
-**Why should you use [vim](https://www.vim.org/) ?**
+**Why should you use [vim](https://www.vim.org/?link_credit=KennethRioja) ?**
 
 1. Keep it classy
 2. Way more efficient (and less memory consumming !) than those fancy apps (*e.g.*, VSC, BrainJet, Atom,...)
@@ -33,7 +33,7 @@ I will mostly focus on vim since I have been using this since the beginning
 **How to begin your programming journey?**
 
 1. Learn the basics
-   - Open a terminal and execute the command [vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
+   - Open a terminal and execute the command [vimtutor](https://vimschool.netlify.app/introduction/vimtutor/?link_credit=KennethRioja)
 2. Make it appealing to you
    - Configure your [.vimrc file](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
 3. Keep track of your learning
@@ -41,4 +41,4 @@ I will mostly focus on vim since I have been using this since the beginning
 
 **Going further**
 
-- [How to Do 90% of What Plugings Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+- [How to Do 90% of What Plugings Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM?link_credit=KennethRioja)

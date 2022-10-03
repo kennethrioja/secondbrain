@@ -13,7 +13,7 @@
 
 ## Deep Work - Cal Newport
 
-## [Game Programming Patters - Robert Nystrom](http://gameprogrammingpatterns.com/contents.html)
+## [Game Programming Patters - Robert Nystrom](http://gameprogrammingpatterns.com/contents.html?link_credit=KennethRioja)
 
 http://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-is-*good*-software-architecture
 
@@ -26,11 +26,11 @@ http://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-
 - 
 
 Other resources :
-- [Game Programming Gems](http://www.satori.org/game-programming-gems/) series.
-- [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides](https://www.academia.edu/43687858/Design_Patterns_Elements_of_Reusable_Object_Oriented_Software_by_Erich_Gamma_Richard_Helm_Ralph_Johnson_John_Vlissides)
+- [Game Programming Gems](http://www.satori.org/game-programming-gems/?link_credit=KennethRioja) series.
+- [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides](https://www.academia.edu/43687858/Design_Patterns_Elements_of_Reusable_Object_Oriented_Software_by_Erich_Gamma_Richard_Helm_Ralph_Johnson_John_Vlissides?link_credit=KennethRioja)
 - 
 
-## [Learning Vim Script The Hard Way - Steve Losh](https://learnvimscriptthehardway.stevelosh.com/)
+## [Learning Vim Script The Hard Way - Steve Losh](https://learnvimscriptthehardway.stevelosh.com/?link_credit=KennethRioja)
 
 ## Making Games for Impact - Kirt Squire
 
