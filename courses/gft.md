@@ -63,6 +63,16 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 
 ## 03.10.2022 - m/f + genre
 
+- sexy, belle, cheveux, ongles, rouge à lèvres, posture, manierée, robe, jupe, fragile, 
+- stratégie de définition : 
+    - d'assumer les stéréotypes, 
+    - attester de l'existence d'une norme,
+    - transgression de la norme comporte des risques et sous-entend des préférences sexuelles
+    - => ne sont compréhensibles que si on connait la norme au préalable
+- différence entre masculin et viril? l'utilisation de ces termes, on ne comprend que ce que la société entend par là. Quand on s'échange ces mots, on échange des stéréotypes, pas ce que l'on pense. Conception variées mais jamais ce qui ressort car incompréhensible sur échange social.
+- masculin... au sens ou les normes de ma société le définissent?
+- 
+
 ## 10.10.2022 - genre / division socio-sexuée des savoirs
 
 ## 17.10.2022 - intersectionalité
@@ -89,3 +99,4 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 
 - consituer groupe sur moodle pour poster (4-6)
 - read book
+- https://www.unige.ch/fapse/grire/blanche/cendrine-marro
