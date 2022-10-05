@@ -45,6 +45,25 @@ https://reseaulea.hypotheses.org/ <br>
 
 # 05.10.2022
 
+- broker/passeur par [Isabelle Nizet](https://www.griemetic.ca/team/isabelle-nizet-2/)
+    - Dimension de persuasion, innovation technologie pour usagers, "courtier cognitif" essaie de faire évaluer les pratiques. Broker comme une fonction, tenue spontanément dans un groupe ou apprise (formation de passeur à Lyon).
+    - Courtage de connaissance de différents milieux, qu'ils circulent, évoluent et plus que la transmission (qui est minimale). Mais plutôt bi-directionnel. Traduire ce que chercheur dit, pour qu'ens comprenne. 
+    - Aide groupe à créer innovation, production unique sans unbalance. Fonction plus horizontale.
+    - Le passeur favorise cette mutualisation, la bi-dir des communication, échanges réels, et des fois multi-dim.
+    - Sphères politiques, institutionnelles aussi.
+    - Conseils pour best broker : ielle a une conscience élevée de ce qui se passe dans un groupe, non-centrée sur propre perception. Capable de saisir les dynamiques à l'oeuvre. Connaître les personnes, où sont mandatées, pour véhiculer certaines valeurs, contenus, valoriser postures. Niveau micro : donner parole pour que clarification au bénéfices de tous. Peut avoir différent rôle : Gestion des interactions, mais aussi traducteur. Ce que c'est? quel sens ça peut avoir dans ma vie professionnelle? Quelqu'un de pluri-disciplinaire : connaitre vocabulaire, expérience, si ne connaît pas, donne la parole, quels sont les enjeux.
+    - Rôle, de savoir les objets de discussion, l'art de découper les objets de discussion pour que les acteurs puissent avancer. Anticiper les objets. Design-based research donne un cadre. Toujours pour le bénéfice du travail collectif.
+    - Objet frontière, facilitateur dans un milieu. 1) spontanément, prend automatiquement rôle, sensibles à dimension d'interaction. Rend interaction entre institution plus efficace. Si endosse ce rôle, utile. Rôle de médiation. Analyser des dispositifs. Cette compréhension meta et macro des éco-systèmes de enjeux n'est pas forcément comprise par certains.  
+    - Il y a des savoirs pour les chercheurs et pour les praticiens - communication entre nécessaire.
+- A quoi sert la conception?
+    - On a un modèle, pour tester en faire quelque chose de vrai, mettre à l'expérience. Si ok, modèle en amont à une certaine valeur. Et on pourra aussi interroger le modèle. Conception au coeur de la recherche. Déjà en concevant on interroge le modèle. Formuler QdR précises, mais conception large et longue. Être au plus proche du modèle tout en testant des bouts de modèles.
+- Qui conçoit? A quel moment?
+    - Tout le monde, après la co-problématisation. 
+- Défis et obstacles?
+    - Divergences de représentation, cultures/jargons professionnels, contraintes professionnelles, l'ordre praxéologique (idées précises à faire qqch), finance et matériel, temps, institution ([Sanchez, 2015](https://journals.openedition.org/educationdidactique/2288))
+- Outils, méthodes?
+    - Design thinking, avoir une vision collective, miro, klaxoon, personna, UX. 
+
 TODO:
 - regarder vidéo Avenier
 - lire modèle téléprésence (enseignement en ligne)
