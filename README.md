@@ -9,9 +9,11 @@ Ideas<br>
 
 ---
 
-This repo gathers all my notes about everything I want to share. This may substitute a personal website for a moment ! Please have a look at the [License section](#License) before serving yourself 🙏
+This repo gathers all my notes about courses, articles, books, etc. This may substitute a personal website for a moment ! Please have a look at the [License section](#License) before serving yourself 🙏
 
-> When links are made, learning occurs and make us grow. #linklearngrow
+*Be careful when copying things you don't understand !* I am open to chatting on the various topics found in this repo 😊.
+
+> When links are made, learning occurs and make us grow. #linklearngrow 🪴
 
 All of this was made with [VimWiki](https://github.com/vimwiki/vimwiki). Enjoy ☀️
 
