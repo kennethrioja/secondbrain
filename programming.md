@@ -16,7 +16,8 @@
 Notes taken from : [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0?link_credit=KennethRioja), [slides](https://ctoomey.com/mastering-the-vim-language-slides.pdf?link_credit=KennethRioja)
 
 - [Typing is not the bottleneck](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/?link_credit=KennethRioja) : "the hard part of programming is thinking" - increase productivity in your team 1) writing a microtest that fails before you change any code, 2) adopt a "no-pair no-keep" agreement, 3) establish a shared understanding of code quality. What will slow you down is every flawed decision.
-- power of `.`, `c`, `i[wt"p]`, `f`, `t` (cf. https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language?link_credit=KennethRioja , https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/?link_credit=KennethRioja , https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1?link_credit=KennethRioja , https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118?link_credit=KennethRioja )
+- power of `.`, `c`, `i[wt"p]`, `f`, `t` (cf. https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language , https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/ , https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 , https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 )
+- [vim textobj user](https://github.com/kana/vim-textobj-user/wiki)
 
 ## Why should you use a basic text editor?
 
