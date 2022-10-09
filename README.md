@@ -1,7 +1,7 @@
-[⌨️ Programming](programming.md)<br>
-[📄 Articles](articles.md)<br>
-[📚 Books](books.md)<br>
 [🎓 Courses](courses/index.md)<br>
+[📄 Articles](articles.md)<br>
+[⌨️ Programming](programming.md)<br>
+[📚 Books](books.md)<br>
 [⭐️ Bookmarks](bookmarks.md)<br>
 [🧩 Vimshortcuts](vimshortcuts.md)<br>
 Talks<br>

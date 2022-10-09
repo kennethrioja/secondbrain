@@ -1,51 +1,55 @@
-# Conduite de la recherche (M2)
+Conduite de la recherche (M2)
 https://tecfalms.unige.ch/moodle/course/view.php?id=456
 
 <!-- vim-markdown-toc GFM -->
 
 * [04.10.2022](#04102022)
 * [05.10.2022](#05102022)
+* [09.10.2022](#09102022)
 
 <!-- vim-markdown-toc -->
 
 # 04.10.2022
 
-- il manque dans les entreprises, cette dimension évaluative, montrer que fait choix pertinents de conception.
-- plutôt recherche finalisée (vs. fondammentale/expérimentaliste) 
-- design-based research : faire conception et recherche en même temps, trouver non pas les lois mais les modèles (car sci. hum.)
-- = failure-based research, quand ne marche pas permet de voir les erreurs et où ne fonctionne pas.
-- science sans conscience n'est que ruine de l'âme - Rabelais
-- méthodologie dans épistémologie n'est que ruine de la réflexion - Avenier, 2011
-- post positivisme = "découverte scientifique", sciences 'dures'
-- réalisme critique = système non déterministe, événements réels sont observables et peuvent être objectivisés.
-- constructivisme pragmatique = e.g., ethnologue; empirique, réel existe à travers l'action des individus
-- interprétativisme = multiples réalistés sociales non gouvernées par des lois
-- deux critères principaux dans DBR :
+- Dimension évaluative manquante dans les entreprises
+- En tant qu'ITP :
+    - montrer que des choix pertinents de conception ont été recherchés
+    - effectue plutôt de la recherche finalisée (vs. fondammentale/expérimentaliste)
+        - = design-based research : faire conception et recherche en même temps, trouver non pas les lois mais les modèles (car sciences humaines)
+        - = failure-based research : quand ne marche pas permet de voir les erreurs et où ne fonctionne pas afin de pouvoir les rectifier plus précisément.
+- "Science sans conscience n'est que ruine de l'âme" - Rabelais
+    - "Méthodologie dans épistémologie n'est que ruine de la réflexion" - [Avenier, 2011](https://halshs.archives-ouvertes.fr/halshs-00642673)
+- Postures épistémologiques
+    - Post Positivisme = "découverte scientifique", sciences 'dures'
+    - Réalisme Critique = système non déterministe, événements réels sont observables et peuvent être objectivisés.
+    - Constructivisme Pragmatique = e.g., ethnologue; empirique, réel existe à travers l'action des individus
+    - Interprétativisme = multiples réalistés sociales non gouvernées par des lois
+- Critères de scientificité principaux dans DBR :
     - *Reproductibilité* : la norme dans la recherche
     - *Validité* : quels appuis théorique, raisonnement intelligible, à partir du matériau empirique, convaincre que les données disent ceci.
     - *Crédibilité* : poser aussi la question aux personnes qui travaillent avec vous - collaboratif aussi dans analyse et interprétation des résultats
-- Problématique - Les chercheurs vont poser les bonnes questions (e.g., Bachelard, 1938. La formation de l'esprit scientifique)
+- Problématique - Les chercheurs vont poser les bonnes questions (e.g., [Bachelard, 1938. La formation de l'esprit scientifique](https://www.cairn.info/histoire-et-philosophie-des-sciences--9782361060398-page-161.htm))
 - Une QdR pour préciser : Objet du travail effectué, l'objectif visé, le contexte de la recherche, moyens à mettre en oeuvre, hypothèses.
-- se fixer sur les critères choisis en début de recherche
+- Se fixer sur les critères choisis en début de recherche
 
 https://ife.ens-lyon.fr/lea <br>
 https://reseaulea.hypotheses.org/ <br>
 
-- quoi dvper comme solution, avec qui travailler, quels outils, comment produire les données, comment les analyser. Quel est le plan de production des données ?
-- téléprésence vs distance à distance : plus dans la perception, illusion d'être ailleurs, rejoindre les gens isolés (handicap, communauté qui ont internet mais isolés, ex. autochtones), handicap permet de rejoindre groupes (??? à fait recherche/interviews avant de dire ça?, pb, pas donner effet contraire si isole plus en téléprésence que de venir ? autochtones, mais quel pourcentage est en enseignement supérieur et qui serait intéressé, abordable ?)
-- intérêt, rejoindre personnes qui n'ont pas accès, ou emploi du temps très occupé
-- pas parce qu'outil de téléprésence que forcément pédagogie
-- présence vs. proximité (3 présences)
-- collaboration
-    - quand étude dispositifs de formation, mise aussi sur dispositifs avec nombreux formateurs, *espace de connaissance plus riche*, praticiens ont aussi connaissance praxologiques, pour y avoir accès faire collaboration, accès à connaissance au coeur.
-    - quand utilise numérique, va vite, si on veut que scientifique knowledge aussi bénéficie pratique, better be together. *mise en oeuvre plus rapide et plus riche* si collaboration
-    - enrichissement mutuel, praxologie chercheur, praticien, *tout le monde apprend*. co-formation bénéfique.
+- Quoi dvper comme solution, avec qui travailler, quels outils, comment produire les données, comment les analyser. Quel est le plan de production des données ?
+- Téléprésence vs distance à distance : plus dans la perception, illusion d'être ailleurs, rejoindre les gens isolés (handicap, communauté qui ont internet mais isolés, ex. autochtones), handicap permet de rejoindre groupes (??? à fait recherche/interviews avant de dire ça?, pb, pas donner effet contraire si isole plus en téléprésence que de venir ? autochtones, mais quel pourcentage est en enseignement supérieur et qui serait intéressé, abordable ?)
+- Intérêt, rejoindre personnes qui n'ont pas accès, ou emploi du temps très occupé
+- Pas parce qu'outil de téléprésence que forcément pédagogie
+- Présence vs. proximité (3 présences)
+- Collaboration
+    - Quand étude dispositifs de formation, mise aussi sur dispositifs avec nombreux formateurs, *espace de connaissance plus riche*, praticiens ont aussi connaissance praxologiques, pour y avoir accès faire collaboration, accès à connaissance au coeur.
+    - Quand utilise numérique, va vite, si on veut que scientifique knowledge aussi bénéficie pratique, better be together. *mise en oeuvre plus rapide et plus riche* si collaboration
+    - Enrichissement mutuel, praxologie chercheur, praticien, *tout le monde apprend*. co-formation bénéfique.
     - => recherche finalisée, rapidement mobilisé sur le terrain. 
 - 
 
 # 05.10.2022
 
-- broker/passeur par [Isabelle Nizet](https://www.griemetic.ca/team/isabelle-nizet-2/)
+- Broker/passeur par [Isabelle Nizet](https://www.griemetic.ca/team/isabelle-nizet-2/)
     - Dimension de persuasion, innovation technologie pour usagers, "courtier cognitif" essaie de faire évaluer les pratiques. Broker comme une fonction, tenue spontanément dans un groupe ou apprise (formation de passeur à Lyon).
     - Courtage de connaissance de différents milieux, qu'ils circulent, évoluent et plus que la transmission (qui est minimale). Mais plutôt bi-directionnel. Traduire ce que chercheur dit, pour qu'ens comprenne. 
     - Aide groupe à créer innovation, production unique sans unbalance. Fonction plus horizontale.
@@ -64,8 +68,29 @@ https://reseaulea.hypotheses.org/ <br>
 - Outils, méthodes?
     - Design thinking, avoir une vision collective, miro, klaxoon, personna, UX. 
 
+# 09.10.2022
+- PEPTI
+    - "Accompagner professeurs dans leur utilisation d'environnements multimodaux et hybrides
+    - Collab with learning designers and learning advisors
+    - Societal impact : greater equality of opportunity in terms of access to uni for isolated or vulnerable ppl
+    - QDR :
+        - Cmt documenter l'expérience et évaluer la téléprésence?
+        - Cmt l'intégration des tech pos. et les pratiques d'enseignement et d'app. peuvent-elles favoriser l'inclusion?
+        - Cmt ces env peuvent-ils favoriser la perception de présences?
+        - Cmt accompagner les formateurs universitaires?
+- Technologie positive pour l'apprentissage et l'inclusion (Botella et al., 2012) :
+    - Hédoniste : susciter émotions positives
+    - Eudémonique : soutenir une expé engageante, la réalisation de soi et le dvp personnel
+    - Sociale/Interpersonnelle : soutenir et favoriser la mise en relation des individus, des groupes et des organisations
+
+- Problématisation : 
+  - Objectifs (voir slide 6 dans P1. Problématiser > Support cours - projet)
+  - Posture épistémo?
+  - Modèle des phénomènes d'ens et d'app? ex. Community of Inquiry (Garrison et al., 1999), 
+  - Quels acteurs font quoi? (e.g., logiques d'action des acteurs)
+  - Pourquoi co-problématiser : égalité entre chercheur et praticien, étudier pb réel et apporter une solution, mise en place de buts communs, intérêts communs
+
+- Co-Conception :
+    - 
+
 TODO:
-- regarder vidéo Avenier
-- lire modèle téléprésence (enseignement en ligne)
-- concept collaboratif
-- projet
