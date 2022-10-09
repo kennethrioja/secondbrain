@@ -4,6 +4,7 @@
 * [Qu'est-ce que l'ergonomie ?](#quest-ce-que-lergonomie-)
 * [Evolution des approches en ergonomie des IHM](#evolution-des-approches-en-ergonomie-des-ihm)
 * [Démarche de conception centrée users](#démarche-de-conception-centrée-users)
+* [Analyse de l'activité de l'utilisateur](#analyse-de-lactivité-de-lutilisateur)
 * [Méthodes de base](#méthodes-de-base)
     * [Entretien](#entretien)
     * [Questionnaire exploratoire](#questionnaire-exploratoire)
@@ -34,24 +35,25 @@
 # Démarche de conception centrée users
 
 - [Technology Acceptance Model 3 (Venkatesh & Bala, 2008)](https://doi.org/10.1111/j.1540-5915.2008.00192.x) à partir du modèle initial TAM 1 de [Davis (1989)](https://www.jstor.org/stable/249008?origin=crossref)
-    - <img src="https://image1.slideserve.com/2407800/technology-acceptance-model1-l.jpg" width="500">
+    - <img src="https://image1.slideserve.com/2407800/technology-acceptance-model1-l.jpg" width="500"> (retreived from https://www.slideserve.com/valiant/technology-acceptance-model-tam)
     - Les représentations des objets ont des influences sur nos comportements (théorie de l'action plannifiée, [Azjen (1985)](https://doi.org/10.1007/978-3-642-69746-3_2), [Azjen (1991)](https://doi.org/10.1016/0749-5978(91)90020-T)
     - L'utilité perçue est le facteur ayant le plus de poids.
     - Critique : influence sociale influence la perception de l'utilité.
     - Meta-analysis de [Scherer et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0360131518302458?via%3Dihub)
 
+# Analyse de l'activité de l'utilisateur
+
 - Skill Rule Knowledge de Rasmussen
-    - alertes lues mais pas souvent comprises par les users
+    - <img src="https://www.researchgate.net/profile/Joao_Carlos_Lima/publication/279226308/figure/download/fig1/AS:378915546779648@1467351914563/Behavioral-model-skill-rule-knowledge-SRK-Rasmussen-1983.png" width="500">(retreived from https://www.researchgate.net/figure/Rasmussens-model-automation-evolution-and-contributing-discipline-emergence_fig1_289849041)
+    - Alertes lues mais pas souvent comprises par les users
     - Soit automatisé et le fait automatiquement (boucle automatique) - implicite
-    - Comportement réglé par des règles, est-ce qu'on est bien dans la situation? Reègles connue mais que je dois activer - peut être enseigné
-    - Résolution de problème, signes contradictoire et on rentre dans ttt de résolution de problème, prendre décision sur raisonnement et plannification - ex. scénario, alien débarque, etc.
+    - Comportement réglé par des règles, est-ce qu'on est bien dans la situation? Règles connue mais que je dois activer - peut être enseigné
+    - Résolution de problèmes, signes contradictoires et on rentre dans ttt de résolution de problème, prendre décision sur raisonnement et plannification - ex. scénario, alien débarque, etc.
       
 # Méthodes de base
 
 ## Entretien
 
-
-    
 ## Questionnaire exploratoire
     
 ## Observation
