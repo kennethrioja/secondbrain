@@ -35,11 +35,18 @@
 # Démarche de conception centrée users
 
 - [Technology Acceptance Model 3 (Venkatesh & Bala, 2008)](https://doi.org/10.1111/j.1540-5915.2008.00192.x) à partir du modèle initial TAM 1 de [Davis (1989)](https://www.jstor.org/stable/249008?origin=crossref)
-    - <img src="https://image1.slideserve.com/2407800/technology-acceptance-model1-l.jpg" width="500"> (retreived from https://www.slideserve.com/valiant/technology-acceptance-model-tam)
+    - <img src="https://edutechwiki.unige.ch/fmediawiki/images/9/9c/TAM.gif" width="700"> (retreived from https://edutechwiki.unige.ch/fr/Mod%C3%A8le_d%27acceptation_de_la_technologie)
     - Les représentations des objets ont des influences sur nos comportements (théorie de l'action plannifiée, [Azjen (1985)](https://doi.org/10.1007/978-3-642-69746-3_2), [Azjen (1991)](https://doi.org/10.1016/0749-5978(91)90020-T)
-    - L'utilité perçue est le facteur ayant le plus de poids.
+    - L'utilité perçue est le facteur ayant le plus de poids
+    - Les *variables individuelles*, l'*influence sociale*, les *caractéristiques du système* et les *conditions organisationnelles* sont d'autres facteurs influençant ce modèle.
     - Critique : influence sociale influence la perception de l'utilité.
     - Meta-analysis de [Scherer et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0360131518302458?via%3Dihub)
+
+- [Hassenzahl, 2003](https://link.springer.com/chapter/10.1007/1-4020-2967-5_4)
+    - Sont distinguées des qualités pragmatiques perçues par l'user (ex. perception de l'utisabilité -> p. de l'utilité -> acceptabilité (intention d'usage) -> acceptation (usage effectif), les qualités hédoniques
+        - *Simulation*
+        - *Identification*
+        - *Evocation*
 
 # Analyse de l'activité de l'utilisateur
 
