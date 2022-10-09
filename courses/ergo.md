@@ -34,13 +34,11 @@
 # Démarche de conception centrée users
 
 - [Technology Acceptance Model 3 (Venkatesh & Bala, 2008)](https://doi.org/10.1111/j.1540-5915.2008.00192.x) à partir du modèle initial TAM 1 de [Davis (1989)](https://www.jstor.org/stable/249008?origin=crossref)
-
-<img src="https://image1.slideserve.com/2407800/technology-acceptance-model1-l.jpg" width="200">
-
-- Les représentations des objets ont des influences sur nos comportements (théorie de l'action plannifiée, [Azjen (1985)](https://doi.org/10.1007/978-3-642-69746-3_2), [Azjen (1991)](https://doi.org/10.1016/0749-5978(91)90020-T)
-- L'utilité perçue est le facteur ayant le plus de poids.
-- Critique : influence sociale influence la perception de l'utilité.
-- Meta-analysis de [Scherer et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0360131518302458?via%3Dihub)
+    - <img src="https://image1.slideserve.com/2407800/technology-acceptance-model1-l.jpg" width="500">
+    - Les représentations des objets ont des influences sur nos comportements (théorie de l'action plannifiée, [Azjen (1985)](https://doi.org/10.1007/978-3-642-69746-3_2), [Azjen (1991)](https://doi.org/10.1016/0749-5978(91)90020-T)
+    - L'utilité perçue est le facteur ayant le plus de poids.
+    - Critique : influence sociale influence la perception de l'utilité.
+    - Meta-analysis de [Scherer et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0360131518302458?via%3Dihub)
 
 - Skill Rule Knowledge de Rasmussen
     - alertes lues mais pas souvent comprises par les users
