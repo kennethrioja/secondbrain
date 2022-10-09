@@ -17,12 +17,15 @@
 
 http://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-is-*good*-software-architecture
 
+1. Introduction
+
 - Challenges commonly encountered in games
-    1. Time and sequencing is important : have it done at right order at right time
-    2. Build rapidly without stepping on each other's toes or leaving footprints : github and clean code
-    3. Interactions in game must not add more difficulty : name each variable so that we can find them easily
-    4. Performance is critical in games : squeeze and be more efficient
-- Architecture is about change : A "good software architecture" is when the entire program is crafted in anticipation of a change
+    - Time and sequencing is important : have it done at right order at right time
+    - Build rapidly without stepping on each other's toes or leaving footprints : github and clean code
+    - Interactions in game must not add more difficulty : name each variable so that we can find them easily
+    - Performance is critical in games : squeeze and be more efficient
+- Architecture is about change : A "good software architecture" is when the entire program is crafted in anticipation of a change.
+- "The measure of a design is how easily it accomodates changes"
 - 
 
 Other resources :

@@ -15,6 +15,7 @@
 | `ma` or `mz`                                  | sets `a` or `z` mark to current location                                                                                              |
 | `'a` or `'z`                                  | moves to begining of the line containing `a` or `z` mark                                                                              |
 | `\`a` or `\`z`                                | moves to exact location of `a` or `z` mark                                                                                            |
+| `ys{motion}`                                  | you surround                                                                                                                          |
 | `ds{char}` or `cs{chartoreplace}{charfinal}'` | delete surrounding quotes or replace by ' ([vim surround](https://github.com/tpope/vim-surround))                                     |
 | `gc{motion}`                                  | get comment ([vim commentary](https://github.com/tpope/vim-commentary))                                                               |
 | `gr{motion}`                                  | get replace, note: yank something before! ([vim ReplaceWithRegister](https://github.com/inkarkat/vim-ReplaceWithRegister))            |

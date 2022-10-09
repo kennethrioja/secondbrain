@@ -3,6 +3,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [Objectifs de cours](#objectifs-de-cours)
 * [28.09.2022 - Comment apprend-on? Définitions, courants et processus](#28092022---comment-apprend-on-définitions-courants-et-processus)
 * [29.09.2022 -](#29092022--)
 * [TODO](#todo)
@@ -12,6 +13,13 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
     * [People](#people)
 
 <!-- vim-markdown-toc -->
+
+# Objectifs de cours
+
+- Comment apprend-on seul et/ou en groupe
+- Définitions et courants d'apprentissage
+- Processus impliqués dans l'apprentissage individuel et collaboratif
+- 
 
 # 28.09.2022 - Comment apprend-on? Définitions, courants et processus
 

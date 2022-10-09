@@ -10,6 +10,9 @@
     * [Observation](#observation)
 * [Méthode complémentaire](#méthode-complémentaire)
 * [TODO](#todo)
+* [Refs](#refs)
+    * [Base](#base)
+    * [Cours](#cours)
 
 <!-- vim-markdown-toc -->
 
@@ -24,19 +27,20 @@
 
 # Evolution des approches en ergonomie des IHM
 
-- Ergonomie humaniste (machine>utilisateur) > Approche systémique (opti humain-machine-contexte) > Conception centrée utilisateur (intégration user dès début, au moyen de mesures empiriques, de méthode de conception itérative et d'équipes de conception pluridisciplinaire)
+- Ergonomie humaniste (machine>utilisateur)
+- > Approche systémique (opti humain-machine-contexte)
+- >> Conception centrée utilisateur (intégration user dès début, au moyen de mesures empiriques, de méthode de conception itérative et d'équipes de conception pluridisciplinaire)
 
 # Démarche de conception centrée users
 
-- [Technology Acceptance Model 3 (Venkatesh & Bala, 2008)](https://doi.org/10.1111/j.1540-5915.2008.00192.x) à partir du modèle initial TAM de [Davis (1989)](https://www.jstor.org/stable/249008?origin=crossref)
+- [Technology Acceptance Model 3 (Venkatesh & Bala, 2008)](https://doi.org/10.1111/j.1540-5915.2008.00192.x) à partir du modèle initial TAM 1 de [Davis (1989)](https://www.jstor.org/stable/249008?origin=crossref)
+
+{{file:https://image1.slideserve.com/2407800/technology-acceptance-model1-l.jpg}}
+
     - Les représentations des objets ont des influences sur nos comportements (théorie de l'action plannifiée, [Azjen (1985)](https://doi.org/10.1007/978-3-642-69746-3_2), [Azjen (1991)](https://doi.org/10.1016/0749-5978(91)90020-T)
     - L'utilité perçue est le facteur ayant le plus de poids.
     - Critique : influence sociale influence la perception de l'utilité.
-
-[suite](suite)
-
-- étude de cas :
-    - humain hors de la boucle - un des problème, si jamais véhicule perdu, le temps que l'humain se rende compte, trop tard.
+    - Meta-analysis de [Scherer et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0360131518302458?via%3Dihub)
 
 - Skill Rule Knowledge de Rasmussen
     - alertes lues mais pas souvent comprises par les users
@@ -67,3 +71,15 @@
     - pourquoi
     - événements remarquables, mal/très bien passé/problème
     - focus group : entretiens structurés pour recueil de besoins
+
+# Refs
+
+## Base
+
+[Lancry, A. (2016). L'ergonomie : «Que sais-je?» n° 1626. PUF.](https://www.amazon.fr/Lergonomie-Alain-Lancry/dp/2130749887)<br>
+[Garrett, J. J. (2011). The elements of user experience (2e éd.). New Riders.](https://ptgmedia.pearsoncmg.com/images/9780321683687/samplepages/0321683684.pdf)<br>
+[Lallemand, C. & Gronier, G. (2016). Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs. Paris : Eyrolles](https://livre.fnac.com/a10497413/Carine-Lallemand-Methodes-de-design-UX-2e-edition)<br>
+
+## Cours
+[Thomas, J. (2000). A review of research on project-based learning. Autodesk Foundation. Retrieved 09.20.2022 from http://www.bobpearlman.org/BestPractices/PBL_Research.pdf](http://www.bobpearlman.org/BestPractices/PBL_Research.pdf)<br>
+
