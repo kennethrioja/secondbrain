@@ -37,4 +37,8 @@ Other resources :
 
 ## Making Games for Impact - Kirt Squire
 
+- p.3 : "interactive entertainment technology or VG are now accepted as tools for learning (Squire, 2011), modes of persuasion (Bogost, 2007), and simply the expression of complex ideas and emotions"
+- p.4 : "higher education institutions in particular are interested in diversifying income, but I will argue, they should leverage games todo what they do best: amplify the production of social and cultural capital for participants, rather than make money"
+- 
+
 ## The Gamer's Brain - Celia Hodent

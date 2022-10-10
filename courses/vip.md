@@ -85,7 +85,13 @@
     - Richesse des contenus
     - Stratégie pédagogiques multiples - répétition, transmission, contenu multimédia, apprentissage authentique, actif, immersion
 - Simulations :
-    - 
+    - "a representation of the features and behaviors of one system through the use of another" Sivasailam & Thiagarajan (1998) in Becker (2008)
+    - Intérêt pédagogique : authenticité, situation à moindre coût, dangereuses ou inaccessibles dans le réel
+    - Difficultés : débriefing obligatoire mais induit une certaine compétence pour l'encadrement donc coûteuse
+- Intégrer le contenu : 
+    - Par la mécanique - app. d'un système, via les obstacles, + difficulté, + progression
+    - Par le contexte - fiction, histoire
+    - Par les media
 
 # Références
 
