@@ -9,8 +9,8 @@
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
+* [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [](#)
-* [](#-1)
 
 <!-- vim-markdown-toc -->
 
@@ -86,19 +86,15 @@
 
 **Comments**
 
-## []()
+## [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](https://journals.lww.com/co-neurology/Fulltext/2020/04000/Serious_video_games_and_virtual_reality_for.14.aspx)
 
-**THM** : 
+**THM** : State of the art in HOA/MCI for Computerized Cog Training, SVG, Exergames, VR
 
-**Authors** :
+**Authors** : Sokolov A. A., Collignon A, Bieler-Aeschlimann M
 
-**Tags** :
+**Tags** : :aging: :cognitive-neurorehabilitation: :computerized-cognitive-training: :training: :exergames: :neurotechnology: :serious-game:
 
-**Abstract** :
-
-**Notes**
-
-**Comments**
+**Abstract** :Cognitive decline because of aging and neurodegeneration has become increasingly prevalent. This calls for the implementation of efficacious, motivating, standardized and widely available cognitive interventions for the elderly. In this context, serious video games and virtual reality may represent promising approaches. Here, we review recent research on their potential for cognitive prevention and neurorehabilitation of age-related cognitive decline and mild cognitive impairment (MCI). The majority of currently available data in this evolving domain lacks the methodological quality to draw reliable conclusions on the potential of novel technology for cognitive training in older people. However, single well designed randomized controlled trials have reported promising effects of cognitive interventions involving serious video games and virtual reality. The cognitive benefits of exergames promoting physical exercise with and without combined cognitive training remain unclear. The immersion into stimulating and motivating environments along with training content based on neuroscientific and neuropsychological models may represent a significant advance as compared with conventional computerized cognitive training. Additional research with sound methodology including sufficient sample sizes, active control groups and meaningful outcome measures of everyday function is needed to elucidate the potential of serious video games and virtual reality in multifactorial neurorehabilitation of cognitive decline in aging and neurodegeneration.
 
 <!-- struct 
 
