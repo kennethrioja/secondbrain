@@ -3,6 +3,8 @@
 
 * [20.09.2022 - Linux 1](#20092022---linux-1)
 * [26.09.2022 - Linux 2](#26092022---linux-2)
+* [03.10.2022 - Linux 3](#03102022---linux-3)
+* [10.10.2022 - Linux 3 & Git 1](#10102022---linux-3--git-1)
 
 <!-- vim-markdown-toc -->
 
@@ -52,15 +54,32 @@
 - `ssh-keygen -lf _pubfile_`
 - `ssh-copy-id _user@remotehost_` 
   
-  # 03.10.2022 - Linux 3
-  
-  [exercises](https://www.dropbox.com/s/igh77gyrhx3gll8/linux_part3_ex.pdf?dl=0)
-  - `shellcheck _script_` // help checking
-  - use `${}` in shell script to call the variable
-  - file name expansion = "globbing" = /home/ada/*/
-  - when creating an array (e.g., `LIST=("a" "b" "c"`) : to get all elements as an @rray use `LIST[@]`, as a string `LIST[*]` (* = Star), counting number of elements as `${#LIST[@]}`
-  - in script `-f`, `-d`, `-z` = X exists and is a file, dir, empty string
-  - `read _var_` // reads what you typed
+# 03.10.2022 - Linux 3
+
+[exercises](https://www.dropbox.com/s/igh77gyrhx3gll8/linux_part3_ex.pdf?dl=0)
+- `shellcheck _script_` // help checking
+- use `${}` in shell script to call the variable
+- file name expansion = "globbing" = /home/ada/*/
+- when creating an array (e.g., `LIST=("a" "b" "c"`) : to get all elements as an @rray use `LIST[@]`, as a string `LIST[*]` (* = Star), counting number of elements as `${#LIST[@]}`
+- in script `-f`, `-d`, `-z` = X exists and is a file, dir, empty string
+- `read _var_` // reads what you typed
+
+# 10.10.2022 - Linux 3 & Git 1
+
+[exercises](https://www.dropbox.com/sh/oavy913p611zc97/AABzZC1jUTlfq-vwi0rTbMRza?dl=0)
+- `$1` takes the first argument after the script
+- DRY = Don't Repeat Yourself
+- script : `getops ":cn:" ARG; do` // c option, but n accepts args so `n:`
+- `export PATH=${PATH}:~/my_dir` // now I can execute shellscript located in my_dir
+- string manip : `#*.` shortest from start, `##*.` longest from start, `%.*` shortest from end, `%%.*` longest from end
+
+- `git show`
+- `git diff`
+- `git difftool`
+- `gitk`
+- 
+
 
 TODO : 
-- ex3 ifelse and while
+- ex3 ifelse and while, case, getops
+- see last 15 min of git
