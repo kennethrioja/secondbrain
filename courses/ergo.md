@@ -25,12 +25,19 @@
     3. Est-ce qu'en revenant, on reprend rapidement ce qu'on a appris? (*Memorability*)
     4. Eviter un maximum d’erreurs et facilite leur correction (*Errors*)
     5. Agréable à utiliser (*Satisfaction*)
+- L'ergonomie est l'étude scientifique et l'amélioration de la relation entre l'Homme (Nomos) et ses moyens, méthodes et milieux de travail (Ergon), son but est d'adapter l'environnement à l'individu et non le contraire. (SELF, 1969)
+- L'ergonomie procède en plusieurs étapes : analyse de la demande, observation en contexte, entretiens, puis rapport de diagnostic et recommandations.
+- Le modèle utilisé est celui de l'**adéquation** : entre la représentation des users (attentes et actions prévues) et les représentations induites.
+- Approche interdisciplinaire : psychologique - sociologique - physiologique - technique
 
 # Evolution des approches en ergonomie des IHM
 
-- Ergonomie humaniste (machine>utilisateur)
-- > Approche systémique (opti humain-machine-contexte)
-- >> Conception centrée utilisateur (intégration user dès début, au moyen de mesures empiriques, de méthode de conception itérative et d'équipes de conception pluridisciplinaire)
+1. Ergonomie humaniste (machine>utilisateur)
+    - Adaptation du milieu à l'humain - applicatif, aboutir a une meilleure adaptation à l'homme des moyens technologiques
+2. > Approche systémique (triangle humain-machine-contexte)
+    - Etat de vigilance ~ Etat mécanique ~ Configuration
+3. >> Conception centrée utilisateur (intégration user dès début, au moyen de mesures empiriques, de méthode de conception itérative et d'équipes de conception pluridisciplinaire)
+    - cf. Gould & Lewis (1985) : première étape est de connaître les besoins utilisateurs.
 
 # Démarche de conception centrée users
 
@@ -56,7 +63,7 @@
     - Soit automatisé et le fait automatiquement (boucle automatique) - implicite
     - Comportement réglé par des règles, est-ce qu'on est bien dans la situation? Règles connue mais que je dois activer - peut être enseigné
     - Résolution de problèmes, signes contradictoires et on rentre dans ttt de résolution de problème, prendre décision sur raisonnement et plannification - ex. scénario, alien débarque, etc.
-      
+
 # Méthodes de base
 
 ## Entretien
