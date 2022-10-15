@@ -8,12 +8,13 @@
 * [Learning Vim Script The Hard Way - Steve Losh](#learning-vim-script-the-hard-way---steve-losh)
 * [Making Games for Impact - Kirt Squire](#making-games-for-impact---kirt-squire)
 * [The Gamer's Brain - Celia Hodent](#the-gamers-brain---celia-hodent)
+* [Rules of Play - Katie Salen Tekinbaş and Eric Zimmerman](#rules-of-play---katie-salen-tekinba-and-eric-zimmerman)
 
 <!-- vim-markdown-toc -->
 
-## Deep Work - Cal Newport
+# Deep Work - Cal Newport
 
-## [Game Programming Patters - Robert Nystrom](http://gameprogrammingpatterns.com/contents.html?link_credit=KennethRioja)
+# [Game Programming Patters - Robert Nystrom](http://gameprogrammingpatterns.com/contents.html?link_credit=KennethRioja)
 
 http://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-is-*good*-software-architecture
 
@@ -33,12 +34,15 @@ Other resources :
 - [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides](https://www.academia.edu/43687858/Design_Patterns_Elements_of_Reusable_Object_Oriented_Software_by_Erich_Gamma_Richard_Helm_Ralph_Johnson_John_Vlissides?link_credit=KennethRioja)
 - 
 
-## [Learning Vim Script The Hard Way - Steve Losh](https://learnvimscriptthehardway.stevelosh.com/?link_credit=KennethRioja)
+# [Learning Vim Script The Hard Way - Steve Losh](https://learnvimscriptthehardway.stevelosh.com/?link_credit=KennethRioja)
 
-## Making Games for Impact - Kirt Squire
+# Making Games for Impact - Kirt Squire
 
 - p.3 : "interactive entertainment technology or VG are now accepted as tools for learning (Squire, 2011), modes of persuasion (Bogost, 2007), and simply the expression of complex ideas and emotions"
 - p.4 : "higher education institutions in particular are interested in diversifying income, but I will argue, they should leverage games todo what they do best: amplify the production of social and cultural capital for participants, rather than make money"
 - 
 
-## The Gamer's Brain - Celia Hodent
+# The Gamer's Brain - Celia Hodent
+
+# [Rules of Play - Katie Salen Tekinbaş and Eric Zimmerman](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf)
+

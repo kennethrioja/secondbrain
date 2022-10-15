@@ -82,13 +82,17 @@
 **Abstract** : In this article we argue that to study or apply games as learning environments, multiple perspectives have to be taken into account. We first define game-based learning and gamification, and then discuss theoretical models that describe learning with games, arguing that playfulness is orthogonal to learning theory. We then review design elements of games that facilitate learning by fostering learners' cognitive, behavioral, affective, and sociocultural engagement with the subject matter. Finally, we discuss the basis of these design elements in cognitive, motivational, affective, and sociocultural foundations by reviewing key theories from education and psychology that are the most pertinent to game-based learning and by describing empirical research on learning with games that has been or should be conducted. We conclude that a combination of cognitive, motivational, affective, and sociocultural perspectives is necessary for both game design and game research to fully capture what games have to offer for learning.
 
 **Notes** :
-- 
+- no s* gender differences in learning or motivationnal outcomes in ed games ([Annetta et al., 2009](https://doi.org/10.1080/09500690801968656); [Papastergiou, 2009](https://doi.org/10.1016/j.compedu.2008.06.004))
+- Game-based learning = type of game play with defined learning outcomes ([Shaffer et al., 2005](https://files.eric.ed.gov/fulltext/ED497016.pdf)) + balance the need to cover the subject matter with the desire to prioritize game play ([Plass et al., 2010](https://www.gdcvault.com/play/1012682/The-Games-for-Learning-Institute))
+- Gamification = involves the use of game elements, such as incentive systems, to motivate players to engage in a task they otherwise would not find attractive
+- Game = "a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome" ([Salen & Zimmerman, 2004](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf))
+- >> play and cog dev...
 
 **Comments**
 
 ## [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](https://journals.lww.com/co-neurology/Fulltext/2020/04000/Serious_video_games_and_virtual_reality_for.14.aspx)
 
-**THM** : State of the art in HOA/MCI for Computerized Cog Training, SVG, Exergames, VR
+**THM** : State of the art in Healthy Older Adults (HOA)/MCI for Computerized Cog Training, SVG, Exergames, VR
 
 **Authors** : Sokolov A. A., Collignon A, Bieler-Aeschlimann M
 
