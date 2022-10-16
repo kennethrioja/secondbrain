@@ -6,6 +6,8 @@
 
 * [To read](#to-read)
     * [*Edtech:*](#edtech)
+* [Fischer et al., 2004](#fischer-et-al-2004)
+* [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
@@ -25,6 +27,67 @@
 - Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf?link_credit=KennethRioja
 - Shin, T., Koehler, M., & Mishra, P. (2009). Changing technological pedagogical content knowledge (TPACK) through course experiences. In International Conference of the Society for the Information and Technology & Teacher Education. Charleston, South Carolina.
 - Zucker, A., & Light, D. (2009). Laptop programs for students. Science, 323(January), 82-85.
+
+## [Fischer et al., 2004](https://doi.org/10.1145/1015864.1015884)
+
+**THM** : 
+
+**Authors** : G. Fischer, E. Giaccardi, Y. Ye, A. G. Sutcliffe , N. Mehandjiev
+
+**Tags** : :meta-design:
+
+**Notes**
+- "The future success of End-User Development depends on creating tools that end users are motivated to learn and use in daily work practices.
+- EUD range from customization to component configuration and programming.
+- EUD balances between user motivation, effective tools, and management support.
+- EUD ideal : high scope/low cost learning -> providing graphical worlds to create programmable agents that still impose a learning burden of instructing agents with condition-action rules, adn designing agent models.
+- User motivation should be encouraged during the early stages of adoption by management support, training, and task forces to spread best practice and expertise.
+- Constructive support and training fosters success, encourages responsibnility and enables management to control by leadership.
+- In a culture of high end-user motivation and low managerial influence, success is simply a matter of users taking development into their own hands => *a culture of cooperation shares the responsibility for developing accurate and effective solutions.
+- **Meta-design** characteirzes objectives, techniques, and processes for creating new media and environments allowing "owners of problems"/end-users to act as designers.
+    - Fundamental objective : to create socio-technical environments that empower users to engage actively in the continuous dev of systems rather than being restricted to the use of existing systems
+    - *design time and use time* : orignally system dev create the environments and tools, users find them unfit, thus requiring modification.
+        - *underdesign* is the meta-design approach : defining activity to create designe space for others, it aims to provide social and technical instruments for the owners of problems to create the solution themselves at use time.
+    - MD include users in an ongoing development process as co-designers thoughout the entire existence of the system.
+    - MD provides users with opportunities, tools and social structures to extend the system to fit their needs.
+    - MD transcends user-centered and participatory design by changing the processes by which systems and content are designed
+        - *shifting control* from designers to users to empower them to create and contribute their own visions and objectves.
+        - *designing the design process* is promoted to a 1st-class activity = technical and social conditions are as important as creating the artifact itself => enables conditions for collaborative design in which all participants incrementally acquire ownership of problems and contribute actively to their solutions.
+    - **Seeding, Evolutionary growth and Reseeding (SER) process model** : 
+        - encourage designers to coneptualize their activity as meta-design, thereby supporting users as designers rather than restricting them to passive consummers
+        - *social creativity* : all stakeholders reach a shared understanding by contributing their different POV and knowledge
+        - *open source* : designers provide a seed that can be evolved by users at use time. Users are seen as co-designers by :
+            - actively soliciting and incorportaing user contributions,
+            - sharing the control over users by grnting full and direct access to source code,
+            - promoting mutual learning among community members through mailing lists,
+            - deliberately fostering a reward and recognition struture that motivates active participation by explicitly knowledging and promoting contributors
+            - => open source in MD have a lower cost for each user because the dev cost is distirbuted among a large number of pp and ind contributions are shared.
+        - *interactive art* : focuses on participation and collaboration as forms of co-creation, in which users become co-dev of artwork.
+            - interaction by giving the tools to the users, seen as the real object of creative production
+            - MD environments not only allow users to create content, but also modify the behavior and components of the system at use time through interaction
+- "MD is more than a technical problem; it must address the challenges of creating new mindsets, new sources of creativity, cultural changes, and innovative societies. It has the potential to create a culture in which all participants in collaborative design processes can express themselves and engage in personally meaningful activities."
+
+## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
+
+**THM** : The designer's role in one team during co-conception is to let other's creativity emerge, to do that, he needs to take a step back, not thinking about the product's expected qualities, but aiming at a 'user-designed' product.
+
+**Authors** : Yann Le Guennec
+
+**Tags** : :meta-design: :user-centered-design:
+
+**Notes**
+- Design d'expérience : conception de systèmes d'interactions entre les acteurs et les processus.
+- Tâche du designer : qualifier la durée de l'expérience et tenter de lui donner un sens, un pouvoir de modification des états des acteurs
+- La conception des systèmes d'interaction cherche à mettre en évidence un certain nombre de bànàfices pour ses acteurs.
+- Utilisateurs sont acteurs au même titre que Concepteurs + Design centré utilisateur
+    - = **meta-design** : "Le métadesign caractérise les objectifs, les techniques et les processus pour créer de nouveaux moyens d’expression et des environnements qui permettent aux possesseurs d’un problème d’agir en designers." ([Fischer, 2003](http://l3d.cs.colorado.edu/~gerhard/papers/hci2003-meta-design.pdf)
+- Le rôle du designer réside dans le fait de permettre et favoriser l'émergence du dispositif de méta-conception - s'effacer pour laisser apparaître la créativité et les intentions de l'ensemble des acteurs du système = nécessité d'effacement = initialisation d'un processus de métadesign.
+- Objectif personnel de participer à l'élaboration d'une sollution qui soit la plus satisfaisante possible pour les acteurs auxquels cette solution est destinée.
+- Processus global commence par la formulation des bénéfices attendus et la fluidification des rôles des acteurs + fondé sur l'acceptation du désir humain d'une évolution qui passe par la transformation de son environnement,
+- Questions :
+    - désir de quoi? -> bénéfices attendus et donc les objectifs
+    - responsables comment? -> manière d'y accéder, pertinence de ces objectifs et les outils méthodologiques qu'ils impliquent.
+
 
 ## [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](https://doi.org/10.1080/09297049.2022.2110577?link_credit=KennethRioja)
 
