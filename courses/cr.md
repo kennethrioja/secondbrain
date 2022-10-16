@@ -6,6 +6,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=456
 * [04.10.2022](#04102022)
 * [05.10.2022](#05102022)
 * [09.10.2022](#09102022)
+* [17.10.2022](#17102022)
 
 <!-- vim-markdown-toc -->
 
@@ -46,7 +47,6 @@ https://reseaulea.hypotheses.org/ <br>
     - Enrichissement mutuel, praxologie chercheur, praticien, *tout le monde apprend*. co-formation bénéfique.
     - => recherche finalisée, rapidement mobilisé sur le terrain. 
 - 
-
 # 05.10.2022
 
 - Broker/passeur par [Isabelle Nizet](https://www.griemetic.ca/team/isabelle-nizet-2/)
@@ -90,7 +90,10 @@ https://reseaulea.hypotheses.org/ <br>
   - Quels acteurs font quoi? (e.g., logiques d'action des acteurs)
   - Pourquoi co-problématiser : égalité entre chercheur et praticien, étudier pb réel et apporter une solution, mise en place de buts communs, intérêts communs
 
-- Co-Conception :
-    - 
+# 17.10.2022
+- Lexique Collaboratif : 
+    - [Fisher, 2004](../articles.md#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
+    - [Le Guennec, 2016](../articles.md#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
+    - =>
 
 TODO:
