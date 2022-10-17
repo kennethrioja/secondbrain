@@ -45,4 +45,5 @@
 [programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br>
 [unige/agenda](https://agenda.unige.ch/) - events happening at UNIGE<br>
 [edtech/tools/mindomo](https://www.mindomo.com/fr/) - mind maps<br>
+[edtech/tools/menti](https://www.menti.com/)<br>
 

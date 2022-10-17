@@ -6,10 +6,15 @@
 
 * [To read](#to-read)
     * [*Edtech:*](#edtech)
+* [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
+* [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
+* [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
+* [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
+* [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [](#)
@@ -27,6 +32,81 @@
 - Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf?link_credit=KennethRioja
 - Shin, T., Koehler, M., & Mishra, P. (2009). Changing technological pedagogical content knowledge (TPACK) through course experiences. In International Conference of the Society for the Information and Technology & Teacher Education. Charleston, South Carolina.
 - Zucker, A., & Light, D. (2009). Laptop programs for students. Science, 323(January), 82-85.
+
+## [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](https://doi.org/10.1177/0735633118797330)
+
+**THM** : 
+
+**Authors** : Cyril Brom, Tereza Stárková, Edita Bromová, and Filip Děchtěrenko
+
+**Tags** : :gamification: :learning: :serious-game: :motivation:
+
+**Abstract** : Despite the increased interest in gamification approaches, there is a lack of comparative studies that shed light on the applicability of these approaches in educational contexts. In this explorative study, with an experimental design, university learners (N = 98) studied a complex process (i.e., how to brew beer) in a 2-hour-long computerized simulation. In the experimental condition, the simulation featured the following game design elements: game goals, increased freedom of choice, points, virtual currency, and praise (i.e., a gamified simulation). These elements were absent in the simulation versions used in the two control conditions. No differences in learning outcomes and intrinsic motivation variables between the gamified simulation and its nongamified versions were observed. The gamified simulation was perceived to be significantly easier than the nongamified versions (η2p = 0.10; d = 0.74, 0.42). Of the game elements used in this study, the participants perceived most positively a clear, game-like goal. The findings are consistent with self-determination theory, cognitive-affective theory of learning from media, and cognitive load theory. The findings also support the emerging notion that caution should be applied when using gamification approaches in educational contexts.
+
+**Notes**
+- Intro : 
+    - *edu-gamification* : points, achievement badges and leaderboards; clear, game-like goals, and increased challenges; narratives; increased freedom of choice; and immediate feedback ([Darejeh & Salim, 2016](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review), [Dicheva et al., 2015](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study))
+    - gamification puts emphasis only on the individual elements of games
+    - PB : the alledged claims are not well supported by solid empirical evidence ([Ortiz-Rojas et al., 2017](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)) + lack of information about which added game design elements are + or - in edu settings
+    - explorative experimental study of whether a common edu-gamification approach can improve learning using a stand-alone computer simulation of a non-Information and Communication Technology topic
+    - focus on game-like goal, points, increased freedom of choice, and praise that provides immediate feedback
+    - Edu-Gamification Studies With Comparative Design :
+        - badges and/or points with leaderboards *sometimes increase participation* in various activities or *improve students' time management* (see refs in article)
+        - Hanus and Fox (2015), used badges, coins and leaderboard and found *no improvements on grades and sfrp class effort*.
+        - 3 studies for ICT courses showed competition-driven gamified course version (ST goals, trophies, badges and leaderboard) helped complete homework assignments but 3/4 of pp rarely or never used gamified add-ons (see refs in article) => *not everyone needs it*
+        - Katz et al. (2014) : achieved points not displayed showed best training perf + when all game-based elements almost worst in terms of training perf
+    - Digital Game-Based Learning studies :
+        - to assess the effect of individual game elements but inconclusive and conflicting results regarding the presence of ompetitive elements in edu games (see refs in article)
+    - Seductive Details : 
+        - *do not improve learning in general* (see refs) except presence of a narrative in game-based context beneficial for 10-yo children
+    - Theoretical Standpoints : 
+        - **Cognitive-Affective Theory of Learning from Media** (CATLM, Moreno, 2005) => "motivating and engaging"
+        - **Intrinsic motivation** (Ryan & Deci, 2000) => doing an activity for its own sake because it is inherently interesting and enjoyable
+        - **Cognitive load theory** (Sweller et al., 2011) => most gamification methods are distracting; some can ease cognitive processing
+        - **Self-Determination Theory** (Deci & Ryan, 1985) : *Competence, Relatedness, Autonomy* => some gaming elements when used outside of games may in fct not be motivating and engaging
+    - 
+    - 
+
+**Comments**
+
+## [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](https://doi.org/10.1080/10447318.2016.1183330)
+
+**THM** : 
+
+**Authors** : Ali Darejeh & Siti Salwah Salim
+
+**Tags** :
+
+**Abstract** : Gamification is the use of video-game mechanics and elements in nongame contexts to enhance user engagement and performance. The purpose of this study is to conduct a systematic review to have an in-depth investigation into the existing gamification solutions targeted at solving user engagement problems in different categories of software. We carried out this systematic review by proposing a framework of gamifying process, which is the basis for comparison of existing gamification solutions. In order to report the review, the primary studies are categorized according to the following: a) gamified software and their platforms; b) elements of the gamifying process; c) gamification solutions in each software type; d) gamification solutions for software user engagement problems; e) gamification solutions in general; and f) effects of gamification on software user engagement and performance. Based on the search procedure and criteria, a total of 78 primary studies were extracted. Most of the studies focused on educational and social software, which were developed for web or mobile platforms. We concluded that the number of studies on motivating users to use software content, solving problems in learning software, and using real identity is very limited. Furthermore, few studies have been carried out on gamifying the following software categories: productivity software, cloud storage, utility software, entertainment software, search engine software, tool software, fitness software, software engineering, information worker software, and health-care software. In addition, a large number of gamification solutions are relatively simple and require improvement. Thus, for future studies, researchers can work on the items discovered in this review; they can improve the quality of the current gamified systems by using a wide variety of game mechanics and interface elements, utilizing a combination of contextual types of rewards and giving users the ability to use received rewards “in-game” and “out-game.”
+
+**Notes**
+
+**Comments**
+
+
+## [Deterding et al., From game design elements to gamefulness: defining "gamification"](https://doi.org/10.1145/2181037.2181040)
+
+**THM** : MAIN DEFINITION OF GAMIFICATION : "Gamification is the *use of game desgin elements in non-game contexts*.
+
+**Authors** :Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nacke
+
+**Tags** : :gamification: :definition:
+
+**Abstract** : Recent years have seen a rapid proliferation of mass-market consumer software that takes inspiration from video games. Usually summarized as "gamification", this trend connects to a sizeable body of existing concepts and research in human-computer interaction and game studies, such as serious games, pervasive games, alternate reality games, or playful design. However, it is not clear how "gamification" relates to these, whether it denotes a novel phenomenon, and how to define it. Thus, in this paper we investigate "gamification" and the historical origins of the term in relation to precursors and similar concepts. It is suggested that "gamified" applications provide insight into novel, gameful phenomena complementary to playful phenomena. Based on our research, we propose a definition of "gamification" as the use of game design elements in non-game contexts.
+
+## [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](https://www.jstor.org/stable/jeductechsoci.18.3.75)
+
+**THM** : 
+
+**Authors** : Darina Dicheva, Christo Dichev, Gennady Agre and Galia Angelova
+
+**Tags** :
+
+**Abstract** :
+
+**Notes**
+
+**Comments**
 
 ## [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](https://doi.org/10.1145/1015864.1015884)
 
@@ -131,6 +211,21 @@
 
 **Comments**
 - 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
+
+## [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](https://www.researchgate.net/profile/Margarita-Ortiz/publication/320372825_Gamification_and_learning_performance_A_systematic_review_of_the_literature/links/59e488b9aca2724cbfe90b51/Gamification-and-learning-performance-A-systematic-review-of-the-literature.pdf)
+
+**THM** : On 23 studies, mostly positive to no s* effects of gamification for high-edu students
+
+**Authors** : Margarita Ortiz-Rojas, Katherine Chiluiza, Martin Valcke
+
+**Tags** : :gamification: :learning-outcomes:
+
+**Abstract** : Over the last 10 years, research on gamification, the use of game elements in non-game contexts, has increased in the field of education, due to its potential to enhance learning performance. Yet, the majority of available research rather focuses on the evaluation of motivation and engagement as key dependent variables. Hence, the purpose of this study is to review available studies on gamification, with an exclusive focus on learning performance as the key dependent variable. Through a systematic search and selection process, building on “Web of Science” articles and by considering studies between 2000 and 2016 related to gamification and learning, 582 articles were identified. Further inclusion and exclusion criteria, regarding setting (education), study focus (empirical), journal access (full access) and dependent variables (learning performance), resulted in a review of 23 articles meeting the criteria. The analysis of these articles showed how gamification could be linked to a direct increase in learning performance of students. Nevertheless, some studies also reflect weaker statistical differences between being involved or not in a gamified environment. The review analysis results are especially helpful to define a future agenda for gamification research, addressing the following gaps in the literature. First, include mediating and moderating variables to find more empirical research that can prove an indirect effect of gamification on learning performance. Second, carry out additional research that empirically underpins the direct linkage between gamification and learning performance. Third, include specific individual gamification elements to be able to determine explicit differential effects of these elements on learning performance. Fourth, conduct research in a broader range of knowledge fields to develop empirical evidence in the context of other knowledge domains next to computer sciences. Finally, consider involving larger sample and setting up longer experimental interventions, to avoid novelty effects and risks of lack of generalization. 
+
+**Notes**
+- 23 final studies based on gamification, education, empirical work in a class setting, research articles, full access, learning/academic perf/achievement
+- mostly high edu, combination of gamification elements, STEM
+- results : 9 +, 12 no s*, 2 -
 
 ## [Plass et al., 2015 : Foundations of Game-Based Learning](https://doi.org/10.1080/00461520.2015.1122533)
 

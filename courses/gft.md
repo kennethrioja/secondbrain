@@ -121,6 +121,42 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 
 ## 17.10.2022 - intersectionalité
 
+- Atelier : lecture Danièle Kergoat : Dynamique et consubstantialié des rapports sociaux
+- Quelles sont les caractéristiques d'un rapport social?
+    - rapport conflictuel
+    - abstraits et opposent des groupes sociaux autour d'un enjeu
+    - => Godelier :
+        - Relation antagonique entre deux groupes sociaux établies autour d'un enjeu, c'est un rapport de production matérielle et idéelle. (Godelier, 1982)
+        - Idée comme quoi le capitalisme mère de toutes les oppression, parce qu'il y avait propriété matérialiste, cette appropriation/possession a engendré les différentes dominations. Quand on aura résolu les rapports sociaux de classe, on n'aura plus de pb avec sexisme/racisme... mais ne marche pas comme ça.
+        - Dans le passé originel des Baruya : Se justifie par monde immaginaire (légendes).
+        - Comment le monde des idées à un impact social sur les groupes humains.
+    - => Rapport social
+        - Impératif matérialiste : sociologie matérialiste, courant qui descend du courant Marxiste, s'occupe des raports de productions qui ne réfléchissent qu'à p.ex. comment ouvrier fait pour produire, mais font impassse sur les rapports de reproduction, ex. maintien des ouvriers.
+        - Impératif historique : caractère dynamique des rapports sociaus est central
+        - Cerner les invariants : principes de séparations (travaux d'hommes et de femmes) et de hiérarchie (trv hommes>trv femmes)
+- Pourquoi est-il problématique de confondre "Rapport social" et "Relation sociale"
+    - Relation social entre les sexes et dans les couples, ce qu'on teste au quotidien, ont importance à notre échelle mais ne donne pas info sur les rapports sociaux (ex. pas parce que femme au pouvoir que ça informe sur les rapports sociaux dans la société)
+    - Rapport social continue à opérer et à s'exprimer sous trois formes : exploitation, domination, oppression : ce rapport social h/f reste inentamé
+    - => "Egalité chez moi" mais ne dit pas grand chose de la société. En tant que sociologue, on se méfie des exemples individuels, on vit des relations sociales, enseignements, mais se méfier et ne pas généraliser à la société.
+    - => Si négociation prouve bien que ça ne tombe pas sous le sens, ex. tâches ménagères, si sujet de négociation, prouve que rapport social différent
+- Quelle critique DK apporte au concept d'intersectionnalité?
+    - Intersctionalité par Crenshaw (1994) : "la manière dont le positionnement des femmes de couleur, à l'intersection de la race et du genre, rend leur expérience concrète de la violence conjugale, du viol et des mesures pour y remédier, qualitativement différente de celle des femmes blanches."
+    - => Ca fixe les évolutions dynamiques et historiques
+    - => Quand on s'intéresse aux rapports sociaux, c'est dynamique, qui a histoire, se développe et se croise
+    - => Sans arrêt mélangé et en mouvement
+    - => Critique : intersectionalité selon elle, c'est figé
+- Que veut-elle dire par : les rapports sociaux sont consubstantiels et coextensifs?
+    - Consubstantiels : l'unité de substance, parler de cs. revient à affirmer que "séparer" les rapports sociaux est une opération nécessaire pour le sociologue mais qui ne peut pas être appliquée sans précaution à l'analyse des pratiques sociales
+    - => Dès origine sont entremêlés.
+    - Coextensifs : rapports sociaux de classe, genre, "race", se reproduisent et se co-produisent mutuellement
+    - => Démarrent entremêlés, et s'étendent tout en étant toujours emmêlés
+- "When we speak we are afraid our words will not be heard or welcomed. But when we are silent, we are still afraid. So it is better to speak." - 
+- Pourquoi est-il important de croiser les rapports sociaux ?
+    - Mobiliser les apports théorique de chaque rapport social, arrivé à un moment on bloque
+    - Niveaux sociaux des h/f en informatique : pb de classe sociale? On a autant d'h/f chez les riches que chez les pauvres donc non. Mais constatait plus en 80, garçons pour milieux sociaux moins aidés de trouver solution à certain comportements ascolaire, alors que pour f même sélection que n'importe quelle discipline.
+    - On a envie de voir des causalités, alors que ce ne sont que des corrélations.
+    - Pour 70% des enfants, on peut prévoir leur réussite scolaire en fonction du niveau socio-économique des parents
+
 ## 24.10.2022 -  genre et handicap
 
 ## 31.10.2022 - pédagogies critiques
@@ -144,3 +180,5 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 - consituer groupe sur moodle pour poster (4-6)
 - read book
 - https://www.unige.ch/fapse/grire/blanche/cendrine-marro
+- corpus : comment recueillir images?
+- 
