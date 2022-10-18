@@ -60,14 +60,25 @@
     - Seductive Details : 
         - *do not improve learning in general* (see refs) except presence of a narrative in game-based context beneficial for 10-yo children
     - Theoretical Standpoints : 
-        - **Cognitive-Affective Theory of Learning from Media** (CATLM, Moreno, 2005) => "motivating and engaging"
-        - **Intrinsic motivation** (Ryan & Deci, 2000) => doing an activity for its own sake because it is inherently interesting and enjoyable
-        - **Cognitive load theory** (Sweller et al., 2011) => most gamification methods are distracting; some can ease cognitive processing
-        - **Self-Determination Theory** (Deci & Ryan, 1985) : *Competence, Relatedness, Autonomy* => some gaming elements when used outside of games may in fct not be motivating and engaging
-    - 
-    - 
+        - **Self-Determination Theory** (Deci & Ryan, 1985) : *Competence, Relatedness, Autonomy* 
+            - expected tangible rewards may redzce the perception of autonomy
+        - & **Intrinsic motivation** (Ryan & Deci, 2000) => doing an activity for its own sake because it is inherently interesting and enjoyable
+        - -(+)-> **Cognitive-Affective Theory of Learning from Media** (CATLM, Moreno, 2005) and affective-motivational factors => "motivating and engaging"
+        - while **Cognitive load theory** (Sweller et al., 2011) => most gamification methods are distracting; some can ease cognitive processing
+            - segmenting of learning can reduce cognitive load
+        - <img src="https://journals.sagepub.com/cms/10.1177/0735633118797330/asset/images/large/10.1177_0735633118797330-fig1.jpeg" width="700" />
+- This study :
+    - Game elements under investigation : 1) clear game goal; 2) increased feedom in choice of tasks to work on; 3) points/money given for doing well; 4) verbal rewards in the form of praise with some learning-related information
+    - These are common ecologically-talking, suggested by pp in (Brom et al., 2014).
+    - RQs: <img src="https://journals.sagepub.com/cms/10.1177/0735633118797330/asset/images/large/10.1177_0735633118797330-fig2.jpeg" width="700" />
+- Methods : 
+    - n=106 Czech uni students, course credits, Mage = 23.05 +- 2.53, 55% men, low-prior knowledge
+    - Gamified grp n=31 vs Nongamified Conversational n=34, Nongamified formal n=33, gender and areas of study balanced
+    - simulation of brewing beer in Czech language
 
 **Comments**
+- Good articulation between cognitive load theory and SDT
+- Very well described and controled
 
 ## [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](https://doi.org/10.1080/10447318.2016.1183330)
 
