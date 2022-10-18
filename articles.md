@@ -66,11 +66,11 @@
         - -(+)-> **Cognitive-Affective Theory of Learning from Media** (CATLM, Moreno, 2005) and affective-motivational factors => "motivating and engaging"
         - while **Cognitive load theory** (Sweller et al., 2011) => most gamification methods are distracting; some can ease cognitive processing
             - segmenting of learning can reduce cognitive load
-        - ![theoretical predictions derived from SDT, CATLM and cognitive load theory](https://journals.sagepub.com/cms/10.1177/0735633118797330/asset/images/large/10.1177_0735633118797330-fig1.jpeg)
+        - https://journals.sagepub.com/cms/10.1177/0735633118797330/asset/images/large/10.1177_0735633118797330-fig1.jpeg
 - This study :
     - Game elements under investigation : 1) clear game goal; 2) increased feedom in choice of tasks to work on; 3) points/money given for doing well; 4) verbal rewards in the form of praise with some learning-related information
     - These are common ecologically-talking, suggested by pp in (Brom et al., 2014).
-    - RQs ![RQs](https://journals.sagepub.com/cms/10.1177/0735633118797330/asset/images/large/10.1177_0735633118797330-fig2.jpeg)
+    - https://journals.sagepub.com/cms/10.1177/0735633118797330/asset/images/large/10.1177_0735633118797330-fig2.jpeg
 - Methods : 
     - n=106 Czech uni students, course credits, Mage = 23.05 +- 2.53, 55% men, low-prior knowledge
     - Gamified grp n=31 vs Nongamified Conversational n=34, Nongamified formal n=33, gender and areas of study balanced
