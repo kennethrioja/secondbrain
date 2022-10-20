@@ -11,7 +11,7 @@
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
-* [[Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallemand,+C.+%26+Gronier,+G.+(2016).+M%C3%A9thodes+de+design+UX.+30+m%C3%A9thodes+fondamentales+pour+concevoir+et+%C3%A9valuer+les+syst%C3%A8mes+interactifs.+Paris+:+Eyrolles.&ots=EqAwKkWCtB&sig=rgJzXm9XPJj-ZUJBuh14Vm68jlI&redir_esc=y#v=onepage&q&f=false)](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifshttpsbooksgooglechbookshlfrlrid6cjtdwaaqbajoifndpgpp1dqlallemandc26gronierg2016mc3a9thodesdedesignux30mc3a9thodesfondamentalespourconcevoiretc3a9valuerlessystc3a8mesinteractifspariseyrollesotseqawkkwctbsigrgjzxm9xpjj-zujbuh14vm68jliredir_escyvonepageqffalse)
+* [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
@@ -80,6 +80,9 @@
 **Comments**
 - Good articulation between cognitive load theory and SDT
 - Very well described and controled
+
+**French resume made with Cappelle S.**
+- L’article s’intéresse à l’effet de la gamification, c’est-à-dire « l’utilisation d’éléments de game design dans des contextes hors-jeu » (Deterding et al., 2011), induite dans un contexte éducationnel (‘edu-gamification’). L’expérience compare trois versions d’une simulation de brassage de bière : une gamifiée (nG = 31), deux non-gamifiée (nNC =34 ; nNF = 33). La version gamifiée inclut 1) un but du jeu clair, 2) une liberté de choix, 3) de l’argent virtuel, 4) des récompenses verbales. L’article essaye de créer un modèle unifié des théories d’auto-détermination (Deci & Ryan, 1985), de charge cognitive (Sweller et al., 2011) et de la théorie cognitivo-affective de l’apprentissage par les média (CATML, Moreno, 2005). Des questions de recherche ont été énumérées pour corroborer ce modèle : effets de la gamification sur la motivation intrinsèque et sur l’apprentissage, ainsi qu’une médiation entre ces deux derniers. Malheureusement, les résultats ne seront pas concluants. Seule la version gamifiée a été perçue comme plus facile. Nous noterons cependant qu’ils n’ont pas discuté de la partie visuelle de leur interface, élément qui aurait pu être pris en compte dans l’analyse.
 
 ## [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](https://doi.org/10.1080/10447318.2016.1183330)
 
@@ -157,7 +160,9 @@
             - MD environments not only allow users to create content, but also modify the behavior and components of the system at use time through interaction
 - "MD is more than a technical problem; it must address the challenges of creating new mindsets, new sources of creativity, cultural changes, and innovative societies. It has the potential to create a culture in which all participants in collaborative design processes can express themselves and engage in personally meaningful activities."
 
-## [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallemand,+C.+%26+Gronier,+G.+(2016).+M%C3%A9thodes+de+design+UX.+30+m%C3%A9thodes+fondamentales+pour+concevoir+et+%C3%A9valuer+les+syst%C3%A8mes+interactifs.+Paris+:+Eyrolles.&ots=EqAwKkWCtB&sig=rgJzXm9XPJj-ZUJBuh14Vm68jlI&redir_esc=y#v=onepage&q&f=false)
+## Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.
+
+https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallemand,+C.+%26+Gronier,+G.[(2016).+M%C3%A9thodes+de+design+UX.+30+m%C3%A9thodes+fondamentales+pour+concevoir+et+%C3%A9valuer+les+syst%C3%A8mes+interactifs.+Paris+:+Eyrolles.&ots=EqAwKkWCtB&sig=rgJzXm9XPJj-ZUJBuh14Vm68jlI&redir_esc=y#v=onepage&q&f=false
 
 **Authors** : Carine Lallmand, Guillaume Gronier
 
