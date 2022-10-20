@@ -5,12 +5,13 @@
 <!-- vim-markdown-toc GFM -->
 
 * [To read](#to-read)
-    * [*Edtech:*](#edtech)
+	* [*Edtech:*](#edtech)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
+* [[Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallemand,+C.+%26+Gronier,+G.+(2016).+M%C3%A9thodes+de+design+UX.+30+m%C3%A9thodes+fondamentales+pour+concevoir+et+%C3%A9valuer+les+syst%C3%A8mes+interactifs.+Paris+:+Eyrolles.&ots=EqAwKkWCtB&sig=rgJzXm9XPJj-ZUJBuh14Vm68jlI&redir_esc=y#v=onepage&q&f=false)](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifshttpsbooksgooglechbookshlfrlrid6cjtdwaaqbajoifndpgpp1dqlallemandc26gronierg2016mc3a9thodesdedesignux30mc3a9thodesfondamentalespourconcevoiretc3a9valuerlessystc3a8mesinteractifspariseyrollesotseqawkkwctbsigrgjzxm9xpjj-zujbuh14vm68jliredir_escyvonepageqffalse)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
@@ -155,6 +156,89 @@
             - Interaction by giving the tools to the users, seen as the real object of creative production
             - MD environments not only allow users to create content, but also modify the behavior and components of the system at use time through interaction
 - "MD is more than a technical problem; it must address the challenges of creating new mindsets, new sources of creativity, cultural changes, and innovative societies. It has the potential to create a culture in which all participants in collaborative design processes can express themselves and engage in personally meaningful activities."
+
+## [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallemand,+C.+%26+Gronier,+G.+(2016).+M%C3%A9thodes+de+design+UX.+30+m%C3%A9thodes+fondamentales+pour+concevoir+et+%C3%A9valuer+les+syst%C3%A8mes+interactifs.+Paris+:+Eyrolles.&ots=EqAwKkWCtB&sig=rgJzXm9XPJj-ZUJBuh14Vm68jlI&redir_esc=y#v=onepage&q&f=false)
+
+**Authors** : Carine Lallmand, Guillaume Gronier
+
+**Tags** : :UX: :design: :methods:
+
+**Fiche 4 : Entretien**
+- L'entretien permet d'explorer en *profondeur* et en *détail* les attitudes, opinions, préférences, représentations mentales
+- Origines :
+	- Blanchet et Gotman en 1992 démarche introspective
+	- Rogers en 1942 avec entretien non directif : *empathie* (comprendre ce que l'autre ressent, éprouve), *acceptation inconditionnelle* (disponibilité de l'acceptation et intérêt), *non-directivité* (pas de modification, comportement ou valeur du pp)
+- Techniques d'entretien :
+	- **Laddering** (Reynolds & Gutman, 1988) : faire le lien entre les attributs, conséquences de ces derniers ou besoins associés d'un produit qui font sens pour l'utilisateur. Ladder -> "pourquoi", "pourquoi"... = évocation des attributs de plus en plus abstraits
+	- **Incidents critiques** (Flanagan, 1954) : réfléchir à des expériences positives ou négatives lors d'un entretien structuré, pour identifier et corriger les problèmes et optimiser l'UX du système
+	- **Entretien d'explication** (Vermersch, 1991) : faire "revivre mentalement" le contexte sensoriel, on se centre sur les actions précises réalisées.
+	- **Auto-confrontation** (Mollo & Falzon, 2004) : commentaire et justification de ses actions visionnées sur une vidéo, une variante 'croisée' est réalisée par un pair
+	- **Instruction au sosie** (Oddone et al., 1981) : donner à son sosie des instructions pour exécuter la tâche exactement comme il le ferait
+	- **Repertory grid** (Kelly, 1955) : choix de 2 produits sur 3 présentés et préciser pourquoi ceux-ci sont semblables mais différent du troisième, puis doit nommer le contraste (beau/laid) jusqu'à avoir une liste d'attributs à noter de 1 à 5
+- Pourquoi utiliser l'entretien ?
+	- **Comprendre les users** : quoi, comment et dans quel contexte vont faire les users pour atteindre leurs objectifs ? + liberté d'expression de l'user & flexibilité aux concepteur·trices + environnement naturel
+	- **Soutenir l'innovation par le recueil d'expériences** : on s'intéresse à la différence entre ce que font et disent les gens pour détecter les besoins cachés afin d'*inspirer* des conceptions *innovantes*.
+- Avantages :
+	- Pas de matériel, flexible, validation écologique; données recueillies source d'inspiration et d'innovation; entretien exploratoire peut amener à questionnaire à plus large échelle
+- Désavantages :
+	- Pas possible sur grand échantillon; chronophage; maîtriser technique pour avoir qualité; si pas sur terrain décontextualisation et basé sur souvenirs
+- Mise en pratique :
+	- Entretien **non-directif** (ou exploratoire) = explorer une thématique, parler librement, relancer l'interviewé·e pour aller en profondeur 
+	- Entretien **semi-directif** = aborder des points choisis et relances
+	- Entretien **directif** = structuré ~= questionnaire, réponses brèves sans relances
+- Plannification :
+	- Définition des objectifs :
+		- Pourquoi ? Aspects à explorer ? Qui ? Quelles données ? Où et quand ?
+		- "Et si je n'avais que 5 minutes, que lui demanderais-je ?" > réfléchir en 2 minutes, écrire thématique, refaire avec d'autres membres de l'équipe et comparer les résultats
+	- Créer le guide d'entretien :
+		- Questions, timing, ordonnées logiquement
+		- "J'aimerais que vous me parliez de...", "Raccontez-moi votre expérience de...", "Que pensez-vous de..." puis déclinaisons sur le thème
+	- Types de questions :
+		- Questions de comportements : Que font-ils ?
+		- Questions d'opinions (attitudes, croyances ou motivations) : Que pensent-ils ?
+		- Questions de connaissances : Que savent-ils ?
+		- Questions démographiques et factuelles : Qui sont-ils ?
+		- Séquence : Journée/activités typiques ? en premier ? et ensuite ?
+		- Expemple spécifique : Parlez-moi de... qu'aimez-vous au sujet de...
+		- Quantité : Combien utilisent ... dans votre entreprise ?
+		- Comparaison sociale : Est-ce que les autres ...
+		- Projection dans le futur : Dans 10 ans, à quoi pensez-vous que cela va ressembler ?
+		- Rétrospective du passé : Qu'est-ce qui a changé par rapport à avant ?
+		- Vision idéale : Pourriez-vous décrire le système idéal pour vous ?
+		- Canaux d'information
+		- Opinion sur un sujet
+		- Association de mots : Si je vous dis... à quoi pensez-vous ?
+		- Complétion de phrases : Complétez spontanément la phrase suivante : ...
+		- Création de liste : Pouvez-vous me faire une liste de ...
+		- Jeu de rôle : Je vais jouer... et vous allez être... Montrez-moi comment il doit réagir
+		- Tâches : Pouvez-vous me dessiner ...
+		- Participation : Pouvez-vous me montrer comment je devrais faire pour ...
+		- Démonstration : Pouvez-vous me montrer comment vous ...
+	- Formuler ses questions de manière ouverte, respectueuse, accessibles et humaines, inciter à racconter histoires et anectodes
+	- Activités supports : proposer des photos (photo-éliciation, par l'interviewer ou pp), de dessiner des cartes ou des courbes
+	- Sélectionner et recruter les participants : users cibles, diversifier (non-users, extrêmes ou experts, anciens, loyaux aux concurrents ou qui détestent), une 10aine (Bellino et Colombi, 2004)
+	- Organisation et logistique : préférable dans contexte naturel, à boire et à manger, language corporel
+- Passation :
+	- Structure de l'entretien (Goodman et al., 2012; Baxter et al., 2015) :
+		- **Introduction** (5min) : se mettre à l'aise, consentement, permission d'enregistrer ou filmer
+		- **Echauffement** (5-10min) : dire qu'on va parler de lui ex. question démographique centrée sur le participant
+		- **Corps de l'entretien** (80%) : génériques > spécifiques
+		- **Rétrospective** (5-10min) : retour sur génériques et sythèse de l'entretien avec le pp
+		- **Débriefing et clôture** (3min) : qqch à ajouter ? Merci et clôture.
+	- Attitudes de l'intervier·e : attitude neutre, empathie, écouter et ne pas modifier la pensée/cmportement/valeurs du pp. A EVITER : conseils, évaluation, aide ou réconfort, investigation, interprétation
+	- Consignes : pour répondre aux objectifs, 
+	- Relances : montrer l'intérêt et approfondir en rebondissant sur réponses
+		- Silence, Clarification, Question sur le contenu, Question sur l'attitude, Echo, Reflet (donc selon vous...), Interprétation (en fait, vous craignez...), Complémentation, Résumé, Grommellement; Non-dit (Et ça vous attriste?)
+		- Signaler quand change de thématique, recadrer quand dérive
+	- Notes : heure avec idée ou thématique
+- Analyse et interprétation des résultats
+	- Retranscription des entretiens : retranscription intégrale, aussi ton, silences, soupirs, rires.
+	- Analyse de contenu : regrouper les *patterns* verbaux, codé sur une base de catégories, compter les occurences
+- Exploitation des résultats :
+	- conception de personas, création d'*experience maps*, construction de scénarios d'usages ou de storyboards : synthétisation d'users types, leurs activités et besoins
+
+**Fiche 7 : Questionnaire exploratoire**
+- 
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
