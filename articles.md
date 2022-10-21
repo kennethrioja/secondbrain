@@ -6,6 +6,7 @@
 
 * [To read](#to-read)
 	* [*Edtech:*](#edtech)
+* [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
@@ -33,6 +34,58 @@
 - Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf?link_credit=KennethRioja
 - Shin, T., Koehler, M., & Mishra, P. (2009). Changing technological pedagogical content knowledge (TPACK) through course experiences. In International Conference of the Society for the Information and Technology & Teacher Education. Charleston, South Carolina.
 - Zucker, A., & Light, D. (2009). Laptop programs for students. Science, 323(January), 82-85.
+
+## Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.
+http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
+
+**THM** : 
+
+**Tags** : :focus-group:
+
+**Notes**
+- What : 7/8 groupes d'users cibles interagissent autour d'un sujet pertinent pour l'étude à réaliser
+- Objectif est de recueillir :
+	- Opinion/avis : p.ex sur avantages que devraient présenter un service, les valeurs d'un service
+	- Motivations
+	- Attitudes à partir d'usages, pratiques
+	- Expériences vécues sur utilisation
+	- Idées sur fonctionalités
+	- Cas d'utilisation
+- Quand ?
+	- En conception : afin de réaliser un produit qui convienne - plus sur caractéristiques des users, besoins, priorités, préférences, buts, représentations du prod et motivation à l'utiliser, etc.
+	- En évaluation : pour discuter du produit et revueillir impressions positives et négatives
+- Problématiques, situations, contextes :
+	- Comment : simuler interaction et dialogue entre pp
+	- Comment : pour déboucher sur idées, productions et arguments par le groupe
+	- Comment : plusieurs groupes
+	- Output : pas d'infos objectives sur efficacité du produit
+	- Output : MAIS impressions subjectives des users par rapports aux paramètres de facilité d'utilisation/apprentissage/satisfaction
+- Principe, description :
+	- Comment : évaluateur doit favoriser échanges, modérer débats, lancer activités, rester neutre
+	- Comment : organisés sous forme d'entretien de groupe OU activités par petits groupes
+	- Output : perception ou représentation que les pp ont de l'objet, sentiments sur formes, couleurs, mots qu'ils voient (ou voudraient voir) associés au produit
+- Protocole :
+	- Préparation : liste d'activité en fonction des objectifs de l'étude
+	- Briser la glace : mettre en confiance les pp, ex. points communs sur domaines spécifiques, discuter ensemble, debout pour bouger
+	- Présentation des activités : chacun doit pouvoir prendre la parole sans la monopoliser, tous s'écoutent, toutes idée bonnes à écouter à parir du moment où concernent **opinions, motivations et pratiques des pp**, durée entre 1.5 et 3h
+	- Déroulement : relancer, "concours de création du produit x", discussions et échanges d'arguments sur thèmes spécifiques, ex. liste de fonctionalités, argumenter et les classer par ordre d'activité
+	- Analyse : recencement des principaux thèmes abordés et idées pour formuler les éléments de conception, pistes d'amélioration; conclusion à dire tout en demandant à être completée
+	- Livrable/support : adjectifs revenant le plus souvent; remarques intéressantes/fréquentes, idées exploitables; matrice des éléments; synthèse générale avec degré d'importance, souhaits (fonctionalités, aspect général, valeurs) et risques et obstacles à éviter
+- Ressources, coûts :
+	- Lieu/salle : convivialité de la pièce, se voient tous, boissons/rafraîchissements, environnement inhabituel,
+	- Enregistrement : évaluateur·trice ne prenant pas de notes, caméra
+	- Evaluateur·trice : temps de préparation, présence sur tous les groupes, et temps nécessaire à l'analyse des enregistrements
+	- Participant·e·s : non rémunérés, mais bons d'achat, billets, ou autres compensation
+- Avantages :
+	- Plus à l'aise en groupe que face à évaluateur·trice (ex. entretien) et meilleure verbalisation des représentations, ressentis
+	- Faire émerger avis ou problématiques non-visibles en test user
+	- Identifie aspects de l'utilisabilité
+- Limites :
+	- Difficulté à gérer groupe et échange entre les pp,, humain en groupe
+- Techniques complémentaires/similaires :
+	- Entretien : bien quand timides ou difficultés à exprimer en public et échanger informations avec d'autres personnes
+	- Brainstorming : bien pour laisser créativité, spontanéité, à condition de ne pas s'éloigner du thème global
+	- Technique d'échelle bipolaire (Bisseret et al., 1999) : bien pour se positionnner et évaluer selon 1 j'aime pas, 7 j'aime
 
 ## [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](https://doi.org/10.1177/0735633118797330)
 
