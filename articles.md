@@ -180,7 +180,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- **Auto-confrontation** (Mollo & Falzon, 2004) : commentaire et justification de ses actions visionnées sur une vidéo, une variante 'croisée' est réalisée par un pair
 	- **Instruction au sosie** (Oddone et al., 1981) : donner à son sosie des instructions pour exécuter la tâche exactement comme il le ferait
 	- **Repertory grid** (Kelly, 1955) : choix de 2 produits sur 3 présentés et préciser pourquoi ceux-ci sont semblables mais différent du troisième, puis doit nommer le contraste (beau/laid) jusqu'à avoir une liste d'attributs à noter de 1 à 5
-- Pourquoi utiliser l'entretien ?
+- Pourquoi cette méthode ?
 	- **Comprendre les users** : quoi, comment et dans quel contexte vont faire les users pour atteindre leurs objectifs ? + liberté d'expression de l'user & flexibilité aux concepteur·trices + environnement naturel
 	- **Soutenir l'innovation par le recueil d'expériences** : on s'intéresse à la différence entre ce que font et disent les gens pour détecter les besoins cachés afin d'*inspirer* des conceptions *innovantes*.
 - Avantages :
@@ -243,7 +243,44 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- conception de personas, création d'*experience maps*, construction de scénarios d'usages ou de storyboards : synthétisation d'users types, leurs activités et besoins
 
 **Fiche 7 : Questionnaire exploratoire**
-- 
+- Fondements théoriques :
+	- 1930-1960 : ère de l'invention, métier de statisticien apprait, études en entreprise ou aurprès citoyens
+	- 1960-1990 : ère de l'expansion, par téléphone, grandes entreprises
+	- 1990-now : ère des big data, gestion et ttt de grande qtt d'info
+- Pourquoi cette méthode ?
+	- Large audience / coût faible + Confirmer hypothèses + Communication des résultats statistiques de façon graphique
+- Plannification :
+	- Taille : pas plus de 25 questions, plus il est long moins le/la pp passera du temps / item
+	- Code Dictionnary : Question - Référence - Type de question - Codage réponse
+
+**Fiche 6 : Observation**
+- Pourquoi cette méthode ?
+	- **Observer activité réelle** (tâche, ce qui est à faire vs. activité, ce qui est fait *réellement*, pas influencé par user's interprétation) + **Analyser l'environnement** (connaître le contexte, un des 3 grands facteurs de l'UX) + Tester des hypothèses (*informed empathy* est au coeurs du processus de design UX)
+- Techniques d'observation :
+	- **Systèmes de tracking** : mini-caméras, observation indirecte
+	- **Fly on the wall** : se fondre dans le contexte de l'user, non intrusive et interfère peu, observateur évite ainsi de l'influencer (Eyitope & Kamper, 2001)
+	- **Shadowing** : toutefois observateur peut poser des questions au participant afin de mieux comprendre les raisons de certains comportements
+	- **Contextual inquiry** : entre entretien et observation, démarche de conception participative. créer un dialogue entre observateur et observé (Holtzblatt & Jones, 1993)
+	- **Undercover agent** : observateur déguisé et inteagit avec user, permet immersion pour entrer en contact avec le sujet sans se sentir observé
+- Format :
+	- Typologie des rôles de l'observateur (Gold, 1958) :
+		- *obs. non-inférente* << Non participant (caché) -> Obs. complet (invisible) -> Obs.-participant (interaction limitée) -> Participant-obs (interagit avec situation, rôle connu) -> Participant complet (obs. est acteur, mais rôle inconnu) >> *obs. inférente*
+- Planification :
+	- Définir objet d'étude > Sélection pp > Définir lieu d'obs. > Définir durée d'obs. > Créer grille d'obs. (lieu, date, heure, durée, situation spécifique, éléments, actions, réactions, verbalisations, comportements)
+- Passation :
+	- Fiche ou grille d'obs; enregistrement AV / de l'entretien; logs; analyses des artéfacts
+	- Eviter biais > rémède : grille d'observation ou plusieurs observateurs permet d'augmenter la fidélité des données :
+		- Effet Hawthorne : présence de l'obs est perçue comme valorisante donc pp plus productifs > remède : voir sans être vu mais éthique et déontologique !
+		- Effet de halo : impression dominante de l'observateur est appliquée à l'ensemble des observations
+		- Effet de congruence ou de confirmation : observateur ne retient que ce qui va dans le sens des hypothèses ou attentes
+		- Effet de la 1è impression : tendance à évaluer le cpt de l'ind en fonction de la 1è impression
+		- Effet de générosité : tendance à n'attribuer à la personne observée que des caractéristiques positives
+		- Effet de contraste : tendans à ne remaarque que ce qui est saillant par rapport à ses expériences antérieures
+- Analyse et interpétation des résultats :
+	- Rapport d'activité : Activité - Description - Fréquence - Durée cumulée
+	- Graph temporel d'acitivté
+- Observer plusieurs users avec profils opposés
+- Se familiariser avec activité concernée (terminologie, outils, techniques) avant d'aller sur le terrain
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
