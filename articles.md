@@ -176,7 +176,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Authors** : Laurent Cosnefroy
 
-**Tags** : :learning:
+**Tags** : :learning: :motivation: :autoregulation: :volition:
 
 **Notes**
 - Comment l'apprenant·e réussit-ielle à se mettre au travail?
@@ -207,32 +207,32 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 		- Reprend la distinction entre monitoring et contrôle
 		- Ces buts orientent l'activité dans des contextes, créant un cadre pour interpréter et réagir aux événements qui se présentent.
 		- Quatre façons de définir ce que signifie être compétent, selon deux axes approche/évitement et maîtrise/performance :
-		1. Apprendre et progresser
-		2. Faire mieux que les autres
-		3. Eviter l'échec
-		4. Maintenir la performance au niveau antérieur
+			1. Apprendre et progresser
+			2. Faire mieux que les autres
+			3. Eviter l'échec
+			4. Maintenir la performance au niveau antérieur
 		- Intérêt porté à l'influence du contexte sur les processus d'autorégulation : spécificités disciplinaires et les règles
 	- Volition (Corno)
 		- La volition est la protection de l'intention d'apprendre (= de la motivation), le fait de vouloir rester dans cet état.
 		- Gestion de la distraction, comment garder ses capacités attentionnels sur l'objet d'étude ?
-		1. Contrôle des processus internes (cognition, motivation et émotion), p.ex. une pause prévient la surcharge cognitive et permet un retour au calme
-		2. Contrôle de l'environnement (Corno, 2001), p.ex. travailler avec des personnes studieuses
+			1. Contrôle des processus internes (cognition, motivation et émotion), p.ex. une pause prévient la surcharge cognitive et permet un retour au calme
+			2. Contrôle de l'environnement (Corno, 2001), p.ex. travailler avec des personnes studieuses
 	- Auto-observation et l'auto récompense (Zimmerman)
 		1. Agentivité
-		2. Sentiment d'efficacité personnelle
-		3. Auto-observation
-		4. Autorécompense
-		- Ce modèle insistera donc sur deux facettes indissociables d el'autorégulation :
+			- Ce modèle insistera donc sur deux facettes indissociables d el'autorégulation :
 			1. AR proactive créatrice de buts et de plans d'action
 			2. AR réactive afin de dépasser les obstacles empêchant l'atteinte du but
-		- Sentiment d'efficacité personnelle élevé favorise : (Schunk & Pajarès, 2005; Zimmerman, [1989](https://www.researchgate.net/publication/232534584_A_Social_Cognitive_View_of_Self-Regulated_Academic_Learning), [2000](https://doi.org/10.1016/B978-012109890-2/50031-7))
-			- L'utilisation de stratégies cognitives performantes
-			- L'engagement dans des activités plus difficiles
-			- Le niveau d'effort
-			- Le temps passé à étudier
-		- Auto-observation : enregistrement des traces de l'activité
+		2. Sentiment d'efficacité personnelle
+			- Sentiment d'efficacité personnelle élevé favorise : (Schunk & Pajarès, 2005; Zimmerman, [1989](https://www.researchgate.net/publication/232534584_A_Social_Cognitive_View_of_Self-Regulated_Academic_Learning), [2000](https://doi.org/10.1016/B978-012109890-2/50031-7))
+				- L'utilisation de stratégies cognitives performantes
+				- L'engagement dans des activités plus difficiles
+				- Le niveau d'effort
+				- Le temps passé à étudier
+		3. Auto-observation
+			- Enregistrement des traces de l'activité
 			- Dans les phases initiales d'un apprentissage, l'apprenant à besoin d'un guidage actif qui l'invite à analyser le déroulement de l'activité et l'enchaînement des opéations mises en oeuvre. Si livré à lui-même, si perf. peu satisfaisantes, va dvper des attributions en termes de manque de capacités qui viendront saper la poursuite ultérieure de l'effort ([Zimmerman & Kitsantas, 1997](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-0663.89.1.29))
-		- Auto-récompense : privilégié dans l'approche siciocognitive pour réguler la motivation, renforcent le sentiment d'efficacité personnelle
+		4. Autorécompense
+			- Privilégié dans l'approche siciocognitive pour réguler la motivation, renforcent le sentiment d'efficacité personnelle
 	- Emotions (Boekaerts [1996](https://psycnet.apa.org/doiLanding?doi=10.1027%2F1016-9040.1.2.100), [1997](https://www.sciencedirect.com/science/article/abs/pii/S0959475296000151?via%3Dihub), [Boekaerts & Niemivirta, 2000](https://www.sciencedirect.com/science/article/pii/B9780121098902500421?via%3Dihub))
 		- Une évaluation menaçante de la situation survient lorsqu'un but important est en jeu et que l'apprenant détecte un décalafe entre les exigences de la tâche et les ressources dont il dispose.
 		- Maintien et configuration de deux buts/priorités d'égale importance :
@@ -257,9 +257,17 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Stratégies d'autorégulation défavorables à l'apprentissage :
 	- Défensives qui protègent l'estime de soi
 - Force autorégulatoire (Baumeister)
+	- La répétition de l'autorégulation produit certes de la fâtigue à court terme mais conduit probablement sur le long terme à une extension de l aforce autorégulatoire ([Muraven et al., 1998](http://persweb.wabash.edu/facstaff/hortonr/articles%20for%20class/Muraven%20self-regulatoin.pdf); [Schmeichel & Baumeister, 2004](http://196.190.117.157:8080/xmlui/bitstream/handle/123456789/28342/162.pdf.pdf?sequence=1&isAllowed=y)
 - Autorégulation indiviuelle
+	- Définition de buts suffisamment précis ?
+	- Auto-observation de l'activité avec une réflexion avant se s'engager dans l'activité ?
+	- Dispositif introduit à un moment où l'apprenant a pu se constituer un répertoire de pratiques suffisamment stabilisés ?
 - Autorégulation groupale
+	- Volition moins nécessaire car les apprenant·e·s se protègent mutuellement
+	- Comparaison groupale omniprésente : attention captée par interrogation sur sa propre valeur au détriment de la résolution de la tâche
 - Autoformation
+	- Apprentissage autodirigé ([Knowles, 1975](https://archive.org/details/selfdirectedlear0000know) : processus par lequel l'apprenant·e prend l'initiative, avec ou sans l'aide d'autrui, pour diagnostique ses besoins d'apprentissage, formuler des objectifs, identifier les ressources humaines et matérielles, choisir et mettre en oeuvre les stratégies d'apprentissage appropriées et évaluer les résultats obtenus.
+	- Caractéristiques de l'apprenant autodirigé (Guglielmino (citée par Hoban et al., 2005)) : initiative, persistance, curiosité, désir d'apprendre, autodiscipline, confiance en soi, capacité à prendre les obstacles comme des défis à relever.
 
 ## [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](https://doi.org/10.1080/10447318.2016.1183330)
 
