@@ -9,6 +9,7 @@
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
+* [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
@@ -168,6 +169,97 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **French resume made with Cappelle S.**
 - L’article s’intéresse à l’effet de la gamification, c’est-à-dire « l’utilisation d’éléments de game design dans des contextes hors-jeu » (Deterding et al., 2011), induite dans un contexte éducationnel (‘edu-gamification’). L’expérience compare trois versions d’une simulation de brassage de bière : une gamifiée (nG = 31), deux non-gamifiée (nNC =34 ; nNF = 33). La version gamifiée inclut 1) un but du jeu clair, 2) une liberté de choix, 3) de l’argent virtuel, 4) des récompenses verbales. L’article essaye de créer un modèle unifié des théories d’auto-détermination (Deci & Ryan, 1985), de charge cognitive (Sweller et al., 2011) et de la théorie cognitivo-affective de l’apprentissage par les média (CATML, Moreno, 2005). Des questions de recherche ont été énumérées pour corroborer ce modèle : effets de la gamification sur la motivation intrinsèque et sur l’apprentissage, ainsi qu’une médiation entre ces deux derniers. Malheureusement, les résultats ne seront pas concluants. Seule la version gamifiée a été perçue comme plus facile. Nous noterons cependant qu’ils n’ont pas discuté de la partie visuelle de leur interface, élément qui aurait pu être pris en compte dans l’analyse.
+
+## [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](https://doi.org/10.3917/savo.023.0009)
+
+**THM** : 
+
+**Authors** : Laurent Cosnefroy
+
+**Tags** : :learning:
+
+**Notes**
+- Comment l'apprenant·e réussit-ielle à se mettre au travail?
+- Comment arrive-t-ielle à persévérer malgré les difficultés à atteindre les objectifs qu'ielle s'est fixé·e ?
+- Comment contrôle-t-ielle ses processus d'apprentissage et sa motivation ?
+- Apprentissage autorégulé = ensemble des processus par lesquels les sujets activent et maintiennent des cognitions, des affects et des conduites systématiquement orientés vers l'attente d'un but (Schunk, 1994). Il définit l'intensità avec laquelle l'individu est aux plans de la métacognition, de la motivation et de la conduite un participant actif dans ses processus d'apprentissage ([Zimmerman, 1989](https://psycnet.apa.org/fulltext/1990-06085-001.html))
+	- 1er obstacle : métacognitif - *protection de l'intention d'apprendre* et maintenir la priorité sur l'activité en cours ([Corno, 1986](https://www.sciencedirect.com/science/article/abs/pii/0361476X86900299), [Eccles, 2005](https://psycnet.apa.org/record/2005-08058-007), [Lens & Vansteenkiste, 2008](https://psycnet.apa.org/record/2008-03967-006))
+	- 2ème obstacle : motivation - *contrôle de l'action*, confrontation à la difficulté
+- Déterminants motivationnels
+- Effort
+- Autonomie
+- Conditions de l'autorégulation :
+	- Motivation initiale suffisante, dépend de
+		- *Perception de compétence* suffisante pour mener activité à son terme
+		- Croyances motivationnelles concernant la *valeur de la tâche* (raisons pour s'engager dans celles-ci, [Eccles, 2005](https://psycnet.apa.org/record/2005-08058-007)) et le *sentiment d'efficacité personnelle* (see refs)
+	- Définition d'un but à atteindre
+	- Répertoire de stratégies d'autorégulation
+		- Règles générales d'action qui orientent l'activité en vue de la rendre optimale par rapport au but visé.
+	- Observation de soi (voire des autres apprenant·e·s)
+		- Juger le travail accompli et de décider, si besoin est, de changer le fonctionnement actuel.
+		- Auto-observation et auto-évaluation
+- Modèles de l'apprentissage autorégulé :
+	- Métacognition ([Winne, 1996](https://www.sciencedirect.com/science/article/abs/pii/S1041608096900229))
+		1. Flux montant = *monitoring*, jugements métacog. informent de l'activité en cours
+		2. Flux descendant = *control*, suite aux informations du monitoring, conduit à intervenir sur l'action en cours
+		- L'importance accordée aux croyances épistémiques, et plus généralement à la dimension non consciente de l'autorégulation, est une spécifité du modèle de Winne.
+	- Buts d'accomplissements ([Pintrich, 2000](https://doi.org/10.1016/B978-012109890-2/50043-3))
+		- Reprend la distinction entre monitoring et contrôle
+		- Ces buts orientent l'activité dans des contextes, créant un cadre pour interpréter et réagir aux événements qui se présentent.
+		- Quatre façons de définir ce que signifie être compétent, selon deux axes approche/évitement et maîtrise/performance :
+		1. Apprendre et progresser
+		2. Faire mieux que les autres
+		3. Eviter l'échec
+		4. Maintenir la performance au niveau antérieur
+		- Intérêt porté à l'influence du contexte sur les processus d'autorégulation : spécificités disciplinaires et les règles
+	- Volition (Corno)
+		- La volition est la protection de l'intention d'apprendre (= de la motivation), le fait de vouloir rester dans cet état.
+		- Gestion de la distraction, comment garder ses capacités attentionnels sur l'objet d'étude ?
+		1. Contrôle des processus internes (cognition, motivation et émotion), p.ex. une pause prévient la surcharge cognitive et permet un retour au calme
+		2. Contrôle de l'environnement (Corno, 2001), p.ex. travailler avec des personnes studieuses
+	- Auto-observation et l'auto récompense (Zimmerman)
+		1. Agentivité
+		2. Sentiment d'efficacité personnelle
+		3. Auto-observation
+		4. Autorécompense
+		- Ce modèle insistera donc sur deux facettes indissociables d el'autorégulation :
+			1. AR proactive créatrice de buts et de plans d'action
+			2. AR réactive afin de dépasser les obstacles empêchant l'atteinte du but
+		- Sentiment d'efficacité personnelle élevé favorise : (Schunk & Pajarès, 2005; Zimmerman, [1989](https://www.researchgate.net/publication/232534584_A_Social_Cognitive_View_of_Self-Regulated_Academic_Learning), [2000](https://doi.org/10.1016/B978-012109890-2/50031-7))
+			- L'utilisation de stratégies cognitives performantes
+			- L'engagement dans des activités plus difficiles
+			- Le niveau d'effort
+			- Le temps passé à étudier
+		- Auto-observation : enregistrement des traces de l'activité
+			- Dans les phases initiales d'un apprentissage, l'apprenant à besoin d'un guidage actif qui l'invite à analyser le déroulement de l'activité et l'enchaînement des opéations mises en oeuvre. Si livré à lui-même, si perf. peu satisfaisantes, va dvper des attributions en termes de manque de capacités qui viendront saper la poursuite ultérieure de l'effort ([Zimmerman & Kitsantas, 1997](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-0663.89.1.29))
+		- Auto-récompense : privilégié dans l'approche siciocognitive pour réguler la motivation, renforcent le sentiment d'efficacité personnelle
+	- Emotions (Boekaerts [1996](https://psycnet.apa.org/doiLanding?doi=10.1027%2F1016-9040.1.2.100), [1997](https://www.sciencedirect.com/science/article/abs/pii/S0959475296000151?via%3Dihub), [Boekaerts & Niemivirta, 2000](https://www.sciencedirect.com/science/article/pii/B9780121098902500421?via%3Dihub))
+		- Une évaluation menaçante de la situation survient lorsqu'un but important est en jeu et que l'apprenant détecte un décalafe entre les exigences de la tâche et les ressources dont il dispose.
+		- Maintien et configuration de deux buts/priorités d'égale importance :
+		1. Accroître ses connaissances et ses compétences
+			- Si gains escomptés > inconvérients (évaluation simulante) alors la situation d'apprentissage est perçue comme réelle opportunité d'apprentissage et l'intention d'apprendre se forme -> se met en *mode "maitrise"*
+		2. Maintenir le sentiment de bien-être dans des limites raisonnables :
+			- Si émotions négatives -> *Coping*, "mode défensif" (= maintenir ou restaurer un minimum de bien-être =/= réussir au mieux)
+- Apprentissage autorégulé
+	- Trois temps :
+		1. Phase initial : plans formés, situation d'app. évaluée du point de vue des avantages et des menaces (aspect motivationnel)
+		2. Phase centrale : engagement, contrôle de l'action pour atteindre le but fixé
+		3. Evaluation de l'activité : restructuration des connaissances, réussite/échec, perception de compétence, modification des croyances métacognitives
+		- Seul Corno est linéaire
+	- Buts, trois facteurs à prendre en considération ([Locke & Latham, 2022](https://doi.org/10.1037//0003-066x.57.9.705); [Zimmerman, 2008](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203831076-11/goal-setting-barry-zimmerman)
+		1. But spécifique
+		2. But proximaux
+		3. Difficulté du but
+		- Mais lié aux concept de soi possible ([Markus & Nurius, 1986](https://web.stanford.edu/~hazelm/publications/1986_Markus%20&%20Nurius_PossibleSelves.pdf)
+- Stratégies d'autorégulation favorables à l'apprentissage :
+	- Cognitives et métacognitives optimisent le ttt de l'info
+	- Volitionnelles qui protègent l'intention d'apprendre
+- Stratégies d'autorégulation défavorables à l'apprentissage :
+	- Défensives qui protègent l'estime de soi
+- Force autorégulatoire (Baumeister)
+- Autorégulation indiviuelle
+- Autorégulation groupale
+- Autoformation
 
 ## [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](https://doi.org/10.1080/10447318.2016.1183330)
 
@@ -480,7 +572,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
 
-**THM** : 
+**THM** : Paradoxe de la demande d'aide - plus loin du but d'apprentissage, plus besoin de guidage et inversement - check table !
 
 **Authors** : André Tricot
 
