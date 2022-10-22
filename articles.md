@@ -7,6 +7,7 @@
 * [To read](#to-read)
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
+* [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
@@ -19,6 +20,8 @@
 * [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
+* [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
+* [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [](#)
 
 <!-- vim-markdown-toc -->
@@ -87,9 +90,38 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Brainstorming : bien pour laisser créativité, spontanéité, à condition de ne pas s'éloigner du thème global
 	- Technique d'échelle bipolaire (Bisseret et al., 1999) : bien pour se positionnner et évaluer selon 1 j'aime pas, 7 j'aime
 
+## [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](https://doi.org/10.3917/puf.brgeo.2011.01.0023)
+
+**THM** : Pragmastisme - Behaviorisme - Gestaltisme - Constructivisme Piagétien - Apprentissage social - Socio-constructivisme - (néo-)vygotskien
+
+**Authors** : Étienne Bourgeois
+
+**Tags** : :learning-theory: :history:
+
+**Notes**
+- L'histoire des théories de l'apprentissage coïncide avec l'histoire de la psychologie scientifique moderne :
+- 1879 - Wilheim Wundt avec premier laboratoire de psychologie expérimentale au monde à Leipzig. 
+	- Modèle *structuraliste* = conscience humaine vue comme *somme de composants élémentaires*
+- William James > G. Stanley Hall > John Dewey rejettent la vision atomiste de Wundt.
+	- Paradigme *pragmatiste* - voient l'apprentissage comme un processus de transformation comprenant nécessairement deux composantes principales : l'*action* et la *réflexion* sur l'action.
+	- "Learning by doing" de Dewey.
+	- Composante méta-cognitive aussi importante : pour eux, pour enseigner il faut amener l'apprenant·e à agir avec son environnement physique et social et en même temps à réfléchir, s'interroger, à raisonner sur ce qu'ielle est en train de faire. Et pour que cela soit efficace, il faut que l'activité doit être perçue comme ayant du sens et utile pour lui/elle
+- Edward Thorndike étudié avec James - apprentissage chez les animaux
+	- *Behaviorisme* : essais/erreur, connexion entre un stimulus et une réponse comportementale - s'oppose au fonctionnalisme et au structuralisme car se focus que sur le comportement observable et non la conscience subjective
+	- John B. Watson (élève de Dewey) - le comportement et sa modification résultent uniquement d el'effet de l'environnement
+	- Ivan Pavlov : *Conditionnement classique*
+	- B. F. Skinner - *Renforcements*
+- *Gestaltisme* - Max Wertheimer, Kurt Koffka, Wolfgang Köhler, psychologie de la forme, insiste sur le rôle central de l'activité mentale du sujet dans l'apprentissage
+	- Influence la psychologie d el'éducation via les paradigmes cognitivistes et constructivistes
+- Théories du ttt de l'information = Sciences cognitives - reçoit, sélectionne, organise info, stocke en mémoire, récupère et communique - n'est pas un courant unifié
+- Constructivisme piagétien - théorie de l'équilibration - entre le behaviorisme et la gestalt
+	- Déséquilibre, destabilisation des connaissances initiales ("conflit cognitif") et afin de rétablir l'équilibre, soit rend compatible avec connaissances initiales, soit transforme ces dernières pour rendre compte l'information perturbante = apprentissage
+- 1960 - apprentissage social, Albert Bandura, importance de l'observation d'autrui dans l'apprentissage - théorie "sociale-cognitive"
+- Plus de théories unifiées/générales de l'apprentissage actuellement, mais plus "locales" pour l'apprentissage de différents aspects/thèmes ou situé dans différents contextes spécifiques
+
 ## [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](https://doi.org/10.1177/0735633118797330)
 
-**THM** : 
+**THM** : interesting integrated model of SDT, cognitive load and CATML theories - only a gamification effect on the perceived difficulty
 
 **Authors** : Cyril Brom, Tereza Stárková, Edita Bromová, and Filip Děchtěrenko
 
@@ -423,7 +455,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 **Authors** : Jan L. Plass, Bruce D. Homer & Charles K. Kinzer
 
-**Tags** :
+**Tags** : :game-based-learning:
 
 **Abstract** : In this article we argue that to study or apply games as learning environments, multiple perspectives have to be taken into account. We first define game-based learning and gamification, and then discuss theoretical models that describe learning with games, arguing that playfulness is orthogonal to learning theory. We then review design elements of games that facilitate learning by fostering learners' cognitive, behavioral, affective, and sociocultural engagement with the subject matter. Finally, we discuss the basis of these design elements in cognitive, motivational, affective, and sociocultural foundations by reviewing key theories from education and psychology that are the most pertinent to game-based learning and by describing empirical research on learning with games that has been or should be conducted. We conclude that a combination of cognitive, motivational, affective, and sociocultural perspectives is necessary for both game design and game research to fully capture what games have to offer for learning.
 
@@ -445,6 +477,95 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :aging: :cognitive-neurorehabilitation: :computerized-cognitive-training: :training: :exergames: :neurotechnology: :serious-game:
 
 **Abstract** :Cognitive decline because of aging and neurodegeneration has become increasingly prevalent. This calls for the implementation of efficacious, motivating, standardized and widely available cognitive interventions for the elderly. In this context, serious video games and virtual reality may represent promising approaches. Here, we review recent research on their potential for cognitive prevention and neurorehabilitation of age-related cognitive decline and mild cognitive impairment (MCI). The majority of currently available data in this evolving domain lacks the methodological quality to draw reliable conclusions on the potential of novel technology for cognitive training in older people. However, single well designed randomized controlled trials have reported promising effects of cognitive interventions involving serious video games and virtual reality. The cognitive benefits of exergames promoting physical exercise with and without combined cognitive training remain unclear. The immersion into stimulating and motivating environments along with training content based on neuroscientific and neuropsychological models may represent a significant advance as compared with conventional computerized cognitive training. Additional research with sound methodology including sufficient sample sizes, active control groups and meaningful outcome measures of everyday function is needed to elucidate the potential of serious video games and virtual reality in multifactorial neurorehabilitation of cognitive decline in aging and neurodegeneration.
+
+## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
+
+**THM** : 
+
+**Authors** : André Tricot
+
+**Tags** : :cognitive-load: :différenciation-pédagogique: :learning:
+
+**Notes**
+- Pour apprendre à l'école : moyens (tâches sur supports) =/= but (élaboration des connaissances)
+	- Pas la même chose que les apprentissages adaptatifs où moyen = but.
+- Trois sources d'exigence cognitive de chaque situation d'apprentissage :
+	- charge intrinsèque - liée aux informations à traiter pour réaliser la tâche ;
+	- charge extrinsèque - liée aux informations inutiles pourtant présentes sur les supports ;
+	- charge essentielle - liée à l'apprentissage lui-même, càd la transformation de connaissances.
+- "Effets" pour réduire charge extrinsèque, voire intrinsèque :
+	1. *Effet de non spécification du but* - il est généralement plus efficace de ne pas trop spécifier le but d'un problème -> enlever la charge intrinsèque de l'exigence de la tâche
+	2. *Effet du problème résolu* - généralement plus efficace d'étudier un problème résolu que de résoudre un problème pour apprendre -> enlever la charge intrinsèque de résolution de problème
+	3. *Effet du problème à compléter* - alterner entre problème résolus, à résoudre et à compléter
+	4. *Effet d'attention partagée* - présenter la solution du problème de manière intégrée dans la figure, réduisant la charge extrinsèque
+	5. *Effet de modalité* - quand intégration multiples sources d'information, plus efficace de présenter ces sources dans des modalités différentes que de présenter le matérielle d'une façon physiquement intégrée
+	6. *Effet de redondance* - intégration physique ou effet de modalité efficace si les différentes sources d'information sont complémentaires
+	7. *Effet de l'interactivité entre éléments* - les techniques précédentes sont efficaces si la charge cognitive intrinsèque est élevée (mise en relation de nombreux éléments pour comprendre la situation)
+	8. *Effet de variété des exemples* - avec parcimonie en début d'apprentissage, et non très différents dès le début
+	9. *Effet de disparition progressive du guidage* - séquence d'enseignement efficace : problèmes initialements résolus > problèmes à compléter > problèmes proposés sans aucune aide
+	10. *Effet d'immagination* - immaginer qu'on réaliser ou comment va réaliser ~= mise en oeuvre effective
+	11. *Effet d'auto-explication* - s'expliquer à soi-même >= essayer de faire ou comprendre (Chi et al., 1989)
+	12. *Effet de l'information transitoire* - ex. video vs. texte/image impose à l'élève, qui ne peut pas réguler son activité, de réaliser la tâche / traiter le support en même temps qu'il apprend.
+	13. *Effet de mémoire de travail collectif* - quand tâche complexe, travail en grp > individuel; qd tâche simple : ind > grp.
+	14. *Effet de renversement dû à l'expertise* - les effets précédents fonctionnent si les apprenants ont peu de connaissances dans le domaine - si avancés ou experts alors inefficaces
+		- Aka *Achievement treatment interactions* (Tobias, 1976)
+		- Permet de prédire que les élèves avancés seront plus efficaces dans leur apprentissage avec un probème à résoudre vs. moins avancés plus efficaces avec pb présenté avec solution
+		- Elèves  différents peuvent réaliser le même apprentissage, même provlème, mais présenté différemment => différenciation sur la tâche et le support mais pas sur la connaissance à apprendre !
+		- Pour tenter de contourner cette contrainte, travaux portés sur laisser les élèves choisir eux-mêmes la version la plus adéquate :
+			- *"Mais effet du "paradoxe de la demande d'aide" (Nelson-Le Gall, 1985) : ce sont les élèves qui ont le plus besoin d'aide dans la réalisation d'une tâche scolaire qui sont les moins pertinents dans la demande d'aide, soit ils "sur-demandent", soit "sous-demandent" de l'aide. Le coût social et personnel de la demande d'aide (ex. exposer le fait que l'on n'est pas compéttent puisqu'on demande l'aide) n'étant pas étranger à ce paradoxe"*
+			- *Plus élèves loin du but d'apprentissage, plus ont besoin de guidage.*
+			- *Réciproquement, plus sont proches du but d'apprentissage, le fait de moins les guider, les conduire à produire les inférences ou les hypothèses, mais aussi à interagir avec des pairs, améliore le apprentissages (Chi & Whylie, 2014 ; McNamara et al., 1996 ; Fiorella & Mayer, 2015)*
+Tableau tiré de Tricot (2017) :
+| Avec les élèves les plus en difficultés pour l’apprentissage visé                                                                                                                                                                                                                                                                | Avec les élèves les plus avancés pour le même apprentissage visé                                                                                    |
+| ---                                                                                                                                                                                                                                                                                                                              | ---                                                                                                                                                 |
+| Ne pas trop spécifier le but du problème, indiquer plutôt à l’élève qu’il doit atteindre tous les buts qu’il peut atteindre, faire tout ce qu’il sait faire                                                                                                                                                                      | Spécifier le but du (même) problème                                                                                                                 |
+| Donner à l’élève le problème résolu et lui demander d’étudier la solution<br>Alterner les problèmes résolus et les problèmes à résoudre<br>Donner le problème avec une solution partielle                                                                                                                                        | Donner le (même) problème à résoudre                                                                                                                |
+| Intégrer physiquement les informations que l’élève devra mettre en relation mentalement pour rendre cette information intelligible<br>Éliminer toutes les informations inutiles ou décoratives<br>Présenter les sources d'information que l’élève devra mettre en relation dans des modalités différentes (auditive et visuelle) | Éviter la redondance : ne pas répéter inutilement ce qui peut être présenté une seule fois d’une seule manière                                      |
+| Si l’information à présenter est complexe (beaucoup d’éléments et de relations), alors la présenter progressivement, partie par partie                                                                                                                                                                                           | Présenter le tout d’emblée plutôt que par parties, pour que l’élève puisse apprendre les relations entre les sections                               |
+| Varier les exemples, avec parcimonie en début d'apprentissage                                                                                                                                                                                                                                                                    | Présenter l’information avec beaucoup de variabilité pour que l’élève puisse apprendre quelles variables sont pertinentes et quelles ne le sont pas |
+| Faire disparaître le guidage progressivement                                                                                                                                                                                                                                                                                     | D’emblée, ne pas guider, laisser l’élève explorer librement                                                                                         |
+| Demander à l’élève de mémoriser les relations les plus importantes                                                                                                                                                                                                                                                               | Demander à l’élève de s’auto-expliquer les relations les plus importantes                                                                           |
+| Ne pas présenter d’information transitoire continue (oral, vidéo) ; présenter plutôt des informations statiques, faire des pauses aux moments pertinents et guider l’attention sur les parties pertinentes                                                                                                                       | Présenter de l’information transitoire continue (oral, vidéo)                                                                                       |
+| Proposer du travail en groupe (selon un scénario précis) quand l’apprentissage visé est éloigné des élèves ; sinon, le travail peut être réalisé seul                                                                                                                                                                            | Si l’accès aux connaissances d’autrui est nécessaire, alors le travail en groupe est utile. Sinon, le travail individuel peut être mis en œuvre.    |
+| Mettre en exergue ce qui est important<br> Expliciter les liens entre les parties d’un tout                                                                                                                                                                                                                                      | Ne pas tout expliquer : engager les élèves dans des activités de production d’inférences, d’hypothèses, de conjectures                              |
+
+## [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](https://tecfalms.unige.ch/moodle/pluginfile.php/39498/mod_resource/content/4/COMEL1_Vienneau_Concepts%20de%20base%20en%20apprentissage%20et%20en%20enseignement.pdf)
+
+**THM** : l'apprentissage scolaire est un processus interne, actif/constructif, interactif, commulatif, culturel et multidimensionnel
+
+**Authors** : Raymond Vienneau
+
+**Tags** : :learning: :teaching:
+
+**Notes**
+- Quelles sont les conceptions de l'apprentissage ?
+	- *3 sens* (Reboul, 1999) : apprendre que ... mémoriser une information / apprendre à ... acquisition d'un savoir-faire / apprendre ... d'un savoir-être
+	- *processus* -> *produit*
+	- conception behaviorale = association stimulus-réponse
+	- c. cognitive = interaction entre l'apprenant·e et son environnement éducatif / ttt de l'information
+	- c. constructiviste = structure cognitive unique de chaque apprenant·e / individu qui apprend en fonction de ses expériences et de ses connaissances antérieures
+	- c. socio-constructivitste = savoir co-construit en interaction avec ses pairs et l'enseignant / app. déterminé par la qualité du climat d'apprentissage et les conflits sociocognitifs
+	- c. humaniste = reconnaissance de la valeur subjective des connaissances / app. déterminé par la qualité de l'engagement personnel de l'élève
+	- c. traspersonnelle = app. comme processus de développement personnel / recherche de sens, croissance continue qui se réalise au long de la vie
+- Quelle est la définition générale de l'apprentissage humain ? (~cognitivo-behaviorale)
+	- *L'apprentissage est un changement relativement permamenent (oubli = phénomène naturel) dans le potentiel de comportement (manifestation de la transformation) dû à l'expérience (=/= développement / génétique)*
+- Quels sont les principes sous-jacents à la conception actuelle de l'apprentissage scolaire ?
+	- Divers types de savoirs = ensemble de connaissances :
+		- savoirs (connaissances déclaratives),
+		- savoir-faire (connaissances procédurales et conditionnelles),
+		- savoir-être (attitudes et valeurs),
+		- savoir-devenir (buts personnels),
+		- savoir-vivre ensemble (habiletés interpersonnelles et relations sociales)
+		- savoir-agir (compétences disciplinaires et transversales)
+	1. **processus** : s'inscrit dans le temps et dont l'app. n'est que le moment final
+	2. **interne** : manifestation pas toujours observanle (app. =/= performance). 
+	> Le meilleur médiateur du monde peut emmener l'élève aux portes de la connaissances, mais seul l'apprenant peut en franchir le seuil (Gibran, 1978)
+	3. **actif/constructif** : apprenant·e doit s'engager cognitivement et affectivement, nécessite un effort conscient au moment de la réception, du ttt et de l'emmagasinage de l'information.
+	> L'apprentissage est quelque chose que l'on construit, et non quelque chose qui nous arrive (Dalceggio, 1991)
+	4. **interactif** : autant sociales que par les ressources à disposition
+	5. **cummulatif** : "Plus on apprend, plus on est en mesure d'apprendre" (#learningtolearn)
+	6. **produit d'une culture**
+	7. **multidimentionnel** : pas seulement dimension cognitive, mais dans tous les autres savoirs énoncés avant
 
 <!-- struct 
 
