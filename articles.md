@@ -13,11 +13,13 @@
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
+* [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
+* [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
-* [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
+* [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
@@ -172,7 +174,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 ## [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](https://doi.org/10.3917/savo.023.0009)
 
-**THM** : 
+**THM** : atteinte d'un but, non-linéaire, see the 5 models of autoregulation
 
 **Authors** : Laurent Cosnefroy
 
@@ -308,6 +310,69 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Comments**
 
+## [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](https://telearn.archives-ouvertes.fr/hal-00190626)
+
+**THM** : cooperation =/= collaboration, socio-constructivism/socio-cultural/shared-cognition
+
+**Authors** : Pierre Dillenbourg, Michael J. Baker, Agnès Blaye, Claire O’Malley
+
+**Tags** : :collaborative-learning:
+
+**Abstract** : For many years, theories of collaborative learning tended to focus on how individuals function in a group. More recently, the focus has shifted so that the group itself has become the unit of analysis. In terms of empirical research, the initial goal was to establish whether and under what circumstances collaborative learning was more effective than learning alone. Researchers controlled several independent variables (size of the group, composition of the group, nature of the task, communication media, and so on). However, these variables interacted with one another in a way that made it almost impossible to establish causal links between the conditions and the effects of collaboration. Hence, empirical studies have more recently started to focus less on establishing parameters for effective collaboration and more on trying to understand the role which such variables play in mediating interaction. In this chapter, we argue that this shift to a more process-oriented account requires new tools for analysing and modelling interactions. 
+
+**Notes**
+- DAI = Distributed AI
+- Cooperation = "couper" - hierarchical - separation of each portion of the problem solving
+- Collaboration = "coller" - heterarchical - coordination on effort to solve the problem together
+- Socio-constructivist approach (Piaget, Mugny, Doise)
+	- Importance of the role of *inter*-actions with other rather than actions themselves
+	- Mediating process = "socio-cognitive conflict"
+- Socio-cultural approach (Vygotsky)
+	- Internalisation of inter-psychological processes
+	- Appropriation (Rogoff, 1991) is the socially-oriented version of Piaget's biologically-originated concept of assimilation (Newman & al., 1989)
+		- Each partner gives meaning to the other's actions according to his or her own conceptual framework.
+- Shared cognition approach (Suchman, 1987)
+	- The environment is an integral part of cognitive activity, and not merely a set of circumstances in which context-independent processes are performed. (criticism of lab driven work?)
+	- A group forms a single cognitive system.
+	- Social interactions are studied as if they occur outside a social structure (Wertsch, 1991)
+	- Providing explanations leads to improve knowledge (Webb, 1991)
+	- From a 'group' perspective, explanation is not something delivered by the explainer to the explainee. It is instead constructed jointly by both partners trying to understand each other (Baker, 1991)
+- Research paradigms
+	1. Effect paradigm
+		- "Is collaborative learning more efficicient than learning alone ?"
+		- Contradictory resuslts but positive (Slavin, 1983; Webb, 1991) > negative (ex. low achievers progressively become passive when collaborating with high achievers (Salomon & Globerson, 1989; Mulryan, 1992).
+	2. Conditions paradigm
+		- "Under which conditions is collaborative learning efficient ?"
+		- To determine the conditions under which collaborative learning is efficient, one has to vary these conditions systematically (composition of group, features of task, context of collaboration, medium for collaboration)
+		1. Group heterogeneity :
+			- The ZPD defines an optimal difference in an idnirect way, i.e. not as a difference between subjects A and B, but as a difference between how A performs alone and how A performs with B's assistance
+			- Pairs > Larger groups
+			- Pairs (coop) > Triad (competitive) (Trowbridge, 1987)
+			- Differences between group sizes seem to disappeat when children are fiven the opportunity to interact with other in the class (Colbourn & Light, 1987)
+		2. Children's individual prerequisites :
+			- Must be skilled at the task (Rogoff, 1990)
+			- Must reflect upon his/her own performance with respect to the task
+			- Must assess whether learner's action was wrong // instruction or task, and be able to produce the next tutorial action on the basis of both a representation of the previous instruction and an evaluation of the learner's response to that instruction. e.g. 5 yo difficulty in inhbiting to allow their 'tutee' to learn, however better 'collaborators' than 3 yo comparison dyads (Wood et al.)
+		3. Task features
+			- The nature of the task, whether it is procedural or requires no planning, influences the results
+		4. Interactions between variables
+			- Rogoff (1990) argues tha w
+			- t planning tasks may be difficult for very young children because they require reference to things which are not in the "here-and-now".
+	3. Interaction paradigm
+		- "Which interactions occur under which conditions ?"
+		- "What effects do these interactions have ?"
+		- Elaborated explanations are not related to the explainee's performance, but they are positively correlated with the explainer's performance (Webb, 1991)
+		- Explainer's benefits (Bargh & Schul, 1980)
+		- Self-explanation effect (Chi et al., 1989)
+		- Providing the answer while expecting a an explanation does not help to understand the strategy, and may lead the explainee to infer an incorrect strategy or lose motivation to understand the strategy (Webb, 1991)
+		- Group composition : more explanation when moderately heterogeneous (high/med, med/low ability) and homogeneously of med VS. detrimential when homo high (they all know), homo low (nobody can help) and hetero h/m/l (med feel excluded) (Webb, 1991)
+		- When pairs of high ability expert and low ability novice -> tutoring or guidance by the h child. (Verba & Winnykamen, 1992)
+		- When pairs of high ability novice and low ability expert -> collaboration and joint construction (Verba & Winnykamen, 1992)
+- Dyadic work at the computer may enhance the benefit derived from the collaborative larning situation (Blaye et al., 1990)
+- Aspects of the software can modify the socio-cognitive dynamics between the learning partners. The computerised learning environment constitutes in itself a mediational resource which can contribute to create a shared referent between the social partners (Roschelle & Teasley)
+- Stop using 'collaboration' and 'explanation' as these are now too large.
+- "We have to study and understand the mechanisms of negociation to a much greater depth than we have so far"
+
 ## [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](https://doi.org/10.1145/1015864.1015884)
 
 **THM** : MD seeks to empower end-users by giving them the tools and opportunities to act on the product as soon as possible while being part of the dev team on equal terms with every other actor 
@@ -344,6 +409,25 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
             - Interaction by giving the tools to the users, seen as the real object of creative production
             - MD environments not only allow users to create content, but also modify the behavior and components of the system at use time through interaction
 - "MD is more than a technical problem; it must address the challenges of creating new mindsets, new sources of creativity, cultural changes, and innovative societies. It has the potential to create a culture in which all participants in collaborative design processes can express themselves and engage in personally meaningful activities."
+
+## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577?link_credit=KennethRioja)
+
+**THM** : AVG effects = improved inhibition (stroop), flexibility (WCST, only "3D group"), but no effect on continuous attention.
+
+**Authors** : Faride Sadat Hoseini, Masood Khodadadi, and Alireza Khorambakht
+
+**Tags** : :AVG: :training: :intervention: :inhibition: :flexibility: :continuous-attention:
+
+**Abstract** : In recent years, interest in digital games has grown significantly and at the same time a range of games in 2D and 3D has been created. While 2D games cannot give depth to objects, 3D games creates spatial depth. The growth of the gaming industry has raised concerns among some psychologists. There is still much controversy about positive or negative effects of these games on cognitive performance. Executive functions are a set of cognitive abilities that play a decisive role in one’s purposeful behavior. The present study aims to investigate the effect of 2D and 3D video games on some of these functions—flexibility, inhibition, and continuous attention—in male students aged 18–26 years. Forty-five male students at Persian Gulf University participated in the study. They were matched based on intelligence score and experience of playing video games. The participants were divided into three groups of 15 (two experimental groups and one control group). Participants in the two experimental groups played 2D and 3D video games over 20 sessions. They completed the Wisconsin Card Sorting Test, continuous performance test, Stroop test, and Raven intelligence test. Data were analyzed via covariance and the results showed that playing 2D and 3D video games positively and significantly affects inhibition and playing 3D games has a significant positive effect on flexibility. Based on our findings, we discuss the different effects of 2D and 3D video games, in line with the study’s theoretical framework, and give suggestions for future studies.
+
+**Notes**
+- study focuses on effect of AVG on EF + compares 2D vs 3D (=creating depth) games
+- VD : inhibition (stroop), flexibility (WCST), continuous attention (CPT)
+- training : no NVGP, only even distribution of IQ and VG xp, males 18-26yo, 15/group, 20min/d, 5d/w, 4w 
+- 2D group ("cannot give depth to object") vs. 3D group ("stereoscopic 3D games (...) creating spatial depth, so objects appear closer to the player and seem touchable")  vs. passive control group
+
+**Comments**
+- 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
 
 ## Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.
 
@@ -515,24 +599,52 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - the screen content items are indicated as difficult for parents to answer for their children probably due to the young age of children () and/or social desirability bias ([Hutton et al., 2020](https://doi.org/10.1038/s41390-020-0765-1?link_credit=KennethRioja))
 - the screen content subscale ranges from 0-5, 0 is no violent media + child never dl apps + talk/sing media VS. 5 is often violent media + often child dl apps + fast more action
 
-## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577?link_credit=KennethRioja)
+## [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](https://doi.org/10.3917/raised.021.0175)
 
-**THM** : AVG effects = improved inhibition (stroop), flexibility (WCST, only "3D group"), but no effect on continuous attention.
+**THM** : 
 
-**Authors** : Faride Sadat Hoseini, Masood Khodadadi, and Alireza Khorambakht
+**Authors** : Gaëlle Molinari, Sunny Avry, Guillaume Chanel
 
-**Tags** : :AVG: :training: :intervention: :inhibition: :flexibility: :continuous-attention:
+**Tags** : :computer-mediated-collaborative-learning: :emotion:
 
-**Abstract** : In recent years, interest in digital games has grown significantly and at the same time a range of games in 2D and 3D has been created. While 2D games cannot give depth to objects, 3D games creates spatial depth. The growth of the gaming industry has raised concerns among some psychologists. There is still much controversy about positive or negative effects of these games on cognitive performance. Executive functions are a set of cognitive abilities that play a decisive role in one’s purposeful behavior. The present study aims to investigate the effect of 2D and 3D video games on some of these functions—flexibility, inhibition, and continuous attention—in male students aged 18–26 years. Forty-five male students at Persian Gulf University participated in the study. They were matched based on intelligence score and experience of playing video games. The participants were divided into three groups of 15 (two experimental groups and one control group). Participants in the two experimental groups played 2D and 3D video games over 20 sessions. They completed the Wisconsin Card Sorting Test, continuous performance test, Stroop test, and Raven intelligence test. Data were analyzed via covariance and the results showed that playing 2D and 3D video games positively and significantly affects inhibition and playing 3D games has a significant positive effect on flexibility. Based on our findings, we discuss the different effects of 2D and 3D video games, in line with the study’s theoretical framework, and give suggestions for future studies.
-
-**Notes**
-- study focuses on effect of AVG on EF + compares 2D vs 3D (=creating depth) games
-- VD : inhibition (stroop), flexibility (WCST), continuous attention (CPT)
-- training : no NVGP, only even distribution of IQ and VG xp, males 18-26yo, 15/group, 20min/d, 5d/w, 4w 
-- 2D group ("cannot give depth to object") vs. 3D group ("stereoscopic 3D games (...) creating spatial depth, so objects appear closer to the player and seem touchable")  vs. passive control group
-
-**Comments**
-- 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
+**Notes** :
+- Emotion comme une réaction brève à des événements de l'environnement qui comporte des composantes cognitive, physiologiques, motivationnelle, expressive et affective (Scherer, 2001)
+- Théorie Contrôle-Valeur de [Pekrun (2006)](https://link.springer.com/content/pdf/10.1007/s10648-006-9029-9.pdf) :
+	- Rend compte des antécédents et de effets des émotions en contexte d'apprentissage
+	- Cible les émotions d'accomplissement liées à l'activité et son résultat
+	- Lien émotion et niveau d'activation pendant activité ou à propos du résultat
+	- Les émotions d'accomplissement sont le résulat d'une évaluation de la situation sur la base de deux critères subjectifs :
+		- Le contrôle comme perception de notre capacité à produire les actions nécessaires à la réussite de la tâche (link with SDT)
+		- La valeur attribuée à l'activité et à son résultat qui peut être intrinsèque lorsqu'elle renvoie à l'intérêt ou extrinsèque lorsqu'elle renvoie au bénéfice perçu au regard des buts (link with intrinsic/extrinsic motivation)
+	- Prédiction : plus les apprenant·e·s se sentent en contrôle et plus ils sont susceptibles de ressentir des émotions positives
+	- Pekrun et al. (2011) :
+		- Lien entre caractéristiques de la situation <-> évaluation de cette dernière (appraisal) <-> émotions <-> processus apprentissage et résultat
+		- Effet (+) des émotions activantes (joie, espoir, fierté) et (-) des émotions désactivantes (désespoir, ennui) sur l'engagement et l'apprentissage.
+		- Colère, anxiété, honte : - corrélées à motivation intrinsèque, effort perçu pour apprendre, auto-régulation et performances académiques
+		- Anxiété : + corrélée à motivation extrinsèque, utilisation de stratégies de surface, besoin de régulation externe par enseignant.
+- Le partage social des émotions participe à la construction des liens sociaux (Rimé, 2005, cité par Gauducheau, 2008) et facilite la coordination interpersonnelle
+- Emotions dans l'apprentissage collaboratif :
+	- Transactivité (Berkowitz & Gibbs, 1983) : dans l'espace cognitif, les apprenant·e·s s'engagent à produire du sens à partir du contenu d'apprentissage à partir du raisonnement et des idées et leurs partenaires
+	- Selon Järvenoja et Järvelä (2013), six stratégies de régulation pour équilibre socio-émotionnel : 1) renforcement social, 2) discussion orienté vers les buts, 3) augmentation de l'intérêt, 4) structuration de la tâche, 5) auto-handicap, 6) gestion du sentiment d'efficacité
+- Results :
+	- Effet d'outil d'Awareness Emotionnel :
+		- Majoritairement positive : satisfaction et confiance
+		- EAT permet de plus comparer own emotions à other
+		- Femmes x EAT ont rapporté avoir passé plus de tmeps à construire sur les idées de leur partnaire vs. control condition. Inverse chez les hommes et transactivité plus important dans contrôle que EAT.
+		- Pp qui rapportent ressentir plus intensément des émotions pos ont aussi plus rapporté transaction et comparé émotionsn à celles de leur partenaire pdt interaction
+		- Share de manière spontané (hors des rappels) et plus positives que neg.
+		- Regard porté 4* plus sur zones d'émotions positives que neg (contrôlé par le nb d'émotion partagé)
+		- Regard plus porté sur own que other
+		- H/F différence pas dans le nb d'émotions communiquées mais H plus regardé visualisation other's emotion que F
+	- Effet des émotions d'accomplissement :
+		- PP rapportent - d'ennui et + de satisf quand reçoit feedback de valeur élevée plutôt que faible
+		- PP rapportent - frustration et - désespoir quand reçoit feedback de contrôle élevé plutôt que faible
+		- Honte quand contrôle faible x valeur faible
+		- Joie quand contrôle élevé x valeur faible
+		- Transactivité et performance de groupe augmentent quand satisfaction augmente et ennui diminue
+		- Joie positivement corrélée à mise en commun des informations et à la performance de groupe
+		- Frustration et désespoir négativement corrélés à performance de groupe
+		- Gratitude la plus fortement corrélée à la performance de groupe et transactivité, argumentation et recherche de consensus
 
 ## [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](https://www.researchgate.net/profile/Margarita-Ortiz/publication/320372825_Gamification_and_learning_performance_A_systematic_review_of_the_literature/links/59e488b9aca2724cbfe90b51/Gamification-and-learning-performance-A-systematic-review-of-the-literature.pdf)
 
