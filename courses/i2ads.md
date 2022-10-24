@@ -5,6 +5,7 @@
 * [26.09.2022 - Linux 2](#26092022---linux-2)
 * [03.10.2022 - Linux 3](#03102022---linux-3)
 * [10.10.2022 - Linux 3 & Git 1](#10102022---linux-3--git-1)
+* [24.10.2022 - Git 3](#24102022---git-3)
 
 <!-- vim-markdown-toc -->
 
@@ -77,9 +78,31 @@
 - `git diff`
 - `git difftool`
 - `gitk`
-- 
 
+# 24.10.2022 - Git 3
+
+[exercises](https://www.dropbox.com/s/agmlri3k5voe7sf/git_part3_ex.pdf?dl=0)
+- `git add remote ALIAS GITADDRESS` // add a remote address
+- `git remote -v` // list all remotes
+- `git push -u ALIAS main`// -u to track
+- `git branch -vv` // display all branches
+- `git cherry-pick COMMITID` // take only COMMITNO
+- `git cherry-pick COMMITT1~..COMMITTN` // ~ means one before
+- `git reset --hard COMMITID` // do to before pushing, take back in time
+- `git revert COMMITID` // if pushed, commit to revert changes 
+- vMAJOR.MINOR.PATCH // convention, semantic versioning : MAJOR = possible breaking changes, MINOR = backward-compatible, PATCH = backward compatible bug fixes
+- `git tag -a ANNOTATION COMMITID -m MESSAGE`
+- `git push --follow-tags`
+
+To merge a branch into main and see the history clearly :
+- `git rebase main` as it began like main
+- `git merge BRANCH --no-ff` 
 
 TODO : 
 - ex3 ifelse and while, case, getops
 - see last 15 min of git
+- Git Capstone :
+	- do not begin with linux capstone, but you can begin with the git capstone
+	- when ready to be graded, you need to tag
+	- shellcheck before pushing
+	- 
