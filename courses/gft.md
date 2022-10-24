@@ -158,6 +158,47 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
     - Pour 70% des enfants, on peut prévoir leur réussite scolaire en fonction du niveau socio-économique des parents
 
 ## 24.10.2022 -  genre et handicap
+- Handicap vs déficience :
+	- Ensemble d'obstacles socio-politiques "non nécessaires" (Olivier, 2009) qui empêchent la participation des personnes handicapées à l'égalité avec d'autres personnes dans les activités ordinaires, dont l'accès est désormais garanti par des droits
+	- Paradigme de réhabilitation -> paradigme des droits (collectifs)
+	- Pour les féministes handicapées : la déficience, incarnée, cause un handicap psycho-émotionnel et socio-relationnel (Thomas, 1999)
+	- Déficience est l'affection qui touche le "substrat biologique" (Thomas, 1999) et cause des limitations fonctionnelles.
+- Handicap est un rapport social :
+	- "différenciateur et hiérarchisant" (Collet & Mosconi, 2010)
+	- Instaure un rapport conflictuel, entre deux groupes sociaux autour de l'enjeu de l'appropriation des moyens de production
+	- Inégalité accès au travail, etc.
+- Validisme, capacitisme -> dis/ableism (handicapisme)
+	- Refuser le Validisme : pratiques imposées au personnes handicapées, provenant de groupes majoritaires (valides) et impose vision du monde, pratiques sociales, règles socio-politiques
+	- Attributions systémiques, dans la diversité des situations et des personnes = handicapisme
+- "Oppression simultanée" (Thomas, 1999; Goodley, 2017) pour les femmes handies, critiques du validisme/handicapisme/sexisme
+	- Consubstantiel et coextensifs (Kergoat, 2001), se co-produisent dans l'éducation, la formation et le travail
+	- Divisions sexuelle et division handicapiste du travail (Pont, 2018) :
+		- Discrimination à l'embauche (handicapisme et validisme)
+		- Attribution d'un avantage épistémique dans les professions du travail social, des métiers dits "féminins" : palette restreinte de métiers, comme les autres groupes de femmes
+		- Glass ceiling, Cloison verticale -> pas de falaise de verre car jamais placées au sommet de la falaise, internalisation ("j'ai eu le diplôme et c'est bien ainsi")
+- **Modèles d'empowerment de personnes handicapées**
+	- Modèle d'expérience d'empowerment (Pont, 2018) : expérience car vécu tel qu'il est réfléchi par les personnes, subjectivisé. Modèle car partagent des traits communs d'expérience. Empowerment : réussi à imposer leur vision, ressources d'actions du vécu réfléchi
+	- Deux modèles : *compensation* (études plus longues) pour contrer la dévaluation sociale -> volonté d'être *ultra compétente* (façon de s'aligner sur l'handicapisme/validisme)
+	- Figure vicariante : adoptent caractéristiques masculines par des socialisations; pas aliétnant de l'identité sexuée.
+- **La compensation**, modèle partagé et robuste :
+	- Validisme/capacitisme vécu et reproduit
+	- Caractéristiques masculines de l'action adoptées par des femmes, empouvoirantes
+	- Maintien dans la trajectoire
+- Bureau fédéral de l'égalité pour les personnes handicapées (BFEH) :
+	- Direction doit être consciente de l'inclusion professionnelle, répondre aux besoins individuels
+	- Poste de travail accessible, supprimer obstacles physique ou adapter
+	- Gestion du personnel ne doit pas désavantager, horaires flexibles, etc. => c'est la clé de l'inclusion dans le microcosme de l'entreprise
+	- Style de direction, bonne communication, quand bien informé, plus enclin à promouvoir diversité
+	- Equipe
+- Remarques critiques :
+	- Associer "diversité" et "innovation" : habituellement, les persones handies sont associées à éa diversité, mais exclues de l'innovation
+	- "Handispécificité " ? - Non, variabilité des compétences, identitiés, parcours personnels/professionels, ce n'est pas forcément de l'handispécificité, "résilience" non.
+	- "Elite handicapée" ?
+	- Inclusion est conditionnelle de la performance ? Retombe dans conceptions capacitismes
+- Ne pas glisser vers stéréotypisation, au dela du discours, rendre chaque environnant inclusif, apprenant et pratiquant l'égalité de ttt des employé·e·s. -> sinon washing et effets de parole alors que c'est dans les pratiques de l'entreprise. Distinction entre rhétorique et les appellations objectivantes (dire pour exister). Créer microcosme avec distribution égalitaire de l'information, des connaissances et des opportunités pour faire éclater le plafond de verre => inclusion
+- La mesure de développement personnel après l'embauche d'une personne handi, modulation du cahier et des charges
+- Réfléchir à des mesures d'intervention
+- Concevoir des critères d'évaluation de mesures
 
 ## 31.10.2022 - pédagogies critiques
 
