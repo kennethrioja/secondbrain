@@ -1,6 +1,6 @@
-#Design centré utilisateur·trice et ergonomie
+# Design centré utilisateur·trice et ergonomie
 
-##Equipe enseignante : Mireille Bétrancourt, Mattia Fritz, Julien Venni
+## Equipe enseignante : Mireille Bétrancourt, Mattia Fritz, Julien Venni
 
 ## Table of contents
 <!-- vim-markdown-toc GFM -->

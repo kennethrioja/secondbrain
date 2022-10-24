@@ -1,6 +1,6 @@
-#Conduite de la recherche (M2)
+# Conduite de la recherche (M2)
 
-##Equipe enseignante : Eric Sanchez, Elsa Paukovics
+## Equipe enseignante : Eric Sanchez, Elsa Paukovics
 
 https://tecfalms.unige.ch/moodle/course/view.php?id=456
 

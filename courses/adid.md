@@ -1,6 +1,6 @@
-#Apprentissage Digital et formation à DIstance
+# Apprentissage Digital et formation à DIstance
 
-##Equipe enseignante : Gaëlle Molinari, Yannick Bleme Ze, Djamileh Aminian, Simon Flandin
+## Equipe enseignante : Gaëlle Molinari, Yannick Bleme Ze, Djamileh Aminian, Simon Flandin
 
 https://tecfalms.unige.ch/moodle/course/view.php?id=448
 

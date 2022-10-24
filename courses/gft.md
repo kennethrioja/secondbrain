@@ -1,6 +1,6 @@
 # Genre, formation, travail : interventions dans les systèmes d'éducation et de formation (*Gender, Training, Work: Interventions in Education and Training Systems*)
 
-##Equipe enseignante : Isabelle Collet
+## Equipe enseignante : Isabelle Collet
 
 ## Table of contents
 <!-- vim-markdown-toc GFM -->

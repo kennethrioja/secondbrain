@@ -1,6 +1,6 @@
-#Jeux Vidéo Pédagogiques
+# Jeux Vidéo Pédagogiques
 
-##Equipe enseignante : Nicolas Szilas, Kim 
+## Equipe enseignante : Nicolas Szilas, Kim 
 
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
