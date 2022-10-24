@@ -1,3 +1,7 @@
+#Apprentissage Digital et formation à DIstance
+
+##Equipe enseignante : Gaëlle Molinari, Yannick Bleme Ze, Djamileh Aminian, Simon Flandin
+
 https://tecfalms.unige.ch/moodle/course/view.php?id=448
 
 ## Table of contents
@@ -8,9 +12,9 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 * [29.09.2022 -](#29092022--)
 * [TODO](#todo)
 * [Resources](#resources)
-    * [EduTechWiki](#edutechwiki)
-    * [Books](#books)
-    * [People](#people)
+	* [EduTechWiki](#edutechwiki)
+	* [Books](#books)
+	* [People](#people)
 
 <!-- vim-markdown-toc -->
 

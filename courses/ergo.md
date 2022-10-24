@@ -1,3 +1,7 @@
+#Design centré utilisateur·trice et ergonomie
+
+##Equipe enseignante : Mireille Bétrancourt, Mattia Fritz, Julien Venni
+
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
@@ -6,14 +10,14 @@
 * [Démarche de conception centrée users](#démarche-de-conception-centrée-users)
 * [Analyse de l'activité de l'utilisateur](#analyse-de-lactivité-de-lutilisateur)
 * [Méthodes de base](#méthodes-de-base)
-    * [Entretien](#entretien)
-    * [Questionnaire exploratoire](#questionnaire-exploratoire)
-    * [Observation](#observation)
+	* [Entretien](#entretien)
+	* [Questionnaire exploratoire](#questionnaire-exploratoire)
+	* [Observation](#observation)
 * [Méthode complémentaire](#méthode-complémentaire)
 * [TODO](#todo)
 * [Refs](#refs)
-    * [Base](#base)
-    * [Cours](#cours)
+	* [Base](#base)
+	* [Cours](#cours)
 
 <!-- vim-markdown-toc -->
 

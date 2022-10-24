@@ -1,3 +1,7 @@
+#Jeux Vidéo Pédagogiques
+
+##Equipe enseignante : Nicolas Szilas, Kim 
+
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
@@ -5,6 +9,7 @@
 * [Bases du jeu vidéo](#bases-du-jeu-vidéo)
 * [Définitions](#définitions)
 * [Potentiels et limites](#potentiels-et-limites)
+* [Conception](#conception)
 * [Références](#références)
 
 <!-- vim-markdown-toc -->
@@ -92,6 +97,51 @@
     - Par la mécanique - app. d'un système, via les obstacles, + difficulté, + progression
     - Par le contexte - fiction, histoire
     - Par les media
+
+# Conception
+
+- Méthodologie générale :
+	- Démarche linéaire : Analyse du besoin -> Conception -> Réalisation -> Evaluation; - : Souci de ne pas voir où on va
+	- Démarche cyclique :
+		- ADDIE; -: mais reste assez linéaire
+		- Rapid Prototyping : prototype -> évaluation proto -> conception -> développement
+		- Extreme Programming : scénatios utilisateurs -> conceptions tests -> développement en binômes (code informatique plus révisable) -> passages tests -> livraisons partielles et fréquentes; + : comment par évaluation
+		- Développement Agile : collaboration interne & avec le client -> ouverture au changement -> planification court terme -> livraisons partielles et fréquentes; - : très stressant car beoin de produire ++
+	- Bilan :
+		- Meilleure réponse au besoin de l'user (s'adapter au besoin)
+		- Réactualisation des besoins possibles
+		- Anticiper les erreurs et incohérences très tôt
+		- Risque : projet sans fin... contractualisation
+		- Temps de developpement court
+		- Plannification plus souple
+	- Erreurs classiques :
+		- Sous-estimer l'analyse des besoins
+		- Passer directement à la recherche d'idées
+		- S'arrêter à la première solution - aller au bout et voir l'ensemble des solutions possibles
+		- Ne pas itérer
+- Analyse des besoins :
+	- Quid des besoins mal formulés ?
+		- Besoins formulés en termes de solutions
+		- Besoins multiples (*mais pourquoi?*) -> revenir au besoin ultimes, besoins cachés, besoins de qui (=/= opinions)
+	- Acteurs : demandeur, apprenant, experts, services techniques, hiérarchie
+	- Apprenant : besoin de formation (= écart entre les compétences nécessaires et les compétences réelles d'un individu)
+	- Décrire les connaissances :
+		- Savoir-faire, types de connaissances, +/- contextualisées, degrés d'expertise, liens (prérequis)
+	- Caractériser les apprenant·e·s :
+		- Niveau (compétence, "agilité"), âge, disponibilités, points de vue, valeurs, histoire, hétérogénéité
+	- Rôles de sautres acteurs :
+		- Dans le dispositif de formation à venir (comm, gestion de contenu, maintenance), pendant le projet (qui le porte, qui le soutient?)
+	- Analyser la situation actuelle :
+		- Comment les apprenant·e·s sont formés, localisation des compétences, ressources disponibles
+	- Contraintes et contexte :
+		- Environnement technique, confidentialité, durée du projet, moyens, culture et valeurs
+	- Comment : méthodes
+		- Tests/observations en situation
+		- Entretiens individuels avec demandeurs, autres acteurs
+		- Réunions de groupe
+		- Enquêtes
+		- Recueil indirect
+	- 
 
 # Références
 

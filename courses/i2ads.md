@@ -1,3 +1,7 @@
+#Introduction to Applied Data Science (I2ADS)
+
+##Equipe enseignante : Michael Dayan
+
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
