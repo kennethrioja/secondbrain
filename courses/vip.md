@@ -129,7 +129,7 @@
 		- Savoir-faire, types de connaissances, +/- contextualisées, degrés d'expertise, liens (prérequis)
 	- Caractériser les apprenant·e·s :
 		- Niveau (compétence, "agilité"), âge, disponibilités, points de vue, valeurs, histoire, hétérogénéité
-	- Rôles de sautres acteurs :
+	- Rôles des autres acteurs :
 		- Dans le dispositif de formation à venir (comm, gestion de contenu, maintenance), pendant le projet (qui le porte, qui le soutient?)
 	- Analyser la situation actuelle :
 		- Comment les apprenant·e·s sont formés, localisation des compétences, ressources disponibles
@@ -140,8 +140,48 @@
 		- Entretiens individuels avec demandeurs, autres acteurs
 		- Réunions de groupe
 		- Enquêtes
-		- Recueil indirect
-	- 
+		- Recueil indirect : experts du domaine; études internes ou externes
+	- Contenu d'un document d'analyse de besoins
+		- Analyse du contexte (dont la demande)
+		- Identification et caractérisation de *tous les acteurs*, ainsi que de leurs besoins
+			- Apprenant avec ses besoins de formation et ses connaissances
+		- Contraintes
+		- Reformulation de la demande : Se mettre d'accord sur ce qu'on a compris
+- Phases de conception :
+	- Besoins - Inspiration (analyse concurrentielle) - Connaissances sur les techno - Recherche documentaire - Connaissances
+	- Production -> Idées -> Sélection -> Solution(s) générale(s)
+	- Technique :
+		- Ne pas être technophile, ex. je veux dvper avec ça, quite à oublier le besoin initial
+		- Ne pas être technophobe, se rabattre sur les technique qu'on connait
+	- Production d'idées :
+		- Innovation & la première idée n'est pas toujours la meilleure
+		- Comment : "think out of the box"; quantité > qualité quite à produire de la mauvaise qualité, la qualité va être reportée après ; différer le jugement
+		- Brainstorming :
+			- Se réunir dans un lieu clos, s'isoler pour ne pas être dans le quotidien
+			- Jeter les premières idées
+			- Sortir tout ce qui passe par la tête, approche par la qtt
+			- Ne pas critiquer les autres, mais piquer les idées !
+			- APRES : sélectionner les plus pertinentes
+	- Sélection :
+		- Une solution parmi les autres argumentée selon :
+			- objectifs pédagogiques, autres besoins des acteurs, contraintes
+		- Choix pédago : approches, théories invoquées, logique du séquencement
+		- Scénario pédagogique
+- Outil auteur :
+	- Pourquoi? Gagner du temps, élaragir le cercle des contributeurs
+	- Dreamweaver, Google Site, Weebly, Carrd, Wordpress, Synfig, OpenToonz, Flash, Director, Mediator, Toolbook
+	- E-learning : Articulate, H5P, ExE, MindOnSite Solo, LAMS, smartbuilder, LearningApps, GoConqr, Hot Potatoes, Quizlet, ViewletBuilder, Captivate, ITycom, InscapeVTS
+	- Jeux : E-adventure, Adventure Maker, Inform, Storyspace, Twine, Construct, Clickteam Fusion, Game Maker, Gdevelop, RPG Maker, GameSalad, CraftStudio, Kodu, Struckd, GameGuru, NWN2, Unreal, Unity, Unreal Engine, Godot, Massive software
+	- Fonctions :
+		- Langage haut niveau, bibliothèques, navigation, débogage, aide intégrée, tests rapides (Integrated Development Environment)
+		- Choix en fonction des fonctionalités 'types' que donne l'outil auteur donne
+		- Tendance "technology driven" : suppression fonctionnalité "difficile" & ajouter fonctionalité "facile"
+		- Critères de choix : Equipes et environnement technique, ergonomie, ouverture, extensibilité, coût, pérénnité (produit et code)
+	- Construct 3 : jeux 2D
+	- Clickteam Fusion 2.5 : jeux 2D + simple
+	- Twine 2 : Hypertexte/hypermedia
+	- RPG Maker MV : RPG
+	- Unity : jeux 2D,3D
 
 # Références
 
