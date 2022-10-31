@@ -10,6 +10,7 @@
 * [03.10.2022 - Linux 3](#03102022---linux-3)
 * [10.10.2022 - Linux 3 & Git 1](#10102022---linux-3--git-1)
 * [24.10.2022 - Git 3](#24102022---git-3)
+* [31.10.2022 - Git 4](#31102022---git-4)
 
 <!-- vim-markdown-toc -->
 
@@ -101,6 +102,18 @@
 To merge a branch into main and see the history clearly :
 - `git rebase main` as it began like main
 - `git merge BRANCH --no-ff` 
+
+# 31.10.2022 - Git 4
+
+[exercises](https://www.dropbox.com/s/duk9r6b04aheq5a/git_part4_ex.pdf?dl=0)
+- after a fork :
+	- `git remote add upstream GITADDRESSOFUPSTREAM`; //upstream is the git you have forked from
+	- then `git pull upstream main`;
+	- `git checkout -b fix`;
+	- then do your changes, add, commit -m "#ISSUE_ID", push origin fix ; 
+	- and see your issue linked on Github ;
+	- on your forked repo : make a pull request using your fix branch
+
 
 TODO : 
 - ex3 ifelse and while, case, getops
