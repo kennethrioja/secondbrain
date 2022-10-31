@@ -203,6 +203,45 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 - Concevoir des critères d'évaluation de mesures
 
 ## 31.10.2022 - pédagogies critiques
+- Irène Pereira 
+- https://lecourrier.ch/2020/11/20/la-pedagogie-critique-ni-techniques-ni-outils/
+- Pédagogie critique :
+	- Paolo Freire : Pédagogie des opprimés (1968 Chili) : ouvrage le plus célèbre de Paolo Freire, plus des principes que des méthodes, il y a bien une méthode d'alphabétisation :
+		- 1. Prise en compte de l'expérience vécue, sociale des opprimés
+		- 2. Problématisation de la problématique sociale
+		- 3. Dialogue entre les savoirs différents (venant de l'expérience esituée des opprimés et des savoirs théoriques plus abstraits)
+		- Conscientisation : que la société est structurés en structure de pouvoirs
+		- Pédagogie critique orienté vers la praxie, passe par l'action et la réflexion.
+	- 1980 pédagogie féministe mais diverge de Paolo Freire sur le point que pas inclure féministe
+	- Emergence du post-structuralisme (par Foucault) vers début années 90.
+	- Bell Hooks : dès début années 80, fais partie d'un groupe d'autrices (black-feminism), qui lient question anti-capitalisme, anti-racisme et anti-sexisme (intersectionalité) :
+		- Elle ne nie pas que insuffisance prise en compte de P. Freire de féminisme.
+		- Elle va prendre acte de certaines limites des années 80 (marxiste) pour ajouter dimension féminisme.
+		- Se revendique de pédgogie critique féministe
+	- Pensée décoloniale : les réflexion portent sur l'articulation (écologique, intersectionalité) dans une approche globale contre l'ensemble des pressions sociales.
+- Henri Giroux (intellectuels reformateurs) :
+	- Approche républicaine ; Education nouvelle ; Vaninic (?)
+	- L'école est un lieu de reproduction et de résistance, pour p. critique c'est un espace ambivalent car deux axes : sociologue de la reproduction, ex. Bourdieu, fatalisme VS. pratiques de résistance au sein de l'école.
+	- Sa position : oui les élèves ont capacité de résistance, mais pas toujours bien orienté.
+	- Le rôle de l'intélectuel réformateur, de consicence orienté vers transformation sociale
+	- Ed nouvelle veut transformer la classe en amenant à transformation des ind, et mécaniquement de la société.
+	- Le rôle de l'education est de favoriser l'engagaement dans mouvement sociaux.
+- Modifier institutionalisation entre publique et inst. privé (famille)
+- Pour P. Freire : pour réaliser cette utopie, comment transformer, c'est le rôle de la pedagogie doit favoriser l'émergence des mouvements sociaux.
+- Rousseau est contractualiste : vous adhérez à contrat social, vous obéissez à la loi vous même prescrite.
+- La démocratie radicale : forme de démocratie se caractérise par le fait que les citoyens vont s'engager dans des mouvements sociaux :
+	- Education à citoyenneté radicale : prend en charge des capapcités nécessaire à l'engagement dans une citoyenneté radicale, nécessaire pour dynamique démocratique au sein de notre société.
+- La pédagogique critique n'a pas comme valeur l'efficacité :
+	- Malentendu, mouvement porté par monde néo-libéral de l'évaluation de l'efficacité. Critère premier est-ce que c'est efficace ou pas?
+- La pédagogie critique n'est pas de la didactique, P. F. la pédagogie est une posture relationnelle qui s'instaure dans le dialogue, ne s'agit pas d'un ensemble de techniques, ni de dialectique.
+- La manière, la posture éthique, certaine manière de se positionner, fera une pédagogie critique.
+- La pédagogie critique vise l'action collective.
+- Le numérique (comme l'école) est un espace de reproduction d'inégalité sociale et d'aliéniation. Quand on parle d'espace publique, du quel parle-t-on?
+	- Shoshana Zuboff (capitalisme de surveillance).
+- Justice sociale (Théorie de la justice - Will Kymlicka) :
+	- L'égalité des chances n'existe que via la méritocratie (à la base dénonce l'idée que si société méritocratique, société très injuste, fonctionnerait sur le mépris social)
+	- D'où vient le mérite ? Soit capacités naturelles (du coup mérite n'existe pas); soit par éducation de volonté.
+	- => c'est lié à l'égalité, idée que système doit être fondé sur égalité des chances.
 
 ## 07.11.2022 - no course
 
