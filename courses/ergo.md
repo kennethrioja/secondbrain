@@ -10,9 +10,6 @@
 * [Démarche de conception centrée users](#démarche-de-conception-centrée-users)
 * [Analyse de l'activité de l'utilisateur](#analyse-de-lactivité-de-lutilisateur)
 * [Méthodes de base](#méthodes-de-base)
-	* [Entretien](#entretien)
-	* [Questionnaire exploratoire](#questionnaire-exploratoire)
-	* [Observation](#observation)
 * [Méthode complémentaire](#méthode-complémentaire)
 * [TODO](#todo)
 * [Refs](#refs)
@@ -55,11 +52,12 @@
 	- Quelque chose qui est facile à utiliser donne l'impression que cette application va leur être utile mais le fait qu'être utilisable ne suffit pas. TAM 1 de [Davis (1989)](https://www.jstor.org/stable/249008?origin=crossref)
 	- Si facile -> utile, MAIS PAS INVERSE
 
-- [Hassenzahl, 2003](https://link.springer.com/chapter/10.1007/1-4020-2967-5_4)
+- Expérience Utilisateur : [Hassenzahl, 2003](https://link.springer.com/chapter/10.1007/1-4020-2967-5_4)
     - Sont distinguées des qualités pragmatiques perçues par l'user (ex. perception de l'utisabilité -> p. de l'utilité -> acceptabilité (intention d'usage) -> acceptation (usage effectif), les qualités hédoniques
         - *Simulation*
         - *Identification*
         - *Evocation*
+	- Intentions des concepteurs -> Qualités hédoniques (simulation, identité sociale) -> Qualités pragmatiques (clrté, structure, prévisibilité) -> Attractivité (esthétique,) ->
 
 - Application au cas des formateurs HES santé (Lecoultre, mémoire MALTT 2017)
 	- Sentiment d'efficacité personnelle des Technologies d'Information et de Communication des Enseignants (TICE) a un effet (.79) sur la perception de l'utilité pédagogique, ce qui va permettre un usage par les élèves (r =.27, "Front-office")
@@ -74,6 +72,9 @@
 		- L'outil permet la médiation entre le sujet et l'objet
 		- Communauté d'acteur aussi entre le sujet et l'objet
 
+- Affordance : Gaver (1991) & Borowska (2015) : Deux axes possibilité d'action x perçue, quatre quadrants.
+- Catacrèse (Rabardel) : utilisation détournée d'un objet pour faire autre chose "Un bon outil doit permettre la catacrèse"
+
 - Skill Rule Knowledge de Rasmussen
     - <img src="https://www.researchgate.net/profile/Joao_Carlos_Lima/publication/279226308/figure/download/fig1/AS:378915546779648@1467351914563/Behavioral-model-skill-rule-knowledge-SRK-Rasmussen-1983.png" width="500">(retreived from https://www.researchgate.net/figure/Rasmussens-model-automation-evolution-and-contributing-discipline-emergence_fig1_289849041)
     - Alertes lues mais pas souvent comprises par les users
@@ -81,6 +82,7 @@
     - Comportement réglé par des règles, est-ce qu'on est bien dans la situation? Règles connue mais que je dois activer - peut être enseigné
     - Résolution de problèmes, signes contradictoires et on rentre dans ttt de résolution de problème, prendre décision sur raisonnement et plannification - ex. scénario, alien débarque, etc.
 	- Régulation sur les automatismes -> Régulation sur les règles (identification des problèmes et plans d'actions à mettre en oeuvre) -> Régulation sur les connaissances (interpréter les conséquences)
+	- Skills (automatisés) x Rules (activation de règles apprises) x Knowledge (résolution de problème)
 
 - Thèse de Rolf Wipfli (2012) :
 	- 50 et 100% des alertes ne sont pas prises en compte (Sijs et al., 2006)
@@ -99,25 +101,48 @@
 
 # Méthodes de base
 
-## Entretien
-
-## Questionnaire exploratoire
-    
-## Observation
+- [Entretien, questionnaire exploratoire, méthode complémentaire](../articles.md#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
+- Dans conception centré utilisateur, on s'adapte aux besoins du public cible, ex. si consultant et dit "je sais comment ça va être" alors pas forcément centré utilisateur
     
 # Méthode complémentaire
 
-# TODO
+- [Focus Group](../articles.md#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
+- Pourquoi/Comment :
+	- Objectif : Faire expliciter les tâches en buts et sous buts décomposés, mettre en évidence la structure hiérarchique des tâches
+	- Participants : Interviewé et intervieweur + retranscripteur
+	- Déroulement : Crayon-papier, enregistrement, Interview, et quand silence, repose, à la fin résumé.
+	- Données : nom des tâches et descriptions
+	- Traitement : 1) lecture des interviews (familiarisation), 2) description des tâches, 3) analyse de la tâche (lien des tâches entre elles, hiérarchie), 4) rechercher éléments manquants (repréparer interview), 5) formaliser la tâche (description précise, comparer des interviews)
+	- Limites : long et lourde, débutants si pas experts, difficile de s'arrêter
+	- Avantages : facile à appliquer, systématique, exhaustif, facile de comparer entre sujets et groupes
+	- Quand :
+		- Plutôt à faire au début, dégrossissement, structure avec l'arbre, arriver à de l'opérationnel : à faire le plus tôt possible
+		- *Tâche prescrite*, à faire avant, la contraster avec la tâche prescrite, regarder les écarts entre les personnes ou la même personne
+- Information à la demande :
+	- Objectif : à travers un script, on va demander les pp de résoudre un problème
+	- Participants : un expérimentateur, un expert si pas expert, et un participant
+	- Déroulement : à travers questions, répondre, avoir données et résoudre le problème. L'expérimentateur sait
+	- Données obtenues : informations réelles, besoin qu'a le participant et dand quel ordre le fait
+	- Avantages : facilité de ttt des données
+	- Limites : validité écologique, connaissance de l'expérimentateur
+	- Quand : A faire avant la conception, et intérêt d'amélioration de l'interface.
+	- Exemple :
+		- Application de navigation, personne qui accompagnait, jouait le rôle de l'application et attendait "à la demande" les questions de l'utilisateur·trice
+		- Marche très bien pour le classement de documents
+- Technique de sincidents critiques :
+	- Objectif : permet étude de terrain, étude de iagnostic, collecter des récits d'incidents (négatifs, positifs)
+	- Participants : utilisateurs du système, pas un nombre précis, mais plus sur le nombre d'incidents
+	- Déroulement : notes et moyen d'enregistrement, 1) quel est le but de l'activité étudié en interiewant le spécialiste, 2) mener l'interview, 3) expliciter les consignes pour être au clair sur les objectifs 
+	- Données obtenues : 50/100 récits, ensemble de courts récits d'incidents
+	- Traitement : classifier les incidents, puis interpréter l'ensemble des incidents
+	- Avantages : peu rigide, simple, permet d'isoler rapidement les problèmes clés
+	- Limites : plus de négatifs, et pp craignent que ce qui va être utilisé contre eux, évalue capacité de la personne et non de l'objectif; doit être suivie par d'autres études; d'arriver à avoir des incidents critiques
+	- Quand : après la conception, plus pour évaluation
+	- Arrêt du recueil quand saturation des données
+- 
 
-- idée : 
-    - DIB74
-    - ask Nico pour asso roller street
-- lire les trois méthodes de base puis répondre au QCM
-- s'inscrire à méthode complémentaire, lire article et produire carte conceptuelle
-- 4 techniques aliées à l'entretien pour avoir informations.
-    - pourquoi
-    - événements remarquables, mal/très bien passé/problème
-    - focus group : entretiens structurés pour recueil de besoins
+# TODO
+- tuto comment monter son skate?
 
 # Refs
 
