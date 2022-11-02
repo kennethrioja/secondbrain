@@ -10,6 +10,8 @@
 * [Définitions](#définitions)
 * [Potentiels et limites](#potentiels-et-limites)
 * [Conception](#conception)
+* [](#)
+* [Intervention de J. Theler - E-teach](#intervention-de-j-theler---e-teach)
 * [Références](#références)
 
 <!-- vim-markdown-toc -->
@@ -182,6 +184,57 @@
 	- Twine 2 : Hypertexte/hypermedia
 	- RPG Maker MV : RPG
 	- Unity : jeux 2D,3D
+
+# 
+
+# Intervention de J. Theler - E-teach
+
+- Technopédagogue :
+	- Met en oeuvre des stratégies de formation en utilisant les technologies
+	- Coordination entre plusieurs acteurs; faire la gestion de projet; veille et recherche (trouver des sources : Linkedin, newsletter : http://sydologie.com/, https://latelierduformateur.fr/
+	- Ne pas forcément tout savoir faire, avoir l'humilité de trouver la personne qui saura mieux faire que nous même
+	- La finalité est la *formation*, le moyen et le *digital* : *formation digitale*
+	- Ne jamais obliger le participant, concevoir comme si à tout moment "je pars" -> se dire à tout moment pourquoi il resterait plutôt que d'aller ailleurs
+	- Comment faire une motivation motivante : la finalité est la motivation
+		- Motivation = disposition à consacrer de la ressource (énergie, temps, effort ...) à atteindre un objectif ~= carburant, ça se consomme
+- Scénarisation pédagogique :
+	- 1) La base : faire scénario non-ludique. Quelles sont les étapes d'apprentissage, une fois scénarisé, quels éléments de motivations pour appuyer ce chemin
+	- 2) Vise la *motivation* et le *feedback*; *Progression* changement d'état t0 et t1; *valorisation* du fait de progresser dans la formation
+	- ex. https://www.ladragueautravail.ch/ :
+		- Contexte - contenu initial - challenge
+		- Problème principal : "pourquoi je suis là? pourquoi mon entreprise fait ça?"
+		- Travailler sur la *curiosité* "drague au travail"
+		- *Implication* pas passif
+		- *Prise de conscience* : conséquences graves, peut arriver dans leur entreprise
+		- *Diagnostic & Formation* : c'est un sujet dont je devrais avoir plus d'information, où et comment faire
+		- *Changement* : faire évoluer son savoir-faire et son savoir-être
+		- Il y a des modèles de scénario, mais on ne peut pas en avoir un qui se refait *ad vitam eternam*
+		- Segmenter le contenu et le cheminement du participant afin de l'emmener à changer ses pratiques
+- Gamification :
+	- Comment faire pour que le participant puisse faire le pas d'après
+	- Objectif d'un jeu = créer une émotion / du plaisir
+	- Objectif d'une activité gamifiée = encourager une action :
+		- ne ressemble pas forcément à un jeu
+		- tient compte d'autant de la pédagogie que du game design
+		- ne parle pas qu'aux joueurs
+	- Objectif d'une formation gamifiée = encourager une action permettant l'acquisition de compétences
+	- Ajustement du comportement jusqu'à celui de gagner : la personne exprime des comportements et feedbacks pour renforcer le bon comportement
+	- Scénario - Objectif - Choix et conséquences - Feedback (omniprésence, boucle rétroactive)
+	- Trilogie du mal : points - badge - classement
+	- Duolinguo : cas d'école de gamification, découper, défis quotidien
+	- Avoir des méthodes, s'appuyer sur des théories
+	- https://www.gamified.uk/ :
+		- Prendre en compte de la culture du client, filtrer avec le client sur les différents types de gamification
+		- Bien aussi quand itérations, et donne des idées
+		- As-tu pensé à... sorte de checklist d'avoir ces cartes
+	- Boucle d'engagement : ... -> motivation -> action -> feedback -> motivation ...
+	- Invitation -> Introduction -> Activités -> Conclusion -> Envie d'appliquer
+- Trois questions :
+	- Quelle est la situation actuelle ?
+	- Quelle est la situation souhaitée (Que souhaitez-vous voir à la fin) ?
+	- Quels sont les leviers et freins à cette formation chez vous (contexte) ?
+- On nous engage pour que le personnel change, non pas pour faire un e-learning
+- Être transparent sur les enjeux et important pour se protéger pour analyser les besoins, freins, quels sont les changements sur lesquels changer
 
 # Références
 
