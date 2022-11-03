@@ -11,6 +11,9 @@
 * [Analyse de l'activité de l'utilisateur](#analyse-de-lactivité-de-lutilisateur)
 * [Méthodes de base](#méthodes-de-base)
 * [Méthode complémentaire](#méthode-complémentaire)
+* [Persona](#persona)
+* [Carte d'expérience](#carte-dexpérience)
+* [Conception centrée utilisateur de site Web](#conception-centrée-utilisateur-de-site-web)
 * [TODO](#todo)
 * [Refs](#refs)
 	* [Base](#base)
@@ -139,6 +142,30 @@
 	- Limites : plus de négatifs, et pp craignent que ce qui va être utilisé contre eux, évalue capacité de la personne et non de l'objectif; doit être suivie par d'autres études; d'arriver à avoir des incidents critiques
 	- Quand : après la conception, plus pour évaluation
 	- Arrêt du recueil quand saturation des données
+
+# Persona
+- "Raconte-moi la dernière fois que tu..." ou "Lorsque tu as fait..." : préciser une séquence précise
+- On doit poser le moins de question possible, juste utiliser les relances (Pourquoi, Comment). Avoir un guide d'entretien pour explorer.
+- Entretien semi-directif, on ne pose qu'une question large
+- Pour bibliographie/infos personnelles : Demander de se présenter, mais ne pas trop être intrusif (question de brise-glace).
+- Construction fictive mais ne pas être similaire, avoir une certaine créativité, pas nécessairement une personne réelle.
+- **Synthèse avec éléments qui permettent d'avoir un profil cible**.
+- Répondre à tous les profils d'users cibles. L'idée d'en avoir plusieurs ne pas s'enfermer dans un profil cible.
+
+# Carte d'expérience
+- Identifier des publics cibles, l'ergonomie, contenu et les fonctionalités
+- Utilisabilité : adapter le contenu des fonctions par rapports aux users et leur expérience.
+- Utilité : fournir un contenu utile
+
+# Conception centrée utilisateur de site Web
+- Stratégie :
+	- Information : Objectif stratégique
+	- User : Besoins utilisateur·trice, activités, trouver les points de contact entre ce qu'ils proposent et ce qu'ils font
+	- Le but n'est pas de trouver comment faire l'activité, mais de faire l'activité (activité finalisée)
+- Focus :
+	- Information : Contenu
+	- User : Fonctionalités
+- ...
 - 
 
 # TODO
