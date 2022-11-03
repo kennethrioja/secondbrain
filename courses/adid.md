@@ -10,6 +10,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 * [Objectifs de cours](#objectifs-de-cours)
 * [28.09.2022 - Comment apprend-on? Définitions, courants et processus](#28092022---comment-apprend-on-définitions-courants-et-processus)
 * [29.09.2022 -](#29092022--)
+* [03.11.2022](#03112022)
 * [TODO](#todo)
 * [Resources](#resources)
 	* [EduTechWiki](#edutechwiki)
@@ -106,6 +107,37 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 - 2 :
     - relation entre représentation/perception et des pratiques
     - 
+
+# 03.11.2022
+
+- Awareness : capacité de prendre en compte l'information de façon rapide
+- Quand travaille en groupe :
+	- Problèmes de coordination, de synchronie
+	- Objectif de se construire un terrain commun (common ground) construite au fur et à mesure de la collaboration
+	- Effort continu et mutuel
+	- [Barron (2003)](https://doi.org/10.1207/S15327809JLS1203_1) : "Collaboration might productively be thought of as involving a dual-problem space that participants must simultaneously attend to and develop a content space (consisting of the problem to be solved) and a relational space (consisting of the interactional challenges and opportunities)."
+		- problem cognitif : résoudre la tâche
+		- social : challenge de la relation interpersonnelle, problèmes à résoudre, réguler afin de trouver un consensus
+- CSCW : Computer Supported Collaborative Work
+- [Dourish & Bellotti (1992)](https://doi.org/10.1145/143457.143468) : "awareness is an understanding of the activities of others, which provides a contextfor your own activity. This context is used to ensure that individual contributions are relevant to the group’s activity as a whole, and to evaluate individual actions with respect to group goals and progress."
+- Partner/mutual modelling ([Molinari et al., 2009](https://doi.org/10.1007/BF03173006)) : the process of inferring the mental states of others (their knowledge, beliefs, etc.)
+- [Nova (2002)](https://infoscience.epfl.ch/record/30469), 5 critères pour définir des outils d'awareness :
+	1. Content
+	2. Time span
+	3. Mode
+	4. Recipient
+	5. Perceptual output
+- [Gutwin & Greenberg (2002)](https://doi.org/10.1023/A:1021271517844) : Qui, Quand, Quoi, Comment
+- Schneider ...
+- ... A VOIR
+
+- Espace phygital : espace entre le physique et le digital
+- Seamless learning : continuité pégagogique
+- Faclab : documenter et partager, développer du logiciel pour les autres.
+
+- Successive Approximation Model ([Allen & Sites, 2012](https://books.google.ch/books?hl=fr&lr=&id=DSQBJOt2_0cC&oi=fnd&pg=PR7&dq=related:NayM07oOkGsJ:scholar.google.com/&ots=6dxobdXKhf&sig=xFhFEpUGNrHSOFiqlVNgZ0angAs&redir_esc=y#v=onepage&q&f=false))
+- Que voulez vous adresser, quel succès à travers ce projet ?
+- 
 
 # TODO
 
