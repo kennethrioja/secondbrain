@@ -128,7 +128,17 @@ To merge a branch into main and see the history clearly :
 - `dictionary = { 'one': 1, 'two': 2 }` `.keys()` `.values()` Note : a dic is not ordered
 - `tuple = (42, 'method1', 3.14)` these are fixed, ex. longitude/latitude
 	- `sub-tuple1, sub-tuple2 = tuple` unpack tuple
-- `my_dict = {\n\t'one': 1,\n}\nmethods = dir(my_dict)\nproper_methods = []\nfor i, meth in enumerate(methods):\n\tif not methods[i].startswith('_'):\n\tproper_methods.append(meth)\nprint(proper_methods)`
+```python
+my_dict = {
+    'one': 1,
+}
+methods = dir(my_dict)
+proper_methods = []
+for i, meth in enumerate(methods):
+    if not methods[i].startswith('_'):
+        proper_methods.append(meth)
+print(proper_methods)
+```
 
 TODO : 
 - ex3 ifelse and while, case, getops
