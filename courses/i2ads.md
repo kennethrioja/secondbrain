@@ -11,6 +11,7 @@
 * [10.10.2022 - Linux 3 & Git 1](#10102022---linux-3--git-1)
 * [24.10.2022 - Git 3](#24102022---git-3)
 * [31.10.2022 - Git 4](#31102022---git-4)
+* [07.11.2022 - Python 1](#07112022---python-1)
 
 <!-- vim-markdown-toc -->
 
@@ -114,6 +115,20 @@ To merge a branch into main and see the history clearly :
 	- and see your issue linked on Github ;
 	- on your forked repo : make a pull request using your fix branch
 
+# 07.11.2022 - Python 1
+
+- .ipynb :
+	- `y` to go Code
+	- `m` to go Markdown
+	- `dd` to delete cell
+- `print(...,..., sep = ' ')` you can separate while printing
+- `print(f"it's my {25+1}th bday")` displays 26, it is a formatted string, note the f
+- `print?` help
+- `dir(obj)` see the list of all methods applying to an object
+- `dictionary = { 'one': 1, 'two': 2 }` `.keys()` `.values()` Note : a dic is not ordered
+- `tuple = (42, 'method1', 3.14)` these are fixed, ex. longitude/latitude
+	- `sub-tuple1, sub-tuple2 = tuple` unpack tuple
+- `my_dict = {\n\t'one': 1,\n}\nmethods = dir(my_dict)\nproper_methods = []\nfor i, meth in enumerate(methods):\n\tif not methods[i].startswith('_'):\n\tproper_methods.append(meth)\nprint(proper_methods)`
 
 TODO : 
 - ex3 ifelse and while, case, getops
