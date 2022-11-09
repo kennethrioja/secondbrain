@@ -1,6 +1,6 @@
 | command                                       | description                                                                                                                           |
 | ---                                           | ---                                                                                                                                   |
-| `<C-q>`, _choose_, `I`, _type_, `<Esc>`       | add in multiple lines                                                                                                                 |
+| `<C-v>`, _choose_, `I`, _type_, `<Esc>`       | add in multiple lines                                                                                                                 |
 | `:split` or `:vsplit`                         | splits obsiously                                                                                                                      |
 | `<C-w> [hjkl]`                                | navigate between panes                                                                                                                |
 | `.`                                           | paste last action                                                                                                                     |
