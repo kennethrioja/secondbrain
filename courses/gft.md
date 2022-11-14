@@ -19,7 +19,7 @@
 * [14.11.2022 - posters](#14112022---posters)
 * [21.11.2022 - enjeux de genre en education et formation](#21112022---enjeux-de-genre-en-education-et-formation)
 * [28.11.2022 - politiques égalité](#28112022---politiques-égalité)
-* [05.12.2022 -  caractérisation des interventions genre](#05122022----caractérisation-des-interventions-genre)
+* [05.12.2022 - caractérisation des interventions genre](#05122022---caractérisation-des-interventions-genre)
 * [12.12.2022 - quelles bonnes ppratiques](#12122022---quelles-bonnes-ppratiques)
 * [19.12.2022 - cas pratique : analyse d'une intervention](#19122022---cas-pratique--analyse-dune-intervention)
 * [TODO](#todo)
@@ -246,12 +246,15 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 ## 07.11.2022 - no course
 
 ## 14.11.2022 - posters
+- AF : nombre de h/f, source du livre
+- nous évaluent : grp. 20
+- on évalue le grp 9 :
 
 ## 21.11.2022 - enjeux de genre en education et formation
 
 ## 28.11.2022 - politiques égalité
 
-## 05.12.2022 -  caractérisation des interventions genre
+## 05.12.2022 - caractérisation des interventions genre
 
 ## 12.12.2022 - quelles bonnes ppratiques
 
