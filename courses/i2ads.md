@@ -12,6 +12,7 @@
 * [24.10.2022 - Git 3](#24102022---git-3)
 * [31.10.2022 - Git 4](#31102022---git-4)
 * [07.11.2022 - Python 1](#07112022---python-1)
+* [14.11.2022 - Python 2](#14112022---python-2)
 
 <!-- vim-markdown-toc -->
 
@@ -134,11 +135,47 @@ my_dict = {
 }
 methods = dir(my_dict)
 proper_methods = []
-for i, meth in enumerate(methods):
-    if not methods[i].startswith('_'):
+for meth in methods:
+    if not meth.startswith('_'):
         proper_methods.append(meth)
 print(proper_methods)
 ```
+
+# 14.11.2022 - Python 2
+
+[exercises]()
+- `def` to define a fonction
+- `None` special Python keyword
+- Function docstring
+```python
+def my_function(p1: int, p2: str) -> str :
+'''	Description of the function
+
+	Parameters
+	----------
+	p1
+		whatyouwant
+	p2
+		whatyouneed
+	
+	Returns
+	-------
+	whatitreturns
+		description
+'''	
+```
+- `import sys` > `sys.path.append("pathwhereyouaddedanewfunction")` > ìmport `filewithout.py` > now you can use 
+- Two ways to import :
+	- `import package`
+	- `from package import my_function`
+- `import importlib` > `importlib.relad(my_module)`
+- In Python code : `if __name__ == "__main__"`
+	- When called from cmd line : __name__ == "__main__"
+	- When imported : __name__ == "filename"
+- `assert ifelsestatement, "INTERNAL BUG: ..."` statement to say internal error
+- `raise ValueError("EXTERNAL ERROR: ...")` statement to say external error
+- `pytest` package to test all the 'test' files
+	- you can also test documentation by adding flag `--doctest-modules`
 
 TODO : 
 - ex3 ifelse and while, case, getops
@@ -147,4 +184,4 @@ TODO :
 	- do not begin with linux capstone, but you can begin with the git capstone
 	- when ready to be graded, you need to tag
 	- shellcheck before pushing
-	- 
+	- you can create a new issue and tag eyap and michael, describe issue and submit : to have support
