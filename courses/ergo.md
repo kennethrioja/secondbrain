@@ -14,6 +14,8 @@
 * [Persona](#persona)
 * [Carte d'expérience](#carte-dexpérience)
 * [Conception centrée utilisateur de site Web](#conception-centrée-utilisateur-de-site-web)
+* [Les éléments de l'user expérience](#les-éléments-de-luser-expérience)
+* [AttrakDiff](#attrakdiff)
 * [TODO](#todo)
 * [Refs](#refs)
 	* [Base](#base)
@@ -166,10 +168,29 @@
 	- Information : Contenu
 	- User : Fonctionalités
 - ...
-- 
+
+# Les éléments de l'user expérience
+
+- Représentations (ce que j'en sais ou crois que j'en sais)
+- Attitudes (ce que j'en pense, ce que j'aime ou non)
+	- Lien avec Représentations grace aux dimensions pragmatiques (ce que je peux faire de l'interface) et hédonique (me plaît ou pas), cf. Hassenzahl
+- Perceptions subjectives (évaluées par questionnaires/entretiens) et pratiques effectives (évalués par observations, traces, inthe wild ou en test UX)
+- Grille heuristiques :
+	- Conception pour informer les choix d'interface
+	- Evaluation pour systématiser une inspection experte (expert ergonome ou UX) ou synthétiser les résultats d'un test UX
+	- Finalités : permet structure l'argumentation et diagnostique pour savoir comment agir
+- [Nielsen (1994) - 10 heuristiques](https://www.nngroup.com/articles/ten-usability-heuristics/) :
+	- Facilité d'apprentissage, efficience, gestion des erreurs, satisfaction
+- [Lee & Kozar (2012)](https://doi.org/10.1016/j.dss.2011.10.004) :
+	- Sur les sites web, validés empiriquement par questionnaire
+- [Bastien & Scapin (1995)](https://doi.org/10.1080/10447319509526114) :
+	- Recueil d'un grand nombre de données expérimentales et de recommandations d'experts
+
+# AttrakDiff
+
+- [Lallemand et al. (2015)](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 
 # TODO
-- tuto comment monter son skate?
 
 # Refs
 

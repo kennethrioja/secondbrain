@@ -16,6 +16,7 @@
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
+* [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
@@ -428,6 +429,21 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Comments**
 - 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
+
+## [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](https://doi.org/10.1016/j.erap.2015.08.002)
+
+**THM** : French questionnaire to assess pragmatic, hedonic-identification, hedonic-stimulation and attractiveness aspects for user experience
+
+**Authors** : Carine Lallemand, Vincent Koenig, Guillaume Gronier, Romain Martin
+
+**Tags** : :UX: :HMI: :assessment: :user-experience:
+
+**Abstract** : Introduction. – Alors que l’évaluation de l’expérience utilisateur (UX) est au cœur des préoccupations dans le domaine des interactions homme–machine, aucun outil d’évaluation auto-administré valide de l’UX n’existe actuellement en langue franc¸ aise. Le questionnaire AttrakDiff 2 (Hassenzahl, Burmester, & Koller, 2003) est un outil d’évaluation de l’UX qui repose sur un modèle théorique distinguant qualités pragmatiques et qualités hédoniques des systèmes interactifs. Objectif. – Cet article décritla traduction etla validation de la version franc¸ aise du questionnaire AttrakDiff 2 en vue de son utilisation sur des échantillons de population francophone. Méthode. – Suivant la méthodologie de validation transculturelle proposée par Vallerand (1989), le questionnaire a été traduit par des chercheurs trilingues puis a fait l’objet d’un processus de traduction renversée et d’une validation par un comité d’experts. Un prétest a été effectué sur 26 participants. Les caractéristiques de la version franc¸ aise de l’AttrakDiff 2 ont ensuite été évaluées par une étude quantitative en ligne sur un échantillon de 381 utilisateurs. Résultats. – Les résultats des analyses effectuées confirment la structure factorielle attendue en 3 facteurs et une bonne consistance interne des sous-échelles. Les liens entre les facteurs sont consistants avec le modèle théorique d’Hassenzahl (2003) où attributs pragmatiques et hédoniques perc¸ us se combinent pour former un jugement d’attractivité. Conclusion. – La présente version franc¸ aise de l’AttrakDiff 2 est globalement conforme à la version initiale allemande de l’outil et présente des niveaux de validité et de fidélité satisfaisants
+
+**Notes**
+- 4 échelles : aspects pragmatiques (utilité, utilisabilité, "do-goals"), hédonique identification (exprime leur "self" à travers les objets qu'ils possèdent et utilisent), hédonique stimulation (quête de connaissance et compétence), attractivité (appréciation globale découlant de la qualité perçue)
+- La qualité pragmatique désigne principalement les aspects instrumentaux du système ou produit, càd son utilisté et son utilisabilité
+- Critique : hédonique > pragmatique
 
 ## Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.
 
