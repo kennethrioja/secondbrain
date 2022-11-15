@@ -9,3 +9,4 @@
 [libre/i2ads](i2ads.md)<br>
 [libre/gft](gft.md)<br>
 [42/c++](cpp.md)
+[42/netpractice](netprac.md)
