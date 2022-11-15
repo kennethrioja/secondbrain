@@ -43,12 +43,55 @@ http://math.univ-lyon1.fr/irem/Formation_ISN/formation_reseau/couche_reseau/masq
   11110000
 - Constitue de deux parties : adresse reseau (3 premiers octets) et adresse
   machine (dernier octet)
-- Le masque est un separateur entre la partie reseau et la partie machine d'une
-  adresse IP
-- Le masque determine le nb de machines d'un reseau
-- On choisira le masque en fonction du nombre de machines installes dans le
-  reseau
-- 207.142.131.245/255.255.255.0 designe la machine d'adresse 245 sur le reseau d'adresse
-  207.142.131.0
-- Notation plus courte : IP/nb de bits a 1, ex. 207.142.131.245/24
-- 
+- Masque reseau :
+	- Le masque est un separateur entre la partie reseau et la partie machine d'une
+	  adresse IP
+	- Le masque determine le nb de machines d'un reseau
+	- On choisira le masque en fonction du nombre de machines installes dans le
+	  reseau
+	- 207.142.131.245/255.255.255.0 designe la machine d'adresse 245 sur le reseau d'adresse
+	  207.142.131.0
+	- Notation plus courte : IP/nb de bits a 1, ex. 207.142.131.245/24
+	- IP : 192.168.150.35 > masque : 255.255.255.0 > adresse reseau :
+	  192.168.150.0 > adresse de diffusion : 192.168.150.255
+
+https://github.com/tblaase/Net_Practice#contents
+- Particularite du masque : une fois qu'un bit est `0`, il ne peut y avoir de
+  `1` apres, ainsi `255.255.255.0` est valide, `255.255.128.128` n'est pas
+  valide
+- Fourchettes d'IP speciales :
+	- Private network :
+		- `10.0.0.0 - 10.255.255.255`
+		- `172.16.0.0 - 172.31.255.255.255`
+		- `192.168.0.0 - 192.168.255.255`
+	- Loopback adresses :
+		- `127.0.0.0 - 127.255.255.255`
+
+# Level 1
+
+- Change adresse machine
+
+# Level 2
+
+- Get same mask
+- Change adresse machine
+- Change 1er octet IP valid & adresse machine
+ 
+# Level 3
+
+- Check mask :
+	- Copy mask everywhere
+	- If 255, l'IP reste la meme
+
+# Level 1
+
+- Change adresse machine
+
+# Level 1
+
+- Change adresse machine
+
+# Level 1
+
+- Change adresse machine
+
