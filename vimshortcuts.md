@@ -21,4 +21,5 @@
 | `gr{motion}`                                  | get replace, note: yank something before! ([vim ReplaceWithRegister](https://github.com/inkarkat/vim-ReplaceWithRegister))            |
 | `gz{motion}`                                  | get titlecaZe ([vim titlecase](https://github.com/christoomey/vim-titlecase))                                                         |
 | `gs{motion}`                                  | get sort ([vim sort motion](https://github.com/christoomey/vim-sort-motion))                                                          |
+| `:GenTocGFM`                                  | Generate Toc in GFM link style                                                                                                        |
 |                                               |                                                                                                                                       |
