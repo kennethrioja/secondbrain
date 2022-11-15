@@ -22,4 +22,5 @@
 | `gz{motion}`                                  | get titlecaZe ([vim titlecase](https://github.com/christoomey/vim-titlecase))                                                         |
 | `gs{motion}`                                  | get sort ([vim sort motion](https://github.com/christoomey/vim-sort-motion))                                                          |
 | `:GenTocGFM`                                  | Generate Toc in GFM link style                                                                                                        |
+| `gl{bulletpoint}`                             | get list 1. or -                                                                                                                      |
 |                                               |                                                                                                                                       |
