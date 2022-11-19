@@ -14,6 +14,7 @@
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
+* [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
@@ -373,6 +374,63 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Aspects of the software can modify the socio-cognitive dynamics between the learning partners. The computerised learning environment constitutes in itself a mediational resource which can contribute to create a shared referent between the social partners (Roschelle & Teasley)
 - Stop using 'collaboration' and 'explanation' as these are now too large.
 - "We have to study and understand the mechanisms of negociation to a much greater depth than we have so far"
+
+## [Ergolab, 2005 : L'analyse concurrentielle en ergonomie]()
+
+**THM** : 
+
+**Tags** : :ergonomie: 
+
+**Notes**
+- Utilisée dans les premières étapes du cycle de conception, en amont de toute réalisation et conception fonctionnelle d'une produit informatique
+- Centrée sur les fonctionnalités offertes par les applications ou sites étudiés
+- Extraire :
+	- Les points +/- ainsi que les conventions d'interface du domaine d'un site ou app comparable
+	- Les bonnes idées perçues pour s'en inspirer lors de la conception du site centré user
+- Les résultats ont des implications non négligeables sur la stratégie
+- "Existing, perhaps competing, products, are pften the best prototypes we can get of our own products" (Nielsen J., inspiré de Byrne, 1989)
+- Enjeux :
+	- **Comprendre le contexte concurrentiel dans lequel le projet s'inscrit :**
+		- > Quels concurrents ?
+		- > Comment ielles s'y prennent pour satisfaire les objectifs users ?
+		- > Quels sont les services proposés, fonctionnalités et contenus disponibles ?
+		- > Comment sont-ils présentés à l'internaute ?
+	- **Cerner les standards existants pour des éléments d'interface précis :**
+		- Standard = choix d'interface répétitif, comment est présenté l'objet, le produit, l'action
+		- Comportements, réflexes et raisonnements des users
+		- Eviter une totale découverte de notre siteweb
+		- Préférable standard que solution meilleure en termes d'utilisabilité
+		- > Comment l'internaute atteint un objectif donné, par quelles étapes doit-il passer ? Sont-elles identiques au travers du panel des sites analysés ? Quels sont les points communs ?
+		- > Comment sosnt envirsages les principes de navigation ?
+		- > Quelles sont les terminologies utilisées ?
+		- > Quels types de feedback sont fournis à l'user ? (ex. confirmation email)
+- Evaluation de l'utilité des contenus ou fonctionnalités et leur utilisabilité générale/détaillée
+- Méthode :
+	- Conduire des tests utilisateurs (mais limitation sur produits à étudier)
+	- Conception de personas, pour avoir en tête les objectifs users et de travailler sur les sites avec ces derniers en tête
+- Possibilité de focalisation seulement sur une fonctionnalité d'un site, mais ne pas aller dans le trop détail car on ne pourra pas reproduire les mêmes choix d'interface.
+- Plannification :
+	- Type de concurrents, nombre, nature
+	- Par 'concurrent' il s'agit d'une interface présentant des fonctionnalités / pages semblables à l'app voulue
+	- Quels sont les sous-buts nécessaires pour atteindre un objectif global ?
+	- Dégager la liste des sites à étudier ainsi que les points à étudier sur chacun de ces sites
+	- Permet de déterminer une liste des interface à analyser
+- Conduire l'AC :
+	- Etablir un ensemble d'actions qu'on va produire sur chaque site/app - basés sur l'analyse du contexte d'utilisation
+	- Construire des scenarii d'utilisation à répéter sur chacun des sites
+- Exploiter les résultats d'analyse :
+	1. L'analyse doit être restituée à un client ou a une équipe projet
+	2. Ne doit servir qu'à appuyer la conception
+	- Cette analyse doit être suivie de spécifications sur la marche à suivre pour ne pas reproduire des erreurs ou exploiter de bonnes idées
+- Avantages :
+	- Rapport qualité/prix
+	- Démarche rapide
+	- Connaître force/faiblesses des concurrents, leur manière de satisfaire les objectifs user, les meilleurs choix d'interface, les erreurs à ne pas reproduire
+	- Intégration assez facile des conventions web d'un domaine pointu
+	- Stratégie et marketing viennent en plus que l'ergonomie pure en termes d'utilité des services proposés, public cible, le ton employé
+- Inconvénients :
+	- Pas d'intervention des users réels
+	- Les résultats doivent être validés suite aux actions de conception détaillée, afin de s'assurer de la qualité ergonomique des choix effectués
 
 ## [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](https://doi.org/10.1145/1015864.1015884)
 
