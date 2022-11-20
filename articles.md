@@ -177,7 +177,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 ## [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](https://www.tandfonline.com/doi/abs/10.1207/s15327809jls0202_2)
 
-**THM** : 
+**THM** : Jigsaw method (learners as teachers and researchers), it's ok to have Hawthorne effects in the classroom, be careful on selective and not representative examples you can give/share, focus more on general, reliable and repeatable anecdotes
 
 **Authors** : Ann L. Brown
 
@@ -220,7 +220,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Dewey Effect :
 		- Romanticization of the process of discovery
 		- Readiness to learn :
-			- Child's cognitive level and his/her current place in soety (Dewey, 1929)
+			- Child's cognitive level and his/her current place in society (Dewey, 1929)
 			- Link with ZPD
 		- Discovery learning :
 			- The children learn best when discovering for themselves the verities of life (Dewey, 1929)
