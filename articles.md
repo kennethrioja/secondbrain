@@ -9,6 +9,7 @@
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
+* [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
@@ -173,6 +174,70 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **French resume made with Cappelle S.**
 - L’article s’intéresse à l’effet de la gamification, c’est-à-dire « l’utilisation d’éléments de game design dans des contextes hors-jeu » (Deterding et al., 2011), induite dans un contexte éducationnel (‘edu-gamification’). L’expérience compare trois versions d’une simulation de brassage de bière : une gamifiée (nG = 31), deux non-gamifiée (nNC =34 ; nNF = 33). La version gamifiée inclut 1) un but du jeu clair, 2) une liberté de choix, 3) de l’argent virtuel, 4) des récompenses verbales. L’article essaye de créer un modèle unifié des théories d’auto-détermination (Deci & Ryan, 1985), de charge cognitive (Sweller et al., 2011) et de la théorie cognitivo-affective de l’apprentissage par les média (CATML, Moreno, 2005). Des questions de recherche ont été énumérées pour corroborer ce modèle : effets de la gamification sur la motivation intrinsèque et sur l’apprentissage, ainsi qu’une médiation entre ces deux derniers. Malheureusement, les résultats ne seront pas concluants. Seule la version gamifiée a été perçue comme plus facile. Nous noterons cependant qu’ils n’ont pas discuté de la partie visuelle de leur interface, élément qui aurait pu être pris en compte dans l’analyse.
+
+## [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](https://www.tandfonline.com/doi/abs/10.1207/s15327809jls0202_2)
+
+**THM** : 
+
+**Authors** : Ann L. Brown
+
+**Tags** : :ecological-conditions-experimentation:
+
+**Notes**
+- In an Intentional Learning Environment :
+	- The computer are seen as tools for intentional reflextion and are meant to learn and collaborate.
+	- An assessment is allowing knowledge discovery and utilization, also it can add material for a portfolio since they are considered as projects
+- Jigsaw method (Aronson, 1978) :
+	- Assigning curriculum theme, each divided in 5 subtopics
+	- Students form 5 research groups, assigned responsibility for one of the five subtopics
+	- These groups prepare the teaching material using state-of-the-art computer technology
+	- Jigsaw method = students regroup into *learning groups* in which each student is expert in one subtopic, holding 1/5 of the information
+	- Each one-fifth need to be combined with the remaining fifths to make a whole unit
+	- All children in a learning group are expert on one part of the material, teach it to others, and prepare questions for the test that all will take on the complete unit
+	- Children acquire expertise and learn how to learn from texts and other media (Brown & Campione, 1990)
+- Methodological issues associated with attempts to assess conceptual change in situ :
+	- Relationship between laboratory and classroom work :
+		- Trade-off between experimental control and richness and reality
+		- Lab work informs classroom observation and vice versa
+	- Idiographic versus nomothetic approaches, oth the grain-size issue
+		- Study one subject in depth vs. single variable in many subjects for discoveing general laws or principles of behavior ?
+	- Bartlett Effect, or the problem of data selection
+		- Select among a large data base : how to avoid misrepresenting the data, however unintentionally ?
+		- Convert unfamiliar content into familiar material : we see the world through our existing knowledge and beliefs
+- Lessons to be learned from some of the most famous design experiments :
+	- Hawthorne Effect (Roethlisberger & Dickson, 1939) :
+		- Nature of control in mutifaceted interventions
+		- Description : Any intervention tends to have positive effects merely because of the attention of the experimental team to the subjects' welfare
+		- Findings :
+			1. All manipulations did not result in improvement
+			2. When improvements occurred, they did so under three general conditions :
+				- Workers *perceived* there to be improvements in the conditions being manipulated, whether or not this was so
+				- Workers *perceived* the changes to be in their interest
+				- Workers *perceived* that they were in control of their own condition of work = they were truly consultats of coinvestigators in the research endeavor
+		- But having an Hawthorne effect still improves results, it only is perceived as a failure for the experimenters, not the students
+		- Simple controls can never be entirely satisfactory; but they can provide insights into the operation of some of the major variables.
+		- Brown's major defense is that " a "Hawthorne effect" is what I want: improved cognitive productivity under the control of the learners, eventually with minimal expense, and with a theoretical rationale for why things work"
+	- Dewey Effect :
+		- Romanticization of the process of discovery
+		- Readiness to learn :
+			- Child's cognitive level and his/her current place in soety (Dewey, 1929)
+			- Link with ZPD
+		- Discovery learning :
+			- The children learn best when discovering for themselves the verities of life (Dewey, 1929)
+			- Link with constructivitst
+			- Guided discorvery is in the middle, but it is a role difficult to maintain
+			- It demands competence and confidents on the teacher-side
+		- Curriculum and society :
+			- Curricula should reflext the child's lived experiene and provide continuity with the family and community life (Dewey, 1929)
+	- Reality Principle :
+		- The problem of the shelf life of successful interventions
+		- Lasting effects ?
+		- Exhilaration > scientific credibility > disappointment and blame
+		- = software dev : alpha (developmental phase, it works under ideal supportive condition) > beta (tryouts at carefully chosen sites with less, but still considerable, support) > gamma (widespread adoption with minimal support)
+		- "What are the absolutely essential features that must be in place to cause change under conditions that one can reasonably hope to exist in normal school settings ?"
+- Seduce students into the world of learning, to make them engaged in the learning content
+- But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
+- Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
 
 ## [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](https://doi.org/10.3917/savo.023.0009)
 
