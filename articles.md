@@ -26,6 +26,7 @@
 * [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
+* [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [](#)
@@ -175,13 +176,13 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **French resume made with Cappelle S.**
 - L’article s’intéresse à l’effet de la gamification, c’est-à-dire « l’utilisation d’éléments de game design dans des contextes hors-jeu » (Deterding et al., 2011), induite dans un contexte éducationnel (‘edu-gamification’). L’expérience compare trois versions d’une simulation de brassage de bière : une gamifiée (nG = 31), deux non-gamifiée (nNC =34 ; nNF = 33). La version gamifiée inclut 1) un but du jeu clair, 2) une liberté de choix, 3) de l’argent virtuel, 4) des récompenses verbales. L’article essaye de créer un modèle unifié des théories d’auto-détermination (Deci & Ryan, 1985), de charge cognitive (Sweller et al., 2011) et de la théorie cognitivo-affective de l’apprentissage par les média (CATML, Moreno, 2005). Des questions de recherche ont été énumérées pour corroborer ce modèle : effets de la gamification sur la motivation intrinsèque et sur l’apprentissage, ainsi qu’une médiation entre ces deux derniers. Malheureusement, les résultats ne seront pas concluants. Seule la version gamifiée a été perçue comme plus facile. Nous noterons cependant qu’ils n’ont pas discuté de la partie visuelle de leur interface, élément qui aurait pu être pris en compte dans l’analyse.
 
-## [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](https://www.tandfonline.com/doi/abs/10.1207/s15327809jls0202_2)
+## [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](https://www.jstor.org/stable/1466837?seq=1&cid=pdf-reference#references_tab_contents)
 
 **THM** : Jigsaw method (learners as teachers and researchers), it's ok to have Hawthorne effects in the classroom, be careful on selective and not representative examples you can give/share, focus more on general, reliable and repeatable anecdotes
 
 **Authors** : Ann L. Brown
 
-**Tags** : :ecological-conditions-experimentation:
+**Tags** : :ecological-conditions-experimentation: :teach: :teach-guidelines: :jigsaw-method:
 
 **Notes**
 - In an Intentional Learning Environment :
@@ -828,6 +829,46 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :aging: :cognitive-neurorehabilitation: :computerized-cognitive-training: :training: :exergames: :neurotechnology: :serious-game:
 
 **Abstract** :Cognitive decline because of aging and neurodegeneration has become increasingly prevalent. This calls for the implementation of efficacious, motivating, standardized and widely available cognitive interventions for the elderly. In this context, serious video games and virtual reality may represent promising approaches. Here, we review recent research on their potential for cognitive prevention and neurorehabilitation of age-related cognitive decline and mild cognitive impairment (MCI). The majority of currently available data in this evolving domain lacks the methodological quality to draw reliable conclusions on the potential of novel technology for cognitive training in older people. However, single well designed randomized controlled trials have reported promising effects of cognitive interventions involving serious video games and virtual reality. The cognitive benefits of exergames promoting physical exercise with and without combined cognitive training remain unclear. The immersion into stimulating and motivating environments along with training content based on neuroscientific and neuropsychological models may represent a significant advance as compared with conventional computerized cognitive training. Additional research with sound methodology including sufficient sample sizes, active control groups and meaningful outcome measures of everyday function is needed to elucidate the potential of serious video games and virtual reality in multifactorial neurorehabilitation of cognitive decline in aging and neurodegeneration.
+
+## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
+
+**THM** : As researchers working in ecological conditions (e.g., schools), there are 'learning arrangements', and Rrs need to accept the rules of a different life-world = adapting to the situation
+
+**Authors** : Peter F. E. Sloane
+
+**Tags** : :first-person-perspective: :life-world-approach: :design-based-research: :ecological-conditions-experimentation:
+
+**Abstract** : Design-based research (DBR) is a programme where researchers co-operate with practitioners to work out new solutions. In DBR researchers interfere in daily life and participate in practitioners’ working processes. One open question is: What kind of knowledge can be generated in these projects? My starting point here is a DBR project in vocational education and training in Germany which is used for an investigation of the epistemological background of this kind of research enterprise. The characteristics of DBR are reflected on the basis of phenomenological and hermeneutical approaches. The basic assumptions of these concepts are introduced and applied to the DBR approach to show how DBR generally works and how, specially, features of DBR like participation in daily life, co-operation with practitioners, gathering knowledge in the field a. s. o. can be handled. The line of argumentation in this contribution is a radical switch between practical questions in daily work in DBR on one hand and theoretical re-assurance on the other hand. For researchers, DBR is an enterprise in a new world. The analytical paradigm does not prepare the voyagers for this journey. Therefore the non-analytic continental tradition of philosophy has to be re-discovered.
+
+**Notes**
+- What kind of knowledge can be generated with DBR ?
+- Two results to be distinguished :
+	- A design/prototype : solution to a problem, a proven tool
+	- Knowledge is generated : declarative or insight into organisational processes or knowledge about how things work in school and how they should be done
+	- => Researchers and practitioners learn how to design = 'Design Principles' (Euler, 2014)
+- Researchers are confronted with political, organisational and instructional requirements
+- The working contexts bring researcher with teachers, administrators, politicians, etc., and they have to look for agreements with these actors
+- Researchers are not only explainers but consultants
+- In society, specification os sciences and studies (academic disciplines) are 1) knowledge archives of society : researchers collect knowledge + 2) transfer this knowledge to society : e.g., teaching is the mechanism of turning knowledge into practice.
+- Hermeneutics means to find out what happens to yourself when you are engaged : mvmt from the perspective on an object (Kant) to concernment by an object (Dilthey). In the rational case, a Rr explains what he observes and in the second case he describes what affects him
+- Life-World approach :
+	- Researchers and practitionners live in different organisations with varying rules and obligation - researchers who go into the field to observe schoolwork change into a different environment
+	- Life-world = a counter-project to the natural eworld in (natural) science (Husserl, 1996, 1962)
+	> "The world as immediately or directly experiences in the subjectivity of everyday life, as sharply distinguished from the objective "worlds" of the sciences, which employ the methods of the mathematical sciences of nature; although these sciences originate in the life-world, they are not those of everyday life" (Life-world, 2016)
+	- Meaning for DBR ? School work does not exist as an 'unchangeable' object. It emerges for the researcher through his interactions with actors in school. Interaction bw researchers and practitioners is the basis to construct knowledge about this 'school world'
+	- Learning Arranements = researchers informed this practitionrs and moderated the focus groups who had to develop this prototype.
+- Inter-subjectivity, or how the others and their perceptions are conceptualized in a phenomenological concept :
+	- On Empathy : Researchers as counsellors re-construct the problems, work out the background of the problem in coop with the teachers and dvp strategies together to solve the problem => research journal and discussion groups = texts are produced
+	- On Textual Reality : We share situations, thus interpretations and backgrounds. Societal reality is mediated textually (Soeffner, 1983, 1986). A textual form or it does not exist (Derrida, 1986).
+	- On the Second-Person Perspective = intention to establish connections between the insight view (FP) and the outside explanation (TP) : communication where the researcher's third perspective has to be match with the practitioners' first perspective
+- Researchers need to accept the rules of a different life-world, and understand the culture in this 'school' world : by locating the acting persons and implicit hierarchy, and the sometimes informal obligations in this world
+- Rrs had to learn how the participating teachers define their roles in the process.
+- DBR projects' iterative cycle : 1) identifying and clarifying the problem, 2) theoretical foundation, 3) development of the design, 4) testing and formative evaluation of the design, 5) creation design pricniples, 6) itervention and summative evaluation
+- Working in the field means changing the life situation and makes it necessary to cope with the rules that exist in his field, allso it includes learning about the relevant knowledge and undertanding the cultural settings
+- Participating in practice gives researchers the possiblity to experience social interaction and find out, maybe in one of these eureka moments why things work the way they do because all of a sudden, an action pattern may become visible. In a more pragmatic sense, the researchers have to discover the logic of the narratives
+- Hermeneutical field 1: com and coop in the arena bw researchers and practictioners -> refers to commitments in the arena, step of gathering information, lot of doc texts produced and interpreted
+- Hermeneutical field 2 : com and coop in the scientific community bw Rr - link back the expeirences won in the arena
+- Joint time limited, both people from different life-worlds. 
 
 ## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
 
