@@ -13,6 +13,7 @@
 * [31.10.2022 - Git 4](#31102022---git-4)
 * [07.11.2022 - Python 1](#07112022---python-1)
 * [14.11.2022 - Python 2](#14112022---python-2)
+* [21.11.2022 - Python 3](#21112022---python-3)
 
 <!-- vim-markdown-toc -->
 
@@ -145,6 +146,7 @@ print(proper_methods)
 
 [exercises]()
 - `def` to define a fonction
+	- `def my_function(arg1:type, arg2:type) -> List[str]` // what comes after '->' is what he function returns
 - `None` special Python keyword
 - Function docstring
 ```python
@@ -176,6 +178,30 @@ def my_function(p1: int, p2: str) -> str :
 - `raise ValueError("EXTERNAL ERROR: ...")` statement to say external error
 - `pytest` package to test all the 'test' files
 	- you can also test documentation by adding flag `--doctest-modules`
+
+# 21.11.2022 - Python 3
+- Numerical python = numpy
+- `import numpy as np` // to get the abbreviation 'np'
+- To create an environment and activate it (it will change your path) :
+* `conda create --name datascience38 python=3.8`
+* `conda activate datascience38`
+- To install packages in an environment (once activated):
+* `conda install numpy`
+- You can use conda to switch between environments:
+* `conda activate proj27`
+* `conda deactivate`
+* `conda activate proj38`
+- To list packages in current environment
+* `conda list`
+- To remove a package, e.g. `numpy`
+* `conda remove numpy`
+- To list environments:
+* `conda info --envs`
+- To remove an environment:
+* `conda remove -n datascience38 --all`
+- `import requests` > `raise requests.exceptions.RequestException("Function not sucessful")`
+- `pytest your.py` // to test the environment
+
 
 TODO : 
 - ex3 ifelse and while, case, getops

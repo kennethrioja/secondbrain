@@ -691,6 +691,30 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Observer plusieurs users avec profils opposés
 - Se familiariser avec activité concernée (terminologie, outils, techniques) avant d'aller sur le terrain
 
+**Fiche 13 : Personas**
+- Processus de conception pour présenter et décrire les buts, besoins et caractéristiques de difféentes groupes d'users.
+- Utile pour générer des idées et guider les décisions de conception
+- First time seen dans conception de systèmes interactifs par Cooper 1999
+- *Empathie et la théorie de l'esprit* : les personas facilitent la compréhension des attentes du futur user (Brangier et al., 2012) et l'anticipation de ses comportements (Pruitt & Grudin, 2003)
+- *Théorie des stéréotypes* : simplification pragmatique et instanciée des users réel·le·s (Turner & Turner, 2011)
+- *Emotion et créativité* : engendre chez concepteurs un état émotionnel positif, procpice à l'élargissement de l'esprit, à la curiosité et à la créativité (Norman, 2012)
+- Facilite l'engagement des concepteur·trice·s dans le projet et favorisent une synergie positive au sein de l'équipe (Pruitt & Grudin, 2003)
+- Offrent représentation imagée, concrète, tangible des users cibles, qui par définition restent théoriques.
+- Peuvent être perçus comme trop abstraits, impersonnels ou trops axés sur les détails qui n'aident par le concepteur (Matthews & Judge, 2012)
+- Garder le focus sur les users : méthode de synthpse sur users *réels* afin que les produits correspondent *réellement* à leurs besoins.
+- Soutenir la génération d'idées en favorisant (Brangier et al., 2012) : nb d'idées plus important (fluidité), specte d'idées plus large (flexibilité), aide concepteurs à préciser idées et mieux élaborer (élaboration), lus de 50% des idées produites avec personna sont nouvelles (originalité)
+- Convaincre :
+	- Cette méthode permet à l'équipe de changer de perspective et de rester focalisée sur les users cibles,afin de mieux répondre à leurs besoins et de créer une UX positive et engageante
+	- Personas permettent de communiquer avec l'équipe et de construire une vision partagée des users. Ils sont basés sur une synthèse des données recueillies lors de la phase d'exploration des besoins
+	- Les personas permettent de générer des idées plus nombreses et cératives pour des produits plus innovants
+	- Utilité sur le long terme
+	- Excellents médiateurs qui facilitent la com entre les membres d'une équipe
+	- Servent de base à d'autres méthodes de conceptions dont les scénarios ou storyboards
+- Limitations :
+	- 
+	- 
+
+
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
 **THM** : The designer's role in one team during co-conception is to let other's creativity emerge, to do that, he needs to take a step back, not thinking about the product's expected qualities, but aiming at a 'user-designed' product.
