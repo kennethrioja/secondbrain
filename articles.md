@@ -27,6 +27,7 @@
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
+* [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](#tchounikine--tricot-2011--environnements-informatiques-et-apprentissages-humains)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [](#)
@@ -893,6 +894,56 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Hermeneutical field 1: com and coop in the arena bw researchers and practictioners -> refers to commitments in the arena, step of gathering information, lot of doc texts produced and interpreted
 - Hermeneutical field 2 : com and coop in the scientific community bw Rr - link back the expeirences won in the arena
 - Joint time limited, both people from different life-worlds. 
+
+## [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](https://hal.archives-ouvertes.fr/hal-00742999)
+
+**THM** : 
+
+**Authors** : Pierre Tchounikine et André Tricot
+
+**Tags** : :EIAH: :ITS:
+
+**Notes**
+- Environnement Informatique pour l'Apprentissage Humain (EIAH) = Intelligent Tutoring System (ITS)
+- Définition :
+	- En tant que système informatique : programme destiné à être utilisé par les apprenants impliqués dans une situations d'eneignement et à accompagner ou susciter leur apprentissage
+	- En tant que champs scientifique : ensemble des travaux visant à comprendre les processus de construction des EIAH et les phénomènes d'apprentissage liés à ces environnements informatiques
+- La vision actuelle (constructiviste) est donée sur l'idée que l'AP est une modification de la capacité à réaliser une tâche sous l'effet d'une interaction avec l'environnement.
+- Rôles que la machine peut tenir :
+	- Présentation de l'information, Traitement de l'information, Communication
+- Types de logiciels qui entrent dans EIAH :
+	- Tuteurs intelligents : doit disposer d'une modélisation des connaissances du domaine d'apprentissage.
+	- Hypermédias : rôle de représentation imagée.
+	- Micromondes : simulation, immersion dans un monde virtuel.
+	- Technologies de l'information et de la communication (TIC)
+	- Environnement informatique pour l'apprentissage collaboratif (EIAC)
+- Un EIAH est la conjonction d'une intention didactique ou pédagogique et d'un environnement informatique. COncevoir un EIAH, c'est concevoir, organiser et gérer un dispositif impliquant des acteurs humains et un ou plusieurs artefacts informatiques.
+- Le problème est la mise en oeuvre de situations d'apprentissage nécessitant la conception d'un artefact informatique spécifique, qui doit présenter des propriétés ou des caractéristiques explicitement liées à l'intention didactique ou au contexte pédagogique.
+- Il n'existe pas actuellement de processus (ou ensemble de propositions de processus) de conception des EIAH plus ou moins normalisé faisant l'objet d'un consensu comme cela peut l'être pour les systèmes d'information.
+- Description du processus de conception d'un EIAH :
+	- Points d'entrée :
+		- Technologie particulière - en lien avec de "nouveaux possibles" qui permet de créer des situations d'apprentissages "intéressantes"
+		- Processus d'ingénierie informatique, normes et standards - comment ces langages, avec leur syntaxe et sémantique, permettent de modéliser et/ou de mettre en oeuvre la situation pédagogique visée
+		- Théorie issue des sciences humaines et sociales - considéré comme fondement pour concevoir des situations d'apprentissages et artefacts informatiques associés
+		- Analyse didactique des connaissances disciplinaires - afin de déterminer les propriétés et caractéristiques de ces connaissances et de leur apprentissage, et sous quelles conditions les situations d'ap peuvent être transposées dans un environnement informatique tout en conservant leurs caractéristiques favorables à la construction du sens
+		- Acteur enseignant ou tuteur - qui veut faciliter la tâche, co-construction des objets et notions qui doivent être partagés par le système et ces enseignants
+		- Résultats empiriques dans le domaine de l'apprentissage - pour dégager des guides de conception
+	- Etapes :
+		- Inventer l'EIAH - imaginer, penser l'env. info, les users, contexte d'utilisation, utilisations attendues
+		- Spécifier - propriétés et caractéristiques
+		- Réaliser - build models and code
+		- Expérimenter - étuder sa correspondance aux attentes
+		- Raffiner & Faire évoluer - modifications en fonctions des expérimentations en milieu écologique
+- Enseigner est une ingénierie, càd, une utlisation raisonnée, à des fins de conception, de connaissances scientifiques. L'ingénieur·e a pour tâche de concevoir un dispositif qui permette d'atteindre un objectif donné, avec un certain nombre de ressources et de contraintes. Il conçoit une solution optimale.
+- Théorie de la charge cognitive :
+	- Prend en compte trois grands types de facteurs (niveau de connaissance des apprenants; complexité du contenu; type de contenu).
+	- Si les prior knowledge sont faibles, la conception de la situation d'enseignement doit s'attacher à réduire la charge cognitive inutile, en favorisant la réussite de la tâche, utilisant les illustrations pertinentes, expliquant les illustrations à l'oral ou écrit (pas les deux), ne donnent pas d'explications inutiles, concevant les leçon directives et utilisant des problèmes résolus en faisant disparaître progressivement les explications et les solutions
+- Elaborer de nouvelles connaissances sur l'apprentissage humain :
+	- Effet de modalité : 
+	- Effet de redondance :
+
+- Question cours ADID : « Un EIAH est, fondamentalement, la conjonction d’une intention didactique ou pédagogique et d’un environnement informatique » (p. 175). Que veulent dire Tchounikine et Tricot par conjonction ici? D’après vous, quelle répercussion cette façon de penser un EIAH peut-elle avoir sur les métiers du numérique pour l’éducation?
+	- 
 
 ## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
 
