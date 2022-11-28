@@ -21,6 +21,7 @@
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
+* [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)
@@ -29,6 +30,7 @@
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](#tchounikine--tricot-2011--environnements-informatiques-et-apprentissages-humains)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
+* [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [](#)
 
@@ -737,6 +739,42 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
     - désir de quoi? -> bénéfices attendus et donc les objectifs
     - responsables comment? -> manière d'y accéder, pertinence de ces objectifs et les outils méthodologiques qu'ils impliquent.
 
+## [Mayer, 2010 : Apprentissage et technologie](https://books.google.fr/books?hl=fr&lr=&id=306PApBeLTwC&oi=fnd&pg=PA179&dq=mayer+2010+learning+with+technology&ots=-KDkEGRGoN&sig=1tzXmzcDjMbGJ8R0GV1Nh8DciSk&redir_esc=y#v=onepage&q=mayer%202010%20learning%20with%20technology&f=false)
+
+**THM** : Principes de design pédagogique pour favoriser l'ap. par la tech
+
+**Authors** : Richard E. Mayer
+
+**Tags** : :learning: :technology: :cognitive-load:
+
+**Notes**
+- 2 questions :
+	1. Comment apprend-on avec la technologie du point de vue de l'apprenant ?
+	2. Comment exploiter la technologie pour facilité l'apprentissage du point de vue de l'enseignant·e ?
+- Fomation assistée par ordinateur, Multimédia, Simulations interactives, Hypertextes et hypermédias, Tuteurs intelligents, Recherche documentaire par requêtes, Agents pédagogiques animés, Environnements virtuels avec agents pédagogiques, Jeux sérieux, Apprentissage collaboratif assisté par ordinateur
+- Approche d'apprentissage par la technologie, centré technologie (comment utiliser technolgie pour enseigner) :
+	- Son plus grand défaut : ne tient pas compte de l'apprenant et postule que les apprenants et enseignants s'adapteront aux exigences des nouvelles technologies et non l'inverse (Norman, 1993)
+- Approche d'apprentissage par la technologie, centré sur apprenants (comment adapter la technolgie pour favoriser l'apprentissage)
+- Mécanismes d'apprentissage par la technologie :
+	- *Double canal* : le cerveau humain dispose de deux canaux distincts pour traiter les informations verbales et visuelles (Paivio, 1986, 2007)
+	- *Capacité limitée* : le cerveau humain ne peut traiter qu'une petite quantité d'informations à la fois dan chaque canal (Baddeley, 1999; Sweller, 1999)
+	- *Traitement actif* : l'apprentissage est signifiant lorsque l'apprenant met en oeuvre un processus cognitif approprié, par exemple, se concentrer sur les informations utiles, le sorganiser en une représentation cohérente et les intégrer aux connaissances pertinentes déjà acquises (Mayer, 2008; Wittrock, 1989)
+- L'enseignement par la technologie recouvre à la fois les supports, ou médias, pédagogiques, et les méthodes pédagogiques
+- Principes de design pédagogique susceptibles de favoriser l'ap. par la tech. :
+	1. Distinction entre traitements inutile (extraneous), essentiel (intrinsic) et génératif (germane) (Sweller, 1999)
+	2. Réduire le traitement inutile :
+		- Cohérence - les informations non pertinentes doivent être limitées
+		- Signalisation - les informations essentielles sont mises en évidence
+		- Redondance - aucun texte ne doit être ajouté à l'écran sur une animation narrative
+		- Contiguïté spatiale - le texte est placé à proximité des graphiques correspondants
+		- Contiguïté temporelle - la narration et l'animation correspondante sont présentées simultanément
+	3. Maîtriser le traitement essentiel :
+		- Segmentation - présentation d'animation en segments adaptés au rythme de l'apprenant
+		- Préformation - formation préalable à la désignation, à la locailsation et aux caractéristiques de sprincipales composantes
+		- Modalité - texte présenté sous forme verbale plutôt qu'écrite
+	4. Techniques pour favoriser le traitement génératif
+		- Multimédia - apprentissage plus en profondeur lorsqu'on est encouragé à construire des liens entre les mots et les images
+		- Personnalisation - adressage à l'apprenant à la première ou la deuxième personne
 
 ## [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](https://doi.org/10.1080/09297049.2022.2110577?link_credit=KennethRioja)
 
@@ -897,7 +935,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ## [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](https://hal.archives-ouvertes.fr/hal-00742999)
 
-**THM** : 
+**THM** : Overview of EIAH
 
 **Authors** : Pierre Tchounikine et André Tricot
 
@@ -939,11 +977,27 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Prend en compte trois grands types de facteurs (niveau de connaissance des apprenants; complexité du contenu; type de contenu).
 	- Si les prior knowledge sont faibles, la conception de la situation d'enseignement doit s'attacher à réduire la charge cognitive inutile, en favorisant la réussite de la tâche, utilisant les illustrations pertinentes, expliquant les illustrations à l'oral ou écrit (pas les deux), ne donnent pas d'explications inutiles, concevant les leçon directives et utilisant des problèmes résolus en faisant disparaître progressivement les explications et les solutions
 - Elaborer de nouvelles connaissances sur l'apprentissage humain :
-	- Effet de modalité : 
+	- Effet de modalité (ou de réduction du partage attentionnel) : correspond aux document pédagogiques multimodaux au sein desquels les diverses sources d'information qui requièrent d'être mies en relation pour être comprises sont présentées selon els modalités sensorielles différentes (auditive et visuelle)
+		- En intégrant physiquement ces informations et en les présentant selon des modalités sensorielles différentes, on facilite l'apprentissage
+		- ex. lire un texte explicatif tout en regardant des illustrations liées à ce texte risque de surcharger le canal visuel, entraînant une diminution des performances de compréhension VS. écouter un discours + regarder illustration n'entraînera pas de surcharge de traitement au niveau perceptif
+		- => connaissances nouvelles pour la conception de supports-documents d'apprentissage
 	- Effet de redondance :
-
+		- A l'inverse, quand une seule source suffit, l'ajout d'info redondantes détériore l'apprentissage (Cerpa, Chandler et Sweller 1996, Chandler et Sweller 1991, 1996, Kalyuga, Chandler et Sweller 1999)
+		- => [Le Bohec & Jamet (2005)](https://www.cairn.info/revue-le-travail-humain-2005-2-page-97.htm)
+	- L'analyse des erreurs
+	- Conception pour les activités instrumentées :
+		- L'environnement information est à la fois une ressource pour 'activité de l'apprenant et un facteur d'impact sur l'activité, puisque l'EIAH embarque une intention didactique et que ses propriétés ne sont pas contingentes.
+		- Un EIAH rend certaines choses possibles et d'autres pas, et ces éléments ont été étudiés en relation avec des objectifs pédagogiques précis.
+		- Il y a donc un enjeu important à la compréhension des mécanismes d'instrumentation liés aux EIAH et à l'intégration de cette dimension dans leur processus de conception, à la fois d'un point de vue théorique et pratique (conception itérative, continuée dans l'usage, etc)
+	- Evaluation des systèmes :
+		- Difficultés :
+			- 1) Déterminer si l'objectif a été atteint et d'identifier les facteurs d'influence.
+			- 2) Disposer de méthodlogies d'évaluation scientifique : méthodes d'évaluation labo vs ecologique.
+			- 3) Mener une évaluation qui puisse être interprétée pour rpocéder à une réingéniérie du système produit : il faut établir des relations de cause à effet entre les propriétés des objets construits et d'analyse
+		- Questions :
+			- 1) Différence entre pédagogie informatisée vs. non informatisée ou situation pédagogique en tant que telle ?
+			- 2) Légitimité de "faire évaluer" un EIAH lorsque cette dimension de l'évaluation n'a èas été un élément pris en compte dès la conception par les constructeurs ?
 - Question cours ADID : « Un EIAH est, fondamentalement, la conjonction d’une intention didactique ou pédagogique et d’un environnement informatique » (p. 175). Que veulent dire Tchounikine et Tricot par conjonction ici? D’après vous, quelle répercussion cette façon de penser un EIAH peut-elle avoir sur les métiers du numérique pour l’éducation?
-	- 
 
 ## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
 
@@ -957,9 +1011,9 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Pour apprendre à l'école : moyens (tâches sur supports) =/= but (élaboration des connaissances)
 	- Pas la même chose que les apprentissages adaptatifs où moyen = but.
 - Trois sources d'exigence cognitive de chaque situation d'apprentissage :
-	- charge intrinsèque - liée aux informations à traiter pour réaliser la tâche ;
-	- charge extrinsèque - liée aux informations inutiles pourtant présentes sur les supports ;
-	- charge essentielle - liée à l'apprentissage lui-même, càd la transformation de connaissances.
+	- charge intrinsèque (intrinsic cognitive load) - liée aux informations à traiter pour réaliser la tâche / au cours de l'apprentissage ;
+	- charge extrinsèque (extraneous cognitive load) - liée aux informations inutiles (ex. mauvaise présentation ou info irrelevantes) ;
+	- charge essentielle (germane cognitive load) - liée à l'apprentissage lui-même, càd l'organisation mentale des informations et leur intégration aux autres connaissances utiles
 - "Effets" pour réduire charge extrinsèque, voire intrinsèque :
 	1. *Effet de non spécification du but* - il est généralement plus efficace de ne pas trop spécifier le but d'un problème -> enlever la charge intrinsèque de l'exigence de la tâche
 	2. *Effet du problème résolu* - généralement plus efficace d'étudier un problème résolu que de résoudre un problème pour apprendre -> enlever la charge intrinsèque de résolution de problème
@@ -997,6 +1051,31 @@ Tableau tiré de Tricot (2017) :
 | Ne pas présenter d’information transitoire continue (oral, vidéo) ; présenter plutôt des informations statiques, faire des pauses aux moments pertinents et guider l’attention sur les parties pertinentes                                                                                                                       | Présenter de l’information transitoire continue (oral, vidéo)                                                                                       |
 | Proposer du travail en groupe (selon un scénario précis) quand l’apprentissage visé est éloigné des élèves ; sinon, le travail peut être réalisé seul                                                                                                                                                                            | Si l’accès aux connaissances d’autrui est nécessaire, alors le travail en groupe est utile. Sinon, le travail individuel peut être mis en œuvre.    |
 | Mettre en exergue ce qui est important<br> Expliciter les liens entre les parties d’un tout                                                                                                                                                                                                                                      | Ne pas tout expliquer : engager les élèves dans des activités de production d’inférences, d’hypothèses, de conjectures                              |
+
+## [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](https://doi.org/10.3917/es.045.0037)
+
+**THM** : 
+
+**Authors** : André Tricot
+
+**Tags** : :learning: :technology: :edtech:
+
+**Notes**
+- Apprendre à l'école repose sur l'acceptation des contraintes de temps, de lieu, des savoirs à apprendre et de la manière d eles apprendre
+- Enseigner, c'est les aménager pour permettre à autrui d'apprendre.
+- Le numérique soulage-t-il la contrainte de **temps** ?
+	- Apprentissage mobile résultats positifs sur la satisfaction des élèves (86% des publications analysées de la MA de Wu et al., 2012) - quid de l'apprentissage ?
+	- La gestion du temps et de l'effort est le meilleur prédicteur de la réussite aux examens (Neroni et al., 2019) - étudiant·e·s non traditionnel·le·s > traditionnel·le·s dans gestion de temps d'apprentissage et plus persistants face aux défis
+	- Elaboration, pannification, contrôle et régulation de ses propres apprentissages sont un bon prédicteur de la réussite aux examens (Neroni et al., 2019) - non-trad > trad
+	- Numérique assouplit la contrainte temporelle mais déplace la responsabilité sur l'élève qui doit prendre en compte qu'apprendre des connaissances scolaires requiert du temps
+- Le numérique soulage-t-il la contrainte de **lieu** ?
+	- 
+	- Hybride ou distance seulement si interactions
+- Savoirs :
+	- Numérique comme une bibliothèque, apporte des données plutôt que des connaissances
+	- Confère donc à l'école le rôle d'apporter aux apprenants de sinformations qui ne leur semble pas utile de prime abord.
+- La manière d'apprendre :
+	- 
 
 ## [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](https://tecfalms.unige.ch/moodle/pluginfile.php/39498/mod_resource/content/4/COMEL1_Vienneau_Concepts%20de%20base%20en%20apprentissage%20et%20en%20enseignement.pdf)
 

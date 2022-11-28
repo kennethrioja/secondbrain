@@ -14,6 +14,7 @@
 * [07.11.2022 - Python 1](#07112022---python-1)
 * [14.11.2022 - Python 2](#14112022---python-2)
 * [21.11.2022 - Python 3](#21112022---python-3)
+* [28.11.2022 - Python 4](#28112022---python-4)
 
 <!-- vim-markdown-toc -->
 
@@ -202,6 +203,29 @@ def my_function(p1: int, p2: str) -> str :
 - `import requests` > `raise requests.exceptions.RequestException("Function not sucessful")`
 - `pytest your.py` // to test the environment
 
+# 28.11.2022 - Python 4
+- Activating a conda environment allows to work on a specific version of python
+- `matplotlib`is a core Python plotting lib, works well with `numpy`
+- `from matplotlib import pyplot as plt`
+- `shift + tab` to see information/help about function on jupyter nb
+- `plt.tight_layout()` to optimize the overall plot display
+```python
+with open(first_file, 'r') as file_handler:
+    for file_line in file_handler:
+        print(f"Line: {file_line}")
+```
+- list comprehension : `files = [f for f in files_all if not 'small' in f]`
+- `np.where()==0` to checker where it is == 0
+- `import pandas as pd`
+- `pd.read_csv(path)` to open csv
+- `df.describe()` to show mean std etc.
+- `df.isna().sum()`to see na
+- `df.iloc[5:10, 0:4]` to filter 0 to 3 column and 5 to 9 rows - if use labels, use `loc`
+- `df.shape` to see rows and cols
+- `df.isna().sum()` to see where NAs are
+- `df.dropna()` to drop na
+- `seaborn` for plotting with nicer attributes
+- `df['colname'].value_counts()` to count the values of colname
 
 TODO : 
 - ex3 ifelse and while, case, getops
