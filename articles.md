@@ -551,8 +551,51 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Abstract** : Les situations d’apprentissage instrumentées informatiquement sont de plus en plus fréquentes. Dans les environnements informatiques pour l’apprentissage humain, les actions des utilisateurs peuvent être enregistrées par le système, ce qui rend possible l’utilisation de « traces d’interactions ». Ces traces sont utilisées par les systèmes adaptatifs pour la personnalisation des activités ou le conseil des apprenants. Elles peuvent aussi être utilisées pour faire des observations d’usage ou du suivi pédagogique. Mais les avancées de la recherche montrent que les traces peuvent aussi être exploitées pour soutenir des processus essentiels dans l’apprentissage humain : les processus réflexifs. 
 
 **Notes**
-- 
-
+- Utiliser les traces pour s'adapter à chaque apprenant
+- 1960 : Enseignement Assisté par Ordinateur = systèmes adaptatifs (renforcement) et génératifs (cybernétique)
+- 1980 : IA, ex. Systèmes Tuteurs Intelligents (STI ou ITS) reposent de manière très schématique sur une triple expertise : modèle du domaine, pédagogique, élève
+	- Dans systèmes fermés (conçus pour un enseignement bien précis et les activités tracées bien délimitées), les traces sont utilisées pour modéliser les apprenants et notamment pour construire et mettre à jour un modèle de leurs connaissances sur un domaine spécifique
+	- Hypothèse forte sous-jacente est qu'un raisonnement correct de l'élève devrait être proche de celui d'un expert du domaine, mais c'est rarement le cas.
+- Dans les systèmes ouverts (proposants des activités ouvertes pour favoriser l'apprentissage par l'exploration, seul ou en groupe), les traces sont utilisées pour guider app. et aider les ens. dans la scénarisations des activités et le suivi des app
+	- Fondé sur le paradigme de l'apprentissage par la découverte et la théorie de l'apprentissage constructiviste (Piaget, 1935)
+	- Ex. systèmes micro-mondes (LOGO), environnements supports à l'apprentissage collaboratif (Computer Support for Collaborative Learning)
+	- Traces sont plus riches mais plus complexes à gérer et analyser comme l'apprenant peut utiliser des ressources et outils externes difficile à tracer
+- Les outils métacognitifs pour l'apprentissage possèdent 5 caractéristiques (Azevedo, 2007), dans les situations d'apprentissage utilisant des outils métacognitifs :
+	1. Les app ont à prendre des décisions d'actions en fonctions d'objecitfs définis
+	2. Le contexte d'app est pris en compte pour définir les stratégies pégagogiques
+	3. L'environnement utilise une technolgoie qui amplifie le processus d'autorégulation en considérant l'activité cognitive, métacog, la motivation et le comportement
+	4. L'environnement utilise une technologie pour soutenir le processus d'apprentissage par une régulation externe fournie par un humain (tuteur, pair, collaborateur) ou un agenti artificiel
+	5. L'environnement utilise une technologie dans laquelle l'appenant peut réguler ses activités avant, durant ou aprèes l'app en utilisant des processus d'autorégulation
+- EIAH réflexif = EIAH dont la technologie va amplifier le processus d'autorégulation pendant l'apprentissage
+- Trois temps :
+	- 1) La collecte des traces qui peut être automatique (ex. logs)
+		- Selon  un modèle de collecte construit "a priori" qui détermine le contenu des traces; permet reproducitiblité MAIS limité sur le plan de sa "fidélité" à l'activité de l'user car ne reconstitue qu'une partie des interactions.
+		- "Mixte" quand intègre le point de vue de l'user, en vue de "qualifier" l'activité : limite = infos de type verbal ouvert.
+	- 2) La transformation des traces par le biais de filtrages  ou de calculs d'indicateurs pour extraire un certain type de données et proposer une certaine visualisation de ces données aux app et/ou aux ens
+		- Transformation de type "calcul machine" : filtrages, recherche de motifs d'interaction, comparaisons
+		- Transformation de type "présentation" : rend accessible les enregistrements aux users
+	- 3) Des actions possibles sur les traces, commenter ses traces ou les partager à d'autres apprenants (ex. émotions)
+		- Exploitation des traces par l'apprenant sans intention pédago définie et ttt sur ses traces selon ses objectifs personnels
+- Soller et al. (2005) distingue trois catégories d'outils :
+	- 1) Systèmes miroirs qui fournissent aux app. une visualisation des traces brutes de leur propre activité et de celle des autres app. qui font partie de leur groupe/classe
+		- ex. D'outils d'*awareness* - Objectif : renvoyer à l'user une image de son comportement et d'inciter à réfléchir sur celui-ci pour changer d'attitude si considéré comme inapproprié
+		- ex. *Replayer* - Objectif : faire prendre du recul à un app par rapport à son activité
+		- Souvent utilisé par chercheurs (Dyke, 2009) ou ens (Mazza & Dimitrova, 2007)
+		- Peu par app car fournir ces informations sur l'acctivité ou le comportement n'est pas toujours suffisant pour provoquer une analyse méta-cog de leur part.
+	- 2) Systèmes métacognitifs qui accompagnent la visualisation des traces d'activité d'aide à l'interprétation
+		- Processus métacognitifs = reconaissance, évaluation, réflexion (Pena et al., 2012), ces auteurs répertorient 7 types de régulations métacognitives :
+			1. Monitoring (suivi)
+			2. Reconnaissance - met en évidence des infos clés sur l'activité en comparant les information du suivi avec celles du modèle d'acitviité cognitive
+			3. Evaluation - processus d'examination, les informations permettant de mesurer les progrès liés à l'acitviét cognitive sur l'acitvité de base
+			4. Réflexion - analyse des évaluations pour juger de l'efficacité
+			5. Conscience
+			6. Ajustement
+			7. Planification
+		- ex. Tableaux de bord - Objectif : présenter synthétiquement  les infos utiles pour analyser une situation et prendre des décisions stratégiques.
+	- 3) Systèmes de coaching qui offrent des conseils sur la base d'une analyse automatique des traces
+		- Donnent à l'ordinateur une place plus important en lui conférant des tâches de diagnostics et de proposition de remédiation
+		- Des systèmes conçus dans l'optique d'un partenanriat homme-machine (mixte) nous semble les plus adaptés pour une plus grande implication de l'user dans son apprentissage
+		- ex. Tuteurs intelligents
 
 ## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577?link_credit=KennethRioja)
 
@@ -1031,7 +1074,6 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 		- Questions :
 			- 1) Différence entre pédagogie informatisée vs. non informatisée ou situation pédagogique en tant que telle ?
 			- 2) Légitimité de "faire évaluer" un EIAH lorsque cette dimension de l'évaluation n'a èas été un élément pris en compte dès la conception par les constructeurs ?
-- Question cours ADID : « Un EIAH est, fondamentalement, la conjonction d’une intention didactique ou pédagogique et d’un environnement informatique » (p. 175). Que veulent dire Tchounikine et Tricot par conjonction ici? D’après vous, quelle répercussion cette façon de penser un EIAH peut-elle avoir sur les métiers du numérique pour l’éducation?
 
 ## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
 
