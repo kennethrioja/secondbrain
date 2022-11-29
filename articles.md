@@ -28,6 +28,7 @@
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
+* [Szilas, 2022 : Serious game design in practice: lessons learned from a corpus of games developed in an academic context](#szilas-2022--serious-game-design-in-practice-lessons-learned-from-a-corpus-of-games-developed-in-an-academic-context)
 * [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](#tchounikine--tricot-2011--environnements-informatiques-et-apprentissages-humains)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
@@ -933,6 +934,24 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Hermeneutical field 2 : com and coop in the scientific community bw Rr - link back the expeirences won in the arena
 - Joint time limited, both people from different life-worlds. 
 
+## [Szilas, 2022 : Serious game design in practice: lessons learned from a corpus of games developed in an academic context](https://doi.org/10.1145/3555858.3563283)
+
+**Authors** : Nicolas Szilas
+
+**Tags** : :learning-games: :serious-games: :maltt: :intrinsic-integration:
+
+**Abstract** : This article consists of a post-analysis of twenty-four learning games, developed by master students within a dedicated course, over a period of twelve years. From this longitudinal qualitative analysis of serious game development, we are able to identify critical factors that make these games successful or not. We have grouped these factors into three axes: project organization, game mechanics and graphics. The variety of games produced in this academic context opens the way toward a more systematic analysis of this corpus, aiming at producing useful guidelines to design better serious games in an efficient manner.
+
+**Notes**
+- More than a quizz, *contextualization* allow the exercise to be more meaningful at the level of the fictional world, and at the level of the narrative
+- *Enriched mechanics* = the main mechanic is turned into more than a simple quizz
+- *Systemic mechanics* = a global quest influenced by actions taken during the game
+- *Graphics* :
+	- Use ready-made assets
+	- Use an authoring tool that embeds the graphics
+	- Use graphical rendering effects
+	- Use specialized graphic design tools
+
 ## [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](https://hal.archives-ouvertes.fr/hal-00742999)
 
 **THM** : Overview of EIAH
@@ -1054,7 +1073,7 @@ Tableau tiré de Tricot (2017) :
 
 ## [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](https://doi.org/10.3917/es.045.0037)
 
-**THM** : 
+**THM** : Numérique est perçu comme exigences (niveau attentionnel, autonomie et efforts) + enseignant·e·s charge en plus. Mais permet d'alléger les contraintes de temps, lieu et de manière d'apprendre, mais différences interindividuelles. Quid des élèves plus fragiles et moins compétentes pour gérer leur temps, lieu et manière d'apprendre ?
 
 **Authors** : André Tricot
 
@@ -1069,13 +1088,66 @@ Tableau tiré de Tricot (2017) :
 	- Elaboration, pannification, contrôle et régulation de ses propres apprentissages sont un bon prédicteur de la réussite aux examens (Neroni et al., 2019) - non-trad > trad
 	- Numérique assouplit la contrainte temporelle mais déplace la responsabilité sur l'élève qui doit prendre en compte qu'apprendre des connaissances scolaires requiert du temps
 - Le numérique soulage-t-il la contrainte de **lieu** ?
-	- 
-	- Hybride ou distance seulement si interactions
-- Savoirs :
+	- Aller au dela de la dichotomie présence/distance mais se focaliser plutôt sur la pédagogie
+	- Numérique permet de concevoir des solutions efficaces, si le soutien aux efforts des élèves n'est pas oublié
+	- Encore : la contrainte de lieu ne disparaît pas : elle doit être autogérée par l'élève
+- Le numérique soulage-t-il la contrainte des **savoirs à apprendre** ?
+	- Selon Anderson (2000), sa théorie d'apprentissage : on apprend quand le rapport bénfice/coût de l'apprentissage est >0. Les connaissances scolaires présentent souvent un rapport bénéfice/coût <0: elle ne sont pas utiles immédiatement, pas ici.
+	- "Pour chercher une connaissance dont nous avons besoin, nous devons en effet savoir ce que nous ignorons"
+	- "Le savoir scolaire est un pari sur l'avenir. Si nous n'apprenons pas aujourd'hui un savoir qui nous paraît innutile, nous n'aurons pas demain la connaissance qui nous permet de douter, de nous poser des questions."
 	- Numérique comme une bibliothèque, apporte des données plutôt que des connaissances
 	- Confère donc à l'école le rôle d'apporter aux apprenants de sinformations qui ne leur semble pas utile de prime abord.
-- La manière d'apprendre :
-	- 
+	- "Plus la durée moyenne de la scolarité est longue au sein d'une société, plus les personnes peu diplômées son pénalisées socialmement, économiquement, professionnellement."
+- Le numérique soulage-t-il la contrainte de la **manière d'apprendre** ?
+	- Ecouter un cours ou regarder une vidéo :
+		- Effet de l'information transitoire (transient information effect) - lorsque modalité de présentation permanente de l'information (écrit) est transformée en présentation transitoire équivalente (écrite) > détériore l'apprentissage (Leahy & Sweller, 2011)
+		- Difficulté à prendre des décisions et revenir en arrière > surcharge cognitive (Roussel, 2020)
+		- Avantage global moyen (d = 0.37) et faible (g = 0.23) des animations par rapport aux images statiques (Höffler et Leutner, 2007; Berney et Bétrancourt, 2016)
+		- Quand mise à dispo des vidéos d'un cours obligatoire (Edwards & Clinton, 2019) : moins de présence, présence = meilleurs résultats à l'évaluation, 17.5% ne vont pas en cours ni watch video, same proportion go en cours et watch, contenus additionnels = réussite
+		- Vidéo ou classes virtuelles = détériorent régulation et communication non verbale. Présence l'enseignant : pose question, jauge intérêt, ralenti, hausse/baisse voix, utilise gestions, expressions, illustre, mime, souligne, capte regard et attentnion, synchronise en fonction des réactions (van Wermeskerken & van Gog, 2017)
+	- Prendre des notes :
+		- Sur ordinateur = détériore qualité de prise de notes -> augmentation de la charge cognitive de la tâche de réalisation technique (Mueller & Oppenheimer, 2014)
+		- Ordi en cours = distraction du web
+		- Pas de certiture sur les +/- de chacune de ces façons de faire.
+	- Lire un texte :
+		- Léger avantage (g = 0.21) papier vs ordi (MA de Delgado et al., 2018)
+		- Temps de lecture : Avantage lecture plus important si temps lecture limité (g = .26)
+		- Rythme : Si lit à son rythme (g = .09)
+		- Genre : Avantage papier si texte informatif (g = .27), rien si narratifs
+	- Etudier un document multimédia :
+		- Fausses croyances (Clark & Feldon, 2014), il est faux de croire que :
+			- Docs multimédia améliorent apprentissage vs présence ou médias anciens
+			- Docs mm sont plus motivants que d'autres supports
+			- Docs mm permettent conception d'agents pédagogiques animés qui facilitent l'app
+			- Tiennent compte des styles et améliorent l'app pour tous les élèves
+			- Facilitent approches constructivistes via app par découverte ainsi qu'autonomie et contrôle
+			- Mise en oeuvre pensée plus haut niveau
+			- Apprentissage incident
+			- Interactivité
+			- Environnements et activités d'app authentiques
+	- Demander de l'aide :
+		- "Cette aide est bénéfiques pour la réalissation de la tâche, mais l'est aussi pour l'apprentissage (Karabenick & Newman, 2013)"
+		- Différences interindividuelles importantes dans la compétence é formuler cette demande : élève plus âgés demandent plus explicitement (Puustinen et al., 2009)
+		- Coût sociaux peuvent être moins importants, voire absents, dans des env numériques = anonymat (Lery Santos, 2018)
+		- Mais ajoute coût : manipulation des outils et de la formulation d'une requête écrite (Huet et al., 2013)
+	- Rechercher de l'information pour préparer un exposé, réaliser une enquête documentaire
+		- Trouer un document est plus rapide, plus de qtt, mais quid de la qualité et fiabilité à évaluer ?
+		- Gestion du but informationnel : difficile de prendre conscience qu'on manque de connaissances et de l'exprimer avec des mots (Tricot et al., 2016)
+		- Examen de la liste de résultat : consultation que de la première page, pensant que les dix premiers résultats sont les plus pertinents (Granka et al., 2004; Cutrell & Guan, 2007)
+		- Biais de confirmation : préférence à corroborer point de vue plutôt que de le contredire. A l'extrême, peut aboutir à adhésion à des thèses conspirationnistes (Bronner, 2013)
+		- Jugement de pertinence : Qualité source, mise en forme, compréhension, intéressant et récent =/= classement dans recherche (Taylor et al., 2007)
+		- Evaluation de la fiabilité des sources : évaluation de la crédibilité, de la confiance, de l'autorité (Taylor et al., 2007)
+		- Compréhension : quand pas compris, tendance à croire qu'il en a saisi quelque chose, notemment dans domaines où il en sait très peu
+		- Traitement des sources multiples : quand deux sources même événement mais écrits différemment, lecteur rejette la source avec laquelle ils ne sont pas d'accord
+	- Produire un texte, un document, seul ou à plusieurs :
+		- Bangert-Drowns (1993) : guidage métacognitif pour les élèves, non seulement avant mais pendant ou après la rédaction
+		- Goldberg et al. (2003) : ttt de textes sur ordinateur améliore la longueur (d = .50) et leur qualité (d = .41) + favorisent rédaction collaborative, itérative et sociale
+	- Faire des exercices, s'entraîner :
+		- Quand les exerciseurs numériques sont utilisés en classe, le élèvent demandent moins d'aide à l'enseignant que quand papier (Lemercier et al., 2001)
+		- Limite : utiles que quand renforcement des savoir-faire, telativement simples et bien définis
+	- Coopérer entre élèves :
+		- Kirschner et al. (2018), apprennent mieux en groupe mais :
+			- Possible coût de prise en main et si tâche suffisament simple pour être faite par 1 élève, détériore sa réalisation et l'apprentissage
 
 ## [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](https://tecfalms.unige.ch/moodle/pluginfile.php/39498/mod_resource/content/4/COMEL1_Vienneau_Concepts%20de%20base%20en%20apprentissage%20et%20en%20enseignement.pdf)
 
