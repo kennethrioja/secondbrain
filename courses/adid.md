@@ -11,6 +11,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 * [28.09.2022 - Comment apprend-on? Définitions, courants et processus](#28092022---comment-apprend-on-définitions-courants-et-processus)
 * [29.09.2022 -](#29092022--)
 * [03.11.2022](#03112022)
+* [for 11.12.2022](#for-11122022)
 * [TODO](#todo)
 * [Resources](#resources)
 	* [EduTechWiki](#edutechwiki)
@@ -137,7 +138,87 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 
 - Successive Approximation Model ([Allen & Sites, 2012](https://books.google.ch/books?hl=fr&lr=&id=DSQBJOt2_0cC&oi=fnd&pg=PR7&dq=related:NayM07oOkGsJ:scholar.google.com/&ots=6dxobdXKhf&sig=xFhFEpUGNrHSOFiqlVNgZ0angAs&redir_esc=y#v=onepage&q&f=false))
 - Que voulez vous adresser, quel succès à travers ce projet ?
-- 
+
+# for 11.12.2022
+
+[Introduction à la conception des EIAH](https://www.youtube.com/watch?v=mZe0bRwrRzs&t=242s)
+- EIAH = Environnement informatique dont la finalité est de susciter ou d'accompagner un apprentissage (Tchounikine, 2002)
+- Finalités :
+	- Améliorer les performances d'apprentissage
+	- Améliorer la motivations des apprenant·e·s
+	- Faciliter le suivi et l'individualisation par l'enseignant·e
+- Prise en compte des connaissances du domaine (connaissances d'un thème ou compétences), des utilisateur·trice·s (niveau connaissances, centres intérêt et profil de joueur) et du contexte (objectifs pédago, ind/grp, ponctuel/durée, présence/distance/hybride)
+- Interactions avec ou entre les users : apprenant, enseignant, chercheur, concepteur
+- Ingéniérie dirigée par les modèles (IDM) : objectif = production et manipulation par des méta-modèles de modèle productif (= modèles qui modélisent l'artéfact réel à développer et qui sont utilisés pour le produire)
+- Conception participative : user final actif et impliqué dans conception à chaque cycle afin de répondre à ses besoins, ses attentes et ses caractéristiques, idées et les intégrer à la conception
+- Recherche orientée par la conception (Design-based research) : conceptualisation théorique -> implémentation en conditions naturelles => afin de tester la validation écologique de la théorie et générer de manière itérative des apports des théories existantes ou nouvelles théories
+- Evaluation :
+	- Labo/éco, quanti/quali
+	- Utilisabilité : fonctionnel, ergonomique ?
+	- Utilité : lien avec la finalité de l'EIAH
+	- Acceptabilité : intégré chez les ens.
+	- Besoin de réutilisation : assurer l traçabilité entre la théorie (questions), le modèle (fondements théoriques) et l'artéfact produit
+
+[L'analyse de traces: les objectifs de traçage](https://www.youtube.com/watch?v=aQMnhcq4HBM)
+- Objectif général des traces : avoir un retour sur une activité
+- Méthodes :
+	- Observations in situ : prises de notes sur le moment
+	- Interviews : avoir el vécu des pp, prend temps, ponctuel, individuel
+	- Questionnaires : vision quantitative
+- Inconvénients :
+	- Subjectif : avis positif mais pas utile
+	- Coûteux : temps et argent
+	- Inadapté : pour un certain nombre, on veut un retour instantané, pas analyse a postériori mais tout de suite
+
+[Analyser l'appropriation pour analyser l'adaptation](https://www.youtube.com/watch?v=9soVe48UClo)
+- Objectifs d'un système adapté/adaptable/adaptatif :
+	- Correspondre aux besoins des users
+	- User peut adapter système à ses besoins
+	- Système s'adapte aux évolutions de l'user
+	- => Ces derniers sont atteints lorsque l'user s'approprie effectivement le système en contexte
+- Appropriation = "La manière dont les usagers évaluent et adoptent, adaptent et intègrent une technologie dans les pratiques quotidiennes" (Carroll et al., 2003)
+- Pourquoi utilise-t-on le principe de l'appropriation pour mesurer l'adaptation ? L'appropriation intègre deux niveaux de complexité :
+	- Processus *situé*, pour un humain dans un contexte avec une technologie
+	- Processus *dynamique*, qui entraîne une *co-évolution* possible de l'user et du système
+- QdR1 : Comment mesurer l'appropriation ?
+	- Par les usages - observation de ce quefont les users (analyse traces d'interaction, obs en contexte), analyse de ce que les users déclarent faire (entretien)
+	- Cycles des usages d'une technologie : trois moments clés (Carroll, 2004)
+		- *Adoption* : User choisi ou non d'utiliser un produit
+		- *Utilisation* : user explore et adapte les fonctionnalités de l'environnement numérique à ses contextes d'utilisation
+			- Selon degré de satisfaction
+			- Selon ses capacité
+			- => Début acceptation et appropriation
+		- *Appropriation et appropriation effective* : construction de schèmes d'utilisation correpsondant à des séquences d'utilisation régulières et stabilitées => usages
+		- Lien avec la [Technology Acceptance Model](ergo.md# Démarche de conception centrée users)
+- QdR2 : Comment expliquer l'appropriation ?
+	- Par l'analyse des éléments du contexte (EIAH, user, cadre où l'activité est faite) et des perceptions des users en contexte vis-à-vis de l'utilisation ou de l'usage
+	- Analyse de l'utilisation implique l'étude de :
+		- Facteurs technologiques - qualité du système : utilisabilité/utilité
+		- Facteurs intrinsèques - acceptabilité : sur la pratique, facilité d'utilisation, efficacité, satisfaction
+	- Modèle global intégrant utilité + utilisabilité + facteurs extrinsèques <-> acceptabilité <-> usages <-> appropriation <-> acceptation effective <-> usages (Codreanu et al., 2016)
+	- Co-évolution avec l'usage du système : humain, EIAH, contexte
+	- Quand analyse des usage, bien mesurer ce qu'il se passe selon les différents axes :
+		- Technologiques
+		- Facteurs extrinsèques
+		- Facteurs intrinsèques
+- Analyse des traces d'interaction :
+	- Recodage des actions à partir des logs pour construire des séquences d'action
+	- Classification automatique des séquences similaire (méthode des dendrogrammes) avec [TraMineR](http://traminer.unige.ch/)
+	- Résultat : quizzers, renonceurs, standards; trop d'users en échec => défaut de conception
+- Analyse des usages et du processus d'acceptation-appropriation :
+	- Environnement Numérique de Travail à l'école primaire
+	- Sont-il adaptés ? Analyse : observation des usages en contexte
+	- 1A (Codreanu et al., 2017):
+		- Entretien des ens. et analyse des discours liés à leur pratique
+		- => Acceptation plutôt favorable, outil bien adapté aux pratiques des ens. (communication, pédagogie, attractivité élève) )
+		- => Mais tensions : charge de travail, sécurité des enfants, formation et accompagnement insuffisant
+	- 2B (Codreanu et al., 2017):
+		- Analyse technographique (interprétation de susages selon les publications faites), analyse de la distribution
+		- => Sur petites classes : blog pour communication utilisé que par ens.
+		- => Sur grandes classes (CM2) : usages pédago plus variés, utilisés par ens et enf
+- Pour valider la qualité d'un système adapté/adaptable ou adpatatif :
+	- Analyse de l'utilisation = mesure de l'acceptabilité à priori (sur différents profils, en lab ou contexte)
+	- Analyse des usages = mesure l'acceptation et l'appropriation réelle (contexte templs plus long)
 
 # TODO
 

@@ -17,6 +17,7 @@
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
+* [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
@@ -538,6 +539,20 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
             - Interaction by giving the tools to the users, seen as the real object of creative production
             - MD environments not only allow users to create content, but also modify the behavior and components of the system at use time through interaction
 - "MD is more than a technical problem; it must address the challenges of creating new mindsets, new sources of creativity, cultural changes, and innovative societies. It has the potential to create a culture in which all participants in collaborative design processes can express themselves and engage in personally meaningful activities."
+
+## [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](https://www.persee.fr/doc/intel_0769-4113_2013_num_59_1_1091)
+
+**THM** : 
+
+**Authors** : Sébastien George, Christine Michel & Magali Ollagnier-Beldame
+
+**Tags** : :traces: :EIAH: :auto-régulation: :learning-analytics:
+
+**Abstract** : Les situations d’apprentissage instrumentées informatiquement sont de plus en plus fréquentes. Dans les environnements informatiques pour l’apprentissage humain, les actions des utilisateurs peuvent être enregistrées par le système, ce qui rend possible l’utilisation de « traces d’interactions ». Ces traces sont utilisées par les systèmes adaptatifs pour la personnalisation des activités ou le conseil des apprenants. Elles peuvent aussi être utilisées pour faire des observations d’usage ou du suivi pédagogique. Mais les avancées de la recherche montrent que les traces peuvent aussi être exploitées pour soutenir des processus essentiels dans l’apprentissage humain : les processus réflexifs. 
+
+**Notes**
+- 
+
 
 ## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577?link_credit=KennethRioja)
 
