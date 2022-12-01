@@ -7,6 +7,8 @@
 * [To read](#to-read)
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
+* [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
+* [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
@@ -93,6 +95,37 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Entretien : bien quand timides ou difficultés à exprimer en public et échanger informations avec d'autres personnes
 	- Brainstorming : bien pour laisser créativité, spontanéité, à condition de ne pas s'éloigner du thème global
 	- Technique d'échelle bipolaire (Bisseret et al., 1999) : bien pour se positionnner et évaluer selon 1 j'aime pas, 7 j'aime
+
+## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
+
+**THM** : 
+
+**Authors** : Benoit Bediou, Katarzyna Wac
+
+**Tags** : :digital-technologies: :EF: :media-content: :health:
+
+**Abstract** : Digital technologies are transforming the way we live, work, communicate and entertain, putting our cognitive functions (in particular executive functions, EFs) under continuous stimulation and challenge. A growing body of work shows that carefully designed media content, combined with healthy use, can produce positive effects on cognition, education and health. Yet, excessive or other maladaptive consumption of digital media is often held responsible for worsening physical (obesity) and mental (depression) health, emotion (aggression) or cognition (drop in sustained attention and working memory capacity). In particular, smartphones, social media and video games are being increasingly held responsible for worsening the health and well-being of children and adolescents like increase in suicide, cyberbullying, eating disorders, problematic or addictive behaviors.
+
+**Notes**
+- 
+
+## [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](https://doi.org/10.1002/sop2.3)
+
+**THM** : Parental presence is essential when children are consumming media
+
+**Authors** :Fran C. Blumberg, Kirby Deater-Deckard, Sandra L. Calvert, Rachel M. Flynn, C. Shawn Green, David Arnold, Patricia J. Brooks
+
+**Tags** : :video-games: :children: :developmental: :digital-games: :policy:
+
+**Abstract** : We document the need to examine digital game play and app use as a context for cognitive development, particularly during middle childhood. We highlight this developmental period as 6- through 12-year olds comprise a large swath of the preadult population that plays and uses these media forms. Surprisingly, this age range remains understudied with regard to the impact of their interactive media use as compared to young children and adolescents. This gap in knowledge about middle childhood may reflect strong and widely held concerns about the effects of digital games and apps before and after this period. These concerns include concurrent and subsequent influences of game use on very young children's and adolescents’ cognitive and socioemotional functioning. We highlight here what is currently known about the impact of media on young children and adolescents and what is not known about this impact in middle childhood. We then offer recommendations for the types of research that developmental scientists can undertake to examine the efficacy of digital games within the rapidly changing media ecology in which children live. We conclude with a discussion of media policies that we believe can help children benefit from their media use. Our hope is that this review will foster greater investigation of the cognitive socialization, as raised over 20 years ago by developmental psychologist and early games researcher Patricia Greenfield, that digital games serve during the middle childhood period, and childhood more generally.
+
+**Notes**
+- 2/3 of parents play on a weekly basis with their children perceiving it as beneficial to their children ([Entertainment Software Association, 2018](www.theesa./about-esa/industry-facts))
+- Minecraft use in classroom ([Lane & Yi, 2017](https://doi.org/10.1016/B978-0-12-809481-5.00007-9))
+- [American Academy of Pediatrics (2016)](https://doi.org/10.1542/peds.2016-2591) encourages co-viewing of television
+- Parental warmth, engagement, playfulness and autonomy support predicted more positive child affect during joint interaction with edu game apps ([Griffith & Arnold, 2017](https://doi.org/10.1080/17482798.2018.1489866))
+- An examination of children's learning from educational programs, including those designated by commercial broadcasters as E/I programs, revealed that second-to sixth-grade children preferred programs with socioal-emotional themes and learned social-emotional content after viweing those programs; childrent who viewed television programs with an academic focus also learned academic content ([Calvert & Kotler, 2003](https://www.sciencedirect.com/science/article/pii/S0193397303000601?via%3Dihub))
+- Move forward by integrating media experiences into the lives of children, and those responsible for their care and education, in ways that foster 21st-century learning and thinking skills.
 
 ## [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](https://doi.org/10.3917/puf.brgeo.2011.01.0023)
 
