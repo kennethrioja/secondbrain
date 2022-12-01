@@ -10,8 +10,8 @@
 * [Définitions](#définitions)
 * [Potentiels et limites](#potentiels-et-limites)
 * [Conception](#conception)
-* [](#)
 * [Intervention de J. Theler - E-teach](#intervention-de-j-theler---e-teach)
+* [Dimension narrative des JVP](#dimension-narrative-des-jvp)
 * [Références](#références)
 
 <!-- vim-markdown-toc -->
@@ -183,9 +183,7 @@
 	- Clickteam Fusion 2.5 : jeux 2D + simple
 	- Twine 2 : Hypertexte/hypermedia
 	- RPG Maker MV : RPG
-	- Unity : jeux 2D,3D
-
-# 
+	- Unity : jeux 2D,3D 
 
 # Intervention de J. Theler - E-teach
 
@@ -235,6 +233,66 @@
 	- Quels sont les leviers et freins à cette formation chez vous (contexte) ?
 - On nous engage pour que le personnel change, non pas pour faire un e-learning
 - Être transparent sur les enjeux et important pour se protéger pour analyser les besoins, freins, quels sont les changements sur lesquels changer
+
+# Dimension narrative des JVP
+
+- Définition de 'narratif' : temporel < suite d'actions < causalité < quête/obstacles < Ryan < Adam < structure en 3 actes
+- [Ryan, 2004](https://books.google.fr/books?hl=fr&lr=&id=wStBECWtPwcC&oi=fnd&pg=PP11&dq=Ryan,+M.-L.+narrative+across+media&ots=VtgFjuUMOv&sig=DENqnDPR0hwKvrglSD2UhMSry18&redir_esc=y#v=onepage&q=Ryan%2C%20M.-L.%20narrative%20across%20media&f=false) :
+	- Monde peuplé de personnages et objets
+	- Changements causés par des événements non routiniers
+	- Permet de reconstruire buts, plans, relations causales, motivations (ermet à la personne de reconstruire histoire, se place dans le contexte d'un récit qui est perçu par qqun)
+	- => assez englobante, même si ennuyante est quand même un histoire
+- Adam, 1994 :
+	- Succession temporelle d'actions
+	- Protagoniste
+	- Transformation
+	- Unité d'action - toutes les actions sont liées dans une unité
+	- Causalité - cohérence de l'histoire
+	- Evaluation - histoire doit se positionner et des choses qui bien/pas bien, faire passer un système de valeurs
+	- => récit doit faire passer un message
+- Pourquoi le récit ?
+	- Mémorisation et cognition :
+		- Structure notre environnement sous forme narrative
+	- Contextualisation :
+		- Un récit nous met en scène dans un monde, et donne contexte à une action
+		- Situation authentique - expérience, lecteur peut se projeter
+	- Engagement :
+		- Immersion
+		- Emotions (empathie, discursive développe du discours, ambiance, spectaculaire)
+	- Dimension communicationnelle/éthique :
+		- Une histoire fonctionne si elle transmet un message éthique (valeurs), il y a aussi une interprétation selon le système de valeur et l'individu
+- Pourquoi le récit interactif :
+	- Engagement ++ (agency, possibilité d'action)
+	- Apprentissage par l'action (constructiviste)
+	- Types d'interaction :
+		- Sans modification de l'histoire - interagir à côté de l'histoire *ou* sur le discours (ordre d'apparition) *ou* sur le point de vue (une même histoire via deux personnages) *ou* accès à l'histoire incluse
+		- Avec modification de l'histoire - paramétrages de surface *ou* user comme metteur·trice en scène *ou* user comme personnage secondaire ou principal
+- Récit linéaire
+- Récit non linéaire (par la bifurcation, récit à embranchements)
+	- MAIS Explosion combinatoire
+- Solution 1 : re-converger, illusion de choix
+- Solution 2 : liens conditionnels, si A au début, fin A, si mémorisé choix B au début, fin B, mais ne résoud pas explosion combinatoire
+- Solution 3 : générativité narrative
+	- Au delà des structure arborescentes :
+		- Oublier la métaphore spatiale
+		- Générativité du lien qui existe entre deux noeuds
+	- Générativité narrative :
+		- Système génératif : La sortie est le résultat s'un calcul dynamique
+		- Ordinateur vu comme une base de donées, un moteur/engine
+- Solution 4 : "distendre" les liens (ordre partiel) :
+	- Simulation en avant
+	- Planification part de la fin pour revenir en arrière
+- Solution 5 : Evenements conditionnels :
+	- E1 se déclenche si ... et ... et ... si E1 va ajouter Q fin, conséquence peut arriver si autre condition aussi
+- Solution 6 : Evenements génératifs :
+	- Informer, donner, échanger, définition d'un système informel, calculé en fonction de structure générique - forme prédicative
+- Solutions n : Modèles :
+	- Personnages intelligents bas niveau (Les sims), haut niveau (FearNot!), acteurs
+	- Limite : l'émergence doit avoir quelque contraintes
+	- Simulation narrative : verbes et rôles (Storytron), fin d'histoire (Mimesis), Dilemmes (Gadin)
+	- Approche structurale (Idtension, faire travailler un conflit)
+	- Conflit, suspense (Mimesis)
+- Concrètement dans un JV commercial : bifurcation, convergence, variables
 
 # Références
 

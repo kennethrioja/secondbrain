@@ -13,6 +13,8 @@
 * [31.10.2022 - Git 4](#31102022---git-4)
 * [07.11.2022 - Python 1](#07112022---python-1)
 * [14.11.2022 - Python 2](#14112022---python-2)
+* [21.11.2022 - Python 3](#21112022---python-3)
+* [28.11.2022 - Python 4](#28112022---python-4)
 
 <!-- vim-markdown-toc -->
 
@@ -145,6 +147,7 @@ print(proper_methods)
 
 [exercises]()
 - `def` to define a fonction
+	- `def my_function(arg1:type, arg2:type) -> List[str]` // what comes after '->' is what he function returns
 - `None` special Python keyword
 - Function docstring
 ```python
@@ -176,6 +179,53 @@ def my_function(p1: int, p2: str) -> str :
 - `raise ValueError("EXTERNAL ERROR: ...")` statement to say external error
 - `pytest` package to test all the 'test' files
 	- you can also test documentation by adding flag `--doctest-modules`
+
+# 21.11.2022 - Python 3
+- Numerical python = numpy
+- `import numpy as np` // to get the abbreviation 'np'
+- To create an environment and activate it (it will change your path) :
+* `conda create --name datascience38 python=3.8`
+* `conda activate datascience38`
+- To install packages in an environment (once activated):
+* `conda install numpy`
+- You can use conda to switch between environments:
+* `conda activate proj27`
+* `conda deactivate`
+* `conda activate proj38`
+- To list packages in current environment
+* `conda list`
+- To remove a package, e.g. `numpy`
+* `conda remove numpy`
+- To list environments:
+* `conda info --envs`
+- To remove an environment:
+* `conda remove -n datascience38 --all`
+- `import requests` > `raise requests.exceptions.RequestException("Function not sucessful")`
+- `pytest your.py` // to test the environment
+
+# 28.11.2022 - Python 4
+- Activating a conda environment allows to work on a specific version of python
+- `matplotlib`is a core Python plotting lib, works well with `numpy`
+- `from matplotlib import pyplot as plt`
+- `shift + tab` to see information/help about function on jupyter nb
+- `plt.tight_layout()` to optimize the overall plot display
+```python
+with open(first_file, 'r') as file_handler:
+    for file_line in file_handler:
+        print(f"Line: {file_line}")
+```
+- list comprehension : `files = [f for f in files_all if not 'small' in f]`
+- `np.where()==0` to checker where it is == 0
+- `import pandas as pd`
+- `pd.read_csv(path)` to open csv
+- `df.describe()` to show mean std etc.
+- `df.isna().sum()`to see na
+- `df.iloc[5:10, 0:4]` to filter 0 to 3 column and 5 to 9 rows - if use labels, use `loc`
+- `df.shape` to see rows and cols
+- `df.isna().sum()` to see where NAs are
+- `df.dropna()` to drop na
+- `seaborn` for plotting with nicer attributes
+- `df['colname'].value_counts()` to count the values of colname
 
 TODO : 
 - ex3 ifelse and while, case, getops

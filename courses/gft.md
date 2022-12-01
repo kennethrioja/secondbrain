@@ -20,7 +20,7 @@
 * [21.11.2022 - enjeux de genre en education et formation](#21112022---enjeux-de-genre-en-education-et-formation)
 * [28.11.2022 - politiques égalité](#28112022---politiques-égalité)
 * [05.12.2022 - caractérisation des interventions genre](#05122022---caractérisation-des-interventions-genre)
-* [12.12.2022 - quelles bonnes ppratiques](#12122022---quelles-bonnes-ppratiques)
+* [12.12.2022 - quelles bonnes pratiques](#12122022---quelles-bonnes-pratiques)
 * [19.12.2022 - cas pratique : analyse d'une intervention](#19122022---cas-pratique--analyse-dune-intervention)
 * [TODO](#todo)
 
@@ -253,10 +253,40 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 ## 21.11.2022 - enjeux de genre en education et formation
 
 ## 28.11.2022 - politiques égalité
+- Evalualuation 2 :
+	- Ne pas choisir la JOM /Futur en tout genre
+	- Pertinent : vérifier qu'elle s'adresse bien à un problème qui se pose
+	- Efficacité : ex. questionnaire de satisfaction est une info pour la plaisance, mais ne suffit pas à dire qu'elle est efficace.
+	- Valeur : est-ce qu'on a ces éléments ? est-ce qu'on est capables de dire que ça a changé ? utilisables, sont-ils donnés ou est-ce que nous donne généralités ? Pour savoir si X, j'aurais besoin de tel ou tel éléemnt, je ne peux donc pas statuer sur l'efficacité
+	- Qu'est-ce qui semble lacunaire ou peu efficace ? "Passer à l'échelle" ?
+	- Choix de l'intervention :
+		- Une action positive = ensemble cohérent (plusieurs) de mesures prises pour élimiter la discrimination subie par un groupe de personnes et remédier aux inégalités de fait en leur accordant temporairement certaines avantages préférentiels, notamment en matière de recrutement (Office québécois de la langue française, 2011)
+		- =/= discrimination positive, rattrape un manque à gagner, une injustice.
+	- Exemple : lutte contre le sexisme dans l'espace public (Genève, 2019-2025)
+	- Contexte soit professionel, soit éducatif; action révolue ou non
+	- Infos à collecter :
+		- Contexte de a mise en oeuvre
+		- Plan d'action (liste des actions menées dans le cadre de cette intervention)
+		- Rapport d'activités ou rapport d'évaluation (à reconstruire si pas disponible)
+		- Eventuellement les interviews et des observations
+			- Première source d'info : le site mais ne suffit pas, appeler, interview à mener avec personnes, recueillez leur propre auto-évaluation à défaut d'avoir le rapport d'évaluation
+- Projet professionnel ? Métier qu'on connait > dans lequel on peut se projeter > dans lequel on se sent compétent > que l'on peut présenter à son entourage (à confronter en mesures de genre et de classe) : le choix n'est pas libre
+- Ecart entre filles plastique et fille géométrique, écart significatif : ici mesure sentiment de compétence - menace du stéréotype - Aronston & Steel (amphi réaliser tâche, quand cette tâche 'intelligence' moins bien réussie par afro-américains que quand 'résolution de problème')
+- "Sur cette tâche, les recherches ont montré que pas de différences H/F" -> permet da'annuler menace du stéréotype
+- C'est la compétence ou le sentiment de compétence qui nous permet de nous orienter.
+- L'écart des prises de paroles, spontanées du côté des garçons
+- Les garçons qui participent :
+	- Répondre en premier > répondre juste
+- Logique scolaire : si je fais juste l'institution reconnaîtra ma valeur -> et je serai promu·e
+- Logique professionnelle : bien faire et le faire savoir
+- Plus de garçons dans métiers atypique que ce qu'ils avaient aspiré : ce n'est donc pas la même chose que de faire amener des garçons dans métier atypique et vice-versa.
+- Les garçons font des choix atypiques quand ils ont des parcours chaotique : permet de se maintenir dans classe sociale + accueillis à bras ouvert et escalator de verre
+- Vs. Filles atpiques pas ouverts à bras ouverts, sont plutôt à exclure que ceux à chouchouter, elles ne se sentent pas attendue.
+- Articulation des temps de vie, importance dans interventions
 
 ## 05.12.2022 - caractérisation des interventions genre
 
-## 12.12.2022 - quelles bonnes ppratiques
+## 12.12.2022 - quelles bonnes pratiques
 
 ## 19.12.2022 - cas pratique : analyse d'une intervention
 
