@@ -29,6 +29,7 @@
 [edtech/tools/mindomo](https://www.mindomo.com/fr/) - mind maps<br>
 [edtech/tools/padlet](https://padlet.com/) -> collaborative panels<br>
 [edtech/tools/prezi](https://prezi.com/) -> presentation<br>
+[funds/beallslist](https://beallslist.net/) - List of Predatory Journals<br>
 [funds/fit](https://www.fondation-fit.ch/fr/) - Fondation pour Innovation Technologique<br>
 [funds/fongit](https://www.fongit.ch/fr/) - Fondation Genevoise pour l'Innovation Technologique<br>
 [funds/innogap](https://www.unige.ch/unitec/fr/presentation/fonds-innogap/innogappreuvedeconcept/innogappreuveconcept/) - for UNIGE and HUG researchers
