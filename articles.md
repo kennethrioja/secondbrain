@@ -27,8 +27,13 @@
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
+<<<<<<< HEAD
 * [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gaemification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
+=======
+* [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
+* [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
+>>>>>>> 4062e54b8eef4e224223b47572adb1a29be406b6
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
@@ -952,7 +957,18 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 		- Frustration et désespoir négativement corrélés à performance de groupe
 		- Gratitude la plus fortement corrélée à la performance de groupe et transactivité, argumentation et recherche de consensus
 
-## [Ortiz-Rojas et al., 2017 : Gaemification and learning performance. A systematic review of the literature](https://www.researchgate.net/profile/Margarita-Ortiz/publication/320372825_Gamification_and_learning_performance_A_systematic_review_of_the_literature/links/59e488b9aca2724cbfe90b51/Gamification-and-learning-performance-A-systematic-review-of-the-literature.pdf)
+## [Mosconi, 2004 : Effets et limites de la mixité scolaire](https://www.cairn.info/revue-travail-genre-et-societes-2004-1-page-165.htm)
+
+**THM** : 
+
+**Authors** : Nicole Mosconi
+
+**Tags** : :genre:
+
+**Notes**
+- 
+
+## [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](https://www.researchgate.net/profile/Margarita-Ortiz/publication/320372825_Gamification_and_learning_performance_A_systematic_review_of_the_literature/links/59e488b9aca2724cbfe90b51/Gamification-and-learning-performance-A-systematic-review-of-the-literature.pdf)
 
 **THM** : On 23 studies, mostly positive to no s* effects of gamification for high-edu students
 
