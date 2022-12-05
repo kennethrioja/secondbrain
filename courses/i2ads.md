@@ -15,6 +15,7 @@
 * [14.11.2022 - Python 2](#14112022---python-2)
 * [21.11.2022 - Python 3](#21112022---python-3)
 * [28.11.2022 - Python 4](#28112022---python-4)
+* [05.12.2022 - Machine Learning 1](#05122022---machine-learning-1)
 
 <!-- vim-markdown-toc -->
 
@@ -226,6 +227,20 @@ with open(first_file, 'r') as file_handler:
 - `df.dropna()` to drop na
 - `seaborn` for plotting with nicer attributes
 - `df['colname'].value_counts()` to count the values of colname
+
+# 05.12.2022 - Machine Learning 1
+- Error (what if pos and neg?) > Squared Error (if 20 points > 10 points) > mean Squared Error (MSE)
+- Model with too many parameters = over-fitting
+- Fitting a model on data and looking at errors is not enough, if much parameters and low MSE, you divide your df, and keep unseen data to make prediction and compare with real observation to test if the new observation fit the model
+- Total error is the sum of Error and Model Complexity
+- `from sklearn.model_selection import train_test_split` allows to split training data to test model
+- `lm.fit` # to train a model
+- `lm.predict` 
+- `fit.transform()` # to transform for any deg X model
+- Values of R2 and MSE are always lower on test than on training
+- Cross-validation, training set in 4 train and 1 test (5-fold cross-validation)
+- 
+
 
 TODO : 
 - ex3 ifelse and while, case, getops
