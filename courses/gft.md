@@ -19,7 +19,7 @@
 * [14.11.2022 - posters](#14112022---posters)
 * [21.11.2022 - enjeux de genre en education et formation](#21112022---enjeux-de-genre-en-education-et-formation)
 * [28.11.2022 - politiques égalité](#28112022---politiques-égalité)
-* [05.12.2022 - caractérisation des interventions genre](#05122022---caractérisation-des-interventions-genre)
+* [05.12.2022 - caractérisation des interventions genre, politiques "égalité"](#05122022---caractérisation-des-interventions-genre-politiques-égalité)
 * [12.12.2022 - quelles bonnes pratiques](#12122022---quelles-bonnes-pratiques)
 * [19.12.2022 - cas pratique : analyse d'une intervention](#19122022---cas-pratique--analyse-dune-intervention)
 * [TODO](#todo)
@@ -284,7 +284,55 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 - Vs. Filles atpiques pas ouverts à bras ouverts, sont plutôt à exclure que ceux à chouchouter, elles ne se sentent pas attendue.
 - Articulation des temps de vie, importance dans interventions
 
-## 05.12.2022 - caractérisation des interventions genre
+## 05.12.2022 - caractérisation des interventions genre, politiques "égalité"
+- Avant de lancer intervention à grande échelle, savoir où on se positionne
+- Analyse critique des interventions "genre" :
+	- Approche essentialiste :
+		- H/F différent et ne peut donner les mêmes éléments car différents
+		- Cette croyance assez forte pour réapparaitre dans interventions
+	- Approche socioconstructiviste :
+		- Cible pop minoritaire ou minorisée, soit l'organisation (soit les deux)
+- Approche essentialiste :
+	- Il existe des natures F/M différentes et c'est 'comme ça' - associer 'intuition' 'émotion' vs 'rationnalité' 'recherche objets'
+	- Et pour attirer H/F dans sous représenter on va faire appel à ces dimensions purement masc ou fém dans des secteurs d'activités
+	- C'est réducteur, même si dit ça on valorise les hommes, évidemment réducteurs pour F, mais aussi H (si n'ont pas autorité, alors pas hommes?)
+	- Minoritaire quand 10%, minorisées bien que nombreuses on les visibilise moins.
+	- "On va mettre les trucs qu'elles aiment bien DONC ça va les attirer" - envoi des signaux reconnaissants / représentations et ensuite on fait du vrai boulot
+	- Si on a besoin d'une version pour fille, veut dire que ne peut pas, guidage
+	- Marqueur d'identification : rose pour les filles
+	- Taxe rose : rasoir rose plus cher que rasoir bleu
+	- + : Peuvent rencontrer du succès (les intervention qui s'évaluent que sur satisfaction à chaud : ne servent pas à grand chose)
+	- - : en train de rappeler que ne tombe pas sous le sens et redonne signaux que c'est pour elleux
+	- En général ne veut pas ce qu'on veut produire, mais envoie d'autres messages non d'égalité
+- Approche socio-constructiviste :
+	- G/F socialisés différement, ielles construisent une identité sexuée différente
+	- Amène filles à douter compétences et garçons à douter compétences et G/F à douter de compétence F/G quand viennent dans 'leur' domaine
+	- Qd garçon, met en avant ce qu'ils ont de plus et comment met en avant
+	- Pour femmes, met en avant ce qui leur manquerait par rapport aux garçons
+	- Longue socialisation qui s'applique sur g/f et explique division socio-sexuée des savoirs
+	- Mr Gagnepain et Mme Aufoyer en découle écart salaire, plafond de verre, division socio-sexuée des savoirs et du travail
+	- Interventions :
+		- A quel problème cette intervention veut répondre, il faut se demander si la question se pose avant de la poser.
+		- 1) "On en est où?" - montrer des chiffres
+		- Lagesen & Mellström (2004) : L'informatique est un vrai choix genré :
+			- Pas physique, pas dangereux, propre, chez soi, permet de s'occuper de ses enfants = les représentations et les stéréotypes changent
+		- Comme informatique où met l'accent sur technique dans milieu infirmier = prendre soin, subalterne car sous les médecins - mais quand lit caractéristiques : sale, vie/mort, charges lourdes, travaille w-e et nuits
+		- Eléments de contexte à mettre en lumière.
+	- Autocensure :
+		- Quand on interview femmes, on entend dans leur propos des discours de l'ordre de l'autocensure "est-ce que c'est vrm fait pour moi?"
+		- [Lemarchant, 2017](https://journals.openedition.org/lectures/23713)
+		- Conséquence : Perte de la confiance en soi, faible sentiment d'efficacité personnel, sentiment d'illégitimité
+		- Intervention : à quel niveau intervient? Cette censure sociale va produire discours autocensures, idéalement on supprime autocensure, division socio-sexuée des savoirs => discours d'autocensure à réduire
+		- 1) Est-ce que cette action à présupposés Ess ou SC?
+		- 2) Si SC, les interventions mettent en place : est-ce que actions pour stopper censure sociale ou renforcer estime soi des filels et actions à contrebalancer phénomène d'autocensure
+		- Ex. si demande femmes à plus, alors suppose qu'autocensure et travaille là-dessus; si managers alors auto-censure s'applique sur elle et appris à demander moins car demandes non traitées.
+		- Si travaille sur harcèlement : ta parole légitime (diminuer auto-censure) VS. pas ça qui arrête le harcèlement, le mieux c'est de condamner les personnes qui harcèlent.
+	- Valorisation différenciée :
+	- [Marie Duru-Bellat](https://fr.wikipedia.org/wiki/Marie_Duru-Bellat)
+	- Stéréotypes genrés quant à la division des savoirs : les perf des filles sont à fond sans arrêt, les garçon, fumistes mais au fond compétents, les notes qu'ils ont aujourd'hui, quand s'y mettent sera 'fou', les élèves, enseignants et parents disent même chose
+		- Scolaire et antiscolaire mais au fond génie, mais si il s'y met et que pas génie ? Si tu bossais tu verrais, mais what if not ? Garçons vivent espèce de sentiment d'imposture, croyances dans capacités innées, mais aussi pour filles pas d'espoirs car ce qu'elle font ne seront pas plus car donnent déjà le max
+	- Approches SC ciblant la population minoriraire ou minorisée
+	- Si on veut lutter contre ce sentiment d'auto-censure : mesure d'équité qui sont là pour renforcer, leur donner courage (ex. : rôle model, coaching, mentorat, concours non mixtes, réseaux féminins, formations ciblées (réeseau, confiance en soi) espaces non mixtes, lutte contre stéréotypes)
 
 ## 12.12.2022 - quelles bonnes pratiques
 
@@ -292,8 +340,8 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 
 ## TODO
 
-- consituer groupe sur moodle pour poster (4-6)
 - read book
 - https://www.unige.ch/fapse/grire/blanche/cendrine-marro
-- corpus : comment recueillir images?
-- 
+- intervention avec dimension genre sur education ou formation ou travail ET avec plusieurs modules (ex. une intervention, des posters et une soirée plénière ex)
+- si pas bilan, si on était en position d'évaluer pour savoir si refinance, que nous faudrait-il pour refaire?
+- pas futur en tous genres
