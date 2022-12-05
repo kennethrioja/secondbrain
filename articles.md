@@ -29,6 +29,7 @@
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
+* [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
@@ -107,7 +108,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 ## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
 
-**THM** : 
+**THM** : EF important to consider in childhood when using media (due to its high plasticity and not being fully mature) + EF influence, mediate and moderate relationship bw media use and media effects
 
 **Authors** : Benoit Bediou, Katarzyna Wac
 
@@ -116,7 +117,17 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Abstract** : Digital technologies are transforming the way we live, work, communicate and entertain, putting our cognitive functions (in particular executive functions, EFs) under continuous stimulation and challenge. A growing body of work shows that carefully designed media content, combined with healthy use, can produce positive effects on cognition, education and health. Yet, excessive or other maladaptive consumption of digital media is often held responsible for worsening physical (obesity) and mental (depression) health, emotion (aggression) or cognition (drop in sustained attention and working memory capacity). In particular, smartphones, social media and video games are being increasingly held responsible for worsening the health and well-being of children and adolescents like increase in suicide, cyberbullying, eating disorders, problematic or addictive behaviors.
 
 **Notes**
-- 
+- When playing educational app, children of 2-3 yo were more likely to delay gratification (showing greater WM) vs viewing a cartoon ([Huber et al., 2018](https://doi.org/10.1016/j.jecp.2018.01.006))
+- Problematic interactive media use (PIMU) is defined as the uncontrolled use of interactive screen media that results in negative consequences affecting an individuel's functionning ([Pluhar et al., 2019](https://doi.org/10.2147/PRBM.S208968))
+- Cognitive and behavioral model of internet gaming disorder ([Dong & Potenza, 2014](https://doi.org/10.1016/j.jpsychires.2014.07.005)) & Interaction of person-affect-cognition-execution (I-PACE) model ([Brand et al., 2019](https://www.sciencedirect.com/science/article/pii/S0149763419303707?via%3Dihub])) are models for PIMU
+- The concept of overall screen time has no predictive value regarding an effect on cognition or health (apart from extreme cases reflexting overuse); it has to be further differentiated for its context of use ([Kaye et al., 2020](https://doi.org/10.3390/ijerph17103661))
+- Record passive device use data, especially Android OS (Aharony et al., 2011; Cornell, n.d.; Lathia et al., 2013; Tangmunarunkit et al., 2015)
+- Pb of maintenance of such libraries collecting data because of rapide evolution of mobile OS
+- Theoretical framework :
+	1. EFs *influences* MU (incl. total screen time), which in turn impacts EFs (pos/neg feedback loops that can affect cog dev)
+	2. EFs *mediate* the relationship bw MU and media effects (media effects reflect individual diffeerences in EF)
+	3. EFs *moderate* the relationship between media use and media effects (EF skills can enhance or attenuate the effects of media use on health)
+- See media use like eating food : quantity does not matter, but quality, physiology of the individual and other factors
 
 ## [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](https://doi.org/10.1002/sop2.3)
 
@@ -967,6 +978,18 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - 23 final studies based on gamification, education, empirical work in a class setting, research articles, full access, learning/academic perf/achievement
 - mostly high edu, combination of gamification elements, STEM
 - results : 9 +, 12 no s*, 2 -
+
+## [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](https://doi.org/10.1093/reseval/rvab020)
+
+**Authors** : M. Angeles Oviedo-García
+
+**Tags** : :predatory-journal: :publication: :journal:
+
+**Abstract** : The extent to which predatory journals can harm scientific practice increases as the numbers of such journals expand, in so far as they undermine scientific integrity, quality, and credibility, es- pecially if those journals leak into prestigious databases. Journal Citation Reports (JCRs), a refer- ence for the assessment of researchers and for grant-making decisions, is used as a standard whitelist, in so far as the selectivity of a JCR-indexed journal adds a legitimacy of sorts to the articles that the journal publishes. The Multidisciplinary Digital Publishing Institute (MDPI) once included on Beall’s list of potential, possible or probable predatory scholarly open-access publish- ers, had 53 journals ranked in the 2018 JCRs annual report. These journals are analysed, not only to contrast the formal criteria for the identification of predatory journals, but taking a step further, their background is also analysed with regard to self-citations and the source of those self-cita- tions in 2018 and 2019. The results showed that the self-citation rates increased and was very much higher than those of the leading journals in the JCR category. Besides, an increasingly high rate of citations from other MDPI-journals was observed. The formal criteria together with the analysis of the citation patterns of the 53 journals under analysis all singled them out as predatory journals. Hence, specific recommendations are given to researchers, educational institutions and prestigious databases advising them to review their working relations with those sorts of journals.
+
+**Notes**
+- Nature definition of pred journal : "Predatory journals and publishers are entities that prioritize self-interest at the expense of scolarship and are characterized by false or misleading information, deviation from best editorial and publication practices, a lack of transparency, and/or the use of aggressive and indiscriminate solicitation practices" ([Grundniewicz et al., 2019](http://dx.doi.org/10.1038/d41586-019-03759-y))
+- Pred journal has no or pratically inexistent peer-review process
 
 ## [Plass et al., 2015 : Foundations of Game-Based Learning](https://doi.org/10.1080/00461520.2015.1122533)
 
