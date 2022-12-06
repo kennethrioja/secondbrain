@@ -817,10 +817,32 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Utilité sur le long terme
 	- Excellents médiateurs qui facilitent la com entre les membres d'une équipe
 	- Servent de base à d'autres méthodes de conceptions dont les scénarios ou storyboards
-- Limitations :
-	- 
-	- 
 
+**Fiche 20 : Tri de cartes**
+- Conception participative pour concevoir l'architecture de l'information d'un système centrée sur l'user qui corresponde au modèle mental des users
+- Un animateur définit les cartes et animent, regroupement des cartes par les pp selon leur modèle emntale et nomment les catégories créées
+- Pendant génération prototype, ex. création menus
+- Contenu du système sous forme de cartes, pp les trient, catégoriesent et nomment ces dernières
+- Pourquoi cette méthode :
+	- Extraire modèle mental des users : eval subjectives, catégorisation, les implique dans conception, bonne crédibilité car données objectives
+	- Organiser les éléments d'un système : méthode de référence pour adaptation aux représentations des users finaux
+	- Co-conception ludique : favoriser implication au sein du projet de conception
+- Convriancre :
+	- Méthode incontournable pour cocnevoir architecture de l'info adaptée aux users finaux, en se basant sur données précises et chiffrées
+	- Activité ludique, et pp se sentiront adaptés dans co-conception
+	- Aussi en ligne ou ordi qui facilite ttt des résultats
+- + : modèles mentaux sur organisation et contenu, quantitative, arborescence facile à présentée, ludique
+- - : traitement et analyse pas immédiat dans structure consensuelle, biais de reproduction sans exprimer LEUR logique, bcp de temps pour animer
+- Tri de cartes ouvert : 1. regroupement selon catégories, 2. labellisent. Utile quand new
+- Tri de cartes fermé : 1. présentation catégories, 2. répartition cartes dans cat. Utile quand système existant ou quand imposé par charte ou guide (ex. MacOS, Fichier et Edition)
+- Tri de cartes inversé : 1. présentation d'architecture, 2. retrouver contenu classé dans un catégorie
+- Préconisations [30:100] (Spencer, 2009), [60:80] (Barrère & Mazzone, 2012)
+- Critères pré-passations :
+	- Structure hiérarchique déjà présent ? Oui = fermé, Non = ouvert
+	- Recrutement des pp facile ? Oui = papier, Non = informatique
+	- Du temps pour passation et analyse ? Oui = individuel/papier, Non = groupe/informatique
+- Bussolon et al. (2006) trouvent que performance identique quand papier vs informatique
+- Cartes : pages de navigation ou produits; fonctionnalités
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
