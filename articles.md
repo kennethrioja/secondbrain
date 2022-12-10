@@ -19,6 +19,7 @@
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
+* [Fleck et al., : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
@@ -28,6 +29,7 @@
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
+* [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](#mulet-et-al-2017--quels-tuteurs-informatisés-pour-réduire-les-comportements-dévitement-de-la-recherche-daides-des-apprenants)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
@@ -156,6 +158,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Tags** : :learning-theory: :history:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - L'histoire des théories de l'apprentissage coïncide avec l'histoire de la psychologie scientifique moderne :
 - 1879 - Wilheim Wundt avec premier laboratoire de psychologie expérimentale au monde à Leipzig. 
 	- Modèle *structuraliste* = conscience humaine vue comme *somme de composants élémentaires*
@@ -299,6 +302,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Tags** : :learning: :motivation: :autoregulation: :volition:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - Comment l'apprenant·e réussit-ielle à se mettre au travail?
 - Comment arrive-t-ielle à persévérer malgré les difficultés à atteindre les objectifs qu'ielle s'est fixé·e ?
 - Comment contrôle-t-ielle ses processus d'apprentissage et sa motivation ?
@@ -439,6 +443,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Abstract** : For many years, theories of collaborative learning tended to focus on how individuals function in a group. More recently, the focus has shifted so that the group itself has become the unit of analysis. In terms of empirical research, the initial goal was to establish whether and under what circumstances collaborative learning was more effective than learning alone. Researchers controlled several independent variables (size of the group, composition of the group, nature of the task, communication media, and so on). However, these variables interacted with one another in a way that made it almost impossible to establish causal links between the conditions and the effects of collaboration. Hence, empirical studies have more recently started to focus less on establishing parameters for effective collaboration and more on trying to understand the role which such variables play in mediating interaction. In this chapter, we argue that this shift to a more process-oriented account requires new tools for analysing and modelling interactions. 
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - DAI = Distributed AI
 - Cooperation = "couper" - hierarchical - separation of each portion of the problem solving
 - Collaboration = "coller" - heterarchical - coordination on effort to solve the problem together
@@ -584,6 +589,46 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
             - Interaction by giving the tools to the users, seen as the real object of creative production
             - MD environments not only allow users to create content, but also modify the behavior and components of the system at use time through interaction
 - "MD is more than a technical problem; it must address the challenges of creating new mindsets, new sources of creativity, cultural changes, and innovative societies. It has the potential to create a culture in which all participants in collaborative design processes can express themselves and engage in personally meaningful activities."
+
+## [Fleck et al., : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](https://hal.archives-ouvertes.fr/hal-01578637)
+
+**THM** : 15 min avec un TUI en classe permet de favoriser les apprentissage d'élèves de 8 à 11 ans
+
+**Authors** :Stéphanie Fleck, Charlotte Baraudon, Jérémy Frey, Thibault Lainé, Martin Hachet
+
+**Tags** : :tangible-interface: :child-computer-interaction: :usability:
+
+**Abstract** : The cerebral activity is an intangible physiological process difficult to apprehend, especially for children. With the aim of providing a new type of educational support, we studied the pedagogical potential of an interactive tangible interface (Teegi) designed to be used in educational context. This interface aims at enabling children to discover the relation between the brain activity and the human body functions. We propose in this study a methodology to evaluate its pedagogical potential in real context of use, considering the specificities of the children. This study, carried out with 29 pupils, highlights the strengths of this system, both in terms of its usability and its impact on learning. Moreover, the results provided by this methodology revealed possible improvements for a greater pedagogical effectiveness. This type of interactive interface, as well as the evaluation method proposed, paves the way for the pedagogical use of new interactive and tangible devices at school.
+
+**Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
+- Interaction Humain-Machine pour enfant (initialisé par Papert, 1980)
+- Interface tangibles (Tangible User Interface - TUI) :
+	- Avantage : manipulation physiques et collaboratives
+	- "L'apprentissage des fonctions physiologiques représente une réelle difficulté pour un enfant car non eprceptibles sensoriellement et donc intangibles. Les enfants n'ayant pas atteint le stade des opérations formelles (ttt des opérations abstraites), ils ont fortement besoin d'ancrages physiques, concrets, et visuels pour construire leurs connaissances"
+- Evaluation en classe
+- Teegi :
+	- Fonction initiale = permettre aux users de visualiser leur propre activité cérébrale (cette dernière intangible, càd non perceptible visuellement
+	- Permet d'expliquer des phénomènes liés au cerveau en fonctionnement
+	- Si manipule ses mains, pieds et yeux, Teegi déclenche les visualisations au niveau de son cerveau.
+- Une technologie numérique éducative doit être conçue en respectant :
+	1. Utilisable et attractive
+	2. Doit rendre effective les apprentissages visés
+	3. Doit permettre à l'apprenant d'identifier les savoris visés
+	4. Doit stimulier la motivation scolaire
+- Challenges méthodo pour évaluation de l'efficacité pédagogique d'une technologie en contexte de classe :
+	- Contrôle de nombreuses variables : =/= labo : mobiliser classes, contrôler l'effet maître, climat classe, hétérogénéité du public, ou institution comme rythme scolaires, programmes, règles déontologiques (accès au savoir équitable)
+	- Démarche comparative : peu d'autres études et/ou conditions identiques
+- Evaluation d'interfaces :
+	- Rapid desirability testing : "Voilà Teegi comment tu le trouves?" recueil vb de toutes les premières perceptions et impression générées par l'esthétique - effet de halo et désirabilité qui est cherché
+	- Questionnaire Attrakdiff : assess utilisabilité et attractivité - perception pragmatique, hédonique, attractivité globale
+	- Recueil de représentations par le dessin + "Plus précisément, que se produit-il?" + "Que permet-il d'apprendre?"
+- Results :
+	- Appropriation rapide - Facile d'appropriation
+	- Exploration de l'interface
+	- Pas de temps d'apprentissage supplémentaire - Utilisable
+	- Attitude positive et précautionneuse, pas d'exaspération ou lassitude
+	- 15 min suffisant pour favorable à apprentissage
 
 ## [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](https://www.persee.fr/doc/intel_0769-4113_2013_num_59_1_1091)
 
@@ -874,6 +919,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :learning: :technology: :cognitive-load:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - 2 questions :
 	1. Comment apprend-on avec la technologie du point de vue de l'apprenant ?
 	2. Comment exploiter la technologie pour facilité l'apprentissage du point de vue de l'enseignant·e ?
@@ -937,6 +983,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :computer-mediated-collaborative-learning: :emotion:
 
 **Notes** :
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - Emotion comme une réaction brève à des événements de l'environnement qui comporte des composantes cognitive, physiologiques, motivationnelle, expressive et affective (Scherer, 2001)
 - Théorie Contrôle-Valeur de [Pekrun (2006)](https://link.springer.com/content/pdf/10.1007/s10648-006-9029-9.pdf) :
 	- Rend compte des antécédents et de effets des émotions en contexte d'apprentissage
@@ -984,6 +1031,21 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :genre:
 
 **Notes**
+- 
+
+## [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](http://journals.openedition.org/dms/1954)
+
+**THM** : 
+
+**Authors** : Julie Mulet, Jean-Christophe Sakdavong et Nathalie Huet
+
+**Tags** :
+
+**Notes** 
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
+- Formation à distance
+- Aides proposées aux apprenants et la façon dont ces derniers les utilisent
+- Comportements de recherche d'aide 
 - 
 
 ## [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](https://www.researchgate.net/profile/Margarita-Ortiz/publication/320372825_Gamification_and_learning_performance_A_systematic_review_of_the_literature/links/59e488b9aca2724cbfe90b51/Gamification-and-learning-performance-A-systematic-review-of-the-literature.pdf)
@@ -1109,6 +1171,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :EIAH: :ITS:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - Environnement Informatique pour l'Apprentissage Humain (EIAH) = Intelligent Tutoring System (ITS)
 - Définition :
 	- En tant que système informatique : programme destiné à être utilisé par les apprenants impliqués dans une situations d'eneignement et à accompagner ou susciter leur apprentissage
@@ -1174,6 +1237,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :cognitive-load: :différenciation-pédagogique: :learning:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - Pour apprendre à l'école : moyens (tâches sur supports) =/= but (élaboration des connaissances)
 	- Pas la même chose que les apprentissages adaptatifs où moyen = but.
 - Trois sources d'exigence cognitive de chaque situation d'apprentissage :
@@ -1227,6 +1291,7 @@ Tableau tiré de Tricot (2017) :
 **Tags** : :learning: :technology: :edtech:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - Apprendre à l'école repose sur l'acceptation des contraintes de temps, de lieu, des savoirs à apprendre et de la manière d eles apprendre
 - Enseigner, c'est les aménager pour permettre à autrui d'apprendre.
 - Le numérique soulage-t-il la contrainte de **temps** ?
@@ -1305,6 +1370,7 @@ Tableau tiré de Tricot (2017) :
 **Tags** : :learning: :teaching:
 
 **Notes**
+(liste de points importants provenant du cours de G. Molinari du cours ADID 2022, MALTT et enrichi par la lecture)
 - Quelles sont les conceptions de l'apprentissage ?
 	- *3 sens* (Reboul, 1999) : apprendre que ... mémoriser une information / apprendre à ... acquisition d'un savoir-faire / apprendre ... d'un savoir-être
 	- *processus* -> *produit*
