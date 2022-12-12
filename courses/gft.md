@@ -333,8 +333,24 @@ COLLET, Isabelle (2017), Comprendre l'éducation au prisme du genre, Carnet des 
 		- Scolaire et antiscolaire mais au fond génie, mais si il s'y met et que pas génie ? Si tu bossais tu verrais, mais what if not ? Garçons vivent espèce de sentiment d'imposture, croyances dans capacités innées, mais aussi pour filles pas d'espoirs car ce qu'elle font ne seront pas plus car donnent déjà le max
 	- Approches SC ciblant la population minoriraire ou minorisée
 	- Si on veut lutter contre ce sentiment d'auto-censure : mesure d'équité qui sont là pour renforcer, leur donner courage (ex. : rôle model, coaching, mentorat, concours non mixtes, réseaux féminins, formations ciblées (réeseau, confiance en soi) espaces non mixtes, lutte contre stéréotypes)
+- Egalité/Equité :
+	- Principe d'égalité des chances
+	- Equité est une question de justice, on regarde la taille des inégalités et on compense - produit une situation égalitaire
+	- Quand on a des privilèges, on n'en a pas conscience. Prendre conscience de ça nous impose des questions sur notre mérite. Mais risque d'incompréhension de la part de la personne qui n'a plus de privilège, et niveau budget ? Si pas de mesure d'équité ne peuvent pas s'en sortir. Situation qui les rend intrinsèquement inégaux.
+	- Egalité : on enlève le dispositif qui les rendait inégaux. Ok quand identifie le dispositif et intellectuellement prêt à enlever et à admettre que celui qui toujours gagné et que jamais gagné se trouvent sur pied d'égalité.
+	- Si institution avait choisi l'égalité et qu'on n'aurait pas été choisi, quota implicite, malaise.
+	- Quand sur fond public, difficile de tenir le fait que l'institution ok sur cette inégalité
+	- ex. des bourses
+	- Mesures d'équité : ce ne sont que des mesures de rattrapage d'inégalité
+	- Stratégies :
+		- Pensée magique : Important d'agir le plus tôt possible, dès 4-5 ans hyper au point sur stéréotypes. Cette pensée, grandir égalitaire et vivre égalitaire, croyance de tabula rasa, une société créé l'école qu'elle juge bonne pour reproduire ses élites, reproduction que ce qu'on a déjà, mécanique principale. Agir à l'école primaire, mais après dans monde travail non égalitaire. Ce qu'on s'apperçoit, moment le plus important est le moment où ils se posent questions sur l'orientation. Vient avec propositions de solution et là on est écouté. Quand parle à école primaire : les enjeux sont loins. Une mesure ne se mesure pas à applaudimètre, la satisfaction/plaisir =/= indicateur efficace.
+		- Role model : Pas de peuve sci, plupart interventions composites, pas de mesure unique qui porte ses fruits et impact décisif. Les role model mélangés, pourquoi pas mais aucun article scientifique sur impact des roles models à eux seuls sur trajectoire des élèves. Personnalités inspirantes, pour que marche, écart pas trop grand. ex. Marie Curie, quand dit ça, dit que très exceptionnel. Marche quand personnes inspirées sont dans le chemin et rencontre personne un peu plus loin dans chemin, ex. mentorat. Méfions nous des discours sur role models indispensables. Role model, agirons sur la représentation, mais lien avec orientation scolaire tellement loin.
+		- Déconstruire les stéréotypes ils sont la cause des inégalités : inversion de la causalité, les stéréotypes sont continuellement rationalisés, si suppose qu'égalité atteinte, tout ce qui s'exprime sont des différences biologiques. Si on dit que plus de discrimination entre h/f, le fait que 10% en info voudrait dire qu'elles n'aiment pas. Admettre l'existance d'inégalité n'est pas agréable. On les génère pour rationaliser un ordre social. Quand on déconstruit stéréotypes on passe du temps sur passé, mais peu sur le présent.
 
 ## 12.12.2022 - quelles bonnes pratiques
+- Arguments contre le quota
+- Argument pour le quota   : si met niveau alors met différence. Quota, si on pense que notes prédictives de qqch, si pense que résultats au bac prédictifs, alors met quota et augmente niveau. Si femmes ici par quota : je préfère être là par quota que pas là. Si le choix c'est recruté si femme ou pas recruté si femme, préfère recruté. Pb du quota : admet que raison c'est discrimination continue - à la fin sélection parmi une sélection sur-sélectionnée. Ca donne accès à personnes écartées qui n'ont rien à voir : quota honteux, soit dit et pitié. Si école ingé et filles, soupçonné de favoritisme. Qupta intellectuellement décevante mais efficace et pas cher sur le marché. Ce qui est scandaleux c'est 90/10 mais pas les quota pour système inclusif. p.ex. problème du développement de soft. Sentiment de mixité = 30%. Si pas quota, personnes en minorité n'osent pas prendre parole.
+- Théorie du vivier ok pour informatique. Formation continue, forme n interne, regarde si propre organisation personnes mal là où elles sont et mise en relation subventionne et forme. Si quota 50/50 et ne fait rien de plus, alors oui échec.
 
 ## 19.12.2022 - cas pratique : analyse d'une intervention
 
