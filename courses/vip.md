@@ -12,6 +12,8 @@
 * [Conception](#conception)
 * [Intervention de J. Theler - E-teach](#intervention-de-j-theler---e-teach)
 * [Dimension narrative des JVP](#dimension-narrative-des-jvp)
+* [Mécanique](#mécanique)
+* [Retour sur Rendus](#retour-sur-rendus)
 * [Références](#références)
 
 <!-- vim-markdown-toc -->
@@ -294,12 +296,29 @@
 	- Conflit, suspense (Mimesis)
 - Concrètement dans un JV commercial : bifurcation, convergence, variables
 
+# Mécanique
+- On a un état du jeu, un système **dynamique** : Sn+1 = f(Sn, In) avec State et Input.
+- Mécanique où toujours dans état différent où mobilise les états suivants
+- Ex. Lapin couard, si +4 mais faux, on devrait le faire montrer aussi et ne pas juste à interagir avec réponse juste
+
+# Retour sur Rendus
+- Conception JV :
+	- Si une partie bien développée, mieux que d'avoir 4 parties mal ficelées.
+	- Mécanique est la prémice du code, point par point. 
+	- Confusion entre le joueur et le personnage. Le joueur clique sur l'écran.
+	- Mettre images pour illustrer sur autres rendus.
+- Analyse besoin :
+	- Travailler sur acteurs : commanditaire et apprenant, creuser plus sur les acteurs, hiérarchie, groupe technique, toutes les personnes qui gravient autour du projet.
+	- Se détacher de ce que dit le commanditaire (proche de l'analyse de demande) - répéter mais aller au delà, c'est vous qui analysez la situation, pourquoi elle dit ça, quel est le vrai problème, chercher informations sur le sujet, vous même apporter des choses. Quitte à ce que soit *votre* analyse et remettre en question ce que dit le commanditaire.
+	- 
+
 # Références
 
-Capek, K. : Une vie Ordinaire. Éditions l'Âge d'homme (1934/2002)
-[Huizinga, J.: Homo ludens. Essai sur la fonction sociale du jeu. Gallimard, Paris (1951).](https://www.amazon.fr/Homo-ludens-Johan-Huizinga/dp/2070712796)
-Caillois, R.: Les Jeux et les Hommes. Gallimard, Paris (1958).
-[Salen, K., Zimmerman, E.: Rules of play: Game design fundamentals. MIT press (2004).](https://www.amazon.fr/Rules-Play-Game-Design-Fundamentals/dp/0262240459/ref=sr_1_15?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2A9SHN7B0QWAT&keywords=salen+and+zimmerman+rules+of+play&qid=1665334022&qu=eyJxc2MiOiIwLjc3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=salen+and+zimmerman+rules+of+play%2Caps%2C91&sr=8-15)
-[Szilas, N., Acosta, M.: A Theoretical Background for Educational Video Games : Games , Signs , Knowledge. In: Felicia, P. (ed.) Handbook of Research on Improving Learning and Motivation through Educational Games: Multidisciplinary Approaches. IGI Global (2010).](https://www.igi-global.com/chapter/theoretical-background-educational-video-games/52497)
-Henriot, J. (1969). Le jeu. Paris: Presses Universitaires de France.
-Manzoni, A. : Proposing a Framework for the analysis of integration in Serious Games. Thèse de Master, TECFA-FPSE, Univ. de Genève. (2017)
+- Capek, K. : Une vie Ordinaire. Éditions l'Âge d'homme (1934/2002)
+- [Huizinga, J.: Homo ludens. Essai sur la fonction sociale du jeu. Gallimard, Paris (1951).](https://www.amazon.fr/Homo-ludens-Johan-Huizinga/dp/2070712796)
+- Caillois, R.: Les Jeux et les Hommes. Gallimard, Paris (1958).
+- Fendt, M. W., Harrison, B., Ware, S. G., Cardona-Rivera, R. E., & Roberts, D. L. (2012). Achieving the Illusion of Agency. In D. Oyarzun, F. Peinado, R. M. Young, A. Elizalde, & G. Méndez (Éds.), Fifth International Conference on Interactive Digital Storytelling (ICIDS). LNCS, 7648 (Vol. 7648, p. 114‑125). Springer. https://doi.org/10.1007/978-3-642-34851-8
+- [Salen, K., Zimmerman, E.: Rules of play: Game design fundamentals. MIT press (2004).](https://www.amazon.fr/Rules-Play-Game-Design-Fundamentals/dp/0262240459/ref=sr_1_15?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2A9SHN7B0QWAT&keywords=salen+and+zimmerman+rules+of+play&qid=1665334022&qu=eyJxc2MiOiIwLjc3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=salen+and+zimmerman+rules+of+play%2Caps%2C91&sr=8-15)
+- [Szilas, N., Acosta, M.: A Theoretical Background for Educational Video Games : Games , Signs , Knowledge. In: Felicia, P. (ed.) Handbook of Research on Improving Learning and Motivation through Educational Games: Multidisciplinary Approaches. IGI Global (2010).](https://www.igi-global.com/chapter/theoretical-background-educational-video-games/52497)
+- Henriot, J. (1969). Le jeu. Paris: Presses Universitaires de France.
+- Manzoni, A. : Proposing a Framework for the analysis of integration in Serious Games. Thèse de Master, TECFA-FPSE, Univ. de Genève. (2017)
