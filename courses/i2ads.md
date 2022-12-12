@@ -16,6 +16,7 @@
 * [21.11.2022 - Python 3](#21112022---python-3)
 * [28.11.2022 - Python 4](#28112022---python-4)
 * [05.12.2022 - Machine Learning 1](#05122022---machine-learning-1)
+* [12.12.2022 - ML2](#12122022---ml2)
 
 <!-- vim-markdown-toc -->
 
@@ -219,7 +220,8 @@ with open(first_file, 'r') as file_handler:
 - `np.where()==0` to checker where it is == 0
 - `import pandas as pd`
 - `pd.read_csv(path)` to open csv
-- `df.describe()` to show mean std etc.
+- `df.describe()` to show mean std etc. for each num var
+- `df["categoricalVariable"].value_counts()` like 'table()' in R
 - `df.isna().sum()`to see na
 - `df.iloc[5:10, 0:4]` to filter 0 to 3 column and 5 to 9 rows - if use labels, use `loc`
 - `df.shape` to see rows and cols
@@ -239,8 +241,27 @@ with open(first_file, 'r') as file_handler:
 - `fit.transform()` # to transform for any deg X model
 - Values of R2 and MSE are always lower on test than on training
 - Cross-validation, training set in 4 train and 1 test (5-fold cross-validation)
-- 
 
+# 12.12.2022 - ML2
+- Underfitting not enough flexible
+- Overfitting : depends a lot on data, performance terrible, model too much tuned to training data, did not see global pattern
+- x = feature
+- y = label
+- Testing data is worse because model fitted on training data : over or underfitting
+- Supervised learning (labels provided by the user is the 'supervision') : reg when continuous and classification when categorical
+- A logistic regression is a classification algorithm
+- `df.loc[mask, "colName"]` loc allow to extract
+```python
+from sklearn.preprocessing import LabelEncoder
+label_encoder = LabelEncoder()
+y = label_encoder.fit_transform(y_label) # y_label is a categorical label
+from sklearn.model_selection import train_test_split
+Y_train, X_test, y_train, y_text = train_test_split(X, y, test_size=0.3, stratify=y)
+from sklearn.linear_model import LogisticRegression
+lr = LogisticRegression(penalty=None, class_weight="balanced")
+from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+```
+- 
 
 TODO : 
 - ex3 ifelse and while, case, getops
