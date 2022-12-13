@@ -1031,7 +1031,11 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** : :genre:
 
 **Notes**
-- 
+- Socialisation scolaire :
+	- "La dynamique du milieu scolaire contibue à faire vivre aux garçons et aux filles des expériences très différentes liées aux rapports sociaux de sexe (Duru-Bellat, 1994, 1995)"
+	- Stéréotypes de sexe :
+		- "les femmes, dans une situation d'interaction compétitive, diminuent leur auto-attribution de compétence quand le groupe est mixte, par rapport à la compétence qu'elles s'attribuent dans un groupe non-mixte (Lorenzi-Cioldi, 1988)"
+		- "A l'école, on observe que les filles, en présence de garçons, ont tendant à se sous-estimer, particulièrement dans les domaines connotés masculins où les garçons, eux, ont tendance à se sur-estimer"
 
 ## [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](http://journals.openedition.org/dms/1954)
 
