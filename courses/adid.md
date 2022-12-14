@@ -12,6 +12,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 * [29.09.2022 -](#29092022--)
 * [03.11.2022](#03112022)
 * [for 11.12.2022](#for-11122022)
+* [Période 3](#période-3)
 * [TODO](#todo)
 * [Resources](#resources)
 	* [EduTechWiki](#edutechwiki)
@@ -219,6 +220,66 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 - Pour valider la qualité d'un système adapté/adaptable ou adpatatif :
 	- Analyse de l'utilisation = mesure de l'acceptabilité à priori (sur différents profils, en lab ou contexte)
 	- Analyse des usages = mesure l'acceptation et l'appropriation réelle (contexte templs plus long)
+
+# Période 3
+
+- [Leroux (2018)](https://www.profweb.ca/publications/articles/l-evaluation-des-apprentissages-a-distance-dans-un-programme-en-approche-par-competences) : présence / distance
+	- HyFlex : hybride, choix qu'on laisse aux étudiants présence/distance synchrone ou face-à-face.
+- [Paquelin et Lachapelle (2022)](https://hal.archives-ouvertes.fr/hal-03718900) : hybridation, définition, principes, effets, recommandations
+- Hybridation : on hybride pour augmenter, faire évoluer, innovation pédagogique; Blended-learning, hybrid-learning, évolution constante
+- Définition : dimension innovantes (plus maintenant, car institutionalisé), mise à distance, formation en présentiel et distance, env techno pédagogique, accompagnement humain, médiatisation, médiation (Charlier et al., 2006)
+- Plus-value ? A quel moment positif, dans queles conditions positif, où réelles plus-values, qu'elle est la plus-value d'avoir cette comodalité ? Pas suffisamment équipé pour répondre à cette question-là 
+- Plus-value pour l'apprenant·e ? Quelle est la place de l'apprenant·e ? Dimension de la flexibilité, on ne sait pas quel est le degré de liberté ?
+- **Evaluation** de la plus-value ? Comment évaluer cette plus-value du côté méthodologique ?
+- **6 dimensions de [Paquelin et Lachapelle (2022)](https://hal.archives-ouvertes.fr/hal-03718900) (ETeDOAF)** :
+	- Espace : physique, numérique, scolaire, non-scolaire
+	- Temporalité : durée, rythme, synch/asynchrone; quelle est l'articulation entre présence/distance ?
+	- Dynamique sociale : individuel, groupe, collaboratif
+	- Outil/Objet : numérique/physique, tangible/intangible
+	- Approches pédagogiques : théories, modèles, formules pédago
+	- Finalités : engagement (cog, socio-aff, comp), réussite scolaire et éducative (transfert?)
+	- => deux polarités (physique/digital)
+- **5 dimensions de [Charlier et al., (2006)](https://www.cairn.info/load_pdf.php?ID_ARTICLE=DIS_044_0469&download=1&from-feuilleteur=1) :**
+	- Articulation présence-distance
+	- Accompagnement : en lien avec problème de décrochage, délaissement, e-présence (Jézégou, 2019)
+	- Médiatisation : mise en média des contenus, etc.
+	- Médiation : différence entre effets attendus et réels, logiques conception et usage; idéel à fonctionnel de référence (Idéel-vécu : [Albero, 2010](https://edutice.archives-ouvertes.fr/edutice-00578668/); Artefact-Instrument : [Rabardel, 2003](https://academic.oup.com/iwc/article/15/5/641/743739); Friction : [Vermunt & Verloop, 1999](https://www.sciencedirect.com/science/article/pii/S0959475298000280); Productive-failure [Sinha & Kapur, 2021](https://doi.org/10.3102/00346543211019105))
+	- Degré d'ouverture/de liberté ([Jézégou, 2021](https://shs.hal.science/halshs-03170628))
+- Qu'est-ce que l'"*articulation*" présence-distance ? Quels sont les effets de 1 semaine présence puis 4 semaines distance vs. 2-2 ?
+- Autonomie ET agentivité : modèle HyFlex ([Beatty, 2019](https://edtechbooks.org/pdfs/print/hyflex/_hyflex.pdf))
+- Recommandations des effets des dispositifs hybrides :
+	- Importance de sinteractions en face-à-dace en cas de difficultés scolaires
+	- Inter-relation entre présence/distance
+	- La distance complémente le présentiel et alligné avec les objectifs pédagogiques donnés en tant qu'enseignant·e
+	- Il y a des effets positifs si et seulement si le design pédagogique est efficace (clair, concis, occasions de révision, utilité des activités, devoirs et projets) Paquelin & Lachapelle-Bégin, 2022
+- Conception pédagogique :
+	- La première question à se poser avant la conception d'une formation, est quel modèle pédagogique va gouverner l'ensemble de la démarche ? (Decamps, 2014, p.68)
+	- Un problème de formation ou d'apprentissage à résoudre
+	- Une tâche cognitive complexe - comment on va travailler ensemble, analyse des besoins, gestion de projet
+	- Un processus coopératif
+	- Adopter une méthode
+- Au moins trois scénarios à penser :
+	- D'apprentissage :
+		- Orchestre un parcours d'app en fonction des objectifs pédagogiques
+		- Macro-Meso-Micro
+		- Axe connaissances (découvrir les domaines)/compétence :
+			- Intention pédagogique: qu'est-ce que je veux transmettre ? 
+			- Objectif pédagogique : capacités visées. Développement de la disposition à agir (Flandrin). Formuler sous la forme d'un verbe d'action. Peut être mesuré.
+			- Qu'est-ce qu'on voudrait que les étudiants MALTT sachent faire, différentes compétences, mobilités, à quel endroit mobilisé ? Vue macro des objectifs d'un curriculum. 
+			- Intention -> Objectif -> Activité -> Evaluation
+			- **Bloom** : 6 niveaux cognitifs (Bloom, 1956, révisé par Krathwohl, 2002) : Mémoriser, comprendre, Appliquer, Analyser, Evaluer, Créer - lien avec behaviorisme
+			- **SMART** : orienter la construction d'une Séquence, objectif précis, Mesurable, Acceptable (entre formateur et formé, attendu), Réaliste, Temporel
+			- => Identifier les contenus visés, discuter avec commanditaires sur contenus pédagogiques, intention en objectifs et créer une carte de connaissances (MISA)
+		- Axe pédagogique :
+			- Centré activité pour objectif principal de déterminer la façon dont app vont se confronter au contenu pédagogique
+			- Favoriser 1) mémorisation, 2) apprentissage, 3) transfert
+			- **ABC Learning Desgin** (Laurillard, 2012), 6 types d'apprentissages : Par l'acquisition, la collaboration, la discussion, l'enquête, la pratique, la production
+			- **ICAP model** (Chi & Wylie, 2014) : 4 modes d'engagement cognitif : Engagement passif (recevoir), actif (manipuler), constructif (générer), interactif (dialoguer)
+			- Boud & Prosser (2002) : 4 domaines pour concevoir des activités de qualité : engager, prendre en compte le contexte, mettre au défi, inclure la pratique -- A FAIRE DANS CONCEPTION : dans quelle mesure j'engage? je prends en compte le contexte? ...
+			- Linnenbrink-Garcia et al. (2016) : Emotion-motivation, 5 principes, un dispositif de conception idéal est un conception qui agit sur le sentiment de : compétence, autonomie, participation active, buts de maîtrise, appartenance.
+	- D'accompagnement
+	- Médiatique
+- 
 
 # TODO
 
