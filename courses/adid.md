@@ -13,11 +13,15 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 * [03.11.2022](#03112022)
 * [for 11.12.2022](#for-11122022)
 * [Période 3](#période-3)
+	* [Design pédagogique pour l'enseignement à distance et hybride](#design-pédagogique-pour-lenseignement-à-distance-et-hybride)
+	* [ADDIE, MISA, 4C/ID](#addie-misa-4cid)
+	* [Projet](#projet)
 * [TODO](#todo)
 * [Resources](#resources)
 	* [EduTechWiki](#edutechwiki)
 	* [Books](#books)
 	* [People](#people)
+	* [Projects](#projects)
 
 <!-- vim-markdown-toc -->
 
@@ -223,6 +227,8 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 
 # Période 3
 
+## Design pédagogique pour l'enseignement à distance et hybride
+
 - [Leroux (2018)](https://www.profweb.ca/publications/articles/l-evaluation-des-apprentissages-a-distance-dans-un-programme-en-approche-par-competences) : présence / distance
 	- HyFlex : hybride, choix qu'on laisse aux étudiants présence/distance synchrone ou face-à-face.
 - [Paquelin et Lachapelle (2022)](https://hal.archives-ouvertes.fr/hal-03718900) : hybridation, définition, principes, effets, recommandations
@@ -277,9 +283,67 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 			- **ICAP model** (Chi & Wylie, 2014) : 4 modes d'engagement cognitif : Engagement passif (recevoir), actif (manipuler), constructif (générer), interactif (dialoguer)
 			- Boud & Prosser (2002) : 4 domaines pour concevoir des activités de qualité : engager, prendre en compte le contexte, mettre au défi, inclure la pratique -- A FAIRE DANS CONCEPTION : dans quelle mesure j'engage? je prends en compte le contexte? ...
 			- Linnenbrink-Garcia et al. (2016) : Emotion-motivation, 5 principes, un dispositif de conception idéal est un conception qui agit sur le sentiment de : compétence, autonomie, participation active, buts de maîtrise, appartenance.
-	- D'accompagnement
-	- Médiatique
-- 
+			- **Méthodologie Cl@p** : participer à une communauté d'apprentissage.
+	- D'accompagnement :
+		- Aussi question du tutorat, pas mal de choses à creuser sur le rôle du tuteur / accompagnement. Comment les interactions sociales sont mises en place. Scénario des interactions sociales qui sont mis en place
+		- Focus sur tâche **et** relation (Quintin, 2006) en hybride et distance VS. présence enseignant surtout pédagogique.
+		- Importance de l'enseignant à consolider stratégies d'autorégulation (Cosnefroy)
+		- Soutien à la gestion des émotions.
+		- Encourager l'entraide ([Mulet et al., 2017](https://www.doi.org/10.4000/dms.1954)), menace pour l'image que de demander
+		- => A PENSER
+	- Médiatique :
+		- Henri & Basque (2003), 5 sous-espaces : information, autogestion, assistance, production, collaboration
+		- Avoir un environnement où on se sent bien (présence) sur la navigation, créer un espace numérique, accueil, envie d'y être pour travailler et échanger. 
+
+## ADDIE, MISA, 4C/ID
+
+- ADDIE (Analysis, Design, Dev, Implementation, Evaluation, Branch, 2009) : approche analytique, opposé à méthodes agile (production, itératif, premier jet rapide)
+- MISA (Méthode d'Ingénierie d'un Système d'Apprentissage, Paquette et al., 2000) : axe connaissance et compétences, moins : coûteux en temps, lourd
+- [4C/ID](https://www.4cid.org/) (Four Components Instructional Design, Van Merriënboer, 1992) : méthode s'adresse à domaines complexes professionels. Centré activité, d'abord activités et on y greffe informations procédurales. Tâches authentiques, inspirées de la vie active et situation professionnelle réelle, struturé au regard de la façon dont on apprend, dans l'action :
+	- Tâches d'apprentissage
+	- Informations de soutien
+	- Informations prodécurales
+	- Pratiques ciblées
+- [Basque (2017)](https://r-libre.teluq.ca/1719/1/Basque%202017_ACFAS_Critiques%20des%20m%C3%A9thodes%20classiques%20de%20DP_vf%20publ_.pdf) :
+	- Most of them Behaviorisme, certains clament constructivisme est incompatible avec le design pédagogique
+	- 4C/ID cognitiviste
+	- Peu de recherches dans ces design pédagogiques
+	- Processus linéaire et rigide : quelle souplesse des objectifs en fonction des interactions ?
+	- Sur-procéduralisation, processus trop complexe, trop long
+	- Fast Prototyping model ([Botturi et al., 2006](https://d1wqtxts1xzle7.cloudfront.net/28163248/A_Classification_Framework_for_Educational_Modeling_Languages-libre.pdf?1390873511=&response-content-disposition=inline%3B+filename%3DA_Classification_Framework_for_Education.pdf&Expires=1671101258&Signature=DGnHC41~p6TBI3ABtTJ5dNz0eml068hCUjSYBJnf8IOKsTWVfw4RMhnmjXaAJ~2XZhHjaWVonOmF5qjQe434-EsoY7ydacRCeP6~odOC7WwrZHHMvBoJqzRiKDS4ti0V006Bkzxb0Mxw1v8TDOfMYfnXvZX2FHgYClMNdOFq4Ck5Ni~3HgRAhRxjn4dJzjCMi4uXNgDXdORBuiiSVkr2c-~EGB1QLEEdlL-~xEK9NQnuXEzCCAi~RX4VLOwPe2Nsq2aPYCv1m8xLF265NaEmkNccbpk3fUMpKPsD44AaLMZwwajZaWuj7sCeCDXWH5OYikE8MR44-T5rt65lX4ahFQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))
+	- Processus anti-créatif : en tant que futur professionnels, mettre en oeuvre une méthode et se laisser un équilibre pour être créatif.
+	- Processus qui ne réflète pas la pratique
+	- [Basque et al., 2014](https://r-libre.teluq.ca/1718/)
+	- Conclusion :
+		- Approche émergente : itération et co-conception
+		- Approche architecturale
+		- Approche participative
+		- Approche agile
+		- Approche adaptable
+		- Processus + principes + banques de scénarios + design patterns
+
+## Projet
+
+Présentation par Djamileh Aminian :
+
+- [e-teach](https://e-teach.ch/)
+- On doit expliquer ce qu'est d'être concepteur pédagogique
+- Expert matière <-> Concepteur pédagogique <-> Intégrateur e-learning (graphiste, illustrateur, dev, vidéaste)
+- Articulate devient la norme - outil de revue entre toutes parties prenantes. Importance des étapes itératives. Articulate possible, enlève prototypage et équipe de développement.
+- Module de rapid learning, rapides à créer, tendance du marché
+- Instructional Design + User Design = **Learning Experience Designer** (Concepteur techno-pédagogique). Comment accompagner au mieux les personnes dans l'apprentissage via la technologie.
+- ADID & ERGO & "Comment faire?" & "Quels outils utiliser?"
+- Créer scénarisation et outil le plus efficace à utiliser ?
+- Derrière, ce qui compte c'est l'acquisition des connaissances et le transfert dans le travail. But : développement des collaborateurs, comment les aider à passer sur de la compétence.
+- Demandes actuelles du marché : Hybridation + Engagement (rapid learning, mobile learning, gamification) + Lien avec le travail concret (transfert le contenu en compétences, et assurer la continuité)
+- 1) Recadrer la demande. Revenir à l'essentiel, pourquoi ne pas faire ça ? Affiner l'objectif et les demandes.
+- 2) Trier les ressources. Comment choisir ce qui est juste, choisir avec parties prenantes, comment faire et évaluer
+- 3) S'adapter aux tendance. Oui mais savoir pourquoi utiliser ça.
+- Traduction du contenu en connaissances : workshops avec clients, mindmap, requestionne les fondammentaux, quel est le contexte, public, objectifs pédagogiques et comment les évaluer ? Prend leur contenu, discute avec eux, et reprend objectifs. Principe de Mayers, met infos pertinentes, et el reste pour enrober, engager. Revenir à l'essentiel et poser les bonnes questions (entretien semi-directif) en partenariat avec experts matière.
+- Comment différencier dans l'avant(micro)-pendant-après(transfert, ce qui est attendu dans la situation professionnelle).
+- Capable de rédiger les trois types de scénarisation et production vidéo
+- Rapid learning, mobile learning
+- C'est quoi être un nouveau collaborateur dans l'équipe ? (inquiétude? habitudes de l'institution? stress à bien faire? comment accompagner ça?) Repartir de l'utilisateur final, UX.
 
 # TODO
 
@@ -301,3 +365,5 @@ https://www.youtube.com/watch?v=4bet3iFoVzc&t=672s?link_credit=KennethRioja <br>
 ## People
 [Michael James Baker](https://www.researchgate.net/profile/Michael-Baker-44?link_credit=KennethRioja)<br>
 
+## Projects
+- Homogénéiser les espaces de MALTT sur Moodle
