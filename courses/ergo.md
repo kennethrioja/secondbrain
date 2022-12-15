@@ -16,6 +16,8 @@
 * [Conception centrée utilisateur de site Web](#conception-centrée-utilisateur-de-site-web)
 * [Les éléments de l'user expérience](#les-éléments-de-luser-expérience)
 * [AttrakDiff](#attrakdiff)
+* [Tri de cartes](#tri-de-cartes)
+* [Notion d'hypertexte](#notion-dhypertexte)
 * [TODO](#todo)
 * [Refs](#refs)
 	* [Base](#base)
@@ -189,6 +191,24 @@
 # AttrakDiff
 
 - [Lallemand et al. (2015)](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
+
+# Tri de cartes 
+
+- Matrice de similarité = similarité entre chaque
+- Dendogramme = groupes
+
+# Notion d'hypertexte
+
+- Raisonnement argumentatif, ex. inversion de la charge de la preuve ("si ça n'a pas été prouvé, alors c'est juste")
+- Positions / Attitudes épistémologiques, perception des connaissances individuelles et collectives
+- Affirmations sur des phénomènes
+- Croyances <-> Affirmation <-> Connaissances sociales
+- Evaluation - sélection (contraintes situationnelles) - traitement (connaissances et compétences) (Rouet & Tricot, 1998; Sharit et al., 2008)
+- TRACE model (Rouet & Britt, 2011)
+- Logique sémantique (dans le texte, liens pour aller dans d'autres pages)
+- Logique hiérarchique (rubriques et pages)
+- Aide à la navigation : Plan du site, indicateur visuel, points de repère (pied de page, toujours au même endroit), fil d'Ariane (suite du chemin à parcourir sur cette page), prévisualise (évite d'ouvrir/fermer, etc).
+- Outil de soutien pédagogique : Glossaire, nuage de mot, parcours conseillés.
 
 # TODO
 
