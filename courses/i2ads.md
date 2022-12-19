@@ -17,6 +17,7 @@
 * [28.11.2022 - Python 4](#28112022---python-4)
 * [05.12.2022 - Machine Learning 1](#05122022---machine-learning-1)
 * [12.12.2022 - ML2](#12122022---ml2)
+* [19.12.2022 - ML3](#19122022---ml3)
 
 <!-- vim-markdown-toc -->
 
@@ -133,6 +134,7 @@ To merge a branch into main and see the history clearly :
 - `dictionary = { 'one': 1, 'two': 2 }` `.keys()` `.values()` Note : a dic is not ordered
 - `tuple = (42, 'method1', 3.14)` these are fixed, ex. longitude/latitude
 	- `sub-tuple1, sub-tuple2 = tuple` unpack tuple
+- `np.unique(vector)` shows unique value of vector
 ```python
 my_dict = {
     'one': 1,
@@ -261,7 +263,28 @@ from sklearn.linear_model import LogisticRegression
 lr = LogisticRegression(penalty=None, class_weight="balanced")
 from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 ```
-- 
+
+# 19.12.2022 - ML3
+- COURSE TO CHECK
+- Hyperparameters (Lambda), for each score, you have few HP because CV, how to know the best? -> do grid-search
+	- Regularization
+	- How to choose ? Nested cross-validation, cross-validation within cross-validation and chose most frequent hyperparameters
+	- Grid-search, list of hyperparam to test
+	- Nested vs grid-search ? GS is the list of the HP to test, for that we have to do nested-CV
+- PCA : first dim is the one that has most variance, looking at the component explaining the maximum variance, once explained, the second dimension the other direction
+	- Components are always orthogonal (perpendicular)
+- K-Means : means initialization -> Cluster assignment -> means update (center of mass of all obs) and repeat -> convergence (until no more cluster membership)
+	- It's just looking at features regarding labels; classes can be defined in any number of ways
+- Estimator = model
+- Supervised learning : when knowing the label (ex. regression when label continuous, classification when label cat)
+	- Regression :
+		- Ridge reg, with penalty L2
+		- Lasso, with penalty term L1
+		- Elastic with L1 and L2
+	- Classification
+- Unsupervised learning : when not knowing the label :
+	- Dimensionality reduction
+	- Clustering
 
 TODO : 
 - ex3 ifelse and while, case, getops
@@ -272,3 +295,7 @@ TODO :
 	- shellcheck before pushing
 	- you can create a new issue and tag eyap and michael, describe issue and submit : to have support
 - https://github.com/davidhalter/jedi-vim
+- Git capstone
+- Do not do python ML capstone
+- Answer all the one you do not need to think, then come back to others
+- Prediction on stroke dataset, python part of lecture
