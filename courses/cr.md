@@ -10,6 +10,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=456
 * [05.10.2022](#05102022)
 * [09.10.2022](#09102022)
 * [17.10.2022](#17102022)
+* [20.12.2022](#20122022)
 
 <!-- vim-markdown-toc -->
 
@@ -98,5 +99,24 @@ https://reseaulea.hypotheses.org/ <br>
     - [Fisher, 2004](../articles.md#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
     - [Le Guennec, 2016](../articles.md#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
     - =>
+
+# 20.12.2022
+- Quels sont les facteurs de qualité :
+	- Est-ce que annexé dans grandes banques ?
+	- Quel est le facteur d'impact ?
+- Critères d'évaluation :
+	- Expertise
+	- Nouveauté
+- Lecture [article](http://hdl.handle.net/20.500.12162/3191) :
+	- sw/bra
+	- gestion de classe, jeu
+	- comportement influencé par le jeu
+	- modele de l'expérience de jeu : situation, travail eneignant, culture organisationnelle
+	- meth : trace interaction, observation, entretiens
+	- gestion de classe
+	- ludicisation
+	- classcraft
+	- -> Modèle déjà pris en compte quelque part d'autre ?
+
 
 TODO:
