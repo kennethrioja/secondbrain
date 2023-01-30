@@ -20,11 +20,14 @@
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
+* [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
+* [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
+* [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
@@ -36,10 +39,13 @@
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Szilas, 2022 : Serious game design in practice: lessons learned from a corpus of games developed in an academic context](#szilas-2022--serious-game-design-in-practice-lessons-learned-from-a-corpus-of-games-developed-in-an-academic-context)
+* [Taylor et al., 2020 : The Paradox of Help Seeking in the Entropy Mastermind Game](#taylor-et-al-2020--the-paradox-of-help-seeking-in-the-entropy-mastermind-game)
 * [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](#tchounikine--tricot-2011--environnements-informatiques-et-apprentissages-humains)
+* [Tondello et al., 2016 : The Gamification User Types Hexad Scale](#tondello-et-al-2016--the-gamification-user-types-hexad-scale)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
+* [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](#wood--wood-1999--help-seeking-learning-and-contingent-tutoring)
 * [](#)
 
 <!-- vim-markdown-toc -->
@@ -630,6 +636,32 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Attitude positive et précautionneuse, pas d'exaspération ou lassitude
 	- 15 min suffisant pour favorable à apprentissage
 
+## [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](https://doi.org/10.3102/0091732X012001055 )
+
+**THM** : 
+
+**Authors** : Sharon Nelson-Le Gall
+
+**Tags** : :help-seeking: :learning:
+
+**Notes** :
+- Social-normative models:
+	- Cultural values and social roles emphasize norms related to dependence or independence as the basis for predicting and explaning help-seeking
+	- Cultural norms emphasizing self-reliance and individual achievement may influence attitudes toward HS - Individuals may differ in the way they have internalized them
+	- Diff bw US and Dutch (Graf et al., 1979)
+	- Also sex differences (McMullen & Gross, 1983) - on the sex-role-consistent behavior (f+, m-)
+	- Limitations : evaluations of the perceived normativeness of help-seeking for occupants of the student role in learning setting are virtually nonexistent
+	- Research indicates that help-seekers tend to prefer helpers who are perceived as being older, competent, and obligated to comply with their requests for help (e.g., Barnett, Darcie, Holland, & Kobasigawa, 1982; Druian & De Paulo, 1977; Nelson-Le Gall & Gumerman, 1984)
+	- If, however, classroom norms support and encourage informal helping exchanges among peers, the perceived costs of help-seeking may be lessened.
+	- Limits : a) variability may exist within a given group so that generalizations are not possible, b) measures of specific aspects of individuals' personality and motiv orient. of the environment appear to have greater predictive and explanatory power than do normative variables (Ames, 1983; Fisher, Nadler, & Whitcher-Alagna, 1982)
+- Self-esteem models :
+	- Focuses on the role of norms and beliefs in moderating the decision to seek or not to seek help. The beliefs are deeply instilled personal beliefs and conceptions about the self as an individual.
+	- Prediction based on notion of vulnerability :
+		- Low self-esteem ind seek less than high self-esteem ind - less positive self-cognition > more vulnerable to self-threatening info > avoid the self-threatening situation of seeking help
+	- Prediction based on notion of consistency :
+		- High self-esteem is expected to be associated with less help-seeking - it is the inconsitency of incoming self-related information with existing self-cognitions that is threatening to the self
+- TO READ - instrumentality of Help-Seeking
+
 ## [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](https://www.persee.fr/doc/intel_0769-4113_2013_num_59_1_1091)
 
 **THM** : 
@@ -910,6 +942,28 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
     - désir de quoi? -> bénéfices attendus et donc les objectifs
     - responsables comment? -> manière d'y accéder, pertinence de ces objectifs et les outils méthodologiques qu'ils impliquent.
 
+## [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](http://andre.tricot.pagesperso-orange.fr/LemercierTricot_PNER.pdf)
+
+**THM** : "La qualité d'une application est liée à son utilité, à son acceptabilité, et à son utilisabilité"
+
+**Authors** : Céline Lemercier, André Tricot, Isabelle Chênerie, Didier Marty Dessus, Frédéric Morancho et Jérôme Sokoloff
+
+**Tags** : :EIAH: :exerciseur:
+
+## [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](https://doi.org/10.1016/j.cobeha.2020.11.002)
+
+**THM** : Evidence in behavior, brain activity and brain structure during motor learning of this theory
+
+**Authors** : Martin Lövdén, Benjamín Garzón & Ulman Lindenberger
+
+**Tags** : :learning: :skill: :motor-learning:
+
+**Abstract** : Learning, or the process of acquiring knowledge and skill, allows humans to shape and adapt to their environments during development. Researchers have long theorized that the principal brain processes behind learning resemble a recruitment process. The brain initially explores an expanded pool of candidate neural circuits. Based on outcomes, the most promising candidate circuit is selected for refinement. Partly fuelled by new methods, the last decade of research on learning-related functional and structural changes in rodents has supported this theory, and, more recently, related evidence has started to emerge from human studies. We emphasize the need for formal theories and neurocomputational modelling of cortical plasticity to guide work on open issues, such as the link between functional and structural changes.
+
+**Notes**
+- understand and enhance learning for needs of society, lifelong well-being and health, transformative force on environment
+- "Performance on complex motor tasks typically shows rapid improvements and high variability early in practice, followed by a proacted period of slower developing refinements towards task execution with little variability
+
 ## [Mayer, 2010 : Apprentissage et technologie](https://books.google.fr/books?hl=fr&lr=&id=306PApBeLTwC&oi=fnd&pg=PA179&dq=mayer+2010+learning+with+technology&ots=-KDkEGRGoN&sig=1tzXmzcDjMbGJ8R0GV1Nh8DciSk&redir_esc=y#v=onepage&q=mayer%202010%20learning%20with%20technology&f=false)
 
 **THM** : Principes de design pédagogique pour favoriser l'ap. par la tech
@@ -1166,6 +1220,26 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Use graphical rendering effects
 	- Use specialized graphic design tools
 
+## [Taylor et al., 2020 : The Paradox of Help Seeking in the Entropy Mastermind Game](https://doi.org/10.3389/feduc.2020.533998)
+
+**THM** : availability of help allow less queries (bw 0 and 28%) vs. normal ; more help when more difficult
+
+**Authors** : Nichola Taylor, Matthias Hofer and Jonathan D. Nelson
+
+**Tags** : :help-seeking: :bayesian:
+
+**Abstract** : Research on Bayesian reasoning suggests that humans make good use of available information. Similarly, research on human information acquisition suggests that Optimal Experimental Design models predict human queries well. This perspective contrasts starkly with educational research on help seeking, which suggests that many students wait excessively long to ask for help, or even decline help when it is offered. We bring these lines of work together, exploring when people seek help as a function of problem state in the Entropy Mastermind code breaking game. The Entropy Mastermind game is a probabilistic version of the classic code breaking game, involving inductive, deductive and scientific reasoning. Whether help in the form of a hint was available was manipulated within subjects. Results showed that participants tended to ask for help late in the game play, often when they already had all the necessary information needed to crack the code. These results pose a challenge for some versions of Bayesian and Optimal Experimental Design frameworks. Possible theoretical frameworks to understand the results, including from computer science approaches to the Mastermind game, are considered.
+
+**Notes** : 
+- people often do not utilize opportunities for help or ignore them (Aleven et al., 2003)
+- pattern : students would attempt a task, they would be provided with feedback and th offer of help, and then they would decline the help (du Boulay et al., 1999)
+- people are motivated to find the best explanation to explain the available data (Chater et al., 2006; Kharratzadeh and Shultz, 2016)
+- Bayesian models suggest that humans are rational about learning and inference and will use information to ask questions that will maximize their knowledge (Eberhardt and Danks, 2011) BUT criticism !!!
+- help condition = ring the bell when you feel stuck.
+- n = 20
+- 95% bootstrap CI for the diff of queries : The availability of help reduce the number of queries between 0.12 and 2.68 (mean= 10.66 normal, 9.28 help) per game
+- mastermind game : random better than systematic (0.66 to 1.83 Bootstrap)
+
 ## [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](https://hal.archives-ouvertes.fr/hal-00742999)
 
 **THM** : Overview of EIAH
@@ -1231,6 +1305,19 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 		- Questions :
 			- 1) Différence entre pédagogie informatisée vs. non informatisée ou situation pédagogique en tant que telle ?
 			- 2) Légitimité de "faire évaluer" un EIAH lorsque cette dimension de l'évaluation n'a èas été un élément pris en compte dès la conception par les constructeurs ?
+
+## [Tondello et al., 2016 : The Gamification User Types Hexad Scale](https://dl.acm.org/doi/abs/10.1145/2967934.2968082)
+
+**THM** : Gamification scale that correlates with BF
+
+**Authors** :Gustavo F. Tondello, Rina R. Wehbe, Lisa Diamond, Marc Busch, Andrzej Marczewski, Lennart E. Nacke 
+
+**Tags** : :gamification: :assessment:
+
+**Abstract** : Several studies have indicated the need for personalizing gamified systems to users' personalities. However, mapping user personality onto design elements is difficult. Hexad is a gamification user types model that attempts this mapping but lacks a standard procedure to assess user preferences. Therefore, we created a 24-items survey response scale to score users' preferences towards the six different motivations in the Hexad framework. We used internal and test-retest reliability analysis, as well as factor analysis, to validate this new scale. Further analysis revealed significant associations of the Hexad user types with the Big Five personality traits. In addition, a correlation analysis confirmed the framework's validity as a measure of user preference towards different game design elements. This scale instrument contributes to games user research because it enables accurate measures of user preference in gamification.
+
+**Notes**
+https://sydologie.com/2022/12/hexadeau-de-noel/
 
 ## [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](https://www.cnesco.fr/wp-content/uploads/2017/03/170313_16_Tricot_def.pdf)
 
@@ -1403,6 +1490,19 @@ Tableau tiré de Tricot (2017) :
 	5. **cummulatif** : "Plus on apprend, plus on est en mesure d'apprendre" (#learningtolearn)
 	6. **produit d'une culture**
 	7. **multidimentionnel** : pas seulement dimension cognitive, mais dans tous les autres savoirs énoncés avant
+
+## [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](https://www.sciencedirect.com/science/article/pii/S0360131599000305?casa_token=SNnc3y-SOFUAAAAA:_woEegyc81EM6XXLUPFmwwNs9zdaMDe1k0RC9S7_xRVYAgFaIXxP8p0u05dRzILJelUBZnbdCA)
+
+**THM** : 
+
+**Authors** : H. Wood & D Wood
+
+**Tags** : :help-seeking: :learning:
+
+**Abstract** :The focus of this paper is the application of the theory of contingent tutoring to the design of a computer-based system designed to support learning in aspects of algebra. Analyses of interactions between a computer-based tutoring system and 42, 14- and 15-year-old pupils are used to explore and explain the relations between individual differences in learner–tutor interaction, learners’ prior knowledge and learning outcomes. Parallels between the results of these analyses and empirical investigations of help seeking in adult–child tutoring are drawn out. The theoretical significance of help seeking as a basis for studying the impact of individual learner differences in the collaborative construction of ‘zones of proximal development’ is assessed. In addition to demonstrating the significance of detailed analyses of learner–system interaction as a basis for inferences about learning processes, the investigation also attempts to show the value of exploiting measures of on-line help seeking as a means of assessing learning transfer. Finally, the implications of the findings for contingency theory are discussed, and the theoretical and practical benefits of integrating psychometric assessment, interaction process analyses, and knowledge-based learner modelling in the design and evaluation of computer-based tutoring are explored.
+
+**Notes** :
+- 
 
 <!-- struct 
 

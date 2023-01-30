@@ -11,6 +11,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=456
 * [09.10.2022](#09102022)
 * [17.10.2022](#17102022)
 * [20.12.2022](#20122022)
+* [21.12.2022](#21122022)
 
 <!-- vim-markdown-toc -->
 
@@ -118,5 +119,16 @@ https://reseaulea.hypotheses.org/ <br>
 	- classcraft
 	- -> Modèle déjà pris en compte quelque part d'autre ?
 
+# 21.12.2022
+- Objectifs SMART : Specific, Measurable, Achievable, Realistic, Timely
+- Diagramme de Gantt
+- Analyse stratégique SWOT : Strengths, Weaknesses, Opportunities, Threats (Gurl, 2017)
+- Suivi des réunions AIDE (Paukovics)
+- Content Management System PLAY
+- Data Management Plan (DMP) - Collecte et documentation, éthique, stockage, partage
+- Evolution de la plateforme vs. Appropriation
+- Analyse a priori/a posteriori
+- Cartographie des conjectures ([Sandoval, 2013](https://doi.org/10.1080/10508406.2013.778204))
+- 
 
 TODO:

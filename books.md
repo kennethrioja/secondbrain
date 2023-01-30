@@ -18,15 +18,38 @@
 
 http://gameprogrammingpatterns.com/architecture-performance-and-games.html#what-is-*good*-software-architecture
 
-1. Introduction
-
+[Introduction](https://gameprogrammingpatterns.com/introduction.html)
 - Challenges commonly encountered in games
     - Time and sequencing is important : have it done at right order at right time
     - Build rapidly without stepping on each other's toes or leaving footprints : github and clean code
     - Interactions in game must not add more difficulty : name each variable so that we can find them easily
     - Performance is critical in games : squeeze and be more efficient
+
+[Architecture, Performance, and Games](https://gameprogrammingpatterns.com/architecture-performance-and-games.html)
 - Architecture is about change : A "good software architecture" is when the entire program is crafted in anticipation of a change.
 - "The measure of a design is how easily it accomodates changes"
+- Software architecture : "minimize the amount of knowledge you need to have in-cranium before you can make progress"
+- [YAGNI](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it) = "You are'nt gonna need it"
+- [Observers](https://gameprogrammingpatterns.com/observer.html)
+- "Game design requires a lot of experimentation and exploration (...) it's common to write code that you *know* you'll throw away (...) Prototyping is a perfectly legitimate programming practice"
+- If you prototype an idea, either make sure that it cannot be maintained and must be rewritten, either if you think it may be kept, you may have to defensively write it well - or write it in a different language.
+- Get data structures and algorithms right in that order
+
+[Design Patterns Revisited](https://gameprogrammingpatterns.com/design-patterns-revisited.html)
+
+[Command](https://gameprogrammingpatterns.com/command.html)
+- "A command is a 'thingyfy' method call"
+- Callbacks = [function pointer in C](https://www.geeksforgeeks.org/callbacks-in-c/)
+- [Virtual function](https://www.geeksforgeeks.org/virtual-function-cpp/) = can be overridden by a derived class
+- Create a base class "Command", and each subclass for each different game action, then in inputHandler do Command* _buttonX, and in handleInput() { if (isPressed(X)) _buttonX->execute() }
+- Useful when want to do something else while in the Command
+- Undo & Redo : recording the set of commands every entity performed each frame
+
+[Flyweight](https://gameprogrammingpatterns.com/flyweight.html)
+- Flyweight = when you have objects that need to be more lightweight because you have too many of them
+- It is purely about efficiency
+- Tree { Model {Mesh;Bark;Leaves}; Params }
+- Separation between intrinsic state, "context-free" stuff (ex. geom and textures of tree) AND extrinsic state (ex. pos, scale, col)
 - 
 
 Other resources :
