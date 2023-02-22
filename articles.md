@@ -921,6 +921,37 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Bussolon et al. (2006) trouvent que performance identique quand papier vs informatique
 - Cartes : pages de navigation ou produits; fonctionnalités
 
+**Fiche 24 : Echelles UX**
+- Outils standardisés pour recueil ressenti et xp user - questionnaires auto-reportés
+- ! Scores a montrer aux managers ou clients
+- ! Comparer plusieurs systèmes, version, ou différentes pop d'users grace a questionnaires std
+- ! Economique temps et money
+- Valides et fidèles
+- [AttrakDiff](https://link.springer.com/chapter/10.1007/978-3-322-80058-9_19); [meCue](https://doi.org/10.1524/9783486781229); [UserExperienceQuestionnaire](https://link.springer.com/chapter/10.1007/978-3-540-89350-9_6)
+- AttrakDiff : qualité pragmatique, qualité hédonique-stimulation, qualité hédonique-identité, attractivité globale
+- Résultats : diagramme ou histogramme des valeurs moyennes de chaque dimension; diagramme des paires de mots; QP/QH
+
+**Fiche 30 : Tests utilisateur·trice·s**
+- Tester une amélioration continue : excellent outil diagnostique et d'aide à la formulation de recommandation - itératif
+- Mise en situation réelle
+- Combiner plusieurs méthodes
+- ! Observer les users dans leurs interactions avec le système pour recommandations d'amélioration l'UX du système
+- ! Inviter client a TUX pour confronter perceptions et éveiller intérêt.
+- Tests en situation contrôlée :
+	- *Usability lab* - isoler pp, salle de test séparée glace sans tain, avec expert·e observant.
+	- Outils : Morae (Techsmith), Noldus, Ovo Logger, Silverback
+- Tests en contexte naturel : sur le terrain, chez eux, travail, rue.
+- Tests à distance : bcp users, synchrone, asynchrone
+- Tests en mode guérilla (MacDonald & Atwood, 2013) : solliciter spontanément les users cibles dans un lieu public pour l'évaluation d'un système
+- Trunk test : 1) imprime n'importe quelle page web, 2) tenir feuille à bout de bras en plissant les yeux pour ne pas voir détails, 3) trouve et entoure le plus rapidement possible 1. l'identité du site, 2. le nom de la page, 3. les sections et sous-sections, 4. les éléments de navigation locale, 5. les éléments qui indiquent où on se trouve sur le site, 6. une fonction de recherche
+- Maquette = exploratoire & comparaison; Prototype fonctionnel = évaluation, comparaison; Prototype final = Validation & Comparaison; Produits sur le marché = Amélioration continue
+- Définir les scénarios d'usage basés sur les buts principaux : 5-8 scénarios, présente par ordre de diff up : phrase courte, vous.
+- Etablir une grille d'observation : activités et tâches réalisées, temps, succession, réussite et éléments de satisfation, échecs/erreurs/pannes, commentaires "think aloud", commentaires
+- 5 pp (Nielsen, 2000) ou plus pour couvrir toutes les questions UX du sstème ou pour évaluer un système complexe
+- Durée 90 min (accueil et instructions - 10'; réalisation scénarios d'usages - 30'; passations de questionnaires - 15'; entretien de débrief - 15'; remerciement dédommagement - 5')
+- Results : N success/fail pour chaque scénario, N erreurs / scénar, N et type repeated errors, N actions vs minimal, temps moyen, contenu vbalisations, contenu debrief, scores questionnaires
+- Rapid Iterative Testing and Evaluation : corrige dès 1ere passation les erreurs commises par 1er pp and so on. Mais capacité à formuler rapidement des recommandations pour améliorer systèmes. Until 5 pp OK
+
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
 **THM** : The designer's role in one team during co-conception is to let other's creativity emerge, to do that, he needs to take a step back, not thinking about the product's expected qualities, but aiming at a 'user-designed' product.
