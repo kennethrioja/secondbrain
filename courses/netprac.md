@@ -11,7 +11,7 @@ https://www.avast.com/fr-fr/c-what-is-tcp-ip
 	- A qui le tour ?
 	- Comment sait que message correctement transmis ?
 	- Comment terminent conversation ?
-- IP est la partie qui obtien l'adresse (ex. phone n#)
+- IP est la partie qui obtient l'adresse (ex. phone n#)
 - TCP est responsable de la livraison des donnees une fois que cette IP a ete
   trouvee (ex. techno faisant sonner le tel)
 - Pas besoin de les separer
@@ -83,15 +83,46 @@ https://github.com/tblaase/Net_Practice#contents
 	- Copy mask everywhere
 	- If 255, l'IP reste la meme
 
-# Level 1
+# Level 4
 
-- Change adresse machine
+- Copy-paste mask
+- Then IP from A1 while changine adresse machine
 
-# Level 1
+# Level 5
 
-- Change adresse machine
+- Same masks
+- Default to router IP
 
-# Level 1
+# Level 6
 
-- Change adresse machine
+- Same masks, get IPs, corresponding IP between routeur and tables
+- Default router
+- Internet IP corresponding to mask : 128, 256-128 = 128 = 25 bit
 
+# Level 7
+
+- Get a mask : if 3 subnets, 4 is ok, so 30th bit = 4, 256-4 = 252
+- Change IPs of each interface while connecting tables
+
+# Level 8
+
+- R2 IP from default to R13 and R21 61, change mask to 252 because 2
+- Change IPs of the two underlying networks, 12, 1718 and match masks and IPs
+- Internet destination to R12 IP
+- R1 : R21 IP.0/27 to IP R21
+
+# Level 9
+
+- Take R13 and change IPs
+- Begin by C, 9 instead of 10 and connect to internet (router masks & IPs, C1 masks
+  and IP, then change to 9) amd 
+- Connect ABR11 but change private co - take A1 IP
+- D default to R23, then take R23 IP, change to 0/18
+
+# Level 10
+
+- Set S1
+- Set H41
+- Change R13
+- Set R22 to 193 and masks
+- Internet to 0/24 then R1
