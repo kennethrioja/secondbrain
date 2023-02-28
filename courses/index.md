@@ -8,5 +8,6 @@
 [maltt/cr](cr.md)<br>
 [libre/i2ads](i2ads.md)<br>
 [libre/gft](gft.md)<br>
-[42/c++](cpp.md)
+[maltt/sticiii](sticiii.md)<br>
+[42/c++](cpp.md)<br>
 [42/netpractice](netprac.md)
