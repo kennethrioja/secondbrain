@@ -4,6 +4,7 @@
 
 * [D00 - Basics](#d00---basics)
 * [D01 - Basics 2](#d01---basics-2)
+* [D02](#d02)
 
 <!-- vim-markdown-toc -->
 
@@ -85,4 +86,13 @@
 
 - Filestream :
 	- ifs = input file stream
-	- 
+
+# D02
+
+- https://www.cprogramming.com/tutorial/floating_point/understanding_floating_point.html
+- Ad-hoc Polymorphisme :
+	- Surcharge de fonction = definir plusieurs fonctions ayant le meme nom mais prenant parametres differents
+	- Definir sur meme nom mais pas meme parametre
+
+- Operator Overload :
+	-  
