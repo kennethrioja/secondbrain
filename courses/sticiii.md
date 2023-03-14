@@ -16,6 +16,24 @@ Methods :
 - [Pretotyping](https://www.pretotyping.org/)
 - Utiliser Lallemand pour références scientifiques
 
+# OpenScad
+
+- https://openscad.org/cheatsheet/index.html
+- Une fois que j'ai calulé (f6), je peux rendre en STL
+- On peut importer des modèles existants
+- Translation = translate([])
+- Smoothing = $fn comme paramètre
+- union(){}
+- difference(){} mais faire dépasser pour avoid shimmering walls
+- rotate([])
+- resize([])
+- hull([]) - relie les deux
+- minkowski([]) - passe autour
+- polygon([]) - 2D
+- text("") - paramètres size, font
+- linear_extrude(){} - va monter en haut un modèle 2D
+- rotate_extrude(){} - pour faire éléments ronds
+
 ## Références
 
 - [STIC III](https://edutechwiki.unige.ch/fr/STIC:STIC_III_(2022))
