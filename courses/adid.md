@@ -17,6 +17,7 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 	* [ADDIE, MISA, 4C/ID](#addie-misa-4cid)
 	* [Projet](#projet)
 * [TODO](#todo)
+* [ADID 2](#adid-2)
 * [Resources](#resources)
 	* [EduTechWiki](#edutechwiki)
 	* [Books](#books)
@@ -350,6 +351,49 @@ Présentation par Djamileh Aminian :
 - lire document des tâches
 - guide lecture simple>complexe
 - pairs-ception
+
+# ADID 2
+
+- Penser à activités numériques dont obj est dvpment de comp de collaboration
+- Objectifs
+- Activités
+- Outils numériques
+- Evalutation
+- Onboarding est un thème de recherche : ([Gregory et al.,2022](https://www.sciencedirect.com/science/article/pii/S0950584921002329))
+- Trois degrés de collaboration ([Schneider et al., 2004]()) - collective > cooperative > collaborative (chaque partie projet, intervient de manière symmetrique à chaque partie du projet); degrés car en termes d'ingenierie pedagonumerique : a la fois plus coûteux de travailler en collabo que cooperatif, et plus complexe de scénariser le travail collaboratif.
+- Travail collaboratif :
+	- [Borge & White, 2016](https://www.tandfonline.com/doi/full/10.1080/07370008.2016.1215722) : *activité* : idée 1) collaboration ou app collaboratif, soutenu par proc cog partagés et l'objectif se construire une représentation commune du projet, des objectifs, des étapes. Prendre des décisions en commun aussi
+		- Comment on va faciliter, accompagner la prise de décision collective ?
+		- Permettre aux nouveaulles a développer des comp de collaboration
+	- [Fiore et al., 2017]() : nécessité d'une partage, à soutenir, accompagner, partage connaissances, compétences et effort
+- [Jorczack, 2011](https://link.springer.com/article/10.1007/s11412-010-9104-6) : pense la dimension temporelle d'un travail collaboratif et hypothèse qu'est-ce qui peut favoriser travail collaboratif :
+	1. Externalisation initiale : échanger sur ce qu'on sait, nos objectifs, façon dont on comprend le projet, première représentation du projet, ex. brainstorming
+	2. Divergence : comparaison, conflit conceptuel, important dans l'apprentissage ou travail collaboratif - déterminante sur qualité apprentissage / innovante du produit à créer.
+	3. Convergence : quand conflit régulé, clarifier/expliquer, argumenter, négocier, dans le modèle, phase de réduction de l'information.
+	- Souvent cette phase de convergence vient trop vite, péjore l'apprentissage et la dimension créative de la solution trouvée. 
+- [Barron, 2003](https://www.tandfonline.com/doi/abs/10.1207/S15327809JLS1203_1) :
+	- L'échec d'un groupe n'est pas lié à des variables cognitives (K, qtt d'échanges, nb d'idées correctes produites)
+	- Content space <-> Relational space
+- [Kreijns et al., 2003](https://www.sciencedirect.com/science/article/pii/S0747563202000572) : social interaction
+- [Jarvela & Hadwin, 2013](https://www.tandfonline.com/doi/full/10.1080/00461520.2012.748006) : auto-regulation
+- [Quintin & Masperi, 2010](https://journals.openedition.org/alsic/1702) : climat de groupe/ socio-relationnel :
+	- Reliance =
+		- Liance (qualité de la relation) : bienveillance, empathie, expressions d'une satisfaction, d'une appreciation, formules de remerciement, émotivones pour adoucir un "fais ça" – expression d'émotions positif à l'égard du projet : dimension émotionnelle
+		- Alliance (collaboration) : volonté d'engagement dans un travail commun "travaillons comme ça ce soir !": dimension motivationnelle
+		- Dynamique interactionnelle
+- Travail collaboratif avec émotion et motivation, régulation par chaque partenaire (co-regulation, Jarvela) et un groupe qui collabore bien est un groupe qui forte transactivité, chacun a la possibilité d'intervenir avec les autres et symmétrie dans les propositions ()
+- Paresse sociale ([Karau & Williams, 1993](https://psycnet.apa.org/fulltext/1994-33384-001.html)) : l'effort fourni dans un groupe dépend de trois perception.
+	- Comment chaque point peut être traduit en activité ?
+	- Comment faire en sorte que quand arrive, ce qu'on lui propose de faire fait sens, autoévaluation ?
+- Régulation du conflit ([Butera, Sommet & Darnon, 2019](https://journals.sagepub.com/doi/pdf/10.1177/0963721418813986)) :
+	- A repris Doise et Mugny
+	- Régulation épistémique : régulation où comment solution qui a intégré les points de vue
+	- Régulation relationnelle compétitive : conflit d'ego, processus de comparaison sociale, comparer sur le plan des compétences à mon parenaire
+	- Régulation relationnelle protectrice : je veux éviter de me rendre compte que j'avais tort, je protège mon ego
+- C21 Skills social domain ([Hesse et al., 2014](https://link.springer.com/chapter/10.1007/978-94-017-9395-7_2)) :
+	- Transactive memory pour sports collectifs
+- 
+- 
 
 # Resources
 
