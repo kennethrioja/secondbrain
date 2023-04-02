@@ -5,6 +5,8 @@
 * [D00 - Basics](#d00---basics)
 * [D01 - Basics 2](#d01---basics-2)
 * [D02](#d02)
+* [D03](#d03)
+* [D04](#d04)
 
 <!-- vim-markdown-toc -->
 
@@ -33,7 +35,7 @@
 	- Ne plus faire "this->my_var = fun_var" mais direct apres instantiating
 	  function in .cpp do " : my_var(fun_var) "
 - Const :
-	-  on ne peut pas faire d'assignation a une const
+	- on ne peut pas faire d'assignation a une const
 	- `Sample::Sample( float const f ) : pi( f ) {}` = on initialise attribut pi a
 	  la valeur f
 	- `void bar( void ) const` = a aucun moment on va utiliser `this->`, cad,
@@ -68,6 +70,14 @@
 	- Quand on veut allouer memoire : utilise new
 	- On ne peut pas passer en parametre dans un new Array[n], pour passer de parametres il faut le faire manuellement.
 
+- Allocate on stack or heap ?
+	- Automatic variables are automatically destroyed when going out of context
+	- Variables allocated on the stack are automatic variables
+	- Members are automatic variables whose destructors get called when its
+	  owner is destroyed
+	- Variables/Members that you have to call delete on, are not automatic
+	  variables and are on the heap
+
 - References :
 	- Une reference est un pointeur qui est constant, toujours dereference (on dereference quand on met l'etoile devant le pointeur) et jamais nul
 	- Quand reference on SAIT qu'elle pointe sur quelque chose !
@@ -83,6 +93,8 @@
 	- A pointer stores the address of the variable A; it points to the mem loc of A
 	- A reference to A just makes an alias for it; it does not point to A by storing its address in a separate mem loc + a reference shares the same mem address
 	- References are usually preferred over pointers whenever you don't need reseating. This usually means that references are most useful in a class's public interface. References typically appear on the skin of an object, and pointers on the inside.
+	- If a class is optionnally present somewhere, if another class needs to
+	  take it, ask to take it as a reference
 
 - Filestream :
 	- ifs = input file stream
@@ -95,4 +107,27 @@
 	- Definir sur meme nom mais pas meme parametre
 
 - Operator Overload :
-	-  
+	- Notation infix : 1+1
+	- Prefix (fonctionnelle) +11 ou +(1,1) ou 1.+(1) instance 1 et fonction membre de cette instance '+' a laquelle envoie param 1
+	- Postfix 11+
+
+- Canonical form :
+	- 1 constructeur par default : Sample(void);
+	- 1 constructeur par copie prenant une instance de la classe qu'on est en
+	  train de declarer pour faire une copie de cette classe (nouvelle instance
+	  de cree): Sample(Sample const & src);
+	- 1 operateur d'assignation permettra une assignation a partir d'une autre
+	  instance cette nouvelle classe (mise a jour de l'instance courante) :
+	  Sample& operator=(Sample const & rhs)
+	- 1 destructeur
+
+# D03
+
+- Inheritance :
+	- : public ClassName, pour heriter
+
+# D04
+
+- Sub-typing polymorphism :
+	- virtual function = methode
+	- grace a virtual la resolution de l'appel de fonctions a devenir dynamique
