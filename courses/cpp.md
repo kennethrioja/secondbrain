@@ -10,6 +10,8 @@
 
 <!-- vim-markdown-toc -->
 
+leaks -atExit -- ./executableName
+
 # D00 - Basics
 
 - Namespace :
@@ -131,3 +133,12 @@
 - Sub-typing polymorphism :
 	- virtual function = methode
 	- grace a virtual la resolution de l'appel de fonctions a devenir dynamique
+- Abtract classes and interfaces :
+	- Methode pure when = 0, means that no definition on this method, means that
+	  cannot intanciate it
+	- ADD A prefix for Abstract (some methods will be pure)
+	- En gors, le mettre c'est pour dire que le parent n'en a aucune utilite
+	  mais que les enfants peuvent en avoir un comportement difference (surtout
+	  si virtual)
+	- Certains comportements sont definis et d'autres non
+	- ADD I prefix for Interface = all methods are pure and NO attributes
