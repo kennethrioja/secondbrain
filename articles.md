@@ -24,6 +24,7 @@
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
+* [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
@@ -45,6 +46,7 @@
 * [Tondello et al., 2016 : The Gamification User Types Hexad Scale](#tondello-et-al-2016--the-gamification-user-types-hexad-scale)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
+* [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](#wood--wood-1999--help-seeking-learning-and-contingent-tutoring)
 * [](#)
@@ -731,7 +733,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Abstract** : Context : A stable team is deemed optimal for agile software development project success; however, all teams change membership over time. Newcomers joining an agile project team must rapidly assimilate into the organisational and project environment. They must do this while learning how to contribute effectively and without seriously interrupting project progress. Objective : This paper addresses how newcomers integrate into an established agile project team and how agile practices assist with onboarding. Method : A single, qualitative case study approach was used, investigating a co-located agile project team in a large IT department who regularly onboard inexperienced newcomers. Analysis was abductive, consisting of inductive coding and theming using categories from an existing onboarding theory. Results : We describe the team's onboarding practices and adjustments and present an agile onboarding model that encompasses onboarding activities, individual adjustments, and workplace adjustments. Conclusions : A mixture of general and specific agile onboarding practices contribute to successful onboarding in an agile team. We provide practical guidelines to improve onboarding practice in agile teams. Our major new contribution is an extended model of onboarding for agile teams.
 
 **Notes**
-- 
+- Onboarding in agile sofware dev project teas : 
 
 **Comments**
 
@@ -754,6 +756,28 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Comments**
 - 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
+
+## [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](https://www.emerald.com/insight/content/doi/10.1108/13665621011028620/full/html#idm46216430258464)
+
+**THM** : 
+
+**Authors** : Maggie Johnson, Max Senges
+
+**Tags** : :onboarding: :agile:
+
+**Abstract** : Purpose : This paper seeks to analyse the effectiveness and impact of how Google currently trains its new software engineers (“Nooglers”) to become productive in the software engineering community. The research focuses on the institutions and support for practice‐based learning and cognitive apprenticeship in the Google environment.  Design/methodology/approach : The study uses a series of semi‐structured interviews with 24 Google stakeholders. These interviews are complemented by observations, document analysis, and review of existing survey and statistical data.  Findings : It is found that Google offers a state‐of‐the‐art onboarding program and benchmark qualities that provide legitimate peripheral participation. The research reveals how Google empowers programmers to “feel at home” using company coding practices, as well as maximizing peer‐learning and collaborative practices. These practices reduce isolation, enhance collegiality, and increase employee morale and job satisfaction.  Research limitations/implications : The case study describes the practices in one company.  Practical implications : The research documented in the paper can be used as a benchmark for other onboarding and practice‐based learning set‐ups.  Originality/value : This is the first research that gives insights into the practice‐based learning and onboarding practices at Google. The practices are assessed to be state‐of‐the‐art and the insights therefore relevant for benchmarking exercises of other companies.
+
+**Notes**
+- six dimensions of organizational socialization tactics [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
+- Google's onboarding process = 
+	1. recruiting and pre‐start preparation = "black-box"
+	2. two‐week face‐to‐face training and orientation = sets expectations, explains HR practices, core tech and prog practices + senior engineers live lectures on Google practices and culture + "things change quickly" a positive attitude toward new systems and ways of doing things is key to feeling comfortable, "we are all researchers", "learning to find out" learn who to ask and what inquiry methods wand paths lead them to answers, "find role models" copy most productive and influential sof ingeneers available on the intranet + career ladder of the company 
+	3. online training = XXXXXXXXXXXXXXx
+	4. mentoring program and Noogler support community;
+	5. on‐the‐job training;
+	6. practice‐based learning :
+
+**Comments**
 
 ## [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](https://doi.org/10.1016/j.erap.2015.08.002)
 
@@ -1499,6 +1523,22 @@ Tableau tiré de Tricot (2017) :
 	- Coopérer entre élèves :
 		- Kirschner et al. (2018), apprennent mieux en groupe mais :
 			- Possible coût de prise en main et si tâche suffisament simple pour être faite par 1 élève, détériore sa réalisation et l'apprentissage
+
+## [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](https://dspace.mit.edu/bitstream/handle/1721.1/1934/?sequence=1)
+
+**THM** : Six tactical dimensions which caracterize the structural side of organizational socialization
+
+**Authors** : John Van Maanen and Edgar H. Schein
+
+**Tags** : :work-organization: :socialization: :onboarding:
+
+**Notes**
+- 1) Collective vs. individual socialization processes
+- 2) Formal vs. informal socialization processes
+- 3) Sequential vs. random steps in the socialization process
+- 4) Fixed vs. variable socialization processes
+- 5) Serial vs. dis. uctive socialization processes
+- 6) Investiture vs. divestiture socialization processes
 
 ## [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](https://tecfalms.unige.ch/moodle/pluginfile.php/39498/mod_resource/content/4/COMEL1_Vienneau_Concepts%20de%20base%20en%20apprentissage%20et%20en%20enseignement.pdf)
 
