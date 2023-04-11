@@ -22,6 +22,7 @@
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
 * [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
+* [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
@@ -718,6 +719,22 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 		- Donnent à l'ordinateur une place plus important en lui conférant des tâches de diagnostics et de proposition de remédiation
 		- Des systèmes conçus dans l'optique d'un partenanriat homme-machine (mixte) nous semble les plus adaptés pour une plus grande implication de l'user dans son apprentissage
 		- ex. Tuteurs intelligents
+
+## [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](https://doi.org/10.1016/j.infsof.2021.106792)
+
+**THM** : 
+
+**Authors** : Peggy Gregory, Diane E. Strode, Helen Sharp, Leonor Barroca
+
+**Tags** : :agile: :onboarding: 
+
+**Abstract** : Context : A stable team is deemed optimal for agile software development project success; however, all teams change membership over time. Newcomers joining an agile project team must rapidly assimilate into the organisational and project environment. They must do this while learning how to contribute effectively and without seriously interrupting project progress. Objective : This paper addresses how newcomers integrate into an established agile project team and how agile practices assist with onboarding. Method : A single, qualitative case study approach was used, investigating a co-located agile project team in a large IT department who regularly onboard inexperienced newcomers. Analysis was abductive, consisting of inductive coding and theming using categories from an existing onboarding theory. Results : We describe the team's onboarding practices and adjustments and present an agile onboarding model that encompasses onboarding activities, individual adjustments, and workplace adjustments. Conclusions : A mixture of general and specific agile onboarding practices contribute to successful onboarding in an agile team. We provide practical guidelines to improve onboarding practice in agile teams. Our major new contribution is an extended model of onboarding for agile teams.
+
+**Notes**
+- 
+
+**Comments**
+
 
 ## [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](https://doi.org/10.1177/10468781221110577?link_credit=KennethRioja)
 

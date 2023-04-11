@@ -18,6 +18,10 @@ https://tecfalms.unige.ch/moodle/course/view.php?id=448
 	* [Projet](#projet)
 * [TODO](#todo)
 * [ADID 2](#adid-2)
+	* [Lundi 27 mars](#lundi-27-mars)
+	* [Mardi 28 mars](#mardi-28-mars)
+	* [Mercredi 29 mars](#mercredi-29-mars)
+	* [Jeudi 30 mars](#jeudi-30-mars)
 * [Resources](#resources)
 	* [EduTechWiki](#edutechwiki)
 	* [Books](#books)
@@ -354,6 +358,8 @@ Présentation par Djamileh Aminian :
 
 # ADID 2
 
+## Lundi 27 mars
+
 - Penser à activités numériques dont obj est dvpment de comp de collaboration
 - Objectifs
 - Activités
@@ -392,8 +398,71 @@ Présentation par Djamileh Aminian :
 	- Régulation relationnelle protectrice : je veux éviter de me rendre compte que j'avais tort, je protège mon ego
 - C21 Skills social domain ([Hesse et al., 2014](https://link.springer.com/chapter/10.1007/978-94-017-9395-7_2)) :
 	- Transactive memory pour sports collectifs
-- 
-- 
+
+## Mardi 28 mars
+
+- Quelle est la MESURE de l'apprentissage?
+- Comment évaluer le transfert ?
+- Donner des outils réutilisables afin de faciliter un transfert ?
+- Quel est le CADRAGE ? La collaboration se cadre aussi !
+- Convaincre
+- [Tuckman, 1965](https://doi.org/10.1037/h0022100) : Forming - storming - norming - performing - adjourning
+- Groupe = personnes avedc un but commun
+- En fonction des approches épistémologiques, ex. approche cognitive : performance du groupe et mesure individuelle (pre-post), vs. socio-culturelle (Vygotsky) : apprentissage a lieu deux fois, d'abord en groupe et ensuite en individuel, gain non intérêt mais analyse de l'activité du groupe, comment résoudre et interaction, l'apprentissage c'est ce qu'il est en train de se faire.
+- OK comment, pourquoi on va le faire ? Qu'est-ce que ça amène à mon développement ?
+- Lombardo & Eichinger, 1996 : 70% de leurs connaissances proviennetn d'expériences liées à leur travail; 20% des interactions avec les autres, comme les collègues et les collègues et les responsables; 10% d'événements d'apprentissage formels
+	- Si je conçois, ne pas se focus que sur 10%.
+- Problème : "Learning the flow of work", apprendre ma connaissance, dans scénarisation pédagogique comment nous on arrive à construire espace où ça peut se faire ?
+- Mise en contexte la plus proche, valoriser et optimiser l'interaction avec les autres. Chercher la connaissance le plus vite.
+- Poser l'intention : objectif d'apprentissage comment on va les aider ? Voir si ça a du sens. A la fin ne pas voir, mais qu'ils développent des compétences.
+- Public, contexte, contraintes institutionnelles.
+- Aller vers une intégration des personnes.
+- Penser la formation comme quelque chose de pérène.
+- Organiser sa formation in-situ, je vais devoir aller sur le terrain analyse du travail.
+- Micro-learning, faire des choses pointues. Analytics, à quel moment tu vas délivrer la micro formation ?
+- Apprentissage auto-régulé, personnaliser, au bon moment et faire du groupe ?
+- Pause café : concis, précis, limité - parole se libère dans les moments informels.
+- Forming problème à distance, sauf si bien agencé
+- Informel : faire le bilan, exprimer émotions : autre rôle.
+- Digital workspace : espace d'échanges, centralisation de l'information, flexible et user-friendly, ressources multimodales, espace dédié.
+- Liste de contenu (Playlist) : curation de contenu, modération par les users, modération par du ML, ressources multimodales, centralisation de l'information
+- L'outil a connaître, mais derrière il y a l'intention, analyse des besoins.
+- Rôle d'accompagnement au changement
+- Video, Online training courses AND f2f tuto, on the job training, coaching/mentoring, 1to1 conversations
+
+## Mercredi 29 mars
+
+- Penser à l'évaluation, ET réfléchir sur les objectifs.
+- Learning eXperience Designer
+- Design pédagogique (Lanares et al., 2023) : Vision, Conception, Évolution
+- Méthode de conception = pas-à-pas pour concevoir (Analyse contexte, besoin, etc.) VS théories de l'apprentissage = processus d'apprentissage.
+- IDEE : activité pour apporter ses compétences ou présentation de ce qu'on sait faire, ou aime bien faire au lieu de se former à une norme/culture
+- Questions à se poser lors de ces tâches?
+- Quels sont les points de vigilance, que dois-je produire à chaque étape ?
+- Besoin de les former le plus rapidement, proposition programme onboarding, 3mois. Chacun a le droit de parole. Besoin aspect socialisation entre les collègues.
+- Cahier des charges :
+	- Permettre retour expérience, partage d'expérience
+	- Peu importate le pourcentage présence/distance
+	- Contexte : 250, 15/20 new collab, nouvelle techno, département : HR, markets & sales, admin, intra info, dep techno pedago, plateforme
+	- Est-ce que cette première semaine onboarding je retiens?
+
+## Jeudi 30 mars
+
+- Reprendre et comprendre ce qui a été fait durant toute l'histoire de l'entreprise.
+- Livrable :
+	- Guide d'animation à prendre exemple sur : pas besoin de scripter mais points clés de l'interaction.
+	- Objectif : prendre conscience de toutes les interactions quand hybride et digital
+	- Se projeter (rétroplanning, 7 mai)
+	- Ne pas négliger phase de lecture et recherche bibliographique : informel, onboarding, collaborative, travail équipe, evaluation 360, etc.
+	- Discuter des thèmes à explorer et les partager.
+	- S1 découverte et lecture, répartir les lectures, organiser les idées retenues
+	- S2 brainstorming sur lectures
+	- S2 opérationalisation
+	- Repenser les scénario d'aprentissage, accompagnement, médiatique
+	- Evaluation, double évaluation
+	- Clickup
+	- Répartition des rôles
+	- Critères d'évaluation : innovation par rapports aux pratiques existantes, capacité du dispositif à mettre en relation, 3) capacité du dispositif à remplir les objectifs pédago fixés, 4) pertinence de l'utilisation des techno et media pour l'atteinte des objectifs, 5) capacité à être retransféré à d'autres publics et contextes. 
 
 # Resources
 
@@ -405,9 +474,11 @@ Présentation par Djamileh Aminian :
 [Mythes et réalités - Les neurosciences en éducation - E. Sander](https://www.satas.com/fr/neurosciences-epigenetique/6185-mythes-et-realites--les-neurosciences-en-education.html?link_credit=KennethRioja)<br>
 [Mythes et réalités - Apprendre avec le numérique - Tricot et Amadieu](https://livre.fnac.com/a7410341/Andre-Tricot-Apprendre-avec-le-numerique?link_credit=KennethRioja)<br>
 [Psychologie de l'éducation - M. Crahay](https://www.amazon.fr/Psychologie-l%C3%A9ducation-Marcel-Crahay/dp/2130633994?link_credit=KennethRioja)<br>
+[Lanares et al., 2023 : Design pédagogique](https://www.epflpress.org/produit/1427/9782889155408/design-pedagogique)
 
 ## People
 [Michael James Baker](https://www.researchgate.net/profile/Michael-Baker-44?link_credit=KennethRioja)<br>
 
 ## Projects
 - Homogénéiser les espaces de MALTT sur Moodle
+- Comme un brown bag mais en mettant en lien les personnes anciennes du MALTT pour présenter leur boulot
