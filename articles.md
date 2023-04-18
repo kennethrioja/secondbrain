@@ -768,16 +768,33 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Abstract** : Purpose : This paper seeks to analyse the effectiveness and impact of how Google currently trains its new software engineers (“Nooglers”) to become productive in the software engineering community. The research focuses on the institutions and support for practice‐based learning and cognitive apprenticeship in the Google environment.  Design/methodology/approach : The study uses a series of semi‐structured interviews with 24 Google stakeholders. These interviews are complemented by observations, document analysis, and review of existing survey and statistical data.  Findings : It is found that Google offers a state‐of‐the‐art onboarding program and benchmark qualities that provide legitimate peripheral participation. The research reveals how Google empowers programmers to “feel at home” using company coding practices, as well as maximizing peer‐learning and collaborative practices. These practices reduce isolation, enhance collegiality, and increase employee morale and job satisfaction.  Research limitations/implications : The case study describes the practices in one company.  Practical implications : The research documented in the paper can be used as a benchmark for other onboarding and practice‐based learning set‐ups.  Originality/value : This is the first research that gives insights into the practice‐based learning and onboarding practices at Google. The practices are assessed to be state‐of‐the‐art and the insights therefore relevant for benchmarking exercises of other companies.
 
 **Notes**
+- semi structured interviews, 5 freshmen 6 employeers <1.5yo, 4 mentors, 3 learning program managers @Montain View California
 - six dimensions of organizational socialization tactics [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
 - Google's onboarding process = 
 	1. recruiting and pre‐start preparation = "black-box"
-	2. two‐week face‐to‐face training and orientation = sets expectations, explains HR practices, core tech and prog practices + senior engineers live lectures on Google practices and culture + "things change quickly" a positive attitude toward new systems and ways of doing things is key to feeling comfortable, "we are all researchers", "learning to find out" learn who to ask and what inquiry methods wand paths lead them to answers, "find role models" copy most productive and influential sof ingeneers available on the intranet + career ladder of the company 
-	3. online training = XXXXXXXXXXXXXXx
-	4. mentoring program and Noogler support community;
-	5. on‐the‐job training;
-	6. practice‐based learning :
-
-**Comments**
+	2. two‐week face‐to‐face training and orientation = sets expectations, explains HR practices, core tech and prog practices + senior engineers live lectures on Google practices and culture + "life of an engeneer" = "things change quickly" a positive attitude toward new systems and ways of doing things is key to feeling comfortable, "we are all researchers", "learning to find out" learn who to ask and what inquiry methods wand paths lead them to answers, "find role models" copy most productive and influential sof ingeneers available on the intranet + career ladder of the company 
+	3. online training = checklists + codelabs (tutorials also useful for experienced engineers to refresh knowledge) + codewalks
+	4. mentoring program and Noogler support community = at the end of the intro lecture on the first day is the first meeting bw new and mentor, showing office and facilities - mentors are trained to be sensitized to the needs and expectations of new hires (2 purposes : identify potential points of improvements & new engeneers can raise practical questions and clarify misunderstandings which might otherwise have become permanent issues) + mailing list "Noogler Engineers Helping Engineering Nooglers (NEHEN)" = one com channel where they can team up with peers  BUT not necessarily cohesive
+	5. on‐the‐job training = "starter project", ~2 weeks and good intro to a specialized field; "Tech Talks" voluntary, self-organized knowledge sharing events in which one or several googlers or guests present about a technical topic of interest, recorded and made available online "good way to keep a sens of Google as a whole (...) good way to get a sense of how different teams see their mission, waht their plans are, and who their primary clients are"
+	6. practice‐based learning = glossary (=ETW), dev handbook
+- Transparent perf management system : 1. 'weekly snippets' = bullet point report about what they did during the last 7 days; "Objectives and Key Results" = set measurables objectives; Company CV = on the intranet, asked to dvp, allow newcomers to lean about their colleagues and role models; "Design and Code Reviews" = peer prod practices ([Benkler, 2006](https://www.jstor.org/stable/j.ctt1njknw)), like prereg, code reviews are required after each change to prodduction code, reviewers are team members working in the same area or senior dev who initially designed the system.
+- "You need to take responsibility (...) Google trusts you to make the decision that is best for you and best for Google"
+- "You need to take care of your career development" (Shillingsburg, 2004)
+- [Boud and Middleton (2003)](https://www.emerald.com/insight/content/doi/10.1108/13665620310483895/full/html) :
+	- Mastery of organizational processes : mental representation of who is who
+	- Dealing with the atypical : pair working allowing the new comers to absorb the common as well as the un-common practices of the experienced programmer.
+	- Negociating the politics
+- The Gestell for practice-based learning :
+	- All activities maintain intranet pages - allow for exploration and prudent gradual engagement by novices
+	- Provide weekly progress reports + quarterly objectives : accessible company-wide and allow to shadow role models unobtrusively
+	- Knowledge guilds (aka. intergrouplets) responsible for maintaining various standards of the respective prog practices - noogler can enter, lurk on their mailing list and contribute to discourse gradually
+	- Liberty of choosing a project of choice in their 20% of time - allowing different knowledge domain and strategic career self-organization
+	- Small teams
+- Supporting cog apprenticeship tools :
+	- Online identity : build a reputation to allow for social and professional match finding
+	- Trainee program : follow more senior peers to participate in their meetings and project activities – realistics expectation is an aspect to be most important for job satisfation ([Buckley et al., 1998)](https://psycnet.apa.org/record/1998-02893-008))
+	- Expectation management
+	- Practice-based learning : Role models; Communities of practice
 
 ## [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](https://doi.org/10.1016/j.erap.2015.08.002)
 
