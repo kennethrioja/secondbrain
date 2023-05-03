@@ -38,8 +38,10 @@
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
-* [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
+* [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
+* [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
+* [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
 * [Szilas, 2022 : Serious game design in practice: lessons learned from a corpus of games developed in an academic context](#szilas-2022--serious-game-design-in-practice-lessons-learned-from-a-corpus-of-games-developed-in-an-academic-context)
 * [Taylor et al., 2020 : The Paradox of Help Seeking in the Entropy Mastermind Game](#taylor-et-al-2020--the-paradox-of-help-seeking-in-the-entropy-mastermind-game)
 * [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](#tchounikine--tricot-2011--environnements-informatiques-et-apprentissages-humains)
@@ -1241,16 +1243,40 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 **Comments**
 
-## [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](https://journals.lww.com/co-neurology/Fulltext/2020/04000/Serious_video_games_and_virtual_reality_for.14.aspx)
+## [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](https://doi.org/10.4000/activites.8450)
 
-**THM** : State of the art in Healthy Older Adults (HOA)/MCI for Computerized Cog Training, SVG, Exergames, VR
+**THM** : play model by Sanchez E.
 
-**Authors** : Sokolov A. A., Collignon A, Bieler-Aeschlimann M
+**Authors** : Xavier Rétaux
 
-**Tags** : :aging: :cognitive-neurorehabilitation: :computerized-cognitive-training: :training: :exergames: :neurotechnology: :serious-game:
+**Tags** : :jeu: :apprentissage:
 
-**Abstract** :Cognitive decline because of aging and neurodegeneration has become increasingly prevalent. This calls for the implementation of efficacious, motivating, standardized and widely available cognitive interventions for the elderly. In this context, serious video games and virtual reality may represent promising approaches. Here, we review recent research on their potential for cognitive prevention and neurorehabilitation of age-related cognitive decline and mild cognitive impairment (MCI). The majority of currently available data in this evolving domain lacks the methodological quality to draw reliable conclusions on the potential of novel technology for cognitive training in older people. However, single well designed randomized controlled trials have reported promising effects of cognitive interventions involving serious video games and virtual reality. The cognitive benefits of exergames promoting physical exercise with and without combined cognitive training remain unclear. The immersion into stimulating and motivating environments along with training content based on neuroscientific and neuropsychological models may represent a significant advance as compared with conventional computerized cognitive training. Additional research with sound methodology including sufficient sample sizes, active control groups and meaningful outcome measures of everyday function is needed to elucidate the potential of serious video games and virtual reality in multifactorial neurorehabilitation of cognitive decline in aging and neurodegeneration.
-
+**Notes**
+- "Comment un apprentissage peut-il se développer alors que le joueur ne sait jamais vraiment ce qui vient de lui (le marionnettiste) et ce qui vient du jeu (la marionnette) ?"
+- "Le modèle compte 6 niveaux :
+	- culture organisationnelle de l’institution, 
+	- conception, 
+		- Penser le debriefied dès la conception du JV pour founrinr à l'ens les outils pour revenir à la'ctivité réelle de jeu pour la traduire en savoir
+	- débriefing, 
+		- "Ce débriefing peut interroger : s’il faut débriefer avec l’apprenant, ne revient-on pas à la situation initiale de formation ? Si le débriefing est refusé par l’apprenant comme il aurait pu refuser de suivre un cours classique, qu’apporte vraiment la situation de jeu ? C’est l’objet des chapitres initiaux de l’ouvrage."
+	- orchestration, 
+		- Ens = maître·esse du jeu, 2 buts :
+			- Maintenir le "contrat ludique" (Duflo, 1997) - accepter un système de règles en échange des libertés que le système permet
+			- Créer le "cercle magique" (Huizinga, 1951) - acceptation des règles arbitraire et coopérer pour permettre le jeu
+			- => libre d'expérimenter et de perdre, et si possible avec les autres
+	- jeu-play 2
+		- Collab & Coop entre joueur·euse·s pour conflit socio-cognitif (REF)
+	- jeu-play 1."
+		- jeu = situation qui se développe dans un cadre particulier
+		- jeu-artefact = game
+		- jeu-activité = play
+		- jeu épistémique = "jeu sérieux", utilisé "à des fins utilitaires ou de formation"
+		- but = transfert de responsabilité de l'élève é l'enseignant : la dévolution (Brousseau)
+- "L'activité des joueur·euse·s est une "économie du risque" (Duflo, 1997) (...) Quand il n'y a plus de risque, il n'y a plus de jeu."
+- Le jeu est non-suffisant pour transmettre des savoirs
+- Mais le jeu assure l'engagement de l'apprenant·e
+- Livre pour concevoir des situations d'apprentissage par le jeu
+ 
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
 **THM** : As researchers working in ecological conditions (e.g., schools), there are 'learning arrangements', and Rrs need to accept the rules of a different life-world = adapting to the situation
@@ -1290,6 +1316,41 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Hermeneutical field 1: com and coop in the arena bw researchers and practictioners -> refers to commitments in the arena, step of gathering information, lot of doc texts produced and interpreted
 - Hermeneutical field 2 : com and coop in the scientific community bw Rr - link back the expeirences won in the arena
 - Joint time limited, both people from different life-worlds. 
+
+## [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](https://journals.lww.com/co-neurology/Fulltext/2020/04000/Serious_video_games_and_virtual_reality_for.14.aspx)
+
+**THM** : State of the art in Healthy Older Adults (HOA)/MCI for Computerized Cog Training, SVG, Exergames, VR
+
+**Authors** : Sokolov A. A., Collignon A, Bieler-Aeschlimann M
+
+**Tags** : :aging: :cognitive-neurorehabilitation: :computerized-cognitive-training: :training: :exergames: :neurotechnology: :serious-game:
+
+**Abstract** :Cognitive decline because of aging and neurodegeneration has become increasingly prevalent. This calls for the implementation of efficacious, motivating, standardized and widely available cognitive interventions for the elderly. In this context, serious video games and virtual reality may represent promising approaches. Here, we review recent research on their potential for cognitive prevention and neurorehabilitation of age-related cognitive decline and mild cognitive impairment (MCI). The majority of currently available data in this evolving domain lacks the methodological quality to draw reliable conclusions on the potential of novel technology for cognitive training in older people. However, single well designed randomized controlled trials have reported promising effects of cognitive interventions involving serious video games and virtual reality. The cognitive benefits of exergames promoting physical exercise with and without combined cognitive training remain unclear. The immersion into stimulating and motivating environments along with training content based on neuroscientific and neuropsychological models may represent a significant advance as compared with conventional computerized cognitive training. Additional research with sound methodology including sufficient sample sizes, active control groups and meaningful outcome measures of everyday function is needed to elucidate the potential of serious video games and virtual reality in multifactorial neurorehabilitation of cognitive decline in aging and neurodegeneration.
+
+## [Stuckler, 2021 : 5 steps to write a research paper in a weekend](https://www.youtube.com/watch?v=yt6zuQbETMI)
+
+Comment made by @ruampimentel883
+1. Get everything in place
+    1. Analysis Ready
+    2. Table Ready
+    3. Figure
+    4. Writing is the last 10% of the project
+2. Write the paper from inside out
+    1. Don’t do it from start to finish (intro, method, results, discussion)
+    2. Start with the method (easy to write)
+    3. Then results
+        1. Describe tables, figures and key findings to tell a clear and coherent story
+3. Write the conclusion
+        1. Recapitulate the findings (key findings) 1st paragraph
+        2. List Limitation (2nd paragraph)
+        3. What are the implication for future research? 
+        4. What are implication for other actions on the field? (if any)
+4. Now, Introduction
+        1. Why is it important? Why should anyone care?
+        2. What is missing? What is the limitations?
+        3. What is the value of this study?
+5. Not be a perfectionist
+    1. Just write… then edit
 
 ## [Szilas, 2022 : Serious game design in practice: lessons learned from a corpus of games developed in an academic context](https://doi.org/10.1145/3555858.3563283)
 
