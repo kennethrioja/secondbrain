@@ -35,6 +35,7 @@
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
 * [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](#mulet-et-al-2017--quels-tuteurs-informatisés-pour-réduire-les-comportements-dévitement-de-la-recherche-daides-des-apprenants)
+* [Olivera et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#olivera-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
@@ -1196,6 +1197,48 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Aides proposées aux apprenants et la façon dont ces derniers les utilisent
 - Comportements de recherche d'aide 
 - 
+
+## [Olivera et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
+
+**THM** : 
+
+**Authors** :Gil Oliveira, Nicolas Godinot, Eric Sanchez, Catherine Bonnat, Simon Morard, and Sandro Dall’ Aglio
+
+**Tags** : :game: :co-design: :learning: :museum:
+
+**Abstract** : This paper presents the results of the co-design of a learning game in a museum context. This game deals with the topic of the food system and considers how this concept is integrated with the Swiss school curriculum which constituted the starting point of the game design. Based on the ludicization theoretical framework, we question how learning objectives were articulated with the game elements and the choices made to design a playful learning situation. Our work is grounded on a design-based research methodology. In this context, we describe the initial phase of co-design, which involved co-design activities, research of educational content, and iterative prototyping. This empirical work led to the game AL2049, which aims to bring secondary school students (12–15 years old) to understand interrelationships in food systems and, in so doing, to face complex problem solving. Results comprise the game and the choices made in regard to the ludicization model.
+
+**Notes**
+- "Designing a reflexive space in which a student can interact and of changing the meaning of the learning situation so that it becomes playful (Sanchez et al., 2016)"
+- Popularize the concept of food system to a large audience
+- Integration of knowledge about food system complexity from PER
+- Engage in reflexive thinking through : elaborating personal opinions, identify facts, verify their accuracy, put them in perspective, explore different options and pov, abandon preconceived ideas, compare his/her pov with those of others, face doubt and ambiguity
+- Prerequisite for understanding complex systems = critial thinking
+- 2 pedago objectives :
+	- Systemic approach = understanding complex relationships bw components of the food system
+	- Critical thinking = focused on reflecting and evaluating the information provided
+- Gamification : ex. adding game elements
+- Ludicization : 
+	- Focus on the play - the situatione xperienced by the learner, rather than on the game itself
+	- Change the meaning of the learning situation so that it becomes playful
+	- Integration of a learning content into a game, providing an epistemic dimension to the gaming experience and enabling students to dvp their knowledge from it
+- Model of Ludicization (Bonnat et al., 2023) :
+	- Conversion of a "target domain" (domain to be learned, food system), which includes complex and multidisciplinary knowledge, into a "source domain" (learning situation, AL2049) that takes the form of a playful learning experience
+	- Usage of a metaphor : transfer from transparent source domain to an opaque target domain
+	- Thus describing abstract concepts in a more comprehensible and concrete way by providing analogies from familiar domains (Lakoff & Johnson, 1980)
+	- Consider games as hermeneutic spaces (Caracciolo, 2009) : theory of interpretation include the art of understanding and communication
+	- "The use of a metaphor implies that there is a hidden meaning behind the fame, and that this second level of meaning gives the game its power"
+	- The metaphor remains implicit within the game and is rendered explicit during the debriefing
+- Phase 1 : scenario through 2 game jams
+- Phase 2 : 11*1/2 days workshops between research team, museum curator, game designer
+- Phase 3 : Prototype testing and adjustment
+- Combines tangible and digital elements
+- 12-15 yo, 90 min, goal : feed the population
+- Core mechanic = assigning specific functions to different spaces
+- "The simulation that took place in the museum, understood as a closed system, represents the planet and the global food system. Players can reflect on their experience – they learn by reflecting on the game xp rather than on the xp itself (source, AL2049)
+- The debriefing helps to transform the subjective knowledge developed during the game (the need to assess the quality of information) into knowledge that can be used in another context)
+- How a game can be an analogous and metaphorical situation of a domain that needs to be learned
+- "Traces will be collected to see how it is used by the players and how their food conceptions evolve"
 
 ## [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](https://www.researchgate.net/profile/Margarita-Ortiz/publication/320372825_Gamification_and_learning_performance_A_systematic_review_of_the_literature/links/59e488b9aca2724cbfe90b51/Gamification-and-learning-performance-A-systematic-review-of-the-literature.pdf)
 
