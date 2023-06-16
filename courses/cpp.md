@@ -8,6 +8,9 @@
 * [D03](#d03)
 * [D03](#d03-1)
 * [D04](#d04)
+* [Recap :](#recap-)
+* [D05](#d05)
+* [D06](#d06)
 
 <!-- vim-markdown-toc -->
 
@@ -144,5 +147,73 @@ leaks -atExit -- ./executableName
 	- En gors, le mettre c'est pour dire que le parent n'en a aucune utilite
 	  mais que les enfants peuvent en avoir un comportement difference (surtout
 	  si virtual)
+	  makenoise()
 	- Certains comportements sont definis et d'autres non
 	- ADD I prefix for Interface = all methods are pure and NO attributes
+
+# Recap :
+
+- Namespace :
+	- p.ex. on a une variable globale 'gl_var = 1'
+	- on peut creer un `namespace name { gl_var = 3 }`
+	- Operateur de resolution de portee (en: scope resolution opeator) = `namespaceName::`
+	- Au test si on fait : printf(gl_var) et printf(name::gl_var) on aura 1 et 3
+	- Peut etre utile pour different tests avec meme variable globale?
+- Fonction et attributs non-membres :
+	- Non-membre = utile simplement au niveau de la Classe, et non au niveau des
+	  instances.
+	- Une fonction non-membre ne peut pas utiliser `this` (cpp ne passe pas
+	  `this` en premier parametre, comme pour les autres fonctions membre)
+	- Quand met `static` au debut d'une definition d'une fonction 'non-membre', ex. static int
+	  getNbInst(), avec un attribut 'non-membre', ex. static int _nbInst, on
+	  va devoir ecrire : `int ClassName::getNbInst(void) { return ClassName::_nbInst; }`
+	  et l'initialisation de l'attribut static/non-membre dans le .cpp :
+	  `int	ClassName::_nbInst = 0` (=/= var globale !!)
+	- Utile quand veut compter le nombre d'instances
+	- Ne pas oublier dans constructeur d'incrementer ClassName::_nbInst
+- Travailler avec le plus de `const` possible, evitera les crash :
+	- Quand on peut un attribut membre constant (ex. pi) :
+		- ex. dans class definition (.hpp) on a : float `const` pi; ClassName(float `const` f)
+		- dans .cpp, il faut que : ClassName::ClassName(float `const` f) : pi(f) {}
+	- Quand on veut une fonction readonly ou qui ne modifie jamais rien dans this-> :
+		- mets void bar( void ) `const` = a aucun moment on va modifier en
+		  utilisant `this->attributeName = *`, cad, modifier l'instance couante de notre classe
+- Quand tu as de l'heritance pour une methode, mets `virtual`, ex.
+- `*` pointeur = non vide, `&` reference = can be empty
+- Pour instancier une classe,
+	- soit utilise : Class`*` name = `new` Class(); methods are called with
+	  `->` ; `delete` name
+	- soit utilise : Class name; methods are called with `.` ; then destructor at the end of main();
+- Classe Abtraite : mets prefix `A` avant la classe, c'est une classe qui
+  ne peut pas etre instanciee car contient au moins une methode pure.
+  Methode pure est quand il n' a pas de definition dans la classe et donc finit par `= 0` (.hpp)
+  : permet d'avoir des comportements specifiques aux classes enfants.
+- ex. virtual void	makeSound(void) const = 0;
+- Multiple Class instanciation :
+	- Class* table[n];
+	- for (int i = 0; i < n; i++) { delete table[i]; }
+- leaks -atExit -- ./executableName
+
+# D05
+
+- Nested Classes :
+	- In Cat Class definition, can put Leg class, in main to define Cat's Leg : Cat::Leg
+- Exceptions :
+	- try{throw}catch{}
+
+# D06
+
+- (C) Type conversions :
+	- Cast implicite (double b = int a;) induit une Conversion/Promotion : transformer le codage d'un octet vers un autre codage pour
+	  garder une meme valeur
+	- Cast explicite (double d; int f = (int) d) pour faire une Demotion de type
+- (C) Type reinterpretation :
+	- Conversion identitaire = reinterpretation
+	- `void *` permet de contenir une adresse sur n'importe quel type : float
+	  a = 42.42; void* b = (*void) &a; int* c = (int*) b //this oes not work 
+- (C) Type qualifier reinterpretation :
+	- from const to non-const BUT DON'T DO IT
+- (C++) Upcast / Downcast (contexte d'arbre d'heritage de classe) : Parent to child and vice-versa (beware, can compile but in run time no !)
+- (C++) Static cast :
+	- `static_cast<void>(var)`
+	- 
