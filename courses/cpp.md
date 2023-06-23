@@ -216,4 +216,30 @@ leaks -atExit -- ./executableName
 - (C++) Upcast / Downcast (contexte d'arbre d'heritage de classe) : Parent to child and vice-versa (beware, can compile but in run time no !)
 - (C++) Static cast :
 	- `static_cast<void>(var)`
-	- 
+	- Se fait entre valeurs direct et aussi de maniere verticale au sein d'un meme arbre de classe
+	- Se fait au moment de la compilation = static
+- (C++) Dynamic cast :
+	- `ChildClass &	= dynamic_cast<ChildClass *>(obj)`
+	- Le seul a se faire au run time / a l'execution
+	- Ne va fonctionner que dans le cas d'une instance polymorphique = au moins une des fonctions devra etre virtuelle
+	- Uniquement pour un downcast
+	- Uniquement sur des casts de pointeurs ou de reference
+	- Utile pour des plugins
+- (C++) Reinterpret cast :
+	- `float	a = 420.42f;	void *	b = &a;`
+	- `int *	c = reinterpret_cast<int *>(b);`
+	- `int &	d = reinterpret_cast<int &>(b);`
+	- Utile pour les retypages, quand on recoit donnes brutes et on veut les retyper (ex. socket)
+- (C++) Const cast :
+	- `const_cast<int *>(var)`
+- (C++) Cast operators :
+	- `operator	type()	{ return this->_classVar; }`
+	- Va permettre de caster directement a la definition de la variable.
+- (C++) Explicit keyword:
+	- `explicit	C( B const & _ )	{ return; }` va permettre d'interdire le cast implicite de B en C;
+- Cast :			| Conv. | Reint | Upcast | Downcast | Type qual.
+- Implicit			|  Yes  |       |   Yes  |          |
+- static_cast		|  Yes  |       |   Yes  |    Yes   |
+- dynamic_cast		|       |       |   Yes  |    Yes   |
+- reinterpret_cast	|       |  Yes  |   Yes  |    Yes   |       
+- const_cast		|       |       |        |          |    Yes
