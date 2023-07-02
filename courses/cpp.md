@@ -199,7 +199,10 @@ leaks -atExit -- ./executableName
 - Nested Classes :
 	- In Cat Class definition, can put Leg class, in main to define Cat's Leg : Cat::Leg
 - Exceptions :
-	- try{throw}catch{}
+	- hpp :
+		- #include <stdexcept>
+		- class NameException : public stdd:exception { public : virtual const char* what() const throw(); };
+	- try {...; throw(Class::NameException());} catch (NameException &e) { cout << e.what() << endl; }
 
 # D06
 
@@ -243,3 +246,5 @@ leaks -atExit -- ./executableName
 - dynamic_cast		|       |       |   Yes  |    Yes   |
 - reinterpret_cast	|       |  Yes  |   Yes  |    Yes   |       
 - const_cast		|       |       |        |          |    Yes
+
+
