@@ -11,6 +11,7 @@
 * [Recap :](#recap-)
 * [D05](#d05)
 * [D06](#d06)
+* [D07](#d07)
 
 <!-- vim-markdown-toc -->
 
@@ -247,4 +248,21 @@ leaks -atExit -- ./executableName
 - reinterpret_cast	|       |  Yes  |   Yes  |    Yes   |       
 - const_cast		|       |       |        |          |    Yes
 
+# D07
 
+- Templates :
+	- Syntaxe qui permettent d'écrire du code à trou, utilise compilateur pour générer code à notre place.
+	- `template< typename T >`
+	- Instanciation explicite :
+		- `max<int>(a,b)` avec a et b etant des int
+	- Instanciation implicite :
+		- `max(a,b)` avec a et b etant des int
+	- p.ex. Can do a list of list of int' class
+	- STL : Standard Template Library
+- Default type :
+	- `template< typename T = float >` by default it is float
+- Specialization :
+	- `template<typename T, typename U> class ClassName {}`
+	- `template<typename U> class ClassName<int, U> {}` (partial specialization)
+	- `template<> class ClassName<bool, bool> {}` (partial specialization)
+- "Est-ce que demain je serais capable de lire mon code ?" Si non, simplifier.

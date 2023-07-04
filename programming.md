@@ -6,6 +6,7 @@
 
 * [Mastering the Vim Language](#mastering-the-vim-language)
 * [Why should you use a basic text editor?](#why-should-you-use-a-basic-text-editor)
+* [How to learn (...) without following tutorials ?](#how-to-learn--without-following-tutorials-)
 
 <!-- vim-markdown-toc -->
 
@@ -43,3 +44,11 @@ I will mostly focus on vim since I have been using this since the beginning
 **Going further**
 
 - [How to Do 90% of What Plugings Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM?link_credit=KennethRioja)
+
+## How to learn (...) without following tutorials ?
+
+https://www.youtube.com/watch?v=vFjXKOXdgGo
+
+1. Learn the absolute **basics** and nothing more
+2. **Familiarize** with the basics through repetition and simple projects
+3. Over time, **experiment** and build a repertoire/knowledge base of tools
