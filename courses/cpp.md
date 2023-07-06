@@ -247,6 +247,10 @@ leaks -atExit -- ./executableName
 - dynamic_cast		|       |       |   Yes  |    Yes   |
 - reinterpret_cast	|       |  Yes  |   Yes  |    Yes   |       
 - const_cast		|       |       |        |          |    Yes
+- identify type :
+	- if (dynamic_cast<A*>(ptr) != NULL) {//this is type A}
+	- try {A &a = dynamic_cast<A&>(ref); (void)a: //this is type A} catch
+	  (std::exception &bc) {(void)bc;)} try{}catch{} // the other types
 
 # D07
 
