@@ -11,3 +11,4 @@
 [maltt/sticiii](sticiii.md)<br>
 [42/c++](cpp.md)<br>
 [42/netpractice](netprac.md)
+[42/irc](irc.md)
