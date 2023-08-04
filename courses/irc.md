@@ -2,29 +2,18 @@
 
 - Internet Relay Chat : textual communication protocol on Intrnet, instant, discussions in groups via channels and 1-1
 - [Socket](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm)
-	- Allow communication bw two processes on the same or different machines : a waz to talk to other computers using std Unix file descriptors.
+	- Allow communication bw two processes on the same or different machines : a way to talk to other computers using std Unix file descriptors.
 - [RFC1459 (Oikarinen & Reed, 1993)](https://datatracker.ietf.org/doc/html/rfc1459)
-	- ...
 - [RFC2810 (Kalt, 2000)](https://datatracker.ietf.org/doc/html/rfc2810)
-	- 
 - [RFC2811 (Kalt, 2000)](https://datatracker.ietf.org/doc/html/rfc2811)
-	- 
 - [RFC2812 (Kalt, 2000)](https://datatracker.ietf.org/doc/html/rfc2812)
-	- 
 - [RFC2813 (Kalt, 2000)](https://datatracker.ietf.org/doc/html/rfc2813)
-	- 
 - [How to make an IRC server connection (Sotiriou, 2008)](https://oramind.com/tutorial-how-to-make-an-irc-server-connection/)
-	- 
 - [Beej's Guide to Network Programming (Hall, 2023)](https://beej.us/guide/bgnet/html/)
-	- 
 - [IRCgod](https://ircgod.com/posts/)
-	- 
 - [Socket Programming in C/C++ (GG)](https://www.geeksforgeeks.org/socket-programming-cc/)
-	- 
 - [Socket Programming In C++:A Beginner's Guide](https://marketsplash.com/tutorials/cpp/cplusplus-scoket/)
-	- 
 - [UChicago X-Projects](http://chi.cs.uchicago.edu/chirc/irc_examples.html)
-	- 
 
 # Todo
 
