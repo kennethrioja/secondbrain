@@ -12,6 +12,7 @@
 * [D05](#d05)
 * [D06](#d06)
 * [D07](#d07)
+* [D08](#d08)
 
 <!-- vim-markdown-toc -->
 
@@ -270,3 +271,43 @@ leaks -atExit -- ./executableName
 	- `template<typename U> class ClassName<int, U> {}` (partial specialization)
 	- `template<> class ClassName<bool, bool> {}` (partial specialization)
 - "Est-ce que demain je serais capable de lire mon code ?" Si non, simplifier.
+
+# D08
+
+- STL :
+	- Containers :
+		- [array](https://cplusplus.com/reference/array/array/) :
+			- Fixed-size sequence : specific n elements ordered in a strict linear sequence
+			- Same than []
+			- Cannot be expanded or contracted dynamically (unlike vector)
+		- [vector](https://cplusplus.com/reference/vector/vector/) :
+			- Sequence containers representing arrays that can change in size
+			- Have an actual capacity
+			- Efficient accessing elements (like arrays) and relatively efficient adding or removing elements from its end
+		- [deque](https://cplusplus.com/reference/deque/deque/) :
+			- 'deck', Double ended queue
+			- Similar to vectors with efficient insertion and deletion of elements, at begin and end.
+			- Unlike vectors, not guaranteed to stor all its eleme in ocntiguous storage locations : undefined behavior by offsetting a pointer to another element
+			- Vectors and Deque can be used of similar purposes BUT deque can be scattered in different chunks of storage, more complex internally than vectors, can be grown more efficiently with long sequences where reallocations become more expensive
+			- Worse performance when frequent insertion or removal of elements at positions other than beginning or end
+		- [forward_list](https://cplusplus.com/reference/forward_list/forward_list/)
+			- Stores each NEXT element in different and unrelated storage location, unlike list which keeps two links per element, the next and the preceding one : fw_list > list in efficiency
+			- The best in inserting, extracting and moving element in anay position, also algorithm make intensive use of these (e.g. sorting algo)
+			- Main drawback of fw_list and list is that they lack direct access to the elements by their position (e.g., if access 6, need to begin from 0)
+			- Designed with efficiency in mind. No `size`member function for efficiency consideration. 
+		- [list](https://cplusplus.com/reference/list/list/) :
+			- `std::list<int>::const_iterator`, can be it or ite pour end
+			- Perform better in inserting, extracting and moving elements in any position within the container for which an iterator has alreadyy been obtained
+	- Container adaptators (provide set of member functions for a specific container class) :
+		- [LIFO stack](https://cplusplus.com/reference/stack/stack/)
+			- Last-in First-out
+			- For vector, list and deque, by default is the latter
+		- [FIFO queue](https://cplusplus.com/reference/queue/queue/)
+			- First-in First-out
+			- For list and deque, by default deque.
+		- [priority_queue](https://cplusplus.com/reference/queue/priority_queue/)
+			- Its first element is always the greatest of the elements
+			- For deque and vector, by default the latter one.
+		-  map
+	- Algorithms :
+		- for_each(lst.begin(), lst.end(), function);
