@@ -18,17 +18,6 @@
 # Todo
 
 - [ ] subject requirements :
-<!--
-#include <arpa/inet.h>	// htons(), htonl(), htohl(), inet_addr(), inet_ntoa()
-#include <fcntl.h>		// fcntl()
-#include <netdb.h> 		// getprotobyname(), gethostbyname(), getaddrinfo(), freeaddrinfo()
-#include <poll.h>		// poll()
-#include <signal.h>		// signal(), sigaction()
-#include <sys/socket.h>	// socket(), setsockopt(), getsockname(), getaddrinfo(), freeaddrinfo(), bind(), connect(), listen(), accept(), send(), recv()
-#include <sys/stat.h>	// fstat()
-#include <sys/types.h>	// getaddrinfo(), freeaddrinfo(), connect()
-#include <unistd.h>		// close(), lseek()
--->
 	- [ ] C++ 98
 	- [ ] do not develop a client
 	- [ ] do not handle communication server-server
@@ -73,3 +62,15 @@
 	- [ ] choose which client to use ([irssi](https://irssi.org/) ?)
 	- [ ] connect to port password :
 		- [ ] *register* its connection (NICK, USER)
+
+<!--
+#include <arpa/inet.h>	// htons(), htonl(), htohl(), inet_addr(), inet_ntoa()
+#include <fcntl.h>		// fcntl()
+#include <netdb.h> 		// getprotobyname(), gethostbyname(), getaddrinfo(), freeaddrinfo()
+#include <poll.h>		// poll()
+#include <signal.h>		// signal(), sigaction()
+#include <sys/socket.h>	// socket(), setsockopt(), getsockname(), getaddrinfo(), freeaddrinfo(), bind(), connect(), listen(), accept(), send(), recv()
+#include <sys/stat.h>	// fstat()
+#include <sys/types.h>	// getaddrinfo(), freeaddrinfo(), connect()
+#include <unistd.h>		// close(), lseek()
+-->
