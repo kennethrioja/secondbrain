@@ -14,6 +14,7 @@
 - [Socket Programming in C/C++ (GG)](https://www.geeksforgeeks.org/socket-programming-cc/)
 - [Socket Programming In C++:A Beginner's Guide](https://marketsplash.com/tutorials/cpp/cplusplus-scoket/)
 - [UChicago X-Projects](http://chi.cs.uchicago.edu/chirc/irc_examples.html)
+- [Modern IRC Client Protocol (Allnutt, Oaks & Lorentz, WIP)](https://modern.ircdocs.horse/)
 
 # Todo
 
