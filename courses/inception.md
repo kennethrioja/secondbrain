@@ -26,3 +26,17 @@ https://tuto.grademe.fr/inception/
 	- C'est ce protocole qui change http et https
 - 
 Run WP, MDB, NGINX
+
+# Commands :
+
+In wp, run `docker compose up -d`
+
+1. `docker build -t <name>` in each dir
+
+2. `docker run <name>` in each dir, arg -d in background
+
+To see images : `docker image ls`
+
+To see launched containers : `docker ps`, -a to ee the stopped ones
+
+
