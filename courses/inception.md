@@ -39,4 +39,27 @@ To see images : `docker image ls`
 
 To see launched containers : `docker ps`, -a to ee the stopped ones
 
+# connect ssh
+
+On VM:
+- sudo vim /etc/ssh/sshd_config // change port number
+- sudo service ssh restart
+
+On iterm:
+- ssh user@localhost -p <port>
+
+# install docker in vm
+
+https://stackoverflow.com/a/48974927
+
+# mariadb
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-debian-11
+
+# wp cli
+
+https://make.wordpress.org/cli/handbook/guides/installing/
+
+https://make.wordpress.org/cli/handbook/guides/quick-start/
+
 
