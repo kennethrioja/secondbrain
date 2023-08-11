@@ -5,5 +5,8 @@
 [libre/i2ads](i2ads.md)<br>
 [libre/gft](gft.md)<br>
 [maltt/sticiii](sticiii.md)<br>
+[42/netpractice](netprac.md)<br>
 [42/c++](cpp.md)<br>
-[42/netpractice](netprac.md)
+[42/inception](inception.md)<br>
+[42/irc](irc.md)<br>
+
