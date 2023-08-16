@@ -24,29 +24,22 @@ https://tuto.grademe.fr/inception/
 	- la confidentialite des donnees echangees
 	- l'integrite des donnes echangees
 	- C'est ce protocole qui change http et https
-- 
-Run WP, MDB, NGINX
 
 # Commands :
 
-In wp, run `docker compose up -d`
-
-1. `docker build -t <name>` in each dir
-
-2. `docker run <name>` in each dir, arg -d in background
-
-To see images : `docker image ls`
-
-To see launched containers : `docker ps`, -a to ee the stopped ones
-
-# connect ssh
-
-On VM:
-- sudo vim /etc/ssh/sshd_config // change port number
-- sudo service ssh restart
-
-On iterm:
-- ssh user@localhost -p <port>
+- In wp, run `docker compose up -d`
+- `docker build -t <name>` in each dir
+- `docker run <name>` in each dir, arg -d in backgroud, or -it to open terminal
+- To see images : `docker image ls`
+- To see launched containers : `docker ps`, -a to ee the stopped ones
+- Connect ssh :
+	- On VM:
+		- sudo vim /etc/ssh/sshd_config // change port number
+		- sudo service ssh restart
+	- On iterm:
+		- `ssh user@localhost -p <port>`
+- Check if docker is running : `docker run hello-world`
+- Check vm IP : `ip addr show` // see enp0s3 inet
 
 # install docker in vm
 
@@ -62,4 +55,9 @@ https://make.wordpress.org/cli/handbook/guides/installing/
 
 https://make.wordpress.org/cli/handbook/guides/quick-start/
 
+# tutos
 
+- wp + db (works on host computer in localhost:8000) : https://www.hostinger.com/tutorials/run-docker-wordpress
+- bridged + ssh (the previous works on host computer through ssh in vmip:8000) : https://medium.com/@jasonedlewis/accessing-your-vm-from-your-host-machine-via-ssh-b6e355bcd526
+- https ? : https://zactyh.medium.com/hosting-wordpress-in-docker-with-ssl-2020-fa9391881f3
+- 

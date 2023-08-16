@@ -7,6 +7,7 @@
 * [Mastering the Vim Language](#mastering-the-vim-language)
 * [Why should you use a basic text editor?](#why-should-you-use-a-basic-text-editor)
 * [How to learn (...) without following tutorials ?](#how-to-learn--without-following-tutorials-)
+* [Github working in group setup](#github-working-in-group-setup)
 
 <!-- vim-markdown-toc -->
 
@@ -52,3 +53,14 @@ https://www.youtube.com/watch?v=vFjXKOXdgGo
 1. Learn the absolute **basics** and nothing more
 2. **Familiarize** with the basics through repetition and simple projects
 3. Over time, **experiment** and build a repertoire/knowledge base of tools
+
+## Github working in group setup
+
+- `git pull`
+- `git checkout -b <branchname>` (creation)
+- `git push -u origin <branchname>` (creation)
+- `git branch -d <branchname>` (delete)
+- `git push origin -d <branchname>` (delete)
+- `git fetch -p origin`
+- `git branch -rd origin/*`
+- `git pull origin main`
