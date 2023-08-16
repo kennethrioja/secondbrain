@@ -40,6 +40,9 @@ https://tuto.grademe.fr/inception/
 		- `ssh user@localhost -p <port>`
 - Check if docker is running : `docker run hello-world`
 - Check vm IP : `ip addr show` // see enp0s3 inet
+- `docker logs <container>` to see logs
+- `docker exec -it <container> bash` to see inside container
+- In Mariadb: cat  /var/log/mysql/error.log
 
 # install docker in vm
 
