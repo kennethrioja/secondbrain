@@ -1104,7 +1104,6 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- A random sequence is maximally incompressible VS string of 0s is maximally compressible.
 	- This algorithmic complexity does not allow for the difficulty of running the program and generating its output (running time or "time complexity")
 - **Lempel-Ziv complexity** :
-	- ???
 	- As the previous is uncomputable, this algorithm compresses a sequence by taking advantage of repetitions of a specified max len in the sequence (Cover & Thomas, 2006)
 	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
 - A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
@@ -1122,7 +1121,34 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - A proper definition of the "depth" of an object is going to be a compromise between the program size and computation time
 - Bennett's (1988) key idea is that long causal processes are usually necessary in order to produce complex or 'deep' objects; deep objects are produced by short processes only with very low probability
 - Logical Depth is a string d,b deep [...] if and only if d is the least time needed by a b-incompressible program to print x (Li & Vitnyi, 2009) : ???
-- 
+- ...
+- Statistical Complexity :
+	- For a system to have high SC, it must have a large number of causal states and hence a large amount of regularities.
+	- SC awards zero complexity to random strings and high complexity to strings with many statistical dependencies
+	- [Complexity Explorer (2019) - Introduction to Complexity: Guest Spotlight, Jim Crutchfield](https://www.youtube.com/watch?v=SAU43m7qhR8) :
+		- Shannon : How much information there is in the current of probabilistics events
+- The measure that best captures the qualitative notion of the order produced by complex systems is tha tof the Statistical Complexity
+- A survey of measures of complexity and their criticism can be found in Grassberger (1989). In it the author concludes that no unified measure can be found nor should there be one since complexity is intricately linked to meaning which is subjective and unmeasurable. 
+- SC does not measure complexity as such but rather order. But because it measures order in the presence of noise it can be used to measure the order produced by complex systems since these systems necessarily exhibit noise.
+- Tentative definition of complexity which we consider as a physical account of complexity : A complex system is an ensemble of many elements which are interacting in a disordered way, resulting in robust organisation and memory.
+- **Ensemble of many elements** :
+	- Not only many but also similar in nature – prerequisite for the condition of interaction
+	- For systems to be able to interact or communicate (broadest sense) with each other they have to be able to exchange energy or matter or information
+	- Ensembles of similar elements at one level form a higher-leve structure which then interacts with other similar higher-level structure.
+- **Interactions** :
+	- Interaction canbe either exchange of energy, matter or information. The mediating mechanisme can be forces, collision or communication.
+- **Disorder** :
+	- A necessary condition for complexity simply because complex systems are precisely those whose order emerges from disorder rathen than being built into them
+- **Robust order** :
+	- Although the elements continue to interact in a disordered way, the overall patterns and structures are preserved.
+	- A macroscopic level arises out of microscopic interaction and it is stable (on that time or length scale)
+- **Memory** :
+	- "A system remembers through the persistence of internal structure" (Holland, 1992)
+	- Memory is a straightforward corollary of robust order.
+- Complex systems, unlike a coin toss, must possess some memory, some record of their past (~ prior knowledge??)
+- Local organisation and robustness appear to be related by this idea of memory; both memory and robustness involve stability over time, and for this stability we need some form of back-up or redundancy with which to correct errors. This may be provided when we have a system whose order is not centrally controlled.
+- A core problem in complex systems research is to understand how a omplex structure can have evolved out of a simple one.
+- The hierarchical nature of complex systems is explained by the efficiency and stability of hierarchical building processes.
 
 ## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
 
