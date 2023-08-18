@@ -17,6 +17,7 @@
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
+* [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](#dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives-youtube-video)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
@@ -27,6 +28,8 @@
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
+* [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
+* [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
@@ -507,6 +510,29 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Aspects of the software can modify the socio-cognitive dynamics between the learning partners. The computerised learning environment constitutes in itself a mediational resource which can contribute to create a shared referent between the social partners (Roschelle & Teasley)
 - Stop using 'collaboration' and 'explanation' as these are now too large.
 - "We have to study and understand the mechanisms of negociation to a much greater depth than we have so far"
+
+## [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](https://www.youtube.com/watch?v=OS1-n9zmFdM)
+
+**THM** : Les edtech *permettent des activités cognitives*, *individuelles ou en groupe*, qui ont un effet d'apprentissage *si dûment orchestrées par l'enseignant·e* (ET PAS : les technologies educatives ont un effet intrinseque)
+
+**Authors** : Pierre Dillenbourg
+
+**Tags** : :learning: :edtech: :myths:
+
+**Notes**
+- Nos méthodologies peuvent propager ces croyances, X effet sur ...
+- Comment prouver les effets ?
+	- Attention à l'effet de l'enseignant·e : Les edtech s'intègrent dans des séquences d'activités orchestrées par l'enseignant·e
+- Technologies =/= innovation, c'est pas parce qu'utilise une techno qu'on innove
+- Problem solving (preparation pour le learning) then lecture (donner du sens – [A time for telling](https://www.tandfonline.com/doi/abs/10.1207/s1532690xci1604_4)) + [Sinha & Kapur (2021)](https://journals.sagepub.com/doi/10.3102/00346543211019105)
+- Prédire une des meilleures activités d'apprentissage.
+- L'effet enseignant n'est pas un biais méthodologique
+- "individualisation" : non, avoir un ordi utilisé par 3 personnes en mêmes temps et trois souris qui controlent chacune un élément spécifique, ça oui
+- Doise & Mugny : créer des pairs qui ont des points de vue différents pour argumenter ensemble (conflit socio-cognitif)
+- Réalité augmentée : rendre l'invisible visible, rendre l'impossible possible, explorer l'espace des variations possibles
+- Papier et digital et l'effet de la séquence qui +++
+- Insérer la classe (rôle de l'enseignant dans l'outil + classe) dans l'équation de l'évidence translationnelle
+- Est-ce que cette technologie me permet de faire quelque chose en classe que je ne peux pas faire ?
 
 ## [Ergolab, 2005 : L'analyse concurrentielle en ergonomie]()
 
@@ -1012,6 +1038,102 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Durée 90 min (accueil et instructions - 10'; réalisation scénarios d'usages - 30'; passations de questionnaires - 15'; entretien de débrief - 15'; remerciement dédommagement - 5')
 - Results : N success/fail pour chaque scénario, N erreurs / scénar, N et type repeated errors, N actions vs minimal, temps moyen, contenu vbalisations, contenu debrief, scores questionnaires
 - Rapid Iterative Testing and Evaluation : corrige dès 1ere passation les erreurs commises par 1er pp and so on. Mais capacité à formuler rapidement des recommandations pour améliorer systèmes. Until 5 pp OK
+
+## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
+
+**THM** : 
+
+**Authors** : James Ladyman, James Lambert & Karoline Wiesner
+
+**Tags** : :complexity: :statistical-complexity: :information: :complex-system:
+
+**Abstract** : Complex systems research is becoming ever more important in both the natural and social sciences. It is commonly implied that there is such a thing as a complex system, different examples of which are studied across many disciplines. However, there is no concise definition of a complex system, let alone a definition on which all scientists agree. We review various attempts to characterize a complex system, and consider a core set of features that are widely associated with complex systems in the literature and by those in the field. We argue that some of these features are neither necessary nor sufficient for complexity, and that some of them are too vague or confused to be of any analytical use. In order to bring mathematical rigour to the issue we then review some standard measures of complexity from the scientific literature, and offer a taxonomy for them, before arguing that the one that best captures the qualitative notion of the order produced by complex systems is that of the Statistical Complexity. Finally, we offer our own list of necessary conditions as a characterization of complexity. These conditions are qualitative and may not be jointly sufficient for complexity. We close with some suggestions for future work.
+
+**Notes**
+- complex : having many parts connected in ways that are difficult to understand (Cambridge Dictionary)
+- Is complexity for all the sciences or whether complexity is domain-specific?
+- Complexity :
+	- A structure with variations (Goldenfeld and Kadanoff, 1999, p.87) -> what is structure and variations ?
+	- One 1) whose evolution is very sensitive to initial conditions or to small perturbations, 2) in which the number of independent interacting components is large, or 3) in which there are multiple pathways by which the system can evolve. (Whitesides & Ismagilov, 1999, p.89) -> chaos and nonlinear or lot of components or possible histories ?
+	- Difficult to understand and verify (...) determined by such factors as the number of components and the intricacy of the interfaces between them, the number and intricacy of conditional branches, the degree of nesting and the types of data structures (Wen et al., 1999, p.92)
+	- Complexity theory indicates that large populations of units can self-organize into aggregations that generate pattern, store information, and engage in collective decision-making (Parrish & Edelstein-Keshet, 1999, p.99) -> computational notions
+	- In natural landform patterns is a manifestation of two key characteristics. Natural patterns form from processes that are nonlinear, those that modify the properties of the environment in which they operate or that are strongly coupled; and natural patterns form in systems that are open, driven from equilibrium by the exchange of energy, momentum, material or information across their boundaries (Werner, 1999, p.102) -> nonlinearity but neither a necessary nor a sufficient condition for complexity
+	- One in which there are multiple interactions between many different components (Rind, 1999, p.105)
+	- Muliple elements adapting or reacting to the pattern these elements create (Brian Arthur, 1999, p.107) -> cannot be complex unless there are many components interacting within it but not sufficient
+	- Inherently complicated or intricate; rarely completely deterministic; math models involve non-linear, ill-posed, or chaotic behavior; unexpected outcomes (emeergent behavior) (Foote, 2007, p.410) -> introduces the idea of emergence but too confused
+	- Complexity starts when causality breaks down (Editorial, 2009)
+- Properties of a complex system :
+	- **Nonlinearity** :
+		- "Linear thinking and the belief that the whole is only the sum of its parts are evidently obsolete (Maizer, 1994, p.1) -> taken back in gestaltism 
+		- It is *not a necessary nor sufficient* condition for a complex system : ex. a single chaotic pendulum can be subject to non-lineaar dynamics but it is not a complex system
+		- Complexity as the study of systems with many interdependent components and excludes low-dimensional dynamical systems (MacKay, 2008)
+	- **Feedback** :
+		- A part of a system received feedback when the way its neighbourss interact with it at a later time depends on how it interacts with them at an earlier time
+		- It is *not sufficient* because the individuals need to be part of a large enough group to exhibit complexity (ex. birds flock, or individual ants)
+		- Theory of causal graphs : a chain of causal arrows indicates no feedbacks while a graph with loops of causal arrows shows feedback
+		- Order, organisation and control is distributed and locally generated (e.g. ants) rather than centrally produced (e.g. steam regulator)
+		- e.g. birds adjusting its course depending on the proximity and bearing of the birds around it
+	- **Spontaneous order** :
+		- Order in a system's behavior arises from the aggregate of a very large number of uncoordinated interactions bw elements
+		- Notions that are related : symmetry, organisation, periodicity, determinism, pattern
+		- This notion is central because pure randomness is sufficient for no complexity AND total order is also incompatible with complexity
+		- It *is a necessary condition* for a complex system
+	- **Robustness and lack of central control** :
+		- Stabble under perturbations of the system
+		- A system may maintain its order in part by utilizing an error-correction mechanism
+		- Seems to be *necessary but not sufficient* for complexity
+		- Computational language : ability of a system to correct errors in its structure
+	- **Emergence** :
+		- Emergent objects, properties or processes exhibit 'downwards causation', e.g., crystal formation, ant colonies organisation, and more generally the way that levels of organisation in nature emerge from fundamental physics and physical parts of more complex systems
+		- In all epistemological senses emergence *is necessary but not sufficient*
+	- **Hierarchical organisation** :
+		- The ultimate result of all the features of complex system above is an entity that is organised into a variety of levels of structure and properties that interact with the level above and below and exhibit lawlike and causal regularities, and various kinds of symmetry, order and periodic behaviour
+	- **Numerosity** :
+		- Only exists if the system consists of a large number of parts, and usually, only if they are engaged in many interactions
+- **Shannon entropy** :
+	- SUM n, i=1 (Pri * log2(1 / Pri)
+	- Measure of the probability distribution over the messages only and is not concerned with the content of the messages.
+	- Entropy is max when all outcomes are equally likely, anytime move away from equally likely outcomes or introduce predictability entropy diminishes => means that we can ask fewer questions to guess the outcome (is it X?) : bits = qualtitative measure of information = measure of surprise ([Khan Academy, 2014](https://www.youtube.com/watch?v=2s3aJfRr9gE)), #bounces = SUM(p*bounces)
+	- Shannon entropy is higher the more uniform the probabilty distribution = all messages have the same probability
+	- "Surprise" is inversely proportional to its probability
+	- Only express properties of a total set of sequences under some distribution
+- **Kolmogorov complexity** :
+	- C(x) = min{length(p):U(p)=x}
+	- The length of the shortest possible description ~ how much pattern we can find in some sequence ~ Kolmogorov complexity >= length of x (e.g., 10101101110110000101000101100001100100011110), it is uncomputable ([Spanning Tree, 2020](https://www.youtube.com/watch?v=0cHHKDAelCo))
+	- The algorithmic complexity of a random string is the length of the string itself. Any repetition of digits or symmetry in the string will allow the program that outputs the string to be shorter than the string itself
+	- A random sequence is maximally incompressible VS string of 0s is maximally compressible.
+	- This algorithmic complexity does not allow for the difficulty of running the program and generating its output (running time or "time complexity")
+- **Lempel-Ziv complexity** :
+	- ???
+	- As the previous is uncomputable, this algorithm compresses a sequence by taking advantage of repetitions of a specified max len in the sequence (Cover & Thomas, 2006)
+	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
+- A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
+- A statistical measure of complexity treats a completely rdm sequence as having minimal complexity
+- Conditions for a good measure of complexity (Lloyd, 2001) :
+	1. How hard is it to describe ?
+	2. How hard is it to create ?
+	3. What is its degree of organization ?
+- The complexity of the data (the product) corresponds to the difficulty of description
+- The complexity of the system corresponds to the difficulty of creation
+- Logical depth :
+	1. Complex objects lie somewhere between complete order and complete disorder
+	2. Cannot be produced quickly, any adequate complexity measure should obey a slow growth law
+	3. Its history is not only long, but non-trivial = the most plausible explanation for the object's origin is one that entails a lengthy computation/causal process
+- A proper definition of the "depth" of an object is going to be a compromise between the program size and computation time
+- Bennett's (1988) key idea is that long causal processes are usually necessary in order to produce complex or 'deep' objects; deep objects are produced by short processes only with very low probability
+- Logical Depth is a string d,b deep [...] if and only if d is the least time needed by a b-incompressible program to print x (Li & Vitnyi, 2009) : ???
+- 
+
+## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
+
+**THM** : 
+
+**Authors** :
+
+**Tags** :
+
+**Notes**
+- 
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
