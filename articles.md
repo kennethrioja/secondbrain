@@ -33,6 +33,7 @@
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
+* [Lugan, 2009 : La modélisation des systèmes complexe chez E-Morin et J.-L. Le Moigne](#lugan-2009--la-modélisation-des-systèmes-complexe-chez-e-morin-et-j-l-le-moigne)
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
@@ -55,6 +56,7 @@
 * [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](#wood--wood-1999--help-seeking-learning-and-contingent-tutoring)
+* [Zuboff, 2021 : L'âge du capitalisme de surveillance](#zuboff-2021--lâge-du-capitalisme-de-surveillance)
 * [](#)
 
 <!-- vim-markdown-toc -->
@@ -1041,7 +1043,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
 
-**THM** : 
+**THM** : Nonlinear, Feedback, Spontaneous order, Robustness, Emeergence, Hierarchical organisation, numerosity
 
 **Authors** : James Ladyman, James Lambert & Karoline Wiesner
 
@@ -1203,6 +1205,44 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Notes**
 - understand and enhance learning for needs of society, lifelong well-being and health, transformative force on environment
 - "Performance on complex motor tasks typically shows rapid improvements and high variability early in practice, followed by a proacted period of slower developing refinements towards task execution with little variability
+
+## [Lugan, 2009 : La modélisation des systèmes complexe chez E-Morin et J.-L. Le Moigne](https://www.cairn.info/la-systemique-sociale--9782130575528-page-99.htm)
+
+**THM** : 
+
+**Authors** : Jean-Claude Lugan
+
+**Tags** : :complexity: :systems: :modelisation:
+
+**Notes**
+- Positivisme : Philosophie envisagée comme une véritable science : 'Pourquoi' -> 'Comment' ([REF](https://www.youtube.com/watch?v=n1brw_hmcV8))
+- Pour E. Morin, est complexe ce qui ne peut se ramener à une loi, ce qui ne peut se réduire à une idée simple.
+- Modéliser ? C'est l'action intentionnelle de construire, par composition de concepts et de symboles, des modèles susceptibles de rendre plus intelligible un objet ou un phénomène perçu complexe et d'amplifier (...) le raisonnement de l'acteur projetant une intervention délibérée au sein de cet objet ou de ce phénomène et à anticiper les conséquences des projets d'actions possibles.
+- Modélisation analytique : isole les éléments d'un ensemble, (...) conduit à une action programée dans son détail. "De quoi c'est fait?"
+- Modélisation systémique : relie les éléments d'un ensemble, insiste sur leurs relations (...) "Qu'est-ce que ça fait?"
+- Modéliser, c'est à la fois identifier et formuler quelques problèmes sous la forme d'énoncés et chercher à résoudre ces problèmes en raisonnant par simulations. ERn faisant fonctionner le modèle problème, one tente de produire des modèles-solutions.
+- Système général entre : Fonctions, Projet, Transformations, Environnement actif
+- Modéliser un système complexe, c'est modéliser un système d'actions.
+- Un processus est donc a priori un complexe d'actions multiples et enchevêtrées que l'on perçoit par l'action résultante et caractérisée par l'articulation ou la composition de trois fonctions fondamentales :
+	- La fonction de transfert temporel : mémorisation, stockage;
+	- La fonction de transformation morphologique : traitement, computation;
+	- La fonction de transfert spatial : transport, transmission
+- Pour J.-W. Lapierre, de manière plus concise, c'est tout changement dans le temps de matière, d'énergie ou d'information qui se produit dayns le système, traitant ces variables d'entrée et le menant aux variables de sortie.
+- 9 niveaux de complexité (K.Boulding) :
+	1. **Identifiable** : dispose d'une perception minimale; le phénomène qu'il modélise se différencie de son environnement
+	2. **Actif** : il est perçu car actif
+	3. **Régulé** : le phénomène doit être perçu à travers des formes manifestant régularité sinon stabilité
+	4. **S'informe sur ses propres comportements** (rétro-feedback? Auto-régulation?) : comportements résultant à des effets sur l'environement
+	5. **Décide de son comportement** (Autonomie?) : élaboration de ses propres décisions de comportement, suppose un sous-système de décisions autonome
+	6. **Mémorise les informations** (prior knowledge?) : afin d'élaborer ses décisions, le système considère non seulement les informations instantanées mais aussi les informations qu'il a mémorisées.
+	7. **Coordonne ses décisions d'action** : que le système doit prendre à chaque instant
+	8. **Imagine et conçoit de nouvelles décisions possibles** : solutions alternatives
+	9. **Se finalise** : décide des finalités
+- Organisation selon le triple paradigme d'E. Morin :
+	1. Ré  -organisation qui exprime la transformation diachronique;
+	2. Auto-organisation qui exprime l'autonomie;
+	3. Eco -organisation qui exprime le fonctionnement synchronique ouvert dans l'environnement
+- Se distingue de la structure comprise comme charpente, squelette relativement stable.
 
 ## [Mayer, 2010 : Apprentissage et technologie](https://books.google.fr/books?hl=fr&lr=&id=306PApBeLTwC&oi=fnd&pg=PA179&dq=mayer+2010+learning+with+technology&ots=-KDkEGRGoN&sig=1tzXmzcDjMbGJ8R0GV1Nh8DciSk&redir_esc=y#v=onepage&q=mayer%202010%20learning%20with%20technology&f=false)
 
@@ -1860,6 +1900,15 @@ Tableau tiré de Tricot (2017) :
 
 **Notes** :
 - 
+
+## [Zuboff, 2021 : L'âge du capitalisme de surveillance](https://www.zulma.fr/wp-content/uploads/2022-01-Capitalisme-de-surveillance-Za.pdf)
+
+**Authors** : Shoshana Zuboff
+
+**Tags** : :surveillance: :capitalism:
+
+**Notes**
+- p. 414 : libre arbitre selon l'autorégulation, l'autodétermination et l'autonomie (régulation par le moi)
 
 <!-- struct 
 
