@@ -26,6 +26,7 @@
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
+* [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
@@ -827,6 +828,105 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Expectation management
 	- Practice-based learning : Role models; Communities of practice
 
+## [Jonassen, 2000 : Toward a design theory of problem solving](https://link.springer.com/article/10.1007/BF02300500)
+
+**THM** : PS varies along 3 dimensions (type, representation and individual diff) + see typology of PS
+
+**Authors** : David H. Jonassen
+
+**Tags** : :design-theory: :problem-solving: :education:
+
+**Abstract** : Problem solving is generally regarded as the most important cognitive activity in everyday and professional contexts. Most people are required to and rewarded for solving problems. However, learning to solve problems is too seldom required in formal educational settings, in part, because our understanding of its processes is limited. Instructional-design research and theory has devoted too little attention to the study of problem-solving processes. In this article, I describe differences among problems in terms of their structuredness, domain specificity (abstractness), and complexity. Then, I briefly describe a variety of individual differences (factors internal to the problem solver) that affect problem solving. Finally, I articulate a typology of problems, each type of which engages different cognitive, affective, and conative processes and therefore necessitates different instructional support. The purpose of this paper is to propose a metatheory of problem solving in order to initiate dialogue and research rather than offering a definitive answer regarding its processes.
+
+**Notes**
+- Why are we so inept at engaging learners in PS? A major reason, I argue, is that we do not understand the breadth of PS activities well enough to engage and support learners in them.
+- Problems are not the same and so cannot be supported in the same way as component skills.
+- Instructional designs for well-structured problems are rooted in information-processing theory, but instructional designs for ill-structured problems necessarily share assumption with constructivism and situated cognition. Information-processing theories conceive of learning outcomes as generalizables skills that can be applied across content domains, while constructivism and situation cog, argue for the domain specificity of any performance and therefore recommend embeding instruction in some authentic context (Jonassen & Land, 2000)
+- First a problem is an unknown entity in some situation (the difference bw a goal state and a current state). Second, finding or solving for the unknown must have some social, cultural or intellectul value.
+- Problem solving is "any goal-directed sequence of cognitive operations" (Anderson, 1980)
+	- First, it requires a construction of a mental representation/model (= multimodal representations consisting of structural, procedural, reflective knowledge, images and metaphors of the system and executive or strategic knowledge (Jonassen & Henning, 1999) of the problem, known as the problem space (Newel & Simon, 1972). It is the mental construction of the problem space that is the most critical for problem solving.
+	- Second PS requires some activity-based manipulation of the problem space.
+- Experts are good problem solvers because they recognize different provlem states that invoke certain solutions (Sweller, 1988). If the type of problem is recognized, then little searching through the problem space is required. Novices, who do not possess well-developed problem schemas, are not able to recognize problem types, so they must rely on general problem solving strateies, such as the information processing approaches, which provide weak strategies for problem solutions (Mayer, 1992)
+- *Problem Type/Variations* :
+	- **Structuredness** :
+		- Well-structured problems (e.g. in schools and universities) require the applications of a finite number of concepts, rules and principles being studied to a constrained problem situation, so-called transformation problems (Greeno, 1978). Well-structured problems :
+			- Present all elements of the problem to the learners.
+			- Require the application of a limited number of regular and well-structured rules and principles that are organized in predictive and prescriptive ways.
+			- Have knowable, comprehensible solution where the relationship bw decision choices and all the problem states is known or probabilistic (Wood, 1983)
+		- Ill-structure problems do not have predictable or convergent solutions and may require the integration of several content domains. They appear ill-structure because :
+			- Possess problem elements that are unknown or not known with any degree of confidence (Wood, 1983)
+			- Possess multiple solution, solution paths, or no solutions at all (Kitchner, 1983)
+			- Possess multiple criteria for evaluating solutions, so there is uncertainty about which concepts, rules, and principles are necessary for the solution and how they are organized.
+			- Often require learners to make judgments and express personal opinions or beliefs about the problem, so ill-structured problems are uniquely human interpersonal activities (Meacham & Emont, 1989)
+	- **Complexity** :
+		- Problem complexity is defined by the number of issues, functions, or variables involved in the problem; the degree of connectivity among those properties; the type of functional relationships among those properties; and the stability among the properties of the prblem over time (Funke, 1991)
+		- The most complex problems are dynamic, that is, those in which the task environment and its factors change over time
+		- Complex problems involve more cognitive operation than the simpler one (Kluwe, 1995)
+	- **Domain specificity** :
+		- The cognitive operations are learned through the development of pragmatic reasoning schemas rather than exercises in formal logic. Graduates in different domains develop reasoning skills through solving situated, ill-structured problems that require forms of logic that are domain-specific.
+		- Ill-structured problems tend to be more situated, but well-structured problems tend ot rely more on general problem-solving skills, such as means-ends analysis. However, well-structured problems, in the form of story problems, can be quite situated while ill-structured problems, in the form of dilemnas, can be fairly abstract.
+- *Problem Representations* :
+	- An important function of designing for problem solving is deciding how to represent the problem to novice learners (...) instructional designers decide which problem components to include and how to represent them to the learner -> they assume responsibility for constructing the problem space for the learners.
+	- What about the fidelity of the representation ? Represented in its natural complexity and modality of it is filtered ? Social pressures and time constraints be represented faithfully ? Resolution in real time or solved in leisure time ? What levels of coop or comp in the problem ?
+- *Individual Differences* :
+	- **Familiarity** :
+		- Experienced problem solvers have better developed problem schemas, which can be employed more automatically (Sweller, 1988)
+		- Routine problems (familiar) appear more well-structured to the experienced solver while transfer of nonroutine problems (not familiar, Mayer & Wittrock, 1996) require far transfer which is more effortful and conscious (Salomon & Perkins, 1989)
+	- **Domain and Structural Knowledge** :
+		- How much someone knows about a domain is important to understanding the problem and generating solutions.
+		- The latter must be well integrated in order to support PS. The integratedness of domain knowledge is best described as structural knowledge (Jonassen et al., 1993) : the knowledge of how concepts within a domain are interrelated, also known as cognitive structure, the organization of relationships among concepts in memory (Shavelson, 1972)
+	- **Cognitive Controls**
+	- **Metacognition**
+	- **Epistemological Beliefs**
+	- **Affective and Conative** (attitudes and beliefs + motivational and volitional)
+	- **General Problem-Solving Skills**
+- Well-structure problem focus on correct, efficient solutions, while the ill-structured problems focus more on the decision, articulation and argumentation. Problems vary from logic problems and algo with exact solution to dilemnas with no verifiably correct solution.
+- The role of context becomes vitally important in defining ill-structured problems, while well-structured problems de-emphasize the role of conttext.
+- **Logical Problems** :
+	- No transfer of solutions of these problems to formally identical problems (Hayes & Simon, 1977; Reed et al., 1974)
+	- Logical problems have been the focus of considerable lab-based psych reserch. However, the usefulness of that research to instructional design is limited by the lack of ecological validity
+- **Algorithmic Problems** :
+	- Cooking recipes can be generated for nonmath forms of algo problems (McCloskey et al., 1985)
+	- Suffer from the lack or absence of conceptual understanding of the objects of the algo and the procedures engaged.
+- **Story/Word Problems** :
+	- E.g. maths values embedded in a brief story
+- **Rule-Using Problems** :
+	- Find the most relevant information in the least amount of time.
+	- It requires selecting search terms, constructing effective search args, implementing the search strat, and evaluating the utility and credibility of information found.
+	- E.g., Chess or Pokemon game
+- **Decision-Making Problems** :
+	- Selecting a single option from a set of alternatives – based on a set of criteria –, each of which has one or more consequences.
+	- Varies in complexity : Simple decisions with single solution with limited number of choices are more likely to be solved through some form of rational analysis VS in multistage, dynamic task environments, where conditions are changinf require provlem solver to make multiple decisions underrisk and uncertainty (+ can be made real time, Kerstholt & Raaijmakers, 1997)
+- **Troubleshooting Problems** :
+	- "dépannage", e.g. computer programmers debugging an inoperative computer
+	- Using symptoms to generate and test hypotheses about different fault states.
+	- Requires system knowledge (how the system works), procedural knowledge (how to perform problem solving procedures and test activities), and strategic knowledge (strategies such as search-and-replace, serial elimination and space splitting) (Pokorny et al., 1996)
+	- Precursor, Action, Result, Interpretation method is effective for analyzing troubleshooting problems
+- **Strategic Performance** :
+	- Involves real-time, complex and integrated activity structures, where the performers use a number of tactics to meet a more complex and ill-structured strategy while maintaining situational awareness.
+- **Case-Analysis Problems** :
+	- Emerged at Harvard Law School nearly 130 year ago (Williams, 1992)
+	- In this ill-structured problems, goals are vaguely defined; no contraints may be stated, little is known about how to solve the problem; no consensual agreement on what constitutes a good solution; and information available to the problem solver is prodigious but incomplete, inaccurate, or ambiguous (Voss et al., 1991)
+	- Engage a prcess that includes goal elaborating, information collecting, hypothesis forming, forecasting (predicting effects), planning and decision making, monitoring the effects of ones' actions, and self-reflecting (Dörner & Wearing, 1995).
+	- Are the most contextually bound king of problm, so analyzing cases places a great importance on situation analysis.
+- **Design Problems** :
+	- They have ambiguous specification of goals, no determined solution path, and the need to integrate multiple knowledge domains. (e.g., a house, a musical composition, an essay, product or system)
+	- Requires applying general and domain-soecific schemas as well as procedural knowledge.
+	- The importance of an artifact as evidence of problem solving and the lack of clear standards for evaluating solutions are what make design problems so ill-structured.
+	- Designers must structure the problem by defining the nature of the artifact that will satisfy the ill-defined requirements. Because the criteria for acceptable solutions are not always obvious, designers must construct personalized systems for evaluating their products.
+	- Despite their ill-structuredness, design problems may be the most important type of problem to investigate because so many professionals get paid for designing things (products, systems, etc.)
+- **Dilemmas** :
+	- The most ill-structured and unpredictable type because often there is no solution that is satisfying or acceptable to most people, and there are compromises implicit in every solution.
+	- Social dilemma (resource management and pollution dilemmas) are perceived by individuals in terms of their own personal self-interests or in terms of the common good ([Schroeder, 1995](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Schroeder%2C+D.A.+%281995%29.+An+introduction+to+social+dilemmas.+In+D.A.+Schroeder+%28Ed.%29%2C+Social+dilemmas%3A+Perspectives+on+individuals+and+groups+%28pp.+1-14%29.+Westport%2C+CT%3A+Praeger.+&btnG=))
+	- The larger the group that is involved in any dilemma, the more likely that individuals will pursue their self-interests, because the cost to any one person of providing for the common good exceeds the benefits that the individual would receive ([Olson, 1965](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Olson%2C+M.+%281965%29.+The+logic+of+collective+action.+Cambridge%2C+MA%3A+Harvard+University+Press.+&btnG=))
+	- That does not mean that there are not many solutions, which can be attempted with varying degrees of success, however, none  will ever meet the needs of the majority of people or escape the prospects of catastrophe.
+- Problems encountered in everyday and professional contexts often consist of combinations of problems.
+- Metaproblems (complex combination of well-structured and ill-structured problems) consist also of the regulatory and reflexive skills to monitor and solve combinations of problems. (...) The metacognitive skills required to regulate the solution of metaproblems need to be identified and elaborated (emotional intelligence ??)
+- Articulating a set of strategies to support problem space constructiokn is the focus of future research
+- If instructional technologists are able to articulate each problem type, its representation, and the kinds of cognitive and affective processes that are required to solve each king of problem, the we should be able to project the kinds of individuals differences that are likley to interact with those processes, as well as models and methods of instructional design, to support learning of each type of problem.
+- [Jonassen & Hung (2015)](https://www.researchgate.net/publication/273459514_All_problems_are_not_equal_Implications_of_problem_type_complexity_and_structuredness)
+- https://research.com/u/david-h-jonassen : see other pubs
+
 ## [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](https://doi.org/10.1016/j.erap.2015.08.002)
 
 **THM** : French questionnaire to assess pragmatic, hedonic-identification, hedonic-stimulation and attractiveness aspects for user experience
@@ -1208,7 +1308,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ## [Lugan, 2009 : La modélisation des systèmes complexe chez E-Morin et J.-L. Le Moigne](https://www.cairn.info/la-systemique-sociale--9782130575528-page-99.htm)
 
-**THM** : 
+**THM** : Système complexe est identifiable, actif, régulé, s'auto-régule, décide de son compmortement, a une mémoire, coordonne ses décisions d'action, imagine et choisit entre différentes décisions.
 
 **Authors** : Jean-Claude Lugan
 
