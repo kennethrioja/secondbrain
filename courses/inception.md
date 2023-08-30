@@ -37,12 +37,13 @@ https://tuto.grademe.fr/inception/
 		- sudo vim /etc/ssh/sshd_config // change port number
 		- sudo service ssh restart
 	- On iterm:
-		- `ssh user@localhost -p <port>`
+		- `ssh user@address -p <port>`
 - Check if docker is running : `docker run hello-world`
 - Check vm IP : `ip addr show` // see enp0s3 inet
 - `docker logs <container>` to see logs
 - `docker exec -it <container> bash` to see inside container
 - In Mariadb: cat  /var/log/mysql/error.log
+- `sudo mysqladmin version` see mariadb is installed
 
 # install docker in vm
 
@@ -58,9 +59,22 @@ https://make.wordpress.org/cli/handbook/guides/installing/
 
 https://make.wordpress.org/cli/handbook/guides/quick-start/
 
+https://www.datanovia.com/en/lessons/using-docker-wordpress-cli-to-manage-wordpress-websites/
+
 # tutos
 
+- tuto inception : https://eneshazr.medium.com/42kocaeli-inception-projesi-docker-wordpress-mariadb-eef9c025e79f
+- tuto inception : https://github.com/Forstman1/inception-42
+
+- setup your vm with VB : https://baigal.medium.com/born2beroot-e6e26dfb50ac
+- wm config : https://github.com/tblaase/inception
 - wp + db (works on host computer in localhost:8000) : https://www.hostinger.com/tutorials/run-docker-wordpress
 - bridged + ssh (the previous works on host computer through ssh in vmip:8000) : https://medium.com/@jasonedlewis/accessing-your-vm-from-your-host-machine-via-ssh-b6e355bcd526
 - https ? : https://zactyh.medium.com/hosting-wordpress-in-docker-with-ssl-2020-fa9391881f3
-- 
+
+# Notes :
+
+- nginx : root /var/www/wordpress to announce to nginx that we use this dir for the first page 
+- do not forget wait 10
+- ports in compose are shared among the different services and the host machine
+- expose in compose are shared among the different services BUT NOT the host machine
