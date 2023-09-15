@@ -42,7 +42,9 @@
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
 * [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](#mulet-et-al-2017--quels-tuteurs-informatisés-pour-réduire-les-comportements-dévitement-de-la-recherche-daides-des-apprenants)
-* [Olivera et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#olivera-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
+* [Nguyen & Bavelier, 2023 : Play in Video Games](#nguyen--bavelier-2023--play-in-video-games)
+* [**Notes**](#notes)
+* [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#oliveira-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
@@ -1534,9 +1536,21 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Formation à distance
 - Aides proposées aux apprenants et la façon dont ces derniers les utilisent
 - Comportements de recherche d'aide 
-- 
 
-## [Olivera et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
+## [Nguyen & Bavelier, 2023 : Play in Video Games](https://doi.org/10.1016/j.neubiorev.2023.105386)
+
+**THM** : 
+
+**Authors** : Nguyen Arthur, Bavelier Daphné
+
+**Tags** : :video-games: :locomotor-rotational: :object: :social-play: :role-play: :rule-play: :play-pretend: :cognition: :future-learning: :action-video-games:
+
+**Abstract** : Video game play is remarkably ubiquitous in today's society given its recent emergence only in the late 1950s. While this fast evolution could exemplify the power of play, video games exploit but also extend other types of play. Here, we review a classification of the ecosystem of video games useful in the emerging field of the cognitive neuroscience of video games. We then discuss how video games may leverage different play types, considering first locomotor-rotational, object, and social play before highlighting the importance of role, rule, and pretend play in video games. With an eye toward comparative studies of the neural bases of play across species, we discuss whether video games may fulfil the five criteria from Burghardt (2005) to identify play. Finally, in line with play’s possible preparatory role for adulthood, we review the positive impact on cognition and future learning of action-like video games. Highlighting that not all video games have this impact, we note more granular hypotheses about the biological functions of play are to be encouraged.
+
+**Notes**
+-
+
+## [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
 
 **THM** : 
 
