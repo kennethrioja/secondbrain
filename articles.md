@@ -615,7 +615,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 ## [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=281919e199e285c02bf92aab07d3d637d3c0b060)
 
-**THM** : 
+**THM** : Sensory Challenge Imaginative (Immersion) model
 
 **Authors** : Laura Ermi, Frans Mäyrä
 
@@ -635,7 +635,14 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - **Participation** : active to passive
 - Entertainment (abs + pas) / Educational (abs + act) / Aesthetic (imm + pas) / Escapist (imm + act)
 - To create immersion : 1) match the user expectations, meaningful things to do for the player and a consistent fame world (McMahan, 2003)
-- 6/14
+- Attractions of Digital Games :
+	- Audiovisual quality and style (graphics, well-functioning camera angles, but different perceptions)
+	- Level of Challenge (succeed, advance, uncertainty of the final outcome; sensorimotor abilities, cognitive challenges)
+	- Imaginary world and fantasy (game char, worlds, storylines)
+- A Gameplay experience model, the SCI-model :
+	- Sensory immersion : audiovisual execution of games
+	- Challenge-based immersion : balance of challenges (motor/mental skills) and abilities
+	- Imaginative immersion : absorption with the stories and the world and use her immagination, empathise with char, or enjoy the fantasy)
 
 ## [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](https://doi.org/10.1145/1015864.1015884)
 
