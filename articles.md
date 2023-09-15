@@ -18,6 +18,7 @@
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](#dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives-youtube-video)
+* [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](#dimov-et-al-2023--an-integrated-model-of-collaborative-skill-acquisition-anticipation-control-tuning-and-role-adoption)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
@@ -538,6 +539,22 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Papier et digital et l'effet de la séquence qui +++
 - Insérer la classe (rôle de l'enseignant dans l'outil + classe) dans l'équation de l'évidence translationnelle
 - Est-ce que cette technologie me permet de faire quelque chose en classe que je ne peux pas faire ?
+
+## [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13303)
+
+**THM** : Role adoption, anticipatory action and control parameters benefits skill acquisition
+
+**Authors** : Cvetomir M. Dimov, John R. Anderson, Shawn A. Betts, Dan Bothell
+
+**Tags** : :ACT-R: :Anticipation: :Collaborative-skill-acquisition: :Role-adoption: :Supervised-learning:
+
+**Abstract** : We studied collaborative skill acquisition in a dynamic setting with the game Co-op Space Fortress.While gaining expertise, the majority of subjects became increasingly consistent in the role theyadopted without being able to communicate. Moreover, they acted in anticipation of the future taskstate. We constructed a collaborative skill acquisition model in the cognitive architecture ACT-R thatreproduced subject skill acquisition trajectory. It modeled role adoption through reinforcement learningand predictive processes through motion extrapolation and learned relevant control parameters usingboth a reinforcement learning procedure and a new to ACT-R supervised learning procedure. This isthe first integrated cognitive model of collaborative skill acquisition and, as such, gives us valuableinsights into the multiple cognitive processes that are involved in learning to collaborate
+
+**Notes**
+- Role adoption : role consistency benefits skill acquisition : faster and more effortless to learn and proceduralize a smaller set of behavioral patterns than a larger one + mutual adaptation is easier the more stable partner behavior is – sticking on a role can be considered a coordination smoother (Vesper et al., 2010) + personal abilities lead them to choose the roles that make their joint task easier (Haiman, 1957)
+- Anticipatory actions
+- Control parameters
+- Skill acquisition processes in collaboration : cog control is a key component of their model; the model acquires skill through production compilation and control tuning; prediction is also likely a major factor in joint action peformance.
 
 ## [Ergolab, 2005 : L'analyse concurrentielle en ergonomie]()
 
