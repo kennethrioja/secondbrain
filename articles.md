@@ -19,6 +19,7 @@
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](#dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives-youtube-video)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
+* [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
 * [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
@@ -45,6 +46,7 @@
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
+* [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -593,6 +595,30 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Inconvénients :
 	- Pas d'intervention des users réels
 	- Les résultats doivent être validés suite aux actions de conception détaillée, afin de s'assurer de la qualité ergonomique des choix effectués
+
+## [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=281919e199e285c02bf92aab07d3d637d3c0b060)
+
+**THM** : 
+
+**Authors** : Laura Ermi, Frans Mäyrä
+
+**Tags** : :gameplay: :experience: :immersion:
+
+**Abstract** : This paper presents a gameplay experience model, assesses its potential as a tool for research and presents some directions for future work. The presented model was born from observations among game-playing children and their non-player parents, which directed us to have a closer look at the complex nature of gameplay experience. Our research led into a heuristic gameplay experience model that identifies some of the key components and processes that are relevant in the experience of gameplay, with a particular focus on immersion. The model includes three components: sensory, challenge-based and imaginative immersion (SCI-model). The classification was assessed with self-evaluation questionnaires filled in by informants who played different popular games. It was found that the gameplay experiences related to these games did indeed differ as expected in terms of the identified three immersion components.
+
+**Notes**
+- Yet, the essence of a game is rooted in its interactive nature, and there is no game without a player.
+- Playing a game (...) starts having an effect on cultural and social, as well as artistic and commercial realities.
+- What is the act of playing > Who is the player > What is its experience of gameplay > What the game is ?
+- Not just engage in ready-made gameplay but actively take part in the construction of these experiences: bringing their desires, anticipations, previous experiences, interpreting and reflecting the experience in that light.
+- Experiences are largely context dependent
+- Social context is central in gameplay experiences
+- Gameplay : combination of pace and cog effort required by the game ([Crawford, 1984](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf))
+- **Connection** : absorption (direction attention to an experience brought to mind) to immersion (physically or virtually a part of the experience itself)
+- **Participation** : active to passive
+- Entertainment (abs + pas) / Educational (abs + act) / Aesthetic (imm + pas) / Escapist (imm + act)
+- To create immersion : 1) match the user expectations, meaningful things to do for the player and a consistent fame world (McMahan, 2003)
+- 6/14
 
 ## [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](https://doi.org/10.1145/1015864.1015884)
 
@@ -1608,6 +1634,61 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Mais le jeu assure l'engagement de l'apprenant·e
 - Livre pour concevoir des situations d'apprentissage par le jeu
  
+## [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage]()
+
+**THM** : 
+
+**Authors** : Eric Sanchez
+
+**Tags** : :game: :play: :learning:
+
+**Notes**
+- Vérifier au préalable qu'il y a jeu avant de montrer son "impact" (p.12)
+- "le jeu n'est pas dans la chose mais dan l'usage qu'on en fait" (Henriot, 1969, p.24) (p.17)
+- Catégorisation de joueureuses sur ratio succès/actions ? (p.17)
+- Game (jeu structuré avec règles) vs. Play (libre) (Winnicott, 1971, 2002) (p.25)
+- Selon Piaget, jeu apparaît comme un "secteur d'activités dont la motivation ne doit pas l'adaptation au réel mais au contraire l'assimilation du réel au moi, sans contraintes ni sanctions" (Piaget & Inhelder, 1966, 2008, p.59) (p.29)
+- Jeu "sérieux" est détourné s'il a un fin ludique = faillite de l'apprentissage OU si'il y a disparition de la frivolité = ce n'est plus un jeu (p.30)
+- Plus que de comprendre que le jeu (artefact) puisse donner lieu a de l'apprentissage, il faut plutôt mettre l'accent sur les interactions / la situation pour tenter de comprendre comment ces derniers peuvent devenir épistémiques (p.31)
+- Jeu "épistémique" plus précis que jeu "sérieux" : souligne la situation qu'il permet d'élaborer, et prend en compte la subjectivité du jeu et vers les interactions qu'il permet.
+- [Ludus](https://www.lepetitjournaldesprofs.com/reseauludus/), [Escape n'Game](https://www.cquesne-escapegame.com/), [S'Cape](https://scape.enepe.fr/), [Semper Ludens](https://www.semperludens.fr/)
+- "Chocolate-covered broccoli approach" (Bruckman, 1999) (p.49)
+- Link w/ AL2049 : September 12th game is a persuasive game, based on the idea that retroactions leads to developping an experience to the player to make her think about modalities of a situation
+- "Les rétroactions produites par le jeu-game permettent une évaluation des conséquences des actions réalisées jusqu'à conduire à leur remise en cause, càd le développement de nouvelles connaissances, pour élaborer de nouvelles façons d'agir." (p.57) Lien avec Tuning effect (Lindgren & Schwartz, 2009). Lien avec Tuning, herding, conditionnement (Zuboff, 2021)
+- Link w/ mem : "Ces retours sont rendus possibles par le fait que les jeux recueillent en permanence, de manière automatique, de sinformations sur ce que le joueur et capable de faire et donc sur son avancée dans le processus d'apprentissage" (p.58)
+- Le jeu n'est qu'un modèle simplifié du monde, l'apprentissage par le jeu n'est odnc que selon ce modèle-ci. (p.64)
+- Le caractère performatif du jeu résulte de différentes formes de coopérations : coopérer avec le concepteur du jeu (accept to play), avec adversaires (accept to compete) et avec coéquipiers (accept to teamplay) (p.69)
+- Coopétition (Nalebuff & Brandenburger, 1997) : interactions se mettant en palce au sein du jeu (Sanchez, 2017) (p.70)
+	- Jeu-play 1 relève d'un conflit/compétition et jeu-play 2 relève de la collaboration entre coéquipiers -> coopétition est l'alternance entre ces deux types de situations et donc la mise en place d'interaction épistémiques de deux types :
+		- **Jeu-play 1** = nature actionnelle, permet un apprentissage qui relève d'un processus adaptatif
+		- **Jeu-play 2** = nature interactionnelle entre co-équipières, apprentissage selon la formulatione t la validation des connaissances en jeu (p.76)
+- Conflit socio-constructiviste pas seulement conflit mais que ce dernier suscite des interactions (p.77)
+- Stealth assessment (Shute et al., 2916) (p.90)
+- Infos sur les processus d'apprentissage sont plus complexes à afficher sur tableau de bord d'apprentissage (learning dashboard) (p.93)
+- L'enseignant dispose de peu de temps pour analyser les erreurs et réussites de ses élèves (p.94)
+- Privacy by design (Cavoukian, 2009) & Ethical by design (Leidner, 2017) (p.95)
+- **Orchestration** = manière dont l'enseignant gère, en temps réel, des activités dans un contexte soumis à des contradictions multiples (Dillenbourg, 2013) (p.98)
+- **Débriefing** :
+	- Apprentissage effectif que si le jeu est suivi d'un temps dédié à l'évocation par le joueur des découvertes qu'il a effectuées en jouant + accompagnée d'une réflexion sur ces découvertes (Garris et al., 2002) -> quitte le cercle magique pour le debriefing
+	- Favorise réflexion et métacognition et transforme les connaissances implicites qui ont été dvpées dans le jeu deviennent explicites
+	- Brousseau (1986) nomme ce processus institutionnalisation, permet un changement de statut de la connaissance : de subjective et située à objectif et indépendant. 
+- Lederman debriefing model "voir/ressentir/savoir" :
+	- Description des événements, prise de données sur l'expérience vécue
+	- "Personnalisation", quelles émotions ressenties lors du jeu
+	- Généralisation et application imaginé de l'usage futur
+- Lederman (1992) on tools for debriefing :
+	1. What were the learning **goals** ?
+	2. How the **elements of the situations** did change the play experience ?
+	3. What **strategy** to adopt to attain the learning goal ?
+	4. What **material**, what questions ?
+	5. How was it, what did I **feel** ?
+- Play-design (instead of game-design) :
+	- Conception d'une expérience de eu ou design d'expérience ludique + collaborative work
+	- Genvo (2008) travaux s'inscrivent dans une vision qui n'essentialise pas le jeu et met la question de l'expérience vécue par le joueur au coeur du processus de conception
+- Precepts (actions possibles/permises dans le jeu) – percepts (infos disponibles dans le jeu) – affects (émotions ressenties au cours du jeu) – concepts (concepts que le jeu conduit à mobiliser)
+- i124
+
+
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
 **THM** : As researchers working in ecological conditions (e.g., schools), there are 'learning arrangements', and Rrs need to accept the rules of a different life-world = adapting to the situation
