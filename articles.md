@@ -19,6 +19,7 @@
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](#dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives-youtube-video)
 * [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](#dimov-et-al-2023--an-integrated-model-of-collaborative-skill-acquisition-anticipation-control-tuning-and-role-adoption)
+* [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](#dye-et-al-2009---increasing-speed-of-processing-with-action-video-games)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
@@ -557,6 +558,40 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Anticipatory actions
 - Control parameters
 - Skill acquisition processes in collaboration : cog control is a key component of their model; the model acquires skill through production compilation and control tuning; prediction is also likely a major factor in joint action peformance.
+
+## [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](https://journals.sagepub.com/doi/10.1111/j.1467-8721.2009.01660.x)
+
+**THM** : 
+
+**Authors** : Matthew Dye, C. Shawn Green, Daphne Bavelier
+
+**Tags** : :video-games: :processing-speed: :visual-attention: :impulsivity: :learning-transfer:
+
+**Abstract** :In many everyday situations, speed is of the essence. However, fast decisions typically mean more mistakes. To this day, it remains unknown whether reac- tion times can be reduced with appropriate training, within one individual, across a range of tasks, and without compromising accuracy. Here we review evidence that the very act of playing action video games significantly reduces reaction times without sacrificing accuracy. Critically, this increase in speed is observed across various tasks beyond game situations. Video gaming may therefore provide an efficient training regimen to induce a general speeding of perceptual reaction times without decreases in accuracy of performance.
+
+**Notes**
+- Do AVG really improve RTs on a variety of tasks without a concomitant decrease in accuracy?
+- Speed-accuracy trade-off
+- A Brinley plot is a type of scatter plot with each data point reflecting the performance of two different groups on the same experimental condition – performance of one group is plotted on the X-axis and that of the other group on the Y-axis.
+- For each expe condition, an average RT score for AVGP/NVGP was extracted.
+- Does not matter the task, as long as same expe condition and AVGP vs NVGP
+- Cohen's d [0.48;1.47] + no diff acc (92.76% vs 92.75% across all conditions) + straight line
+- Cross-sectionnal : 89 different expe condition from 9 different types of tasks : Spatial Cuing, Inhibition of Return, Simon Task, ANT - adults, ANT - children, Flanker Interference, Visual Search, n-back, PI task
+- VGP responded 11% faster than NVGPs (VGP RTs = .89 x NVGP RTs, R^2 = .98)
+- VGP accuracy = .99 x NVGP accurarcy, R^2 = .92
+- Intervention : 4 tasks (Motion Discrimination, Task Switch, Visual Search (Gabor), Vis Search (Letters))
+- AVGP Posttest RT = 0.87 Pretest RT
+- NVGP Posttest RT = 0.94% Pretest RT
+- TOVA : RT : IC Cohen's d = 1.03, SA Cohen's d = 1.19; ACC ns
+- Counter decreases in the speed o finformation processing in elderly
+- Most of the games found to enhance perf are unsuitable for children in terms of their content and difficult for elderly gamers in terms of the dexterity of response and visual acuity required. Identifying which aspects of the games are relevant will allow the dev of games that have a wide range of suitability and accessibility that can be used in clinical as well as educational applications.
+
+**ToDo**
+- RT/Acc * AVGP/NVGP
+- AVGP/NVGP on the same expe condition
+- For RT, can report cohen's d + tell if difference in accuracy
+- See Fig. 1 : NVGP RT x AVGP RT, 9 types of task
+- Fig. 2 : A. AVGP Pretest RT x AVGP Posttest RT; B. NVGP Pretest RT x NVGP PosttestRT
 
 ## [Ergolab, 2005 : L'analyse concurrentielle en ergonomie]()
 
