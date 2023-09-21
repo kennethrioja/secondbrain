@@ -1674,15 +1674,17 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
  
 ## [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage]()
 
-**THM** : 
+**THM** : L'institutionalisation des savoirs se fait par le debriefing entre enseignante/formatrice et apprenante.
 
 **Authors** : Eric Sanchez
 
 **Tags** : :game: :play: :learning:
 
 **Notes**
+- Dans la peau de John Malkovich : Le joueur est un marionnettiste, ce qu'il advient dans le jeu dépend de ses décisions. Mais le devenir du joueur dépend également d'autres éléments contingents qui sont liés au jeu lui-même. C'est en effet ce jeu qui informe le joueur des cosnéquences de ses décisions. C'est ce jeu qui détermin les degrés de liberté offert au joueur qui est donc lui-même manipulé par sa marionnette. En s'engageant dans le jeu , troc liberté contre liberté encadrée par règles arbitraires du jeu. Dans le jeu, le marionnettiste peut apprendre de ses découvertes qu'il a lui-même suscitées, provoquées.
+- Le paradoxe du marionnettiste vient souligner que l'idée que l'on peut apprendre en jouant contient une contradiction. Dès lors que les événemtns qui surviennent dans le jeu résultent de ses propres dévisions, si le jeu n'est qu'illusion, comment le joeuur peutéil penser que ces événements l'informent sur la réalité du monde?
 - Vérifier au préalable qu'il y a jeu avant de montrer son "impact" (p.12)
-- "le jeu n'est pas dans la chose mais dan l'usage qu'on en fait" (Henriot, 1969, p.24) (p.17)
+- "le jeu n'est pas dans la chose mais dans l'usage qu'on en fait" (Henriot, 1969, p.24) (p.17)
 - Catégorisation de joueureuses sur ratio succès/actions ? (p.17)
 - Game (jeu structuré avec règles) vs. Play (libre) (Winnicott, 1971, 2002) (p.25)
 - Selon Piaget, jeu apparaît comme un "secteur d'activités dont la motivation ne doit pas l'adaptation au réel mais au contraire l'assimilation du réel au moi, sans contraintes ni sanctions" (Piaget & Inhelder, 1966, 2008, p.59) (p.29)
@@ -1698,15 +1700,15 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Le caractère performatif du jeu résulte de différentes formes de coopérations : coopérer avec le concepteur du jeu (accept to play), avec adversaires (accept to compete) et avec coéquipiers (accept to teamplay) (p.69)
 - Coopétition (Nalebuff & Brandenburger, 1997) : interactions se mettant en palce au sein du jeu (Sanchez, 2017) (p.70)
 	- Jeu-play 1 relève d'un conflit/compétition et jeu-play 2 relève de la collaboration entre coéquipiers -> coopétition est l'alternance entre ces deux types de situations et donc la mise en place d'interaction épistémiques de deux types :
-		- **Jeu-play 1** = nature actionnelle, permet un apprentissage qui relève d'un processus adaptatif
-		- **Jeu-play 2** = nature interactionnelle entre co-équipières, apprentissage selon la formulatione t la validation des connaissances en jeu (p.76)
+		- **Jeu-play 1** (joueureuse <-action/rétroaction-> jeu-game)  = nature actionnelle, permet un apprentissage qui relève d'un processus adaptatif
+		- **Jeu-play 2** (joueureuse <-formulation/validation-> joueureuse  = nature interactionnelle entre co-équipières, apprentissage selon la formulatione t la validation des connaissances en jeu (p.76)
 - Conflit socio-constructiviste pas seulement conflit mais que ce dernier suscite des interactions (p.77)
 - Stealth assessment (Shute et al., 2916) (p.90)
 - Infos sur les processus d'apprentissage sont plus complexes à afficher sur tableau de bord d'apprentissage (learning dashboard) (p.93)
 - L'enseignant dispose de peu de temps pour analyser les erreurs et réussites de ses élèves (p.94)
 - Privacy by design (Cavoukian, 2009) & Ethical by design (Leidner, 2017) (p.95)
-- **Orchestration** = manière dont l'enseignant gère, en temps réel, des activités dans un contexte soumis à des contradictions multiples (Dillenbourg, 2013) (p.98)
-- **Débriefing** :
+- **Orchestration** (maîtresse du jeu <-> apprennante) = manière dont l'enseignant gère, en temps réel, des activités dans un contexte soumis à des contradictions multiples (Dillenbourg, 2013) (p.98)
+- **Débriefing** (enseignante <-institutionnalisation-> apprenante) :
 	- Apprentissage effectif que si le jeu est suivi d'un temps dédié à l'évocation par le joueur des découvertes qu'il a effectuées en jouant + accompagnée d'une réflexion sur ces découvertes (Garris et al., 2002) -> quitte le cercle magique pour le debriefing
 	- Favorise réflexion et métacognition et transforme les connaissances implicites qui ont été dvpées dans le jeu deviennent explicites
 	- Brousseau (1986) nomme ce processus institutionnalisation, permet un changement de statut de la connaissance : de subjective et située à objectif et indépendant. 
@@ -1724,8 +1726,29 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Conception d'une expérience de eu ou design d'expérience ludique + collaborative work
 	- Genvo (2008) travaux s'inscrivent dans une vision qui n'essentialise pas le jeu et met la question de l'expérience vécue par le joueur au coeur du processus de conception
 - Precepts (actions possibles/permises dans le jeu) – percepts (infos disponibles dans le jeu) – affects (émotions ressenties au cours du jeu) – concepts (concepts que le jeu conduit à mobiliser)
-- i124
-
+- Clim@ction et Insectophagia (Sanchez et al., 2010, Sanchez et al., 2017) résolution passe par la collaboration, la confrontation et la négociation -> ill-structured problems (Jonassen, 2000; King & Kitchener, 1994) : résolution sans haut-degré de certitude et que plusieurs solutions peuvent être proposées, aucune n'étant ni certaine, ni vérifiable, y compris par des experts. (p.129)
+- Résoudre de tels. problèmes est lié à son rapport au savoir ? épistémologie personnelle (Jonassen, 2000) : considère la connaissance et l'acte de connaître.
+- Hofer & Pintrich (1997), 4 dimension pour l'épistémologie personnelle d'un individu :
+	- Certitude : continuum de croyances de l'idée que la vérité absolue existe avec certitude à des positions où le savoir est considéré comme provisoire et changeant
+	- Simplicité : caractère isolé ou intégré des connaissances = idée que les connaissances sont des faits que l'on peut connaître de manière discrète, sans liens avec d'autres, à celles où le savoir est relatif, contingeant et contextuel. => Link with complexity telle que définie par Morin (p.130)
+	- Source de la connaissance : individu est acteur de la construction du savoir et prise de conscience progressive dans cette constr.
+	- Jusstification : science justifie ou justification des savoirsou idées auxquelles on adhère.
+- Visée : développement épistémique = de leur capacité à appréhender la complexité d'un problème, de s'identifier comme capable d'élaborer des solutions à ce problème et de développer une argumentation qui justifie les choix opérés
+- Certains élèves satisfaits de contribuer à la production de solutions mettant en avant l'authenticité de la situation vécue pour justifier leur adhésion au jeu VS. rejet où la question d'une évolution des savoirs ne se pose pas et qu'on ne retire pas de savoirs
+- Jouer le jeu, c'est adhérer à une épistémologie (p.131)
+- Hofstadter & Sander (2013) : apprentissage résulte d'un processus qui permet à l'app d'identifier des relations analogiques entre différentes situations plutôt que d'une pure logique interprétative.
+- Conception de jeux récréatifs (Plass et al., 2015; Salen & Zimmerman, 2004) et jeux éducatifs (Kalmpourtzis, 2018)
+- **Conception** (chercheureuse <-transposition métadidactique-> praticienne en game jam :
+	- Caractérisation du public cible – focus groupes => définition des objectifs pédagogiques du jeu
+	- Présentation de ces objectifs pédagogiques + personas (p.135)
+	- Etablissement d'une fiche descriptive d'un usager fictif du dispositif à concevoir : identification des contraintes et leviers de conception liés à l'autilisateur
+	- Idéation : univers du jeu, narration ,énigmes, par la collaboration des participant·e·s non-expert·e·s du jeu
+- Méthode de conception : Figure 13 - Processus de conception à voir (p.138)
+- **Culture organisationnelle de l'institution** : à prendre en compte (p.155)
+- Les jeux numériques consistuent des systèmes contraints par des règles (du jeu, normativité du jeu-game) mais qui, généralement, offrent néanmoins une grande liberté à la joueuse (liberté du jeu-play)
+- Ce modèle décrit deux jeux épistémiques emboîtés : 1. apprenante qui fait l'expérience d'une situation ludique et apprendre de cette expérience. 2. Celui des conceptrices qui de manière collaborative, vivent une expérience qui peut éalement prendre une forme ludique. Ces deux cas se traduisent par une expérience qui, si accompangées d'une travail métacognitif, peut avoir une valeur épistémique
+- La conversion des connaissances constitutives de l'expérience que le joueur aura vécue à travers le jeu en savoirs institutionnalisés et mobilisables dans des situations analogues nécessite une accompagnement qui doit justementêtre apporté par une représentante de l'institution, formateurice ou enseignante. Faire le pari de l'égalité de l'intelligence et de l'émancipation intellectuelle en utilisant l'apprentissage par le jeu, ne signifie pas apprendre de soi-même, sans maître qui enseigne.
+- On n'apprend pas en jouant, on apprend en portant un regad réflexif sur une expérience ludique, une expérience métaphorique de la vie, une expérience de soi.
 
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 

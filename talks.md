@@ -2,14 +2,14 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [14.09.2023 - UNIGE Data Science Day](#14092023---unige-data-science-day)
+* [14.09.2023 - BTN – UNIGE Data Science Day](#14092023---btn--unige-data-science-day)
 * [08.12.2022 - Chandramallika Basak - Brain-Based Mechanisms of Cognitive Enhancemeents in Aing: Benefits of Computerized Training](#08122022---chandramallika-basak---brain-based-mechanisms-of-cognitive-enhancemeents-in-aing-benefits-of-computerized-training)
 * [02.12.2022 - Swiss Reproducibility Network - Preregistration & Registered reports: how to improve the credibility and reproducibility of your research](#02122022---swiss-reproducibility-network---preregistration--registered-reports-how-to-improve-the-credibility-and-reproducibility-of-your-research)
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
 
-# 14.09.2023 - [UNIGE Data Science Day](https://datascience.unige.ch/en/research/uniges-data-science-days)
+# 14.09.2023 - [BTN – UNIGE Data Science Day](https://datascience.unige.ch/en/research/uniges-data-science-days)
 
 - Data Science Seminars : https://datascience.unige.ch/en/research/data-science-seminars - apply
 - Learning data : https://datascience.unige.ch/cite/capsules-audio - apply
@@ -18,12 +18,14 @@
 - Coding Dojo : https://cui.unige.ch/fr/pin/club-de-programmation/ - ask for session for researchers
 - Datascience message : more than tests and software, teach them probabilities (type I error, etc.) and effect size
 - [`r-exams`](https://www.r-exams.org/tutorials/elearning/) for Randomized Moodle Exercices, teaching award in 2018 (Social sciences) :
-- IDEA – Next year : A student teaching R for students (Take Over)
+- IDEA DATA SCIENCE DAY 2024 : A student teaching R for students (Take Over)
 - Escape game : https://www.unige.ch/innovations-pedagogiques/innovations/escape-game , https://www.unige.ch/innovations-pedagogiques/project-list/escape-game-sur-genially
 - The GRAPH courses : https://thegraphcourses.org/
 - Scientific computing support : https://www.unige.ch/scicos/ (web dev?)
 - TO THINK : When creating a teaching experience (e.g., Take Over), make it reusable for other projects/courses and reproducible !
 - IDEA P3 : project, "think about the teacher !" – How a teacher can reuse the other "teaching awards" to enhance the global level of teaching at the university ? It is cool to have awards, it is better when it is reused and embedded in other courses to enhance students' experience
+- Matthias Studer, Geneva School of Social Sciences, "Randomized Moodle exercises for quantitative methods courses
+- Anastasia Floru, Geneva School of Economics and Management, "Why not learning with fun ? Escape Game an innovative tool to test your skills"
 
 Round Table Empowering Inclusive Data Science Education: Breaking the Psychological Walls :
 
