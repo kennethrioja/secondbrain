@@ -12,6 +12,7 @@
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
+* [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
@@ -316,6 +317,41 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Seduce students into the world of learning, to make them engaged in the learning content
 - But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
 - Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
+
+## [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](https://www.youtube.com/watch?v=5v3Fj9WJL_U)
+
+**THM** : 
+
+**Authors** : Simon Collin
+
+**Tags** : :AI: :artificial-intelligence: :chatgpt: :education:
+
+**Notes**
+- IA : "emsemble des techniques qui permettent à une machine de simuler l'intelligence humaine, notamment pour apprendre prédire, prendre des décisions et percevoir le monde environnant." (p.19, Déclaration de Montréal pour une développement responsable de l'IA, 2018)
+- Algo can't fix broken systems (Hao, 2020)
+- Performance de la technologie par rapport au niveau de compétence des élèves : pour que la technologie soutienne l'apprentissage des élèves il faut leur fournir une techologie adaptée à leur niveau, e.g., si trop performance se trouve à faire leur job.
+- Avoir des données standardisées
+- Modèle prédictif converge-t-il avec modèle scientifique existant ?
+- Augmenter la freq de collecte de données = charge admin supplémentaire
+- Conséquences non-voulues :
+	- Pression sur les enseignant·es par la comparaison et la hierarchisation des résultats de leurs groupes-classes
+		- Dérivés pédago possibles (abandon de contenus d'enseignement non évalués; teach to the test, inflation des notes, etc.)
+	- Intervention auprès des enseignant·es jugé·es "sous-performant·es"
+		- Moyens de remédiation (conseiller·e pédago, etc.)
+		- Poids des données probantes face à l'expérience subjective des enseignant·es
+- Difficulté à sensibiliser les acteur·rices scolaires
+- Reconfiguer l'expertise pédago entre :
+	- Enseignant·es
+	- Equipe de conception des SIA-ED : choix pédago de plus en plus automatisés en amont de la salle de classe
+		- Choix opaques, difficiles à comprendre
+		- Possibilité réduite pour les enseignant·es de les modifier
+	- Administrateur·rices scolaires : contrôles des pratiques pédago des enseignant·es
+		- SIA-ED de gestion scolare > SIA-ED de gestion scolaire ET pédago
+- Faire preuve de discernement
+- Aller doucement dans l'implémentation de l'IA dans l'éducation
+- Les équipes de conception en éducation doivent être capables d'expliquer choix qui ont été faits, les risques, etc. ; si l'acteur·rice scolaire n'a pas compris, c'est que l'équipe de conception n'a pas assez pédagogisé son dispositif.
+- e.g., Safer Technologies Schools, Australia
+- 
 
 ## [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](https://doi.org/10.3917/savo.023.0009)
 
