@@ -25,6 +25,7 @@
 * [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
+* [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](#morin-1999--les-sept-savoirs-nécessaires-à-léducation-du-futur)
 * [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
@@ -793,6 +794,33 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Pas de temps d'apprentissage supplémentaire - Utilisable
 	- Attitude positive et précautionneuse, pas d'exaspération ou lassitude
 	- 15 min suffisant pour favorable à apprentissage
+
+## [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](http://unesdoc.unesco.org/images/0011/001177/117740Fo.pdf)
+
+**THM** : Penser et éduquer de manière planétaire
+
+**Authors** : Edgar Morin
+
+**Tags** : :education: :savoir:
+
+**Notes**
+
+From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-selon-edgar-morin/ :
+- Lutte contre les erreurs du système éducatif actuel
+- Aveuglement du savoir : erreur et illusion :
+	- Emotions et limitation de la perception énère des biais et limitation des connaissances : critique de la connaissance elle-même
+- Les principes d'une connaissance pertinente :
+	- Générer des méthodes qui facilitent la détection des interactions complexes qui existent dans la réalité – en intégrant les connaissances au lieu de les désagréger
+- Enseigner la condition humaine :
+	- Identité vs. membre d'un groupe; cerveau-esprit-culture, raison-affect-impulsion, individu-société-espèce
+- Enseigner l'identité terrienne :
+	- Education doit avoir une perspective planétaire (environnement immédiat), rend les connaissances plus réelles et inclusives
+- Affronter les incertitudes :
+	- La réalité est dynamique, changeante, incertitude continuelle dans les décisions. Il n'est pas convenable de continuer à éduquer les individus comme si ce qui existait était un système de certitudes
+- Enseigner la compréhension :
+	- Communication =/= compréhension; ouverture empathique envers les autres + tolérance des idées et des sentiments des autres, tant qu'ils ne violent pas la dignité humaine
+- L'éthique du genre humain :
+	- Promotion des pratiques démocratiques et le respect de la diversité (sinon dictature des majorités) – les projets, interactions et engagements doivent être conçus et vécus à l'échelle de l'espèce.
 
 ## [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](https://doi.org/10.3102/0091732X012001055 )
 
