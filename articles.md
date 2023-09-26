@@ -38,6 +38,7 @@
 * [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
+* [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
 * [Lugan, 2009 : La modélisation des systèmes complexe chez E-Morin et J.-L. Le Moigne](#lugan-2009--la-modélisation-des-systèmes-complexe-chez-e-morin-et-j-l-le-moigne)
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
@@ -46,7 +47,6 @@
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
 * [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](#mulet-et-al-2017--quels-tuteurs-informatisés-pour-réduire-les-comportements-dévitement-de-la-recherche-daides-des-apprenants)
 * [Nguyen & Bavelier, 2023 : Play in Video Games](#nguyen--bavelier-2023--play-in-video-games)
-* [**Notes**](#notes)
 * [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#oliveira-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
@@ -1361,7 +1361,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
 - A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
 - A statistical measure of complexity treats a completely rdm sequence as having minimal complexity
-- Conditions for a good measure of complexity (Lloyd, 2001) :
+- Conditions for a good measure of complexity ([Lloyd, 2001](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)) :
 	1. How hard is it to describe ?
 	2. How hard is it to create ?
 	3. What is its degree of organization ?
@@ -1442,6 +1442,26 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Authors** : Céline Lemercier, André Tricot, Isabelle Chênerie, Didier Marty Dessus, Frédéric Morancho et Jérôme Sokoloff
 
 **Tags** : :EIAH: :exerciseur:
+
+## [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](https://doi.org/10.1109/MCS.2001.939938)
+
+**THM** : 
+
+**Authors** : Seth Lloyd
+
+**Tags** : :complexity: :measure:
+
+**Notes**
+- Difficulty of Description :
+	- Ex : Information, entropy, algorythmic complexity, minimum description length, fisher information, renyi entropy, code length, Chernoff information, dimension, fractal dimension, Lempel-Ziv complexity
+- Difficulty of Creation :
+	- Involving constructing or duplicating a system, e.g., time, energy, money
+	- Ex : Computational compl, Time and Space computational compl, Information-based compl, logical depth, thermodynamic depht, cost, crypticity
+- Degree of organization :
+	- Difficulty of describing organizational structure, whether corporate, chemical, cellular, etc.
+	- Ex : Effective complexity, metric entropy, fractal dimension, excess entropy, stochastic compl, sophistication, (...) grammatical complexity
+	- Amount of organisation shared between the parts of a system as the result of organizational structure
+	- Ex : Mutual information, Algorithmic mutual information, channel capacity, correlation, stored information, organization
 
 ## [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](https://doi.org/10.1016/j.cobeha.2020.11.002)
 
@@ -1647,7 +1667,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Abstract** : Video game play is remarkably ubiquitous in today's society given its recent emergence only in the late 1950s. While this fast evolution could exemplify the power of play, video games exploit but also extend other types of play. Here, we review a classification of the ecosystem of video games useful in the emerging field of the cognitive neuroscience of video games. We then discuss how video games may leverage different play types, considering first locomotor-rotational, object, and social play before highlighting the importance of role, rule, and pretend play in video games. With an eye toward comparative studies of the neural bases of play across species, we discuss whether video games may fulfil the five criteria from Burghardt (2005) to identify play. Finally, in line with play’s possible preparatory role for adulthood, we review the positive impact on cognition and future learning of action-like video games. Highlighting that not all video games have this impact, we note more granular hypotheses about the biological functions of play are to be encouraged.
 
 **Notes**
--
+-...
 
 ## [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
 
