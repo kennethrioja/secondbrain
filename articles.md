@@ -52,7 +52,8 @@
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
-* [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
+* [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
+* [Sanchez, 2022 :amples  Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022-amples--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -1791,7 +1792,21 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Mais le jeu assure l'engagement de l'apprenant·e
 - Livre pour concevoir des situations d'apprentissage par le jeu
  
-## [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage]()
+## [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](https://ciel.unige.ch/2023/04/learning-analytics-ou-comment-lire-les-traces-numeriques-pour-aider-les-etudiant-e-s-en-difficulte/#.ZEe7qgNuH1w.linkedin)
+
+**THM** : 
+
+**Authors** : Patrick Roth
+
+**Tags** : :learning-analytics: :traces: :edtech: :moodle: :learning:
+
+**Notes**
+- Accompagner la mise en place d'enseignement ind. en adaptant le parcours d'apprentissage
+- Contribuer à l'amélioration continue d'une formation en analysant l'évolution du niveau de compérences des étudiant·e·s
+- Compétences visées d'une formation vs compétences demandées sur le marché du travail.
+- Contrôle qualité d'une formation en monitorant le taux de rétention, l'évolution des notes ou la comparaison des résultats inter volées
+
+## [Sanchez, 2022 :amples  Le paradoxe du marionnettiste, jeu et apprentissage]()
 
 **THM** : L'institutionalisation des savoirs se fait par le debriefing entre enseignante/formatrice et apprenante.
 
