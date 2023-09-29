@@ -7,6 +7,7 @@
 * [To read](#to-read)
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
+* [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
@@ -54,6 +55,7 @@
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
 * [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
 * [Sanchez, 2022 :amples  Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022-amples--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
+* [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -134,6 +136,20 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Entretien : bien quand timides ou difficultés à exprimer en public et échanger informations avec d'autres personnes
 	- Brainstorming : bien pour laisser créativité, spontanéité, à condition de ne pas s'éloigner du thème global
 	- Technique d'échelle bipolaire (Bisseret et al., 1999) : bien pour se positionnner et évaluer selon 1 j'aime pas, 7 j'aime
+
+## [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](https://ijvlms.sums.ac.ir/article_44834.html)
+
+**THM** : 
+
+**Authors** : Seyyed Kazem Banihashem, Khadijeh Aliabadi, Saeid Pourroostaei Ardakani, Ali Delaver and Mohammadreza Nili Ahmadabadi
+
+**Tags** : :learning-analytics: :technology: :education:
+
+**Abstract** : Context: Learning analytics is considered as the third wave in educational technology and it is a new and promising field of study. This study was conducted to clarify benefits and challenges of learning analytics in education. Methods: Cooper’s systematic literature review was used as the research method. This method has five steps as follows: a) formulation of the problem, b) collection of data, c) evaluation of the appropriateness of the data, d) analysis and interpretation of relevant data, and e) organization and presentation of the results. Based on the study selection process, 36 articles were finally selected to be analyzed. Results: The results showed that ethics and privacy were one of the most important challenges of learning analytics in education along with the lack of attention to theoretical foundations and scope and quality of data. The results also showed that learning analytics could bring remarkable benefits for education, such as increased engagement of students, improvement of learning outcomes, identification of students at risk, providing real - time feedback, and personalization of learning. Conclusions: Based on the results, it can be concluded that learning analytics offer new insights in education, however, there are ethical, educational, and technical issues in the use of learning analytics in education
+
+**Notes**
+- Since 2010, the concept of Learning Analytics has been isolated from the field of analytics and has emerged as an independent area (Ferguson, 2012)
+- Learning analytics seek to use educational data to improve learning, teachning and learning environments (Clow, 2014)
 
 ## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
 
@@ -1883,6 +1899,38 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Ce modèle décrit deux jeux épistémiques emboîtés : 1. apprenante qui fait l'expérience d'une situation ludique et apprendre de cette expérience. 2. Celui des conceptrices qui de manière collaborative, vivent une expérience qui peut éalement prendre une forme ludique. Ces deux cas se traduisent par une expérience qui, si accompangées d'une travail métacognitif, peut avoir une valeur épistémique
 - La conversion des connaissances constitutives de l'expérience que le joueur aura vécue à travers le jeu en savoirs institutionnalisés et mobilisables dans des situations analogues nécessite une accompagnement qui doit justementêtre apporté par une représentante de l'institution, formateurice ou enseignante. Faire le pari de l'égalité de l'intelligence et de l'émancipation intellectuelle en utilisant l'apprentissage par le jeu, ne signifie pas apprendre de soi-même, sans maître qui enseigne.
 - On n'apprend pas en jouant, on apprend en portant un regad réflexif sur une expérience ludique, une expérience métaphorique de la vie, une expérience de soi.
+
+## [Scheffel et al., 2014 : Quality indicators for Learning Analytics](https://www.jstor.org/stable/pdf/jeductechsoci.17.4.117.pdf?acceptTC=true&coverpage=false&casa_token=cFakWMF1tDoAAAAA:3KKH7ZKX7S-VJ8ouwNmwJpn_qAG622yqnPTsZ05LNB_PJujTmNJ-ZOG9cY9k48L161f5HS_h3CY9Q_kIMrpUZLk3B57-qNkHAUwcfPa16sMjBYlMEes)
+
+**THM** : Quality of LA tool depends on objectives, learning support, learning measures and output, data aspects and organisational aspects
+
+**Authors** : Maren Scheffel, Hendrik Drachsler, Slavi Stoyanov and Marcus Specht
+
+**Tags** : :learning-analytics: :quality-indicator: :framework:
+
+**Abstract** :This article proposes a framework of quality indicators for learning analytics that aims to standardise the evaluation of learning analytics tools and to provide a mean to capture evidence for the impact of learning analytics on educational practices in a standardised manner. The criteria of the framework and its quality indicators are based on the results of a Group Concept Mapping study conducted with experts from the field of learning analytics. The outcomes of this study are further extended with findings from a focused literature review.
+
+**Notes**
+- Group Concept Mapping (GCM) :
+	1. Generation of ideas
+	2. Sorting the collected ideas into clusters
+	3. Rating the ideas according to several values (Importance and feasibility)
+- "One specific quality indicator to evaluate the effects of learning analytics is...", 8-cluster solution :
+	1. Data: open access
+	2. Data: privacy
+	3. Acceptance & uptake
+	4. Learning outcome
+	5. Teacher awareness
+	6. Learning performance
+	7. Learning support
+	8. Student awareness
+- Quality indicators for LA to help standardise the evaluation of LA tools :
+	1. Objectives : Awareness, reflection, motivation, behavioral change
+	2. Learning Support : perceived usefulness, recommendation, activity classification, detection of students at risk
+	3. Learning measures and output : Comparability, Effectiveness, efficiency, helpfulness
+	4. Data aspects : transparency, data standards, data ownership, privacy
+	5. Organisational aspects : availability, implementation, training of educational stakeholders, organisational change
+- !!! : More research- than practice-oriented
 
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
