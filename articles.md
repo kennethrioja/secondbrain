@@ -13,6 +13,7 @@
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
+* [Clow, 2013 : An overview of learning analytics](#clow-2013--an-overview-of-learning-analytics)
 * [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
@@ -139,7 +140,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 ## [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](https://ijvlms.sums.ac.ir/article_44834.html)
 
-**THM** : 
+**THM** : List of benefits and challenges, but we should not forget that LA aims at learning.
 
 **Authors** : Seyyed Kazem Banihashem, Khadijeh Aliabadi, Saeid Pourroostaei Ardakani, Ali Delaver and Mohammadreza Nili Ahmadabadi
 
@@ -149,7 +150,20 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Notes**
 - Since 2010, the concept of Learning Analytics has been isolated from the field of analytics and has emerged as an independent area (Ferguson, 2012)
-- Learning analytics seek to use educational data to improve learning, teachning and learning environments (Clow, 2014)
+- Learning analytics seek to use educational data to improve learning, teachning and learning environments (Clow, 2013)
+- Definition of LA was first presented by Society of Learning ANalytics Research (SOLAR) at First Learning Analytics and Knowledge Conference in 2011 (LAK-11) : "the measurement, colelction, analysis, and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs" (Long et al., 2011)
+- Fiaidhi (2014) said LA is the 3rd wave of EdTech
+- Benefits of LA in education :
+	- For learners : enhance engagement, improve learning outcomes, personalization of learning, increase in students adaptivity, enriche personalized learning environments
+	- For teachers : Assessment services, efficient intervention, get RT feedback/insight, understand students learning habits, modifies content for students' desire, monitoring students' activities, get a deeper understand of teaching and learning, predicting student perf, provide warning signal, improve teaching strat, improve instructor perf, sources recommendations
+	- For institutions : improve educational decision making, increase student success, student success modeling, monitoring stu activities, boost cost efficiency, increase retention rate, make envidence-based decisions, prevent stu drop-out, identifiy students at risk, curriculum improvement, improve accountability
+	- For researchers : increase efficiency of education and serious games, identify knowledge gaps
+	- For cours designers : identifying target course, improve learning design
+	- For parents : monitoring stu activities
+- Challenges of LA in education :
+	- Ethics and privacy
+	- Scope and Quality of Data : Gasevic et al (2015) pointed out that LA cannot fit one size to all. LA models should not be general and collect general data. It should focus on a specific scope of specific data with high quality that could  give true insights in learning and teaching. (link with PISA in Finland?)
+	- Theoretical and Educational Foundation : (good section, to read) LA is about learning Gasevic et al (2014)
 
 ## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
 
@@ -335,6 +349,20 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Seduce students into the world of learning, to make them engaged in the learning content
 - But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
 - Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
+
+## [Clow, 2013 : An overview of learning analytics](https://doi.org/10.1080/13562517.2013.827653)
+
+**THM** : 
+
+**Authors** : Doug Clow
+
+**Tags** : :learning-analytics: :analytics: :metrics: :education:
+
+**Abstract** : Learning analytics, the analysis and representation of data about learners in order to improve learning, is a new lens through which teachers can understand education. It is rooted in the dramatic increase in the quantity of data about learners and linked to management approaches that focus on quantitative metrics, which are sometimes antithetical to an educational sense of teaching. However, learning analytics offers new routes for teachers to understand their students and, hence, to make effective use of their limited resources. This paper explores these issues and describes a series of examples of learning analytics to illustrate the potential. It argues that teachers can and should engage with learning analytics as a way of influencing the metrics agenda towards richer conceptions of learning and to improve their teaching.
+
+**Notes**
+- Definition LA, see first sentence abstract
+- 
 
 ## [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](https://www.youtube.com/watch?v=5v3Fj9WJL_U)
 
@@ -821,6 +849,11 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Tags** : :education: :savoir:
 
 **Notes**
+- "L'un des défis les plus difficiles à relever sera de modifier nos modes de pensée de façon à faire face à la complexité grandissance, à la rapidité des changements et à l0imprévisible, qui caractérisent notre monde. (p.7)
+- Exprimer ses idées sur l'essence même de l'édcation du futur dans le contexte de sa vision de "la pensée complexe"
+1. Les cécités de la connaissance : l'erreur et l'illusion :
+	- Le développement de l'intelligence est inséparable de celui de l'affectivité
+2. 
 
 From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-selon-edgar-morin/ :
 - Lutte contre les erreurs du système éducatif actuel
