@@ -2,12 +2,39 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency](#12102023---dr-claudia-von-bastian--mechanisms-of-cognitive-training-and-transfer-effects-capacity-and-efficiency)
 * [14.09.2023 - BTN – UNIGE Data Science Day](#14092023---btn--unige-data-science-day)
 * [08.12.2022 - Chandramallika Basak - Brain-Based Mechanisms of Cognitive Enhancemeents in Aing: Benefits of Computerized Training](#08122022---chandramallika-basak---brain-based-mechanisms-of-cognitive-enhancemeents-in-aing-benefits-of-computerized-training)
 * [02.12.2022 - Swiss Reproducibility Network - Preregistration & Registered reports: how to improve the credibility and reproducibility of your research](#02122022---swiss-reproducibility-network---preregistration--registered-reports-how-to-improve-the-credibility-and-reproducibility-of-your-research)
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency
+
+- Why cog training doe snot work ?
+- Transfer if :
+	- Common elements
+	- Shared cog processes, functional overlap => WM
+- WM expand cog training? Yes and No due to (garbage-in garbage-out) :
+	- Lack of active controls
+	- Single ability indicators
+	- Low stat power (FP, inflated effect sizes)
+- Cog train in younger and older adults :
+	- Better at proc speed (?), practice effect but no near nor far transfer
+	- No cor with motiv, personality or cog-related beliefed
+	- **WM training is not a quick-fix solution for reliably boosting WM, EF and intelligence**
+	- Reduce effort by using **paradigm-specific** expertise + **stimuli-specific** expertise
+- Mechanisms of efficiency in cog training
+	- https://www.nature.com/articles/s44159-021-00001-3
+	- More efficiently allocate attention, e.g., dual-task; what to prioritize
+	- Jiang et al., 2023 :
+		- Strong prac effect in the trained taks on precisions but not capacity; no transfer to shape reproduction or change detection
+		- When trained, more orientations, suggesting possible interaction bw paradigm-specific and stimuli-specific expertise
+		- DDR : Rate of evidence decision + boundary separation : bw different/same + non-decision time : motoric time
+- Be comparable on age, gender, but also education and time-allocated for X
+- Little to no evidence for experience-based plasticity of capacity
+- Cog activities support dev of paradigm-specific and stimuli-specific expertise
 
 # 14.09.2023 - [BTN – UNIGE Data Science Day](https://datascience.unige.ch/en/research/uniges-data-science-days)
 

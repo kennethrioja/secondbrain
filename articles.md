@@ -853,6 +853,13 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Exprimer ses idées sur l'essence même de l'édcation du futur dans le contexte de sa vision de "la pensée complexe"
 1. Les cécités de la connaissance : l'erreur et l'illusion :
 	- Le développement de l'intelligence est inséparable de celui de l'affectivité
+	- A l'erreur de perception s'ajoute l'erreur intellectuelle. La connaissance, sous forme de mot, d'idée de théorie, est le fruit d'une traduction/reconstitution par les omyens du langage et de la panesée et elle connaît le risque d'erreur. Cette connaissance, à la fois en tant que traduction et en tant que reconstruction, comporte de l'interprétation, ce qui introduit le risque d'erreur à l'intérieur de la subjectivité du connaissance, de sa vision du monde, de ses principes des connaissance.
+	- Un rationalisme qui ignore les êtres, la subjectivité, l'affectivité, la vie est irrationnelle (#quotes)
+	- Nous commençons à devenir vraiment rationnels quand nous reconnaissons la rationalisation incluse dans notre rationalité et reconnaissons nos propres mythes, dont le mythe de la toute-puissance de notre raison et celui du progrès garanti.
+	- Reconnaître dans l'éducation du future un **principe d'incertitude rationnel**
+	- Le mythe et l'idéologie détruisent et dévorent les faits (...) **nous devons mener une lutte cruciale contre les idées, mais nous ne pouvons le faire qu'avec le secours des idées**.
+	- Le nouveau jaillit sans cesse (...) une fois l'inattendu survenu, il faudrait être capable de réviser nos théories et idées, plutôt que de faire entrer au forceps le fait nouveau dans la théorie incapable de vraiment l'accueillir.
+	- 20/71
 2. 
 
 From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-selon-edgar-morin/ :
