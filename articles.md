@@ -34,9 +34,11 @@
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
+* [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
-* [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
+* [Lang et al. 2022 – Handbook of Learning Analytics (2nd ed.)](#lang-et-al-2022--handbook-of-learning-analytics-2nd-ed)
+	* [CHAPTER 1 Lang et al. 2022 – What is learning analytics](#chapter-1-lang-et-al-2022--what-is-learning-analytics)
 * [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -1135,6 +1137,117 @@ From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-
 - [Jonassen & Hung (2015)](https://www.researchgate.net/publication/273459514_All_problems_are_not_equal_Implications_of_problem_type_complexity_and_structuredness)
 - https://research.com/u/david-h-jonassen : see other pubs
 
+## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
+
+**THM** : Nonlinear, Feedback, Spontaneous order, Robustness, Emeergence, Hierarchical organisation, numerosity
+
+**Authors** : James Ladyman, James Lambert & Karoline Wiesner
+
+**Tags** : :complexity: :statistical-complexity: :information: :complex-system:
+
+**Abstract** : Complex systems research is becoming ever more important in both the natural and social sciences. It is commonly implied that there is such a thing as a complex system, different examples of which are studied across many disciplines. However, there is no concise definition of a complex system, let alone a definition on which all scientists agree. We review various attempts to characterize a complex system, and consider a core set of features that are widely associated with complex systems in the literature and by those in the field. We argue that some of these features are neither necessary nor sufficient for complexity, and that some of them are too vague or confused to be of any analytical use. In order to bring mathematical rigour to the issue we then review some standard measures of complexity from the scientific literature, and offer a taxonomy for them, before arguing that the one that best captures the qualitative notion of the order produced by complex systems is that of the Statistical Complexity. Finally, we offer our own list of necessary conditions as a characterization of complexity. These conditions are qualitative and may not be jointly sufficient for complexity. We close with some suggestions for future work.
+
+**Notes**
+- complex : having many parts connected in ways that are difficult to understand (Cambridge Dictionary)
+- Is complexity for all the sciences or whether complexity is domain-specific?
+- Complexity :
+	- A structure with variations (Goldenfeld and Kadanoff, 1999, p.87) -> what is structure and variations ?
+	- One 1) whose evolution is very sensitive to initial conditions or to small perturbations, 2) in which the number of independent interacting components is large, or 3) in which there are multiple pathways by which the system can evolve. (Whitesides & Ismagilov, 1999, p.89) -> chaos and nonlinear or lot of components or possible histories ?
+	- Difficult to understand and verify (...) determined by such factors as the number of components and the intricacy of the interfaces between them, the number and intricacy of conditional branches, the degree of nesting and the types of data structures (Wen et al., 1999, p.92)
+	- Complexity theory indicates that large populations of units can self-organize into aggregations that generate pattern, store information, and engage in collective decision-making (Parrish & Edelstein-Keshet, 1999, p.99) -> computational notions
+	- In natural landform patterns is a manifestation of two key characteristics. Natural patterns form from processes that are nonlinear, those that modify the properties of the environment in which they operate or that are strongly coupled; and natural patterns form in systems that are open, driven from equilibrium by the exchange of energy, momentum, material or information across their boundaries (Werner, 1999, p.102) -> nonlinearity but neither a necessary nor a sufficient condition for complexity
+	- One in which there are multiple interactions between many different components (Rind, 1999, p.105)
+	- Muliple elements adapting or reacting to the pattern these elements create (Brian Arthur, 1999, p.107) -> cannot be complex unless there are many components interacting within it but not sufficient
+	- Inherently complicated or intricate; rarely completely deterministic; math models involve non-linear, ill-posed, or chaotic behavior; unexpected outcomes (emeergent behavior) (Foote, 2007, p.410) -> introduces the idea of emergence but too confused
+	- Complexity starts when causality breaks down (Editorial, 2009)
+- Properties of a complex system :
+	- **Nonlinearity** :
+		- "Linear thinking and the belief that the whole is only the sum of its parts are evidently obsolete (Maizer, 1994, p.1) -> taken back in gestaltism 
+		- It is *not a necessary nor sufficient* condition for a complex system : ex. a single chaotic pendulum can be subject to non-lineaar dynamics but it is not a complex system
+		- Complexity as the study of systems with many interdependent components and excludes low-dimensional dynamical systems (MacKay, 2008)
+	- **Feedback** :
+		- A part of a system received feedback when the way its neighbourss interact with it at a later time depends on how it interacts with them at an earlier time
+		- It is *not sufficient* because the individuals need to be part of a large enough group to exhibit complexity (ex. birds flock, or individual ants)
+		- Theory of causal graphs : a chain of causal arrows indicates no feedbacks while a graph with loops of causal arrows shows feedback
+		- Order, organisation and control is distributed and locally generated (e.g. ants) rather than centrally produced (e.g. steam regulator)
+		- e.g. birds adjusting its course depending on the proximity and bearing of the birds around it
+	- **Spontaneous order** :
+		- Order in a system's behavior arises from the aggregate of a very large number of uncoordinated interactions bw elements
+		- Notions that are related : symmetry, organisation, periodicity, determinism, pattern
+		- This notion is central because pure randomness is sufficient for no complexity AND total order is also incompatible with complexity
+		- It *is a necessary condition* for a complex system
+	- **Robustness and lack of central control** :
+		- Stabble under perturbations of the system
+		- A system may maintain its order in part by utilizing an error-correction mechanism
+		- Seems to be *necessary but not sufficient* for complexity
+		- Computational language : ability of a system to correct errors in its structure
+	- **Emergence** :
+		- Emergent objects, properties or processes exhibit 'downwards causation', e.g., crystal formation, ant colonies organisation, and more generally the way that levels of organisation in nature emerge from fundamental physics and physical parts of more complex systems
+		- In all epistemological senses emergence *is necessary but not sufficient*
+	- **Hierarchical organisation** :
+		- The ultimate result of all the features of complex system above is an entity that is organised into a variety of levels of structure and properties that interact with the level above and below and exhibit lawlike and causal regularities, and various kinds of symmetry, order and periodic behaviour
+	- **Numerosity** :
+		- Only exists if the system consists of a large number of parts, and usually, only if they are engaged in many interactions
+- **Shannon entropy** :
+	- SUM n, i=1 (Pri * log2(1 / Pri)
+	- Measure of the probability distribution over the messages only and is not concerned with the content of the messages.
+	- Entropy is max when all outcomes are equally likely, anytime move away from equally likely outcomes or introduce predictability entropy diminishes => means that we can ask fewer questions to guess the outcome (is it X?) : bits = qualtitative measure of information = measure of surprise ([Khan Academy, 2014](https://www.youtube.com/watch?v=2s3aJfRr9gE)), #bounces = SUM(p*bounces)
+	- Shannon entropy is higher the more uniform the probabilty distribution = all messages have the same probability
+	- "Surprise" is inversely proportional to its probability
+	- Only express properties of a total set of sequences under some distribution
+- **Kolmogorov complexity** :
+	- C(x) = min{length(p):U(p)=x}
+	- The length of the shortest possible description ~ how much pattern we can find in some sequence ~ Kolmogorov complexity >= length of x (e.g., 10101101110110000101000101100001100100011110), it is uncomputable ([Spanning Tree, 2020](https://www.youtube.com/watch?v=0cHHKDAelCo))
+	- The algorithmic complexity of a random string is the length of the string itself. Any repetition of digits or symmetry in the string will allow the program that outputs the string to be shorter than the string itself
+	- A random sequence is maximally incompressible VS string of 0s is maximally compressible.
+	- This algorithmic complexity does not allow for the difficulty of running the program and generating its output (running time or "time complexity")
+- **Lempel-Ziv complexity** :
+	- As the previous is uncomputable, this algorithm compresses a sequence by taking advantage of repetitions of a specified max len in the sequence (Cover & Thomas, 2006)
+	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
+- A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
+- A statistical measure of complexity treats a completely rdm sequence as having minimal complexity
+- Conditions for a good measure of complexity ([Lloyd, 2001](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)) :
+	1. How hard is it to describe ?
+	2. How hard is it to create ?
+	3. What is its degree of organization ?
+- The complexity of the data (the product) corresponds to the difficulty of description
+- The complexity of the system corresponds to the difficulty of creation
+- Logical depth :
+	1. Complex objects lie somewhere between complete order and complete disorder
+	2. Cannot be produced quickly, any adequate complexity measure should obey a slow growth law
+	3. Its history is not only long, but non-trivial = the most plausible explanation for the object's origin is one that entails a lengthy computation/causal process
+- A proper definition of the "depth" of an object is going to be a compromise between the program size and computation time
+- Bennett's (1988) key idea is that long causal processes are usually necessary in order to produce complex or 'deep' objects; deep objects are produced by short processes only with very low probability
+- Logical Depth is a string d,b deep [...] if and only if d is the least time needed by a b-incompressible program to print x (Li & Vitnyi, 2009) : ???
+- ...
+- Statistical Complexity :
+	- For a system to have high SC, it must have a large number of causal states and hence a large amount of regularities.
+	- SC awards zero complexity to random strings and high complexity to strings with many statistical dependencies
+	- [Complexity Explorer (2019) - Introduction to Complexity: Guest Spotlight, Jim Crutchfield](https://www.youtube.com/watch?v=SAU43m7qhR8) :
+		- Shannon : How much information there is in the current of probabilistics events
+- The measure that best captures the qualitative notion of the order produced by complex systems is tha tof the Statistical Complexity
+- A survey of measures of complexity and their criticism can be found in Grassberger (1989). In it the author concludes that no unified measure can be found nor should there be one since complexity is intricately linked to meaning which is subjective and unmeasurable. 
+- SC does not measure complexity as such but rather order. But because it measures order in the presence of noise it can be used to measure the order produced by complex systems since these systems necessarily exhibit noise.
+- Tentative definition of complexity which we consider as a physical account of complexity : A complex system is an ensemble of many elements which are interacting in a disordered way, resulting in robust organisation and memory.
+- **Ensemble of many elements** :
+	- Not only many but also similar in nature – prerequisite for the condition of interaction
+	- For systems to be able to interact or communicate (broadest sense) with each other they have to be able to exchange energy or matter or information
+	- Ensembles of similar elements at one level form a higher-leve structure which then interacts with other similar higher-level structure.
+- **Interactions** :
+	- Interaction canbe either exchange of energy, matter or information. The mediating mechanisme can be forces, collision or communication.
+- **Disorder** :
+	- A necessary condition for complexity simply because complex systems are precisely those whose order emerges from disorder rathen than being built into them
+- **Robust order** :
+	- Although the elements continue to interact in a disordered way, the overall patterns and structures are preserved.
+	- A macroscopic level arises out of microscopic interaction and it is stable (on that time or length scale)
+- **Memory** :
+	- "A system remembers through the persistence of internal structure" (Holland, 1992)
+	- Memory is a straightforward corollary of robust order.
+- Complex systems, unlike a coin toss, must possess some memory, some record of their past (~ prior knowledge??)
+- Local organisation and robustness appear to be related by this idea of memory; both memory and robustness involve stability over time, and for this stability we need some form of back-up or redundancy with which to correct errors. This may be provided when we have a system whose order is not centrally controlled.
+- A core problem in complex systems research is to understand how a omplex structure can have evolved out of a simple one.
+- The hierarchical nature of complex systems is explained by the efficiency and stability of hierarchical building processes.
+
 ## [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](https://doi.org/10.1016/j.erap.2015.08.002)
 
 **THM** : French questionnaire to assess pragmatic, hedonic-identification, hedonic-stimulation and attractiveness aspects for user experience
@@ -1349,116 +1462,22 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Results : N success/fail pour chaque scénario, N erreurs / scénar, N et type repeated errors, N actions vs minimal, temps moyen, contenu vbalisations, contenu debrief, scores questionnaires
 - Rapid Iterative Testing and Evaluation : corrige dès 1ere passation les erreurs commises par 1er pp and so on. Mais capacité à formuler rapidement des recommandations pour améliorer systèmes. Until 5 pp OK
 
-## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
+## [Lang et al. 2022 – Handbook of Learning Analytics (2nd ed.)](https://www.solaresearch.org/publications/hla-22/)
 
-**THM** : Nonlinear, Feedback, Spontaneous order, Robustness, Emeergence, Hierarchical organisation, numerosity
+### [CHAPTER 1 Lang et al. 2022 – What is learning analytics](https://doi.org/ 10.18608/hla22.001)
 
-**Authors** : James Ladyman, James Lambert & Karoline Wiesner
+**THM** : 
 
-**Tags** : :complexity: :statistical-complexity: :information: :complex-system:
+**Authors** : Charles Lang, Alyssa Friend Wise, Agathe Merceron, Dragan Gaševic, George Siemens
 
-**Abstract** : Complex systems research is becoming ever more important in both the natural and social sciences. It is commonly implied that there is such a thing as a complex system, different examples of which are studied across many disciplines. However, there is no concise definition of a complex system, let alone a definition on which all scientists agree. We review various attempts to characterize a complex system, and consider a core set of features that are widely associated with complex systems in the literature and by those in the field. We argue that some of these features are neither necessary nor sufficient for complexity, and that some of them are too vague or confused to be of any analytical use. In order to bring mathematical rigour to the issue we then review some standard measures of complexity from the scientific literature, and offer a taxonomy for them, before arguing that the one that best captures the qualitative notion of the order produced by complex systems is that of the Statistical Complexity. Finally, we offer our own list of necessary conditions as a characterization of complexity. These conditions are qualitative and may not be jointly sufficient for complexity. We close with some suggestions for future work.
+**Tags** : :learning-analytics: :data: :technology: :education: :field: :domain:
+
+**Abstract** : Over the last ten years learning analytics (LA) has grown from a hypothetical future into a concrete field of inquiry and a global community of researchers and practitioners. Although the LA space may appear sprawling and complex, there are some clear through-lines that the new student or interested practitioner can use as entry points. Four of these are presented in this chapter, 1. LA as a concern or problem to be solved, 2. LA as an opportunity, 3. LA as field of inquiry and 4. the researchers and practitioners that make up the LA community. These four ways of understanding LA and its associated constructs, technologies, domains and history can hopefully provide a launch pad not only for the other chapters in this handbook but the world of LA in general. A world that, although large, is open to all who hold an interest in data and learning and the complexities that follow from the combination of the two
 
 **Notes**
-- complex : having many parts connected in ways that are difficult to understand (Cambridge Dictionary)
-- Is complexity for all the sciences or whether complexity is domain-specific?
-- Complexity :
-	- A structure with variations (Goldenfeld and Kadanoff, 1999, p.87) -> what is structure and variations ?
-	- One 1) whose evolution is very sensitive to initial conditions or to small perturbations, 2) in which the number of independent interacting components is large, or 3) in which there are multiple pathways by which the system can evolve. (Whitesides & Ismagilov, 1999, p.89) -> chaos and nonlinear or lot of components or possible histories ?
-	- Difficult to understand and verify (...) determined by such factors as the number of components and the intricacy of the interfaces between them, the number and intricacy of conditional branches, the degree of nesting and the types of data structures (Wen et al., 1999, p.92)
-	- Complexity theory indicates that large populations of units can self-organize into aggregations that generate pattern, store information, and engage in collective decision-making (Parrish & Edelstein-Keshet, 1999, p.99) -> computational notions
-	- In natural landform patterns is a manifestation of two key characteristics. Natural patterns form from processes that are nonlinear, those that modify the properties of the environment in which they operate or that are strongly coupled; and natural patterns form in systems that are open, driven from equilibrium by the exchange of energy, momentum, material or information across their boundaries (Werner, 1999, p.102) -> nonlinearity but neither a necessary nor a sufficient condition for complexity
-	- One in which there are multiple interactions between many different components (Rind, 1999, p.105)
-	- Muliple elements adapting or reacting to the pattern these elements create (Brian Arthur, 1999, p.107) -> cannot be complex unless there are many components interacting within it but not sufficient
-	- Inherently complicated or intricate; rarely completely deterministic; math models involve non-linear, ill-posed, or chaotic behavior; unexpected outcomes (emeergent behavior) (Foote, 2007, p.410) -> introduces the idea of emergence but too confused
-	- Complexity starts when causality breaks down (Editorial, 2009)
-- Properties of a complex system :
-	- **Nonlinearity** :
-		- "Linear thinking and the belief that the whole is only the sum of its parts are evidently obsolete (Maizer, 1994, p.1) -> taken back in gestaltism 
-		- It is *not a necessary nor sufficient* condition for a complex system : ex. a single chaotic pendulum can be subject to non-lineaar dynamics but it is not a complex system
-		- Complexity as the study of systems with many interdependent components and excludes low-dimensional dynamical systems (MacKay, 2008)
-	- **Feedback** :
-		- A part of a system received feedback when the way its neighbourss interact with it at a later time depends on how it interacts with them at an earlier time
-		- It is *not sufficient* because the individuals need to be part of a large enough group to exhibit complexity (ex. birds flock, or individual ants)
-		- Theory of causal graphs : a chain of causal arrows indicates no feedbacks while a graph with loops of causal arrows shows feedback
-		- Order, organisation and control is distributed and locally generated (e.g. ants) rather than centrally produced (e.g. steam regulator)
-		- e.g. birds adjusting its course depending on the proximity and bearing of the birds around it
-	- **Spontaneous order** :
-		- Order in a system's behavior arises from the aggregate of a very large number of uncoordinated interactions bw elements
-		- Notions that are related : symmetry, organisation, periodicity, determinism, pattern
-		- This notion is central because pure randomness is sufficient for no complexity AND total order is also incompatible with complexity
-		- It *is a necessary condition* for a complex system
-	- **Robustness and lack of central control** :
-		- Stabble under perturbations of the system
-		- A system may maintain its order in part by utilizing an error-correction mechanism
-		- Seems to be *necessary but not sufficient* for complexity
-		- Computational language : ability of a system to correct errors in its structure
-	- **Emergence** :
-		- Emergent objects, properties or processes exhibit 'downwards causation', e.g., crystal formation, ant colonies organisation, and more generally the way that levels of organisation in nature emerge from fundamental physics and physical parts of more complex systems
-		- In all epistemological senses emergence *is necessary but not sufficient*
-	- **Hierarchical organisation** :
-		- The ultimate result of all the features of complex system above is an entity that is organised into a variety of levels of structure and properties that interact with the level above and below and exhibit lawlike and causal regularities, and various kinds of symmetry, order and periodic behaviour
-	- **Numerosity** :
-		- Only exists if the system consists of a large number of parts, and usually, only if they are engaged in many interactions
-- **Shannon entropy** :
-	- SUM n, i=1 (Pri * log2(1 / Pri)
-	- Measure of the probability distribution over the messages only and is not concerned with the content of the messages.
-	- Entropy is max when all outcomes are equally likely, anytime move away from equally likely outcomes or introduce predictability entropy diminishes => means that we can ask fewer questions to guess the outcome (is it X?) : bits = qualtitative measure of information = measure of surprise ([Khan Academy, 2014](https://www.youtube.com/watch?v=2s3aJfRr9gE)), #bounces = SUM(p*bounces)
-	- Shannon entropy is higher the more uniform the probabilty distribution = all messages have the same probability
-	- "Surprise" is inversely proportional to its probability
-	- Only express properties of a total set of sequences under some distribution
-- **Kolmogorov complexity** :
-	- C(x) = min{length(p):U(p)=x}
-	- The length of the shortest possible description ~ how much pattern we can find in some sequence ~ Kolmogorov complexity >= length of x (e.g., 10101101110110000101000101100001100100011110), it is uncomputable ([Spanning Tree, 2020](https://www.youtube.com/watch?v=0cHHKDAelCo))
-	- The algorithmic complexity of a random string is the length of the string itself. Any repetition of digits or symmetry in the string will allow the program that outputs the string to be shorter than the string itself
-	- A random sequence is maximally incompressible VS string of 0s is maximally compressible.
-	- This algorithmic complexity does not allow for the difficulty of running the program and generating its output (running time or "time complexity")
-- **Lempel-Ziv complexity** :
-	- As the previous is uncomputable, this algorithm compresses a sequence by taking advantage of repetitions of a specified max len in the sequence (Cover & Thomas, 2006)
-	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
-- A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
-- A statistical measure of complexity treats a completely rdm sequence as having minimal complexity
-- Conditions for a good measure of complexity ([Lloyd, 2001](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)) :
-	1. How hard is it to describe ?
-	2. How hard is it to create ?
-	3. What is its degree of organization ?
-- The complexity of the data (the product) corresponds to the difficulty of description
-- The complexity of the system corresponds to the difficulty of creation
-- Logical depth :
-	1. Complex objects lie somewhere between complete order and complete disorder
-	2. Cannot be produced quickly, any adequate complexity measure should obey a slow growth law
-	3. Its history is not only long, but non-trivial = the most plausible explanation for the object's origin is one that entails a lengthy computation/causal process
-- A proper definition of the "depth" of an object is going to be a compromise between the program size and computation time
-- Bennett's (1988) key idea is that long causal processes are usually necessary in order to produce complex or 'deep' objects; deep objects are produced by short processes only with very low probability
-- Logical Depth is a string d,b deep [...] if and only if d is the least time needed by a b-incompressible program to print x (Li & Vitnyi, 2009) : ???
-- ...
-- Statistical Complexity :
-	- For a system to have high SC, it must have a large number of causal states and hence a large amount of regularities.
-	- SC awards zero complexity to random strings and high complexity to strings with many statistical dependencies
-	- [Complexity Explorer (2019) - Introduction to Complexity: Guest Spotlight, Jim Crutchfield](https://www.youtube.com/watch?v=SAU43m7qhR8) :
-		- Shannon : How much information there is in the current of probabilistics events
-- The measure that best captures the qualitative notion of the order produced by complex systems is tha tof the Statistical Complexity
-- A survey of measures of complexity and their criticism can be found in Grassberger (1989). In it the author concludes that no unified measure can be found nor should there be one since complexity is intricately linked to meaning which is subjective and unmeasurable. 
-- SC does not measure complexity as such but rather order. But because it measures order in the presence of noise it can be used to measure the order produced by complex systems since these systems necessarily exhibit noise.
-- Tentative definition of complexity which we consider as a physical account of complexity : A complex system is an ensemble of many elements which are interacting in a disordered way, resulting in robust organisation and memory.
-- **Ensemble of many elements** :
-	- Not only many but also similar in nature – prerequisite for the condition of interaction
-	- For systems to be able to interact or communicate (broadest sense) with each other they have to be able to exchange energy or matter or information
-	- Ensembles of similar elements at one level form a higher-leve structure which then interacts with other similar higher-level structure.
-- **Interactions** :
-	- Interaction canbe either exchange of energy, matter or information. The mediating mechanisme can be forces, collision or communication.
-- **Disorder** :
-	- A necessary condition for complexity simply because complex systems are precisely those whose order emerges from disorder rathen than being built into them
-- **Robust order** :
-	- Although the elements continue to interact in a disordered way, the overall patterns and structures are preserved.
-	- A macroscopic level arises out of microscopic interaction and it is stable (on that time or length scale)
-- **Memory** :
-	- "A system remembers through the persistence of internal structure" (Holland, 1992)
-	- Memory is a straightforward corollary of robust order.
-- Complex systems, unlike a coin toss, must possess some memory, some record of their past (~ prior knowledge??)
-- Local organisation and robustness appear to be related by this idea of memory; both memory and robustness involve stability over time, and for this stability we need some form of back-up or redundancy with which to correct errors. This may be provided when we have a system whose order is not centrally controlled.
-- A core problem in complex systems research is to understand how a omplex structure can have evolved out of a simple one.
-- The hierarchical nature of complex systems is explained by the efficiency and stability of hierarchical building processes.
+- LA Across 4 dimensions :
+- A concern :
+	- 
 
 ## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
 
