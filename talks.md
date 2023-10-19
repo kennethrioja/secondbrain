@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [19.10.2023 - Jeffrey Bowers – Deep Problems with NN models of Human Vision](#19102023---jeffrey-bowers--deep-problems-with-nn-models-of-human-vision)
 * [12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency](#12102023---dr-claudia-von-bastian--mechanisms-of-cognitive-training-and-transfer-effects-capacity-and-efficiency)
 * [14.09.2023 - BTN – UNIGE Data Science Day](#14092023---btn--unige-data-science-day)
 * [08.12.2022 - Chandramallika Basak - Brain-Based Mechanisms of Cognitive Enhancemeents in Aing: Benefits of Computerized Training](#08122022---chandramallika-basak---brain-based-mechanisms-of-cognitive-enhancemeents-in-aing-benefits-of-computerized-training)
@@ -10,8 +11,31 @@
 
 <!-- vim-markdown-toc -->
 
-# 12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency
+# 19.10.2023 - Jeffrey Bowers – Deep Problems with NN models of Human Vision
 
+- His main claim : Similarities bw DNN and humans are greatly exaggerated
+- We, humans, recognize objects based on their shape
+- Estimates od DNN-human similarity often come from behavioral and brain benchmark studies that do not manipulate IV to test specific hypothesis
+- Rather, these benchmarks assess how well DNNs predict brain responses to stimuli that vary along multiple dimensions after averaging over these dimensions of variation :
+	- Effectively these benchmarks are observational rather than controlled studies
+- See how well your NN predict response
+- Activ of model and monkey, and regression bw this and this, then new image, how can I predict activation ?
+- "Because I can predict, I can then have a mechanistic model of human brain" BUT correlation is not causation
+- Most obvious problem: confounds can drive good predictions
+- Geirhos et al., 2019 : if you give to models, for the most part, don't care about shape, but care about texture. BUT human care about shapes. These models recognizing models based on textures have good  brain-score. BUT Texture and shapes are correlated !
+- Researchers are interested in reporting similarities rather than differences
+- Explainable variance : how much can one brain predict another brain ? I can predict 100% of 4% of the explainable variance
+- Caucheteux et al., 2022 : .5 correlation bw GPT2 and "comprehension" (what is comprehension?) on .02% of variance
+- Models that recognize based on shape
+- Human vision : hwo one can regonize not hollistic but with relations with its related parts
+- Face recognition expertise lead to unright face decrease discrimination, takes longer because trained on this
+- Biscione et al., 2023 : [MindSet](https://github.com/ValerioB88/mind-set)
+- "It's not like the brain? Then ok BUT You have to make the model like the brain" Finding falsification is sufficient
+- "You find difference but I need similarity" – reviewers said
+- Stop brain-score
+- Raking models is misguiding, we don't know why it is better than the other
+
+# 12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency
 - Why cog training doe snot work ?
 - Transfer if :
 	- Common elements

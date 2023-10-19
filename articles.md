@@ -17,6 +17,7 @@
 * [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
+* [Demszky et al., 2023 : Using large language models in psychology](#demszky-et-al-2023--using-large-language-models-in-psychology)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
@@ -38,7 +39,10 @@
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
 * [Lang et al. 2022 – Handbook of Learning Analytics (2nd ed.)](#lang-et-al-2022--handbook-of-learning-analytics-2nd-ed)
-	* [CHAPTER 1 Lang et al. 2022 – What is learning analytics](#chapter-1-lang-et-al-2022--what-is-learning-analytics)
+	* [CHAPTER 1 : Lang et al. 2022 – What is learning analytics](#chapter-1--lang-et-al-2022--what-is-learning-analytics)
+	* [CHAPTER 2 : Gray & Berner, 2022 – A  Practitioner's Guide to Measurement in Learning Analytics - Decisions, Opportunities, and Challenges](#chapter-2--gray--berner-2022--a--practitioners-guide-to-measurement-in-learning-analytics---decisions-opportunities-and-challenges)
+	* [CHAPTER 3 : Predictive Modelling in Teaching and Learning](#chapter-3--predictive-modelling-in-teaching-and-learning)
+	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
 * [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -515,6 +519,15 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Comments**
 
+## [Demszky et al., 2023 : Using large language models in psychology](https://www.nature.com/articles/s44159-023-00241-5#Sec9)
+
+**THM** : see conflicts of interest and does not give designs and methods in psychology
+
+**Authors** :Dorottya Demszky, Diyi Yang, David S. Yeager, Christopher J. Bryan, Margarett Clapper, Susannah Chandhok, Johannes C. Eichstaedt, Cameron Hecht, Jeremy Jamieson, Meghann Johnson, Michaela Jones, Danielle Krettek-Cobb, Leslie Lai, Nirel JonesMitchell, Desmond C. Ong, Carol S. Dweck, James J. Gross & James W. Pennebaker
+
+**Tags** : :LLM: :psychology:
+
+**Abstract** : Large language models (LLMs), such as OpenAI’s GPT-4, Google’s Bard or Meta’s LLaMa, have created unprecedented opportunities for analysing and generating language data on a massive scale. Because language data have a central role in all areas of psychology, this new technology has the potential to transform the field. In this Perspective, we review the foundations of LLMs. We then explain how the way that LLMs are constructed enables them to effectively generate human-like linguistic output without the ability to think or feel like a human. We argue that although LLMs have the potential to advance psychological measurement, experimentation and practice, they are not yet ready for many of the most transformative psychological applications — but further research and development may enable such use. Next, we examine four major concerns about the application of LLMs to psychology, and how each might be overcome. Finally, we conclude with recommendations for investments that could help to address these concerns: field-initiated ‘keystone’ datasets; increased standardization of performance benchmarks; and shared computing and analysis infrastructure to ensure that the future of LLM-powered research is equitable.
 
 ## [Deterding et al., From game design elements to gamefulness: defining "gamification"](https://doi.org/10.1145/2181037.2181040)
 
@@ -1464,9 +1477,9 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ## [Lang et al. 2022 – Handbook of Learning Analytics (2nd ed.)](https://www.solaresearch.org/publications/hla-22/)
 
-### [CHAPTER 1 Lang et al. 2022 – What is learning analytics](https://doi.org/ 10.18608/hla22.001)
+### [CHAPTER 1 : Lang et al. 2022 – What is learning analytics](https://doi.org/ 10.18608/hla22.001)
 
-**THM** : 
+**THM** : A concern, opportunity, field of inquiry, a community
 
 **Authors** : Charles Lang, Alyssa Friend Wise, Agathe Merceron, Dragan Gaševic, George Siemens
 
@@ -1476,7 +1489,99 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 **Notes**
 - LA Across 4 dimensions :
-- A concern :
+- A concern (préoccupation) :
+	- Proliferation of data, they now also include the contexts and purposes for which data is collected (...) concerns : privavy, ethics, data ownership, equity, usability
+- An opportunity :
+	- La could remake edu systems and ameliorate ills such as inequality and access
+- A field of inquiry (champ de recherche)
+- A community
+
+### [CHAPTER 2 : Gray & Berner, 2022 – A  Practitioner's Guide to Measurement in Learning Analytics - Decisions, Opportunities, and Challenges](https://www.solaresearch.org/publications/hla-22/hla22-chapter2/)
+
+**THM** : identify learning construct of interest -> select measurement model -> implement in a data collection instrument
+
+**Authors** : Geraldine Gray, Yoav Bergner
+
+**Tags** : :learning-analytics: :measurement: :educational-data-sources: :latent.constructs: :sources-of-error: :explanatory-models-of-learning:
+
+**Abstract** : What is our data measuring, why are we measuring it, and what can we infer from our measurements? These are key questions for models of learning, and the focus of this chapter. This chapter discusses the role of measurement in transitioning from predictive models of learning to models from which meaningful explanations about learning can be inferred. We consider how to associate latent constructs of learning with observable data from a variety of data sources relevant to learning contexts, illustrated with examples from recent LAK proceedings. We also review common sources of errors that arise with a variety of data collection instruments, and highlight the challenges and opportunities for progressing valid and reliable measurement of both learning itself and factors related to the learning process.
+
+**Notes**
+- Predictive or explanatory ?
+- To determine whether data collected in a learning context is a reasonable Measure of a contruct of learning :
+	1. Identify the learning construct of interest
+	2. Select an appropritate measurement model for the construct
+	3. Implementing the measurement model as a data collection instrument (validity, reliability)
+
+### [CHAPTER 3 : Predictive Modelling in Teaching and Learning](https://doi.org/10.18608/hla22.003)
+
+**THM** : List of methods (see below)
+
+**Authors** : Christopher Brooks, Craig Thompson
+
+**Tags** : :predictive-modelling: :machine-learning: :educational-data-mining: :feature-selection: :model-evaluation:
+
+**Abstract** : This chapter describes the process, practice, and challenges of using predictive modelling in teaching and learning. In both the fields of Educational Data Mining (EDM) and Learning Analytics (LAK) predictive modelling has become a core practice of researchers, largely with a focus on predicting student success as operationalized by academic achievement. In this paper we aim to provide a general overview of considerations when performing and applying predictive modelling, the steps which an educational data scientist must consider when engaging in the process, and a brief overview of the most popular techniques in the field.
+
+**Notes**
+- To make inferences about uncertian future events
+- Learning content management system :
+	- http://www.d2l.com/
+	- http://www.starfishsolutions.com/
+	- http://www.ellucian.com/
+	- http://www.blackboard.com/
+- Specialized companies :
+	- http://bluecanarydata.com/
+	- http://www.civitaslearning.com/
+- Explanatory modelling is a *post-hoc* and reflective activity aimed at testing an understanding of a phenomena.
+- The predictive modelling workflow :
+	- Problem identification :
+		- Recurring need, large set of data
+		- Sparse and noisy data present challenges when trying to create accurate predictive models
+	- Data Collection :
+		- [Open University Learning Analytics Dataset](https://analyse.kmi.open.ac.uk/open_dataset)
+		- [MITx and HarvardX Dataverse](https://dataverse.harvard.edu/dataverse/mxhx)
+	- Classification and Regression :
+		- Classification algo used to redict categorical labels
+		- Regression algo used to predict numeric labels
+	- Feature Engeneering / Feature Selection :
+		- Depending on the algo used to build a predictive model, it can be beneficial to examine the correlation bw features, and either remove highly correlated attributes (the multicollinearity problem in regression analyses), or apply a transformation to the features to eliminate the correlation
+		- By determining an informative subset of features, one can reduce the computational complexity of the predictive model, reduce data storage and collection requirements, and aid in simplifiying predictive models for explanation
+		- If NA, remove row or col OR replace missing val with a 'default' value, such as the mean of the known values OR fill missing values by finding similar records in dataset and copying the missing values from their records
+		- Naïve Bayes classifier can make predictions even when some attributes are unknown
+		- Nearest neighbour classifier relies on computing the distance bw two datapoints, and in some implementations the assumption is makde that the distance bw a known value and a missing value is the largest possible distance for that value
+	- Methods for Building Predictive Models :
+		- Linear Reg : predict a numeric label from a linear combination of features
+		- Log Reg : predict the odds of two or more labels, allowing for categorical predictions
+		- Nearest Neighbours Classifiers : use only the most similar data points in the training data set to determine the appropriate predicted labels for new data
+		- Decision Trees (e.g., C4.5 algo) : repeate partitions of the data based on a series of single attribute 'tests'. Each test is algorithmically chosen to maximize the purity of the classifications in each partition
+		- Naïve Bayes Classifiers : assume statistical independence of each of the features fiven in the classification, and provide probabilistic interpretations of classifications
+		- Bayesian Networks : graphical models are often manually constructed an dprovide probabilistic interpretation of classifications
+		- Support Vector Machines : make use of a high dimensional data projection in order to find a hyperplane of greated separation bw the various classes
+		- Neural Networks : biologically inspired algorithms that propagate data input through a series of sparsely interconnected layers of computational nodes (neurons) to produce a label. While neural networks have been the subject of research for more than 70 years, the area has received renewed interest (and commercial success) due to the advances of Deep Learning
+		- Ensemble Methods :use a voting pool of either homogeneous or heterogeneous classifiers. Two prominent techniques are bootstrap aggregating, in which several predictive models are built from random sub-samples of the data set, and boosting, in which successive predictive models are designed to account for the misclassifications of the prior models.
+		- Weka package, freely available
+		- Time is better spent reflecting on the fundamental assumptions of classifiers, or in tuning parameters of particular methods being employed.
+	- Evaluating a model :
+		- It is important to asses the model in the same manner as will be used in situ : to build the predictive model using data available from one year, and then construct a testing set consisting of data from the following year, instead of dividing dara from a single year into training and testing sets
+- Preictive Analytics in Practice :
+	- The intentions of an applied predictive model should be to enable better education outcomes for learners, not simply to measure existing education outcomes.
+	- Andrew Ho : the predictive model is only one half of the prediction-and-response system, and it is importand for researchers and practitioners to keep this in mind :
+		- In short, we want educational predictions to be wrong. If our predictive model can tell that a student is going to drop out, we want that to be true in the absence of intervention, but if the student does in fact drop out, then that should be seen as a failure of the system. A predictive model should be part of a predictionand-response system that a) makes predictions that would be accurate in the absence of a response and b) enables a response that renders the prediction incorrect. In a good predictionand-response system, all predictions would ultimately be negatively biased. [18, p. 36]
+
+### [CHAPTER 4 : Cacophony of Networks in Learning Analytics](doi.org/10.18608/hla22.004)
+
+**THM** : 
+
+**Authors** : Oleksandra Poquet, Srecko Joksimovic
+
+**Tags** : :online-networks: :digital-traces: :digital-learning: :network-modelling:
+
+**Abstract** : Network analysis, a suite of techniques to quantify relations, is among core methods in learning analytics (LA). However, insights derived from the application of network analysis in LA have been disjointed and difficult to synthesize. We suggest that such is due to the naïve adoption of network analysis method into the methodologies of measuring and modelling interpersonal activity in digital learning. This chapter describes the diversity of empirical research using network analysis as a cacophony of network approaches. Focusing on LA studies that evaluate social behavior of individuals or model networks, the chapter exemplifies aspects of the analytical process that require rigor, justification, and alignment to overcome the cacophony of empirical findings. The chapter argues that the clarity of network definitions, hypotheses about network formation, and examination of the validity of individual-level measures are essential for coherent empirical insights and indicators. Future work should also make effort to model the temporal nature, multiplex ties, and dynamic interaction between the levels where interpersonal interactions unfold.
+
+**Notes**
+- Analsis of interpersonal activity in digital learning (learner-to-learner)
+- Foundations of Network Studies in LA :
 	- 
 
 ## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
