@@ -1580,9 +1580,46 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Abstract** : Network analysis, a suite of techniques to quantify relations, is among core methods in learning analytics (LA). However, insights derived from the application of network analysis in LA have been disjointed and difficult to synthesize. We suggest that such is due to the naïve adoption of network analysis method into the methodologies of measuring and modelling interpersonal activity in digital learning. This chapter describes the diversity of empirical research using network analysis as a cacophony of network approaches. Focusing on LA studies that evaluate social behavior of individuals or model networks, the chapter exemplifies aspects of the analytical process that require rigor, justification, and alignment to overcome the cacophony of empirical findings. The chapter argues that the clarity of network definitions, hypotheses about network formation, and examination of the validity of individual-level measures are essential for coherent empirical insights and indicators. Future work should also make effort to model the temporal nature, multiplex ties, and dynamic interaction between the levels where interpersonal interactions unfold.
 
 **Notes**
+- SNA : To quantify relations
 - Analsis of interpersonal activity in digital learning (learner-to-learner)
 - Foundations of Network Studies in LA :
-	- 
+	- SNA quantifies patterns within the sets of interdependent relations. Research on social networks, where network ties represent self-reported relationships bw people, is widely used in LA, drawing on SNA insights about social structures, theories on how they evolve, and SNA techniques ([Wasserman & Faust, 1994](https://psycnet.apa.org/record/1995-97740-000), or for a review : [Winship, 1996](https://www.jstor.org/stable/2291756))
+	- Centrality =? Enhanced access to resources and information
+	- Haythornthwaite & De Laat ([2010](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bb57668cc00bf5be6fece58dca973ecd1f3ec0c9), [2012](https://www.researchgate.net/publication/316790667_Social_Network_Informed_Design_for_Learning_with_Educational_Technology)) proposed analytical questions that SNA can explore in learning setting, such as 'who learns from whom', 'what learners learn from each other, ' what kings of interaction happen between people who learn together', 'which directions do resources flow', 'how frequently do learning interactions happen' , ' how important are they for people involved' (p.354)
+	- Complementing observed digital data with types of media used for interaction, self-reported instruments, and content of what was exchanged online with interaction trace data
+	- Network of individual clickstream (maybe to see : [Amo Filva et al., 2019](https://www.sciencedirect.com/science/article/pii/S0167739X18313499), [Mubarak et al., 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22328))
+- Network studies in LA :
+	- NA can derive node-level metrics, such as describing the position and a relative **importance** of a node (a person, a word, a web page in the cours or other) in a network.
+	- NA ca reveal closely interconnected groups of nodes, or provide network-level metrics that describe the entirety of the network structure.
+	- RQ :
+		- What is the relationship between node characteristics, node positioning, and the outcomes of such a position
+		- Why ties form, i.e. what mechanisms generate observed network structure,
+		- How node attributes influcenc enetwork formation, as well as how network structure impacts node attributes.
+	- How individual positioning captured through net centralities relates to performance and learning-related outcomes in a coàenrolment network ([Gardner & Brooks, 2018](https://doi.org/10.1145/3170358.3170373))
+- Cacophony of Networks in LA :
+	- The problem may begin when the metrics from NA are used to interpret indicators, constructs, or processes related to learning. In these instances, NA is no longer just a tool, but becomes a methodology with its own theoretical assumptions. Such assumptions include an understanding of what net represent, but these assumptions are often implicit within the research choices. Insufficient attention to the assumptions underlying research design can result in the naïva adoption of NA
+	- To highlight areas of misalignment, we distinguish between :
+		1. Using NA as a method to reduce high-dimensional data
+		2. Using network analytical methodologies to undrstand socially shared communication and interpersonal activity in learning settings.
+	- When NA is a methodology, network construction, metrics and ways of modelling, as well as metric interpretations are at risk of misalignment.
+- NA as a method :
+	- NA as a method summarizes relational data, without particulat theoretical meaning assigned to the metrics. The method quantifies relational patterns and identifies clusters based on the relaitons between the observations of interest. These relations are, at least in part, interdependent, and node-level metrics quantifying them are often non-normally distributed. In LA, nodes linked by relationships can be people, words, learning resources, types of learning behavior captured through clickstream data, topics in the cours, and similar. Applying network analysis techniques to these data can reduce its dimensionality and classify nodes. E.g., topics discussed in the course ([Joksimovic et al., 2015](https://dl.acm.org/doi/10.1145/2723576.2723609)), learning strategies can be detected from networks of learner-level clickstream data, where ties bw events represent co-occurrence  of learning actions ([Matcha et al.,](https://link.springer.com/chapter/10.1007/978-3-030-29736-7_39))
+- NA as a methodology :
+	- Network Construction Issues :
+		- Decisions about network constructions should be theory-based and systematic and "... a network model should be viewed explicitely as yielding a network representation of something ([Brandes et al., 2013](https://scholar.archive.org/work/hr3tdk2t3bcendt2arabfkyzxi), p.2)
+		- To align part of the network analysis methodology, analyzed phenomenon eeds to be theorized through literature, abstracted to the network concept, and represented in the netwoek data through theorized and systematic definition of ties and non-ties,nodes and network boundaties (for guidelines, see [Howison et al., 2011](https://aisel.aisnet.org/jais/vol12/iss12/2/))
+	- Choosing and Interpreting Centrality Measures :
+		- Centralities measures such as betweenness and closeness are distance-based, i.e. the formula takes into account the entire network structure. Betweenness centrality is derived from the number of shortest paths that go through each node. In SNA nodes with high betweenness can be interpreted as having privileged access to resources.
+	- Comparing, Interpreting, and Modelling Networks :
+		- A network structure can serve as group-level indicator caused by a specific pedagogical and technological setting (Chen et al. 2018, Ouyang & Scharber, 2017) or as a signal of desired outcomes, such as team's performance (Pilny et al., 2016). In such network-level studies, methodological flaws can easily occur :
+			1. When researcher directly compare descriptive networks metrics from different settings
+			2. When they use hypothesis from SNA theory to model how socio-technical netowrks in learning environments form
+		- Comparing descriptive indicators across networks requires stat analyses that rely on the so-called null models that explian how socio-technical network form. Null models are random networks simulated using hypothesized generative rules, such as 'learners are likely to respond to those who interacted with them rearlier' or 'learners interact on a given day when the assignment was posted'. (...) Many different approaches exist to hoe null models can be generated, such as tie permutation, exponential random graph modelilng (ERGM), stochastic actor-oriented modelling, among other approaches to network reconstruction.
+		- LA largely lacks validated null models that explain how networks form in digital learning environments.
+		- First, given the diversity of social contexts examined in LA, it is likely that the processes generating ties between individuals in them are also different, and theories as to how the form are yet to be put forward. Second, stat modelling in LA has only recently statred to explicitly include temporal aspects of learner activity in socio-technical networks and overall participation levels at the node level ([Chen & Poquet, 2020](https://doi.org/10.1145/3375462.3375535))
+- Future Research :
+	- At minimum, a clear description of network models is needed, to enable further synthesis of insights andprevent naive transfer of interpretation from self-reported networks research into the network measures of online learner networks
+	- A new generation of network studies is needed to use the potential of complex network modelling to integrate dynamic, relational, spatial, muti-level, and mutiplex nature of models of social learning with technology. For NA methodologies to deliver on the promise for rich insights and indicators to inform about learning, explicit modelling of socio-technical learning processes and better alignment of theory with the methodologies is needed.
 
 ## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
 
