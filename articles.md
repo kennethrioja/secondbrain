@@ -13,6 +13,7 @@
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
+* [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](#clark-2023-yt--ai-work--learning-can-ai-teach-)
 * [Clow, 2013 : An overview of learning analytics](#clow-2013--an-overview-of-learning-analytics)
 * [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
@@ -21,7 +22,7 @@
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
-* [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](#dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives-youtube-video)
+* [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](#dillenbourg-2023-yt--les-mythes-qui-sabordent-les-technologies-éducatives)
 * [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](#dimov-et-al-2023--an-integrated-model-of-collaborative-skill-acquisition-anticipation-control-tuning-and-role-adoption)
 * [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](#dye-et-al-2009---increasing-speed-of-processing-with-action-video-games)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
@@ -35,6 +36,7 @@
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
+* [Kapur, 2022 (YT) : Productive Failure](#kapur-2022-yt--productive-failure)
 * [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
@@ -43,6 +45,7 @@
 	* [CHAPTER 2 : Gray & Berner, 2022 – A  Practitioner's Guide to Measurement in Learning Analytics - Decisions, Opportunities, and Challenges](#chapter-2--gray--berner-2022--a--practitioners-guide-to-measurement-in-learning-analytics---decisions-opportunities-and-challenges)
 	* [CHAPTER 3 : Predictive Modelling in Teaching and Learning](#chapter-3--predictive-modelling-in-teaching-and-learning)
 	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
+	* [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](#chapter-7--temporal-aspects-of-learning-analytics---grounding-analyses-in-concepts-of-time)
 * [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -61,7 +64,7 @@
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
 * [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
-* [Sanchez, 2022 :amples  Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022-amples--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
+* [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
@@ -356,6 +359,18 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
 - Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
 
+## [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](https://www.youtube.com/watch?v=K9TOD65BuXQ)
+
+**THM** : 
+
+**Authors** :
+
+**Tags** :
+
+**Abstract** :
+
+**Notes**
+
 ## [Clow, 2013 : An overview of learning analytics](https://doi.org/10.1080/13562517.2013.827653)
 
 **THM** : 
@@ -617,7 +632,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Stop using 'collaboration' and 'explanation' as these are now too large.
 - "We have to study and understand the mechanisms of negociation to a much greater depth than we have so far"
 
-## [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](https://www.youtube.com/watch?v=OS1-n9zmFdM)
+## [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](https://www.youtube.com/watch?v=OS1-n9zmFdM)
 
 **THM** : Les edtech *permettent des activités cognitives*, *individuelles ou en groupe*, qui ont un effet d'apprentissage *si dûment orchestrées par l'enseignant·e* (ET PAS : les technologies educatives ont un effet intrinseque)
 
@@ -1150,6 +1165,29 @@ From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-
 - [Jonassen & Hung (2015)](https://www.researchgate.net/publication/273459514_All_problems_are_not_equal_Implications_of_problem_type_complexity_and_structuredness)
 - https://research.com/u/david-h-jonassen : see other pubs
 
+## [Kapur, 2022 (YT) : Productive Failure](https://www.youtube.com/watch?v=kC8O-2y5pyE)
+
+**THM** : Activation, awareness, affect, assembly
+
+**Authors** : Manu Kapur
+
+**Tags** : :productive-failure: :learning:
+
+**Notes**
+- Experts see deep structures, Novice superficial, but it's the deep structure you need to see so you can undertsand something and that's the paradox for a novice : if you teach something new, they need some knowledge in order to see something you want to show them 
+- 1) Be able to see new things : The first job of teaching is not to teach, the first job is to prepare the novice to see, then when she sees, you can show them and teach
+- 2) Be able to play with the ideas in a way that helps you encode it flexibly and adaptively
+- Productive failure = Do (experiment, test, fail) -> Explain
+- Three layers of the PF design (Kapur & Bielaczyc, 2012) : 
+	- The activity engaged in by participants : certain features / principles, design the data, the contrasts, the variants in a way it activates students knowledge both intuitively and formally but in a way they will not be able to solve the problem
+	- > Participant structures used to engage with the problem : ind/grp, how do you facilitate ?
+	- >> Social surround used ot frame the problem-solving context : the idea is for you not the get the correct answer but for you to invent, to generate, to improve upon each other's ideas
+- Underlying mechanisms (4A) :
+	1. Activation : we build new knowledge based on prior knowledge, but if it's not sufficiently activated you will not be able to use it to make sense of new incoming information, activate formal, ifnormal, intuitive knowledge
+	2. Awareness : student if PF become aware of the limits of their own knowledge and the gap between their knowledge and their limits
+	3. Affect : creates stiuational interest, students want to know, why did my idea not work, motivation goes up, it's also about persisting and struggling because students go in PF is not easy, it's frustrating. Not always true that positive emotions leads to learning, also frustration, shame are positively associated with deep learning
+	4. Assembly : Prior knowledge activated, aware of their limits of current knowledge, aware that there's a gap that need to be filled, and reach an affective state where they want to learn, they want to bridge the gap. If at that time a teacher comes and assemble it all and puts it all together that what's make productive failure powerful.
+
 ## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
 
 **THM** : Nonlinear, Feedback, Spontaneous order, Robustness, Emeergence, Hierarchical organisation, numerosity
@@ -1571,7 +1609,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ### [CHAPTER 4 : Cacophony of Networks in Learning Analytics](doi.org/10.18608/hla22.004)
 
-**THM** : 
+**THM** : See notes, everthing is to TH
 
 **Authors** : Oleksandra Poquet, Srecko Joksimovic
 
@@ -1621,6 +1659,23 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- At minimum, a clear description of network models is needed, to enable further synthesis of insights andprevent naive transfer of interpretation from self-reported networks research into the network measures of online learner networks
 	- A new generation of network studies is needed to use the potential of complex network modelling to integrate dynamic, relational, spatial, muti-level, and mutiplex nature of models of social learning with technology. For NA methodologies to deliver on the promise for rich insights and indicators to inform about learning, explicit modelling of socio-technical learning processes and better alignment of theory with the methodologies is needed.
 
+### [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](doi.org/10.18608/hla22.007)
+
+**THM** : 
+
+**Authors** : Inge Molenaar, Alyssa Friend Wise
+
+**Tags** : :temporal-analysis: :sequential-analysis: :concepts-of-time: :metrics:
+
+**Abstract** : This chapter represents an effort to lay out a common framework for the concepts of time to (a) support diverse researchers working on temporal aspects of learning analytics to communicate better, (b) facilitate an understanding of how different approaches to studying time in learning articulate and (c) map out the space of temporal analysis to reduce redundancy of efforts. We distinguish two concepts of time, namely the passage of time and order in time. Passage of time considers time as a continuous flow of events and order in time focuses on the organization among events. Within the passage of time we distinguish four metrics: position, duration, frequency and rate. Within order in time we discriminate between consistency, recurrent and non-recurrent change and irregular change. Metrics extracted to index passage of time can be used in many different statistical methods, whereas analysis of order in time commonly requires the usage of advanced analysis methods. For either, decisions about the level of granularity at which time is considered and segmentation of time into “windows” have important effects on analysis results. We argue that understanding the value of temporal concepts and implications for the related analysis, is foundational for closing the loop and advancing learning analytics design with temporal insights.
+
+**Notes**
+- The primary goal of learning analytics is to understand and optimize learning, a process that occurs over time
+- One of the main arguments made in LA research is that learning does not happen in an instant
+- Within LAR an important focus is on how learning evolvs over time ([Knight et al., 2017](https://doi.org/10.18608%2Fjla.2017.43.2))
+- The field has adapted a wide range of analytic techniques for this purpose from other fields : time series analysis ([Schmitz & Wiese, 2006](https://doi.org/10.1016%2Fj.cedpsych.2005.02.002)), lag-sequential analysis ([Jeong, 2003](https://doi.org/10.1207%2Fs15389286ajde1701_3)), Markov Modelling ([Soller & Steen, 2007]()https://www.semanticscholar.org/paper/Applications-of-Stochastic-Analyses-for-Learning-Soller-Stevens/318c1f89eee223a111ef519b41f198d82209de5e), statistical discourse analysis ([Chiu & Khoo, 2002](https://doi.org/10.1177%2F1046496405279309)), epistemic network analysis ([Schaffer et al., 2016](https://doi.org/10.18608%2Fjla.2016.33.3))
+- 
+
 ## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
 
 **THM** : 
@@ -1630,7 +1685,6 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** :
 
 **Notes**
-- 
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
@@ -2023,7 +2077,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Compétences visées d'une formation vs compétences demandées sur le marché du travail.
 - Contrôle qualité d'une formation en monitorant le taux de rétention, l'évolution des notes ou la comparaison des résultats inter volées
 
-## [Sanchez, 2022 :amples  Le paradoxe du marionnettiste, jeu et apprentissage]()
+## [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage]()
 
 **THM** : L'institutionalisation des savoirs se fait par le debriefing entre enseignante/formatrice et apprenante.
 
@@ -2548,7 +2602,5 @@ Tableau tiré de Tricot (2017) :
 **Abstract** :
 
 **Notes**
-
-**Comments**
 
 -->
