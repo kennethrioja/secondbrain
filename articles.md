@@ -7,32 +7,49 @@
 * [To read](#to-read)
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
+* [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
+* [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](#clark-2023-yt--ai-work--learning-can-ai-teach-)
+* [Clow, 2013 : An overview of learning analytics](#clow-2013--an-overview-of-learning-analytics)
+* [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
 * [Darejeh & Salim, 2016 : Gamification Solutions to Enhance Software User Engagement—A Systematic Review](#darejeh--salim-2016--gamification-solutions-to-enhance-software-user-engagementa-systematic-review)
+* [Demszky et al., 2023 : Using large language models in psychology](#demszky-et-al-2023--using-large-language-models-in-psychology)
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
-* [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](#dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives-youtube-video)
+* [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](#dillenbourg-2023-yt--les-mythes-qui-sabordent-les-technologies-éducatives)
+* [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](#dimov-et-al-2023--an-integrated-model-of-collaborative-skill-acquisition-anticipation-control-tuning-and-role-adoption)
+* [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](#dye-et-al-2009---increasing-speed-of-processing-with-action-video-games)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
+* [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
+* [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](#morin-1999--les-sept-savoirs-nécessaires-à-léducation-du-futur)
 * [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
+* [Kapur, 2022 (YT) : Productive Failure](#kapur-2022-yt--productive-failure)
+* [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
-* [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
+* [Lang et al. 2022 – Handbook of Learning Analytics (2nd ed.)](#lang-et-al-2022--handbook-of-learning-analytics-2nd-ed)
+	* [CHAPTER 1 : Lang et al. 2022 – What is learning analytics](#chapter-1--lang-et-al-2022--what-is-learning-analytics)
+	* [CHAPTER 2 : Gray & Berner, 2022 – A  Practitioner's Guide to Measurement in Learning Analytics - Decisions, Opportunities, and Challenges](#chapter-2--gray--berner-2022--a--practitioners-guide-to-measurement-in-learning-analytics---decisions-opportunities-and-challenges)
+	* [CHAPTER 3 : Predictive Modelling in Teaching and Learning](#chapter-3--predictive-modelling-in-teaching-and-learning)
+	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
+	* [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](#chapter-7--temporal-aspects-of-learning-analytics---grounding-analyses-in-concepts-of-time)
 * [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
+* [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
 * [Lugan, 2009 : La modélisation des systèmes complexe chez E-Morin et J.-L. Le Moigne](#lugan-2009--la-modélisation-des-systèmes-complexe-chez-e-morin-et-j-l-le-moigne)
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
@@ -40,11 +57,15 @@
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
 * [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](#mulet-et-al-2017--quels-tuteurs-informatisés-pour-réduire-les-comportements-dévitement-de-la-recherche-daides-des-apprenants)
-* [Olivera et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#olivera-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
+* [Nguyen & Bavelier, 2023 : Play in Video Games](#nguyen--bavelier-2023--play-in-video-games)
+* [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#oliveira-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
+* [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
+* [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
+* [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -125,6 +146,33 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Entretien : bien quand timides ou difficultés à exprimer en public et échanger informations avec d'autres personnes
 	- Brainstorming : bien pour laisser créativité, spontanéité, à condition de ne pas s'éloigner du thème global
 	- Technique d'échelle bipolaire (Bisseret et al., 1999) : bien pour se positionnner et évaluer selon 1 j'aime pas, 7 j'aime
+
+## [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](https://ijvlms.sums.ac.ir/article_44834.html)
+
+**THM** : List of benefits and challenges, but we should not forget that LA aims at learning.
+
+**Authors** : Seyyed Kazem Banihashem, Khadijeh Aliabadi, Saeid Pourroostaei Ardakani, Ali Delaver and Mohammadreza Nili Ahmadabadi
+
+**Tags** : :learning-analytics: :technology: :education:
+
+**Abstract** : Context: Learning analytics is considered as the third wave in educational technology and it is a new and promising field of study. This study was conducted to clarify benefits and challenges of learning analytics in education. Methods: Cooper’s systematic literature review was used as the research method. This method has five steps as follows: a) formulation of the problem, b) collection of data, c) evaluation of the appropriateness of the data, d) analysis and interpretation of relevant data, and e) organization and presentation of the results. Based on the study selection process, 36 articles were finally selected to be analyzed. Results: The results showed that ethics and privacy were one of the most important challenges of learning analytics in education along with the lack of attention to theoretical foundations and scope and quality of data. The results also showed that learning analytics could bring remarkable benefits for education, such as increased engagement of students, improvement of learning outcomes, identification of students at risk, providing real - time feedback, and personalization of learning. Conclusions: Based on the results, it can be concluded that learning analytics offer new insights in education, however, there are ethical, educational, and technical issues in the use of learning analytics in education
+
+**Notes**
+- Since 2010, the concept of Learning Analytics has been isolated from the field of analytics and has emerged as an independent area (Ferguson, 2012)
+- Learning analytics seek to use educational data to improve learning, teachning and learning environments (Clow, 2013)
+- Definition of LA was first presented by Society of Learning ANalytics Research (SOLAR) at First Learning Analytics and Knowledge Conference in 2011 (LAK-11) : "the measurement, colelction, analysis, and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs" (Long et al., 2011)
+- Fiaidhi (2014) said LA is the 3rd wave of EdTech
+- Benefits of LA in education :
+	- For learners : enhance engagement, improve learning outcomes, personalization of learning, increase in students adaptivity, enriche personalized learning environments
+	- For teachers : Assessment services, efficient intervention, get RT feedback/insight, understand students learning habits, modifies content for students' desire, monitoring students' activities, get a deeper understand of teaching and learning, predicting student perf, provide warning signal, improve teaching strat, improve instructor perf, sources recommendations
+	- For institutions : improve educational decision making, increase student success, student success modeling, monitoring stu activities, boost cost efficiency, increase retention rate, make envidence-based decisions, prevent stu drop-out, identifiy students at risk, curriculum improvement, improve accountability
+	- For researchers : increase efficiency of education and serious games, identify knowledge gaps
+	- For cours designers : identifying target course, improve learning design
+	- For parents : monitoring stu activities
+- Challenges of LA in education :
+	- Ethics and privacy
+	- Scope and Quality of Data : Gasevic et al (2015) pointed out that LA cannot fit one size to all. LA models should not be general and collect general data. It should focus on a specific scope of specific data with high quality that could  give true insights in learning and teaching. (link with PISA in Finland?)
+	- Theoretical and Educational Foundation : (good section, to read) LA is about learning Gasevic et al (2014)
 
 ## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
 
@@ -311,6 +359,67 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
 - Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
 
+## [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](https://www.youtube.com/watch?v=K9TOD65BuXQ)
+
+**THM** : 
+
+**Authors** :
+
+**Tags** :
+
+**Abstract** :
+
+**Notes**
+
+## [Clow, 2013 : An overview of learning analytics](https://doi.org/10.1080/13562517.2013.827653)
+
+**THM** : 
+
+**Authors** : Doug Clow
+
+**Tags** : :learning-analytics: :analytics: :metrics: :education:
+
+**Abstract** : Learning analytics, the analysis and representation of data about learners in order to improve learning, is a new lens through which teachers can understand education. It is rooted in the dramatic increase in the quantity of data about learners and linked to management approaches that focus on quantitative metrics, which are sometimes antithetical to an educational sense of teaching. However, learning analytics offers new routes for teachers to understand their students and, hence, to make effective use of their limited resources. This paper explores these issues and describes a series of examples of learning analytics to illustrate the potential. It argues that teachers can and should engage with learning analytics as a way of influencing the metrics agenda towards richer conceptions of learning and to improve their teaching.
+
+**Notes**
+- Definition LA, see first sentence abstract
+- 
+
+## [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](https://www.youtube.com/watch?v=5v3Fj9WJL_U)
+
+**THM** : 
+
+**Authors** : Simon Collin
+
+**Tags** : :AI: :artificial-intelligence: :chatgpt: :education:
+
+**Notes**
+- IA : "emsemble des techniques qui permettent à une machine de simuler l'intelligence humaine, notamment pour apprendre prédire, prendre des décisions et percevoir le monde environnant." (p.19, Déclaration de Montréal pour une développement responsable de l'IA, 2018)
+- Algo can't fix broken systems (Hao, 2020)
+- Performance de la technologie par rapport au niveau de compétence des élèves : pour que la technologie soutienne l'apprentissage des élèves il faut leur fournir une techologie adaptée à leur niveau, e.g., si trop performance se trouve à faire leur job.
+- Avoir des données standardisées
+- Modèle prédictif converge-t-il avec modèle scientifique existant ?
+- Augmenter la freq de collecte de données = charge admin supplémentaire
+- Conséquences non-voulues :
+	- Pression sur les enseignant·es par la comparaison et la hierarchisation des résultats de leurs groupes-classes
+		- Dérivés pédago possibles (abandon de contenus d'enseignement non évalués; teach to the test, inflation des notes, etc.)
+	- Intervention auprès des enseignant·es jugé·es "sous-performant·es"
+		- Moyens de remédiation (conseiller·e pédago, etc.)
+		- Poids des données probantes face à l'expérience subjective des enseignant·es
+- Difficulté à sensibiliser les acteur·rices scolaires
+- Reconfiguer l'expertise pédago entre :
+	- Enseignant·es
+	- Equipe de conception des SIA-ED : choix pédago de plus en plus automatisés en amont de la salle de classe
+		- Choix opaques, difficiles à comprendre
+		- Possibilité réduite pour les enseignant·es de les modifier
+	- Administrateur·rices scolaires : contrôles des pratiques pédago des enseignant·es
+		- SIA-ED de gestion scolare > SIA-ED de gestion scolaire ET pédago
+- Faire preuve de discernement
+- Aller doucement dans l'implémentation de l'IA dans l'éducation
+- Les équipes de conception en éducation doivent être capables d'expliquer choix qui ont été faits, les risques, etc. ; si l'acteur·rice scolaire n'a pas compris, c'est que l'équipe de conception n'a pas assez pédagogisé son dispositif.
+- e.g., Safer Technologies Schools, Australia
+- 
+
 ## [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](https://doi.org/10.3917/savo.023.0009)
 
 **THM** : atteinte d'un but, non-linéaire, see the 5 models of autoregulation
@@ -425,6 +534,15 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Comments**
 
+## [Demszky et al., 2023 : Using large language models in psychology](https://www.nature.com/articles/s44159-023-00241-5#Sec9)
+
+**THM** : see conflicts of interest and does not give designs and methods in psychology
+
+**Authors** :Dorottya Demszky, Diyi Yang, David S. Yeager, Christopher J. Bryan, Margarett Clapper, Susannah Chandhok, Johannes C. Eichstaedt, Cameron Hecht, Jeremy Jamieson, Meghann Johnson, Michaela Jones, Danielle Krettek-Cobb, Leslie Lai, Nirel JonesMitchell, Desmond C. Ong, Carol S. Dweck, James J. Gross & James W. Pennebaker
+
+**Tags** : :LLM: :psychology:
+
+**Abstract** : Large language models (LLMs), such as OpenAI’s GPT-4, Google’s Bard or Meta’s LLaMa, have created unprecedented opportunities for analysing and generating language data on a massive scale. Because language data have a central role in all areas of psychology, this new technology has the potential to transform the field. In this Perspective, we review the foundations of LLMs. We then explain how the way that LLMs are constructed enables them to effectively generate human-like linguistic output without the ability to think or feel like a human. We argue that although LLMs have the potential to advance psychological measurement, experimentation and practice, they are not yet ready for many of the most transformative psychological applications — but further research and development may enable such use. Next, we examine four major concerns about the application of LLMs to psychology, and how each might be overcome. Finally, we conclude with recommendations for investments that could help to address these concerns: field-initiated ‘keystone’ datasets; increased standardization of performance benchmarks; and shared computing and analysis infrastructure to ensure that the future of LLM-powered research is equitable.
 
 ## [Deterding et al., From game design elements to gamefulness: defining "gamification"](https://doi.org/10.1145/2181037.2181040)
 
@@ -514,7 +632,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Stop using 'collaboration' and 'explanation' as these are now too large.
 - "We have to study and understand the mechanisms of negociation to a much greater depth than we have so far"
 
-## [Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives (YouTube Video)](https://www.youtube.com/watch?v=OS1-n9zmFdM)
+## [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](https://www.youtube.com/watch?v=OS1-n9zmFdM)
 
 **THM** : Les edtech *permettent des activités cognitives*, *individuelles ou en groupe*, qui ont un effet d'apprentissage *si dûment orchestrées par l'enseignant·e* (ET PAS : les technologies educatives ont un effet intrinseque)
 
@@ -536,6 +654,56 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Papier et digital et l'effet de la séquence qui +++
 - Insérer la classe (rôle de l'enseignant dans l'outil + classe) dans l'équation de l'évidence translationnelle
 - Est-ce que cette technologie me permet de faire quelque chose en classe que je ne peux pas faire ?
+
+## [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13303)
+
+**THM** : Role adoption, anticipatory action and control parameters benefits skill acquisition
+
+**Authors** : Cvetomir M. Dimov, John R. Anderson, Shawn A. Betts, Dan Bothell
+
+**Tags** : :ACT-R: :Anticipation: :Collaborative-skill-acquisition: :Role-adoption: :Supervised-learning:
+
+**Abstract** : We studied collaborative skill acquisition in a dynamic setting with the game Co-op Space Fortress.While gaining expertise, the majority of subjects became increasingly consistent in the role theyadopted without being able to communicate. Moreover, they acted in anticipation of the future taskstate. We constructed a collaborative skill acquisition model in the cognitive architecture ACT-R thatreproduced subject skill acquisition trajectory. It modeled role adoption through reinforcement learningand predictive processes through motion extrapolation and learned relevant control parameters usingboth a reinforcement learning procedure and a new to ACT-R supervised learning procedure. This isthe first integrated cognitive model of collaborative skill acquisition and, as such, gives us valuableinsights into the multiple cognitive processes that are involved in learning to collaborate
+
+**Notes**
+- Role adoption : role consistency benefits skill acquisition : faster and more effortless to learn and proceduralize a smaller set of behavioral patterns than a larger one + mutual adaptation is easier the more stable partner behavior is – sticking on a role can be considered a coordination smoother (Vesper et al., 2010) + personal abilities lead them to choose the roles that make their joint task easier (Haiman, 1957)
+- Anticipatory actions
+- Control parameters
+- Skill acquisition processes in collaboration : cog control is a key component of their model; the model acquires skill through production compilation and control tuning; prediction is also likely a major factor in joint action peformance.
+
+## [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](https://journals.sagepub.com/doi/10.1111/j.1467-8721.2009.01660.x)
+
+**THM** : 
+
+**Authors** : Matthew Dye, C. Shawn Green, Daphne Bavelier
+
+**Tags** : :video-games: :processing-speed: :visual-attention: :impulsivity: :learning-transfer:
+
+**Abstract** :In many everyday situations, speed is of the essence. However, fast decisions typically mean more mistakes. To this day, it remains unknown whether reac- tion times can be reduced with appropriate training, within one individual, across a range of tasks, and without compromising accuracy. Here we review evidence that the very act of playing action video games significantly reduces reaction times without sacrificing accuracy. Critically, this increase in speed is observed across various tasks beyond game situations. Video gaming may therefore provide an efficient training regimen to induce a general speeding of perceptual reaction times without decreases in accuracy of performance.
+
+**Notes**
+- Do AVG really improve RTs on a variety of tasks without a concomitant decrease in accuracy?
+- Speed-accuracy trade-off
+- A Brinley plot is a type of scatter plot with each data point reflecting the performance of two different groups on the same experimental condition – performance of one group is plotted on the X-axis and that of the other group on the Y-axis.
+- For each expe condition, an average RT score for AVGP/NVGP was extracted.
+- Does not matter the task, as long as same expe condition and AVGP vs NVGP
+- Cohen's d [0.48;1.47] + no diff acc (92.76% vs 92.75% across all conditions) + straight line
+- Cross-sectionnal : 89 different expe condition from 9 different types of tasks : Spatial Cuing, Inhibition of Return, Simon Task, ANT - adults, ANT - children, Flanker Interference, Visual Search, n-back, PI task
+- VGP responded 11% faster than NVGPs (VGP RTs = .89 x NVGP RTs, R^2 = .98)
+- VGP accuracy = .99 x NVGP accurarcy, R^2 = .92
+- Intervention : 4 tasks (Motion Discrimination, Task Switch, Visual Search (Gabor), Vis Search (Letters))
+- AVGP Posttest RT = 0.87 Pretest RT
+- NVGP Posttest RT = 0.94% Pretest RT
+- TOVA : RT : IC Cohen's d = 1.03, SA Cohen's d = 1.19; ACC ns
+- Counter decreases in the speed o finformation processing in elderly
+- Most of the games found to enhance perf are unsuitable for children in terms of their content and difficult for elderly gamers in terms of the dexterity of response and visual acuity required. Identifying which aspects of the games are relevant will allow the dev of games that have a wide range of suitability and accessibility that can be used in clinical as well as educational applications.
+
+**ToDo**
+- RT/Acc * AVGP/NVGP
+- AVGP/NVGP on the same expe condition
+- For RT, can report cohen's d + tell if difference in accuracy
+- See Fig. 1 : NVGP RT x AVGP RT, 9 types of task
+- Fig. 2 : A. AVGP Pretest RT x AVGP Posttest RT; B. NVGP Pretest RT x NVGP PosttestRT
 
 ## [Ergolab, 2005 : L'analyse concurrentielle en ergonomie]()
 
@@ -593,6 +761,37 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Inconvénients :
 	- Pas d'intervention des users réels
 	- Les résultats doivent être validés suite aux actions de conception détaillée, afin de s'assurer de la qualité ergonomique des choix effectués
+
+## [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=281919e199e285c02bf92aab07d3d637d3c0b060)
+
+**THM** : Sensory Challenge Imaginative (Immersion) model
+
+**Authors** : Laura Ermi, Frans Mäyrä
+
+**Tags** : :gameplay: :experience: :immersion:
+
+**Abstract** : This paper presents a gameplay experience model, assesses its potential as a tool for research and presents some directions for future work. The presented model was born from observations among game-playing children and their non-player parents, which directed us to have a closer look at the complex nature of gameplay experience. Our research led into a heuristic gameplay experience model that identifies some of the key components and processes that are relevant in the experience of gameplay, with a particular focus on immersion. The model includes three components: sensory, challenge-based and imaginative immersion (SCI-model). The classification was assessed with self-evaluation questionnaires filled in by informants who played different popular games. It was found that the gameplay experiences related to these games did indeed differ as expected in terms of the identified three immersion components.
+
+**Notes**
+- Yet, the essence of a game is rooted in its interactive nature, and there is no game without a player.
+- Playing a game (...) starts having an effect on cultural and social, as well as artistic and commercial realities.
+- What is the act of playing > Who is the player > What is its experience of gameplay > What the game is ?
+- Not just engage in ready-made gameplay but actively take part in the construction of these experiences: bringing their desires, anticipations, previous experiences, interpreting and reflecting the experience in that light.
+- Experiences are largely context dependent
+- Social context is central in gameplay experiences
+- Gameplay : combination of pace and cog effort required by the game ([Crawford, 1984](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf))
+- **Connection** : absorption (direction attention to an experience brought to mind) to immersion (physically or virtually a part of the experience itself)
+- **Participation** : active to passive
+- Entertainment (abs + pas) / Educational (abs + act) / Aesthetic (imm + pas) / Escapist (imm + act)
+- To create immersion : 1) match the user expectations, meaningful things to do for the player and a consistent fame world (McMahan, 2003)
+- Attractions of Digital Games :
+	- Audiovisual quality and style (graphics, well-functioning camera angles, but different perceptions)
+	- Level of Challenge (succeed, advance, uncertainty of the final outcome; sensorimotor abilities, cognitive challenges)
+	- Imaginary world and fantasy (game char, worlds, storylines)
+- A Gameplay experience model, the SCI-model :
+	- Sensory immersion : audiovisual execution of games
+	- Challenge-based immersion : balance of challenges (motor/mental skills) and abilities
+	- Imaginative immersion : absorption with the stories and the world and use her immagination, empathise with char, or enjoy the fantasy)
 
 ## [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](https://doi.org/10.1145/1015864.1015884)
 
@@ -670,6 +869,45 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Pas de temps d'apprentissage supplémentaire - Utilisable
 	- Attitude positive et précautionneuse, pas d'exaspération ou lassitude
 	- 15 min suffisant pour favorable à apprentissage
+
+## [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](http://unesdoc.unesco.org/images/0011/001177/117740Fo.pdf)
+
+**THM** : Penser et éduquer de manière planétaire
+
+**Authors** : Edgar Morin
+
+**Tags** : :education: :savoir:
+
+**Notes**
+- "L'un des défis les plus difficiles à relever sera de modifier nos modes de pensée de façon à faire face à la complexité grandissance, à la rapidité des changements et à l0imprévisible, qui caractérisent notre monde. (p.7)
+- Exprimer ses idées sur l'essence même de l'édcation du futur dans le contexte de sa vision de "la pensée complexe"
+1. Les cécités de la connaissance : l'erreur et l'illusion :
+	- Le développement de l'intelligence est inséparable de celui de l'affectivité
+	- A l'erreur de perception s'ajoute l'erreur intellectuelle. La connaissance, sous forme de mot, d'idée de théorie, est le fruit d'une traduction/reconstitution par les omyens du langage et de la panesée et elle connaît le risque d'erreur. Cette connaissance, à la fois en tant que traduction et en tant que reconstruction, comporte de l'interprétation, ce qui introduit le risque d'erreur à l'intérieur de la subjectivité du connaissance, de sa vision du monde, de ses principes des connaissance.
+	- Un rationalisme qui ignore les êtres, la subjectivité, l'affectivité, la vie est irrationnelle (#quotes)
+	- Nous commençons à devenir vraiment rationnels quand nous reconnaissons la rationalisation incluse dans notre rationalité et reconnaissons nos propres mythes, dont le mythe de la toute-puissance de notre raison et celui du progrès garanti.
+	- Reconnaître dans l'éducation du future un **principe d'incertitude rationnel**
+	- Le mythe et l'idéologie détruisent et dévorent les faits (...) **nous devons mener une lutte cruciale contre les idées, mais nous ne pouvons le faire qu'avec le secours des idées**.
+	- Le nouveau jaillit sans cesse (...) une fois l'inattendu survenu, il faudrait être capable de réviser nos théories et idées, plutôt que de faire entrer au forceps le fait nouveau dans la théorie incapable de vraiment l'accueillir.
+	- 20/71
+2. 
+
+From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-selon-edgar-morin/ :
+- Lutte contre les erreurs du système éducatif actuel
+- Aveuglement du savoir : erreur et illusion :
+	- Emotions et limitation de la perception énère des biais et limitation des connaissances : critique de la connaissance elle-même
+- Les principes d'une connaissance pertinente :
+	- Générer des méthodes qui facilitent la détection des interactions complexes qui existent dans la réalité – en intégrant les connaissances au lieu de les désagréger
+- Enseigner la condition humaine :
+	- Identité vs. membre d'un groupe; cerveau-esprit-culture, raison-affect-impulsion, individu-société-espèce
+- Enseigner l'identité terrienne :
+	- Education doit avoir une perspective planétaire (environnement immédiat), rend les connaissances plus réelles et inclusives
+- Affronter les incertitudes :
+	- La réalité est dynamique, changeante, incertitude continuelle dans les décisions. Il n'est pas convenable de continuer à éduquer les individus comme si ce qui existait était un système de certitudes
+- Enseigner la compréhension :
+	- Communication =/= compréhension; ouverture empathique envers les autres + tolérance des idées et des sentiments des autres, tant qu'ils ne violent pas la dignité humaine
+- L'éthique du genre humain :
+	- Promotion des pratiques démocratiques et le respect de la diversité (sinon dictature des majorités) – les projets, interactions et engagements doivent être conçus et vécus à l'échelle de l'espèce.
 
 ## [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](https://doi.org/10.3102/0091732X012001055 )
 
@@ -927,6 +1165,140 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - [Jonassen & Hung (2015)](https://www.researchgate.net/publication/273459514_All_problems_are_not_equal_Implications_of_problem_type_complexity_and_structuredness)
 - https://research.com/u/david-h-jonassen : see other pubs
 
+## [Kapur, 2022 (YT) : Productive Failure](https://www.youtube.com/watch?v=kC8O-2y5pyE)
+
+**THM** : Activation, awareness, affect, assembly
+
+**Authors** : Manu Kapur
+
+**Tags** : :productive-failure: :learning:
+
+**Notes**
+- Experts see deep structures, Novice superficial, but it's the deep structure you need to see so you can undertsand something and that's the paradox for a novice : if you teach something new, they need some knowledge in order to see something you want to show them 
+- 1) Be able to see new things : The first job of teaching is not to teach, the first job is to prepare the novice to see, then when she sees, you can show them and teach
+- 2) Be able to play with the ideas in a way that helps you encode it flexibly and adaptively
+- Productive failure = Do (experiment, test, fail) -> Explain
+- Three layers of the PF design (Kapur & Bielaczyc, 2012) : 
+	- The activity engaged in by participants : certain features / principles, design the data, the contrasts, the variants in a way it activates students knowledge both intuitively and formally but in a way they will not be able to solve the problem
+	- > Participant structures used to engage with the problem : ind/grp, how do you facilitate ?
+	- >> Social surround used ot frame the problem-solving context : the idea is for you not the get the correct answer but for you to invent, to generate, to improve upon each other's ideas
+- Underlying mechanisms (4A) :
+	1. Activation : we build new knowledge based on prior knowledge, but if it's not sufficiently activated you will not be able to use it to make sense of new incoming information, activate formal, ifnormal, intuitive knowledge
+	2. Awareness : student if PF become aware of the limits of their own knowledge and the gap between their knowledge and their limits
+	3. Affect : creates stiuational interest, students want to know, why did my idea not work, motivation goes up, it's also about persisting and struggling because students go in PF is not easy, it's frustrating. Not always true that positive emotions leads to learning, also frustration, shame are positively associated with deep learning
+	4. Assembly : Prior knowledge activated, aware of their limits of current knowledge, aware that there's a gap that need to be filled, and reach an affective state where they want to learn, they want to bridge the gap. If at that time a teacher comes and assemble it all and puts it all together that what's make productive failure powerful.
+
+## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
+
+**THM** : Nonlinear, Feedback, Spontaneous order, Robustness, Emeergence, Hierarchical organisation, numerosity
+
+**Authors** : James Ladyman, James Lambert & Karoline Wiesner
+
+**Tags** : :complexity: :statistical-complexity: :information: :complex-system:
+
+**Abstract** : Complex systems research is becoming ever more important in both the natural and social sciences. It is commonly implied that there is such a thing as a complex system, different examples of which are studied across many disciplines. However, there is no concise definition of a complex system, let alone a definition on which all scientists agree. We review various attempts to characterize a complex system, and consider a core set of features that are widely associated with complex systems in the literature and by those in the field. We argue that some of these features are neither necessary nor sufficient for complexity, and that some of them are too vague or confused to be of any analytical use. In order to bring mathematical rigour to the issue we then review some standard measures of complexity from the scientific literature, and offer a taxonomy for them, before arguing that the one that best captures the qualitative notion of the order produced by complex systems is that of the Statistical Complexity. Finally, we offer our own list of necessary conditions as a characterization of complexity. These conditions are qualitative and may not be jointly sufficient for complexity. We close with some suggestions for future work.
+
+**Notes**
+- complex : having many parts connected in ways that are difficult to understand (Cambridge Dictionary)
+- Is complexity for all the sciences or whether complexity is domain-specific?
+- Complexity :
+	- A structure with variations (Goldenfeld and Kadanoff, 1999, p.87) -> what is structure and variations ?
+	- One 1) whose evolution is very sensitive to initial conditions or to small perturbations, 2) in which the number of independent interacting components is large, or 3) in which there are multiple pathways by which the system can evolve. (Whitesides & Ismagilov, 1999, p.89) -> chaos and nonlinear or lot of components or possible histories ?
+	- Difficult to understand and verify (...) determined by such factors as the number of components and the intricacy of the interfaces between them, the number and intricacy of conditional branches, the degree of nesting and the types of data structures (Wen et al., 1999, p.92)
+	- Complexity theory indicates that large populations of units can self-organize into aggregations that generate pattern, store information, and engage in collective decision-making (Parrish & Edelstein-Keshet, 1999, p.99) -> computational notions
+	- In natural landform patterns is a manifestation of two key characteristics. Natural patterns form from processes that are nonlinear, those that modify the properties of the environment in which they operate or that are strongly coupled; and natural patterns form in systems that are open, driven from equilibrium by the exchange of energy, momentum, material or information across their boundaries (Werner, 1999, p.102) -> nonlinearity but neither a necessary nor a sufficient condition for complexity
+	- One in which there are multiple interactions between many different components (Rind, 1999, p.105)
+	- Muliple elements adapting or reacting to the pattern these elements create (Brian Arthur, 1999, p.107) -> cannot be complex unless there are many components interacting within it but not sufficient
+	- Inherently complicated or intricate; rarely completely deterministic; math models involve non-linear, ill-posed, or chaotic behavior; unexpected outcomes (emeergent behavior) (Foote, 2007, p.410) -> introduces the idea of emergence but too confused
+	- Complexity starts when causality breaks down (Editorial, 2009)
+- Properties of a complex system :
+	- **Nonlinearity** :
+		- "Linear thinking and the belief that the whole is only the sum of its parts are evidently obsolete (Maizer, 1994, p.1) -> taken back in gestaltism 
+		- It is *not a necessary nor sufficient* condition for a complex system : ex. a single chaotic pendulum can be subject to non-lineaar dynamics but it is not a complex system
+		- Complexity as the study of systems with many interdependent components and excludes low-dimensional dynamical systems (MacKay, 2008)
+	- **Feedback** :
+		- A part of a system received feedback when the way its neighbourss interact with it at a later time depends on how it interacts with them at an earlier time
+		- It is *not sufficient* because the individuals need to be part of a large enough group to exhibit complexity (ex. birds flock, or individual ants)
+		- Theory of causal graphs : a chain of causal arrows indicates no feedbacks while a graph with loops of causal arrows shows feedback
+		- Order, organisation and control is distributed and locally generated (e.g. ants) rather than centrally produced (e.g. steam regulator)
+		- e.g. birds adjusting its course depending on the proximity and bearing of the birds around it
+	- **Spontaneous order** :
+		- Order in a system's behavior arises from the aggregate of a very large number of uncoordinated interactions bw elements
+		- Notions that are related : symmetry, organisation, periodicity, determinism, pattern
+		- This notion is central because pure randomness is sufficient for no complexity AND total order is also incompatible with complexity
+		- It *is a necessary condition* for a complex system
+	- **Robustness and lack of central control** :
+		- Stabble under perturbations of the system
+		- A system may maintain its order in part by utilizing an error-correction mechanism
+		- Seems to be *necessary but not sufficient* for complexity
+		- Computational language : ability of a system to correct errors in its structure
+	- **Emergence** :
+		- Emergent objects, properties or processes exhibit 'downwards causation', e.g., crystal formation, ant colonies organisation, and more generally the way that levels of organisation in nature emerge from fundamental physics and physical parts of more complex systems
+		- In all epistemological senses emergence *is necessary but not sufficient*
+	- **Hierarchical organisation** :
+		- The ultimate result of all the features of complex system above is an entity that is organised into a variety of levels of structure and properties that interact with the level above and below and exhibit lawlike and causal regularities, and various kinds of symmetry, order and periodic behaviour
+	- **Numerosity** :
+		- Only exists if the system consists of a large number of parts, and usually, only if they are engaged in many interactions
+- **Shannon entropy** :
+	- SUM n, i=1 (Pri * log2(1 / Pri)
+	- Measure of the probability distribution over the messages only and is not concerned with the content of the messages.
+	- Entropy is max when all outcomes are equally likely, anytime move away from equally likely outcomes or introduce predictability entropy diminishes => means that we can ask fewer questions to guess the outcome (is it X?) : bits = qualtitative measure of information = measure of surprise ([Khan Academy, 2014](https://www.youtube.com/watch?v=2s3aJfRr9gE)), #bounces = SUM(p*bounces)
+	- Shannon entropy is higher the more uniform the probabilty distribution = all messages have the same probability
+	- "Surprise" is inversely proportional to its probability
+	- Only express properties of a total set of sequences under some distribution
+- **Kolmogorov complexity** :
+	- C(x) = min{length(p):U(p)=x}
+	- The length of the shortest possible description ~ how much pattern we can find in some sequence ~ Kolmogorov complexity >= length of x (e.g., 10101101110110000101000101100001100100011110), it is uncomputable ([Spanning Tree, 2020](https://www.youtube.com/watch?v=0cHHKDAelCo))
+	- The algorithmic complexity of a random string is the length of the string itself. Any repetition of digits or symmetry in the string will allow the program that outputs the string to be shorter than the string itself
+	- A random sequence is maximally incompressible VS string of 0s is maximally compressible.
+	- This algorithmic complexity does not allow for the difficulty of running the program and generating its output (running time or "time complexity")
+- **Lempel-Ziv complexity** :
+	- As the previous is uncomputable, this algorithm compresses a sequence by taking advantage of repetitions of a specified max len in the sequence (Cover & Thomas, 2006)
+	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
+- A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
+- A statistical measure of complexity treats a completely rdm sequence as having minimal complexity
+- Conditions for a good measure of complexity ([Lloyd, 2001](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)) :
+	1. How hard is it to describe ?
+	2. How hard is it to create ?
+	3. What is its degree of organization ?
+- The complexity of the data (the product) corresponds to the difficulty of description
+- The complexity of the system corresponds to the difficulty of creation
+- Logical depth :
+	1. Complex objects lie somewhere between complete order and complete disorder
+	2. Cannot be produced quickly, any adequate complexity measure should obey a slow growth law
+	3. Its history is not only long, but non-trivial = the most plausible explanation for the object's origin is one that entails a lengthy computation/causal process
+- A proper definition of the "depth" of an object is going to be a compromise between the program size and computation time
+- Bennett's (1988) key idea is that long causal processes are usually necessary in order to produce complex or 'deep' objects; deep objects are produced by short processes only with very low probability
+- Logical Depth is a string d,b deep [...] if and only if d is the least time needed by a b-incompressible program to print x (Li & Vitnyi, 2009) : ???
+- ...
+- Statistical Complexity :
+	- For a system to have high SC, it must have a large number of causal states and hence a large amount of regularities.
+	- SC awards zero complexity to random strings and high complexity to strings with many statistical dependencies
+	- [Complexity Explorer (2019) - Introduction to Complexity: Guest Spotlight, Jim Crutchfield](https://www.youtube.com/watch?v=SAU43m7qhR8) :
+		- Shannon : How much information there is in the current of probabilistics events
+- The measure that best captures the qualitative notion of the order produced by complex systems is tha tof the Statistical Complexity
+- A survey of measures of complexity and their criticism can be found in Grassberger (1989). In it the author concludes that no unified measure can be found nor should there be one since complexity is intricately linked to meaning which is subjective and unmeasurable. 
+- SC does not measure complexity as such but rather order. But because it measures order in the presence of noise it can be used to measure the order produced by complex systems since these systems necessarily exhibit noise.
+- Tentative definition of complexity which we consider as a physical account of complexity : A complex system is an ensemble of many elements which are interacting in a disordered way, resulting in robust organisation and memory.
+- **Ensemble of many elements** :
+	- Not only many but also similar in nature – prerequisite for the condition of interaction
+	- For systems to be able to interact or communicate (broadest sense) with each other they have to be able to exchange energy or matter or information
+	- Ensembles of similar elements at one level form a higher-leve structure which then interacts with other similar higher-level structure.
+- **Interactions** :
+	- Interaction canbe either exchange of energy, matter or information. The mediating mechanisme can be forces, collision or communication.
+- **Disorder** :
+	- A necessary condition for complexity simply because complex systems are precisely those whose order emerges from disorder rathen than being built into them
+- **Robust order** :
+	- Although the elements continue to interact in a disordered way, the overall patterns and structures are preserved.
+	- A macroscopic level arises out of microscopic interaction and it is stable (on that time or length scale)
+- **Memory** :
+	- "A system remembers through the persistence of internal structure" (Holland, 1992)
+	- Memory is a straightforward corollary of robust order.
+- Complex systems, unlike a coin toss, must possess some memory, some record of their past (~ prior knowledge??)
+- Local organisation and robustness appear to be related by this idea of memory; both memory and robustness involve stability over time, and for this stability we need some form of back-up or redundancy with which to correct errors. This may be provided when we have a system whose order is not centrally controlled.
+- A core problem in complex systems research is to understand how a omplex structure can have evolved out of a simple one.
+- The hierarchical nature of complex systems is explained by the efficiency and stability of hierarchical building processes.
+
 ## [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](https://doi.org/10.1016/j.erap.2015.08.002)
 
 **THM** : French questionnaire to assess pragmatic, hedonic-identification, hedonic-stimulation and attractiveness aspects for user experience
@@ -1141,116 +1513,168 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Results : N success/fail pour chaque scénario, N erreurs / scénar, N et type repeated errors, N actions vs minimal, temps moyen, contenu vbalisations, contenu debrief, scores questionnaires
 - Rapid Iterative Testing and Evaluation : corrige dès 1ere passation les erreurs commises par 1er pp and so on. Mais capacité à formuler rapidement des recommandations pour améliorer systèmes. Until 5 pp OK
 
-## [Ladyman et al., 2013 : What is a complex system?](https://link.springer.com/article/10.1007/s13194-012-0056-8)
+## [Lang et al. 2022 – Handbook of Learning Analytics (2nd ed.)](https://www.solaresearch.org/publications/hla-22/)
 
-**THM** : Nonlinear, Feedback, Spontaneous order, Robustness, Emeergence, Hierarchical organisation, numerosity
+### [CHAPTER 1 : Lang et al. 2022 – What is learning analytics](https://doi.org/ 10.18608/hla22.001)
 
-**Authors** : James Ladyman, James Lambert & Karoline Wiesner
+**THM** : A concern, opportunity, field of inquiry, a community
 
-**Tags** : :complexity: :statistical-complexity: :information: :complex-system:
+**Authors** : Charles Lang, Alyssa Friend Wise, Agathe Merceron, Dragan Gaševic, George Siemens
 
-**Abstract** : Complex systems research is becoming ever more important in both the natural and social sciences. It is commonly implied that there is such a thing as a complex system, different examples of which are studied across many disciplines. However, there is no concise definition of a complex system, let alone a definition on which all scientists agree. We review various attempts to characterize a complex system, and consider a core set of features that are widely associated with complex systems in the literature and by those in the field. We argue that some of these features are neither necessary nor sufficient for complexity, and that some of them are too vague or confused to be of any analytical use. In order to bring mathematical rigour to the issue we then review some standard measures of complexity from the scientific literature, and offer a taxonomy for them, before arguing that the one that best captures the qualitative notion of the order produced by complex systems is that of the Statistical Complexity. Finally, we offer our own list of necessary conditions as a characterization of complexity. These conditions are qualitative and may not be jointly sufficient for complexity. We close with some suggestions for future work.
+**Tags** : :learning-analytics: :data: :technology: :education: :field: :domain:
+
+**Abstract** : Over the last ten years learning analytics (LA) has grown from a hypothetical future into a concrete field of inquiry and a global community of researchers and practitioners. Although the LA space may appear sprawling and complex, there are some clear through-lines that the new student or interested practitioner can use as entry points. Four of these are presented in this chapter, 1. LA as a concern or problem to be solved, 2. LA as an opportunity, 3. LA as field of inquiry and 4. the researchers and practitioners that make up the LA community. These four ways of understanding LA and its associated constructs, technologies, domains and history can hopefully provide a launch pad not only for the other chapters in this handbook but the world of LA in general. A world that, although large, is open to all who hold an interest in data and learning and the complexities that follow from the combination of the two
 
 **Notes**
-- complex : having many parts connected in ways that are difficult to understand (Cambridge Dictionary)
-- Is complexity for all the sciences or whether complexity is domain-specific?
-- Complexity :
-	- A structure with variations (Goldenfeld and Kadanoff, 1999, p.87) -> what is structure and variations ?
-	- One 1) whose evolution is very sensitive to initial conditions or to small perturbations, 2) in which the number of independent interacting components is large, or 3) in which there are multiple pathways by which the system can evolve. (Whitesides & Ismagilov, 1999, p.89) -> chaos and nonlinear or lot of components or possible histories ?
-	- Difficult to understand and verify (...) determined by such factors as the number of components and the intricacy of the interfaces between them, the number and intricacy of conditional branches, the degree of nesting and the types of data structures (Wen et al., 1999, p.92)
-	- Complexity theory indicates that large populations of units can self-organize into aggregations that generate pattern, store information, and engage in collective decision-making (Parrish & Edelstein-Keshet, 1999, p.99) -> computational notions
-	- In natural landform patterns is a manifestation of two key characteristics. Natural patterns form from processes that are nonlinear, those that modify the properties of the environment in which they operate or that are strongly coupled; and natural patterns form in systems that are open, driven from equilibrium by the exchange of energy, momentum, material or information across their boundaries (Werner, 1999, p.102) -> nonlinearity but neither a necessary nor a sufficient condition for complexity
-	- One in which there are multiple interactions between many different components (Rind, 1999, p.105)
-	- Muliple elements adapting or reacting to the pattern these elements create (Brian Arthur, 1999, p.107) -> cannot be complex unless there are many components interacting within it but not sufficient
-	- Inherently complicated or intricate; rarely completely deterministic; math models involve non-linear, ill-posed, or chaotic behavior; unexpected outcomes (emeergent behavior) (Foote, 2007, p.410) -> introduces the idea of emergence but too confused
-	- Complexity starts when causality breaks down (Editorial, 2009)
-- Properties of a complex system :
-	- **Nonlinearity** :
-		- "Linear thinking and the belief that the whole is only the sum of its parts are evidently obsolete (Maizer, 1994, p.1) -> taken back in gestaltism 
-		- It is *not a necessary nor sufficient* condition for a complex system : ex. a single chaotic pendulum can be subject to non-lineaar dynamics but it is not a complex system
-		- Complexity as the study of systems with many interdependent components and excludes low-dimensional dynamical systems (MacKay, 2008)
-	- **Feedback** :
-		- A part of a system received feedback when the way its neighbourss interact with it at a later time depends on how it interacts with them at an earlier time
-		- It is *not sufficient* because the individuals need to be part of a large enough group to exhibit complexity (ex. birds flock, or individual ants)
-		- Theory of causal graphs : a chain of causal arrows indicates no feedbacks while a graph with loops of causal arrows shows feedback
-		- Order, organisation and control is distributed and locally generated (e.g. ants) rather than centrally produced (e.g. steam regulator)
-		- e.g. birds adjusting its course depending on the proximity and bearing of the birds around it
-	- **Spontaneous order** :
-		- Order in a system's behavior arises from the aggregate of a very large number of uncoordinated interactions bw elements
-		- Notions that are related : symmetry, organisation, periodicity, determinism, pattern
-		- This notion is central because pure randomness is sufficient for no complexity AND total order is also incompatible with complexity
-		- It *is a necessary condition* for a complex system
-	- **Robustness and lack of central control** :
-		- Stabble under perturbations of the system
-		- A system may maintain its order in part by utilizing an error-correction mechanism
-		- Seems to be *necessary but not sufficient* for complexity
-		- Computational language : ability of a system to correct errors in its structure
-	- **Emergence** :
-		- Emergent objects, properties or processes exhibit 'downwards causation', e.g., crystal formation, ant colonies organisation, and more generally the way that levels of organisation in nature emerge from fundamental physics and physical parts of more complex systems
-		- In all epistemological senses emergence *is necessary but not sufficient*
-	- **Hierarchical organisation** :
-		- The ultimate result of all the features of complex system above is an entity that is organised into a variety of levels of structure and properties that interact with the level above and below and exhibit lawlike and causal regularities, and various kinds of symmetry, order and periodic behaviour
-	- **Numerosity** :
-		- Only exists if the system consists of a large number of parts, and usually, only if they are engaged in many interactions
-- **Shannon entropy** :
-	- SUM n, i=1 (Pri * log2(1 / Pri)
-	- Measure of the probability distribution over the messages only and is not concerned with the content of the messages.
-	- Entropy is max when all outcomes are equally likely, anytime move away from equally likely outcomes or introduce predictability entropy diminishes => means that we can ask fewer questions to guess the outcome (is it X?) : bits = qualtitative measure of information = measure of surprise ([Khan Academy, 2014](https://www.youtube.com/watch?v=2s3aJfRr9gE)), #bounces = SUM(p*bounces)
-	- Shannon entropy is higher the more uniform the probabilty distribution = all messages have the same probability
-	- "Surprise" is inversely proportional to its probability
-	- Only express properties of a total set of sequences under some distribution
-- **Kolmogorov complexity** :
-	- C(x) = min{length(p):U(p)=x}
-	- The length of the shortest possible description ~ how much pattern we can find in some sequence ~ Kolmogorov complexity >= length of x (e.g., 10101101110110000101000101100001100100011110), it is uncomputable ([Spanning Tree, 2020](https://www.youtube.com/watch?v=0cHHKDAelCo))
-	- The algorithmic complexity of a random string is the length of the string itself. Any repetition of digits or symmetry in the string will allow the program that outputs the string to be shorter than the string itself
-	- A random sequence is maximally incompressible VS string of 0s is maximally compressible.
-	- This algorithmic complexity does not allow for the difficulty of running the program and generating its output (running time or "time complexity")
-- **Lempel-Ziv complexity** :
-	- As the previous is uncomputable, this algorithm compresses a sequence by taking advantage of repetitions of a specified max len in the sequence (Cover & Thomas, 2006)
-	- Good estimator of the Kolmogorov complexity for many practical purposes : len(program) / len(original sequence)
-- A deterministic measure of complexity treats a completely rdm sequence of 0s and 1s as having maximal complexity.
-- A statistical measure of complexity treats a completely rdm sequence as having minimal complexity
-- Conditions for a good measure of complexity (Lloyd, 2001) :
-	1. How hard is it to describe ?
-	2. How hard is it to create ?
-	3. What is its degree of organization ?
-- The complexity of the data (the product) corresponds to the difficulty of description
-- The complexity of the system corresponds to the difficulty of creation
-- Logical depth :
-	1. Complex objects lie somewhere between complete order and complete disorder
-	2. Cannot be produced quickly, any adequate complexity measure should obey a slow growth law
-	3. Its history is not only long, but non-trivial = the most plausible explanation for the object's origin is one that entails a lengthy computation/causal process
-- A proper definition of the "depth" of an object is going to be a compromise between the program size and computation time
-- Bennett's (1988) key idea is that long causal processes are usually necessary in order to produce complex or 'deep' objects; deep objects are produced by short processes only with very low probability
-- Logical Depth is a string d,b deep [...] if and only if d is the least time needed by a b-incompressible program to print x (Li & Vitnyi, 2009) : ???
-- ...
-- Statistical Complexity :
-	- For a system to have high SC, it must have a large number of causal states and hence a large amount of regularities.
-	- SC awards zero complexity to random strings and high complexity to strings with many statistical dependencies
-	- [Complexity Explorer (2019) - Introduction to Complexity: Guest Spotlight, Jim Crutchfield](https://www.youtube.com/watch?v=SAU43m7qhR8) :
-		- Shannon : How much information there is in the current of probabilistics events
-- The measure that best captures the qualitative notion of the order produced by complex systems is tha tof the Statistical Complexity
-- A survey of measures of complexity and their criticism can be found in Grassberger (1989). In it the author concludes that no unified measure can be found nor should there be one since complexity is intricately linked to meaning which is subjective and unmeasurable. 
-- SC does not measure complexity as such but rather order. But because it measures order in the presence of noise it can be used to measure the order produced by complex systems since these systems necessarily exhibit noise.
-- Tentative definition of complexity which we consider as a physical account of complexity : A complex system is an ensemble of many elements which are interacting in a disordered way, resulting in robust organisation and memory.
-- **Ensemble of many elements** :
-	- Not only many but also similar in nature – prerequisite for the condition of interaction
-	- For systems to be able to interact or communicate (broadest sense) with each other they have to be able to exchange energy or matter or information
-	- Ensembles of similar elements at one level form a higher-leve structure which then interacts with other similar higher-level structure.
-- **Interactions** :
-	- Interaction canbe either exchange of energy, matter or information. The mediating mechanisme can be forces, collision or communication.
-- **Disorder** :
-	- A necessary condition for complexity simply because complex systems are precisely those whose order emerges from disorder rathen than being built into them
-- **Robust order** :
-	- Although the elements continue to interact in a disordered way, the overall patterns and structures are preserved.
-	- A macroscopic level arises out of microscopic interaction and it is stable (on that time or length scale)
-- **Memory** :
-	- "A system remembers through the persistence of internal structure" (Holland, 1992)
-	- Memory is a straightforward corollary of robust order.
-- Complex systems, unlike a coin toss, must possess some memory, some record of their past (~ prior knowledge??)
-- Local organisation and robustness appear to be related by this idea of memory; both memory and robustness involve stability over time, and for this stability we need some form of back-up or redundancy with which to correct errors. This may be provided when we have a system whose order is not centrally controlled.
-- A core problem in complex systems research is to understand how a omplex structure can have evolved out of a simple one.
-- The hierarchical nature of complex systems is explained by the efficiency and stability of hierarchical building processes.
+- LA Across 4 dimensions :
+- A concern (préoccupation) :
+	- Proliferation of data, they now also include the contexts and purposes for which data is collected (...) concerns : privavy, ethics, data ownership, equity, usability
+- An opportunity :
+	- La could remake edu systems and ameliorate ills such as inequality and access
+- A field of inquiry (champ de recherche)
+- A community
+
+### [CHAPTER 2 : Gray & Berner, 2022 – A  Practitioner's Guide to Measurement in Learning Analytics - Decisions, Opportunities, and Challenges](https://www.solaresearch.org/publications/hla-22/hla22-chapter2/)
+
+**THM** : identify learning construct of interest -> select measurement model -> implement in a data collection instrument
+
+**Authors** : Geraldine Gray, Yoav Bergner
+
+**Tags** : :learning-analytics: :measurement: :educational-data-sources: :latent.constructs: :sources-of-error: :explanatory-models-of-learning:
+
+**Abstract** : What is our data measuring, why are we measuring it, and what can we infer from our measurements? These are key questions for models of learning, and the focus of this chapter. This chapter discusses the role of measurement in transitioning from predictive models of learning to models from which meaningful explanations about learning can be inferred. We consider how to associate latent constructs of learning with observable data from a variety of data sources relevant to learning contexts, illustrated with examples from recent LAK proceedings. We also review common sources of errors that arise with a variety of data collection instruments, and highlight the challenges and opportunities for progressing valid and reliable measurement of both learning itself and factors related to the learning process.
+
+**Notes**
+- Predictive or explanatory ?
+- To determine whether data collected in a learning context is a reasonable Measure of a contruct of learning :
+	1. Identify the learning construct of interest
+	2. Select an appropritate measurement model for the construct
+	3. Implementing the measurement model as a data collection instrument (validity, reliability)
+
+### [CHAPTER 3 : Predictive Modelling in Teaching and Learning](https://doi.org/10.18608/hla22.003)
+
+**THM** : List of methods (see below)
+
+**Authors** : Christopher Brooks, Craig Thompson
+
+**Tags** : :predictive-modelling: :machine-learning: :educational-data-mining: :feature-selection: :model-evaluation:
+
+**Abstract** : This chapter describes the process, practice, and challenges of using predictive modelling in teaching and learning. In both the fields of Educational Data Mining (EDM) and Learning Analytics (LAK) predictive modelling has become a core practice of researchers, largely with a focus on predicting student success as operationalized by academic achievement. In this paper we aim to provide a general overview of considerations when performing and applying predictive modelling, the steps which an educational data scientist must consider when engaging in the process, and a brief overview of the most popular techniques in the field.
+
+**Notes**
+- To make inferences about uncertian future events
+- Learning content management system :
+	- http://www.d2l.com/
+	- http://www.starfishsolutions.com/
+	- http://www.ellucian.com/
+	- http://www.blackboard.com/
+- Specialized companies :
+	- http://bluecanarydata.com/
+	- http://www.civitaslearning.com/
+- Explanatory modelling is a *post-hoc* and reflective activity aimed at testing an understanding of a phenomena.
+- The predictive modelling workflow :
+	- Problem identification :
+		- Recurring need, large set of data
+		- Sparse and noisy data present challenges when trying to create accurate predictive models
+	- Data Collection :
+		- [Open University Learning Analytics Dataset](https://analyse.kmi.open.ac.uk/open_dataset)
+		- [MITx and HarvardX Dataverse](https://dataverse.harvard.edu/dataverse/mxhx)
+	- Classification and Regression :
+		- Classification algo used to redict categorical labels
+		- Regression algo used to predict numeric labels
+	- Feature Engeneering / Feature Selection :
+		- Depending on the algo used to build a predictive model, it can be beneficial to examine the correlation bw features, and either remove highly correlated attributes (the multicollinearity problem in regression analyses), or apply a transformation to the features to eliminate the correlation
+		- By determining an informative subset of features, one can reduce the computational complexity of the predictive model, reduce data storage and collection requirements, and aid in simplifiying predictive models for explanation
+		- If NA, remove row or col OR replace missing val with a 'default' value, such as the mean of the known values OR fill missing values by finding similar records in dataset and copying the missing values from their records
+		- Naïve Bayes classifier can make predictions even when some attributes are unknown
+		- Nearest neighbour classifier relies on computing the distance bw two datapoints, and in some implementations the assumption is makde that the distance bw a known value and a missing value is the largest possible distance for that value
+	- Methods for Building Predictive Models :
+		- Linear Reg : predict a numeric label from a linear combination of features
+		- Log Reg : predict the odds of two or more labels, allowing for categorical predictions
+		- Nearest Neighbours Classifiers : use only the most similar data points in the training data set to determine the appropriate predicted labels for new data
+		- Decision Trees (e.g., C4.5 algo) : repeate partitions of the data based on a series of single attribute 'tests'. Each test is algorithmically chosen to maximize the purity of the classifications in each partition
+		- Naïve Bayes Classifiers : assume statistical independence of each of the features fiven in the classification, and provide probabilistic interpretations of classifications
+		- Bayesian Networks : graphical models are often manually constructed an dprovide probabilistic interpretation of classifications
+		- Support Vector Machines : make use of a high dimensional data projection in order to find a hyperplane of greated separation bw the various classes
+		- Neural Networks : biologically inspired algorithms that propagate data input through a series of sparsely interconnected layers of computational nodes (neurons) to produce a label. While neural networks have been the subject of research for more than 70 years, the area has received renewed interest (and commercial success) due to the advances of Deep Learning
+		- Ensemble Methods :use a voting pool of either homogeneous or heterogeneous classifiers. Two prominent techniques are bootstrap aggregating, in which several predictive models are built from random sub-samples of the data set, and boosting, in which successive predictive models are designed to account for the misclassifications of the prior models.
+		- Weka package, freely available
+		- Time is better spent reflecting on the fundamental assumptions of classifiers, or in tuning parameters of particular methods being employed.
+	- Evaluating a model :
+		- It is important to asses the model in the same manner as will be used in situ : to build the predictive model using data available from one year, and then construct a testing set consisting of data from the following year, instead of dividing dara from a single year into training and testing sets
+- Preictive Analytics in Practice :
+	- The intentions of an applied predictive model should be to enable better education outcomes for learners, not simply to measure existing education outcomes.
+	- Andrew Ho : the predictive model is only one half of the prediction-and-response system, and it is importand for researchers and practitioners to keep this in mind :
+		- In short, we want educational predictions to be wrong. If our predictive model can tell that a student is going to drop out, we want that to be true in the absence of intervention, but if the student does in fact drop out, then that should be seen as a failure of the system. A predictive model should be part of a predictionand-response system that a) makes predictions that would be accurate in the absence of a response and b) enables a response that renders the prediction incorrect. In a good predictionand-response system, all predictions would ultimately be negatively biased. [18, p. 36]
+
+### [CHAPTER 4 : Cacophony of Networks in Learning Analytics](doi.org/10.18608/hla22.004)
+
+**THM** : See notes, everthing is to TH
+
+**Authors** : Oleksandra Poquet, Srecko Joksimovic
+
+**Tags** : :online-networks: :digital-traces: :digital-learning: :network-modelling:
+
+**Abstract** : Network analysis, a suite of techniques to quantify relations, is among core methods in learning analytics (LA). However, insights derived from the application of network analysis in LA have been disjointed and difficult to synthesize. We suggest that such is due to the naïve adoption of network analysis method into the methodologies of measuring and modelling interpersonal activity in digital learning. This chapter describes the diversity of empirical research using network analysis as a cacophony of network approaches. Focusing on LA studies that evaluate social behavior of individuals or model networks, the chapter exemplifies aspects of the analytical process that require rigor, justification, and alignment to overcome the cacophony of empirical findings. The chapter argues that the clarity of network definitions, hypotheses about network formation, and examination of the validity of individual-level measures are essential for coherent empirical insights and indicators. Future work should also make effort to model the temporal nature, multiplex ties, and dynamic interaction between the levels where interpersonal interactions unfold.
+
+**Notes**
+- SNA : To quantify relations
+- Analsis of interpersonal activity in digital learning (learner-to-learner)
+- Foundations of Network Studies in LA :
+	- SNA quantifies patterns within the sets of interdependent relations. Research on social networks, where network ties represent self-reported relationships bw people, is widely used in LA, drawing on SNA insights about social structures, theories on how they evolve, and SNA techniques ([Wasserman & Faust, 1994](https://psycnet.apa.org/record/1995-97740-000), or for a review : [Winship, 1996](https://www.jstor.org/stable/2291756))
+	- Centrality =? Enhanced access to resources and information
+	- Haythornthwaite & De Laat ([2010](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bb57668cc00bf5be6fece58dca973ecd1f3ec0c9), [2012](https://www.researchgate.net/publication/316790667_Social_Network_Informed_Design_for_Learning_with_Educational_Technology)) proposed analytical questions that SNA can explore in learning setting, such as 'who learns from whom', 'what learners learn from each other, ' what kings of interaction happen between people who learn together', 'which directions do resources flow', 'how frequently do learning interactions happen' , ' how important are they for people involved' (p.354)
+	- Complementing observed digital data with types of media used for interaction, self-reported instruments, and content of what was exchanged online with interaction trace data
+	- Network of individual clickstream (maybe to see : [Amo Filva et al., 2019](https://www.sciencedirect.com/science/article/pii/S0167739X18313499), [Mubarak et al., 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22328))
+- Network studies in LA :
+	- NA can derive node-level metrics, such as describing the position and a relative **importance** of a node (a person, a word, a web page in the cours or other) in a network.
+	- NA ca reveal closely interconnected groups of nodes, or provide network-level metrics that describe the entirety of the network structure.
+	- RQ :
+		- What is the relationship between node characteristics, node positioning, and the outcomes of such a position
+		- Why ties form, i.e. what mechanisms generate observed network structure,
+		- How node attributes influcenc enetwork formation, as well as how network structure impacts node attributes.
+	- How individual positioning captured through net centralities relates to performance and learning-related outcomes in a coàenrolment network ([Gardner & Brooks, 2018](https://doi.org/10.1145/3170358.3170373))
+- Cacophony of Networks in LA :
+	- The problem may begin when the metrics from NA are used to interpret indicators, constructs, or processes related to learning. In these instances, NA is no longer just a tool, but becomes a methodology with its own theoretical assumptions. Such assumptions include an understanding of what net represent, but these assumptions are often implicit within the research choices. Insufficient attention to the assumptions underlying research design can result in the naïva adoption of NA
+	- To highlight areas of misalignment, we distinguish between :
+		1. Using NA as a method to reduce high-dimensional data
+		2. Using network analytical methodologies to undrstand socially shared communication and interpersonal activity in learning settings.
+	- When NA is a methodology, network construction, metrics and ways of modelling, as well as metric interpretations are at risk of misalignment.
+- NA as a method :
+	- NA as a method summarizes relational data, without particulat theoretical meaning assigned to the metrics. The method quantifies relational patterns and identifies clusters based on the relaitons between the observations of interest. These relations are, at least in part, interdependent, and node-level metrics quantifying them are often non-normally distributed. In LA, nodes linked by relationships can be people, words, learning resources, types of learning behavior captured through clickstream data, topics in the cours, and similar. Applying network analysis techniques to these data can reduce its dimensionality and classify nodes. E.g., topics discussed in the course ([Joksimovic et al., 2015](https://dl.acm.org/doi/10.1145/2723576.2723609)), learning strategies can be detected from networks of learner-level clickstream data, where ties bw events represent co-occurrence  of learning actions ([Matcha et al.,](https://link.springer.com/chapter/10.1007/978-3-030-29736-7_39))
+- NA as a methodology :
+	- Network Construction Issues :
+		- Decisions about network constructions should be theory-based and systematic and "... a network model should be viewed explicitely as yielding a network representation of something ([Brandes et al., 2013](https://scholar.archive.org/work/hr3tdk2t3bcendt2arabfkyzxi), p.2)
+		- To align part of the network analysis methodology, analyzed phenomenon eeds to be theorized through literature, abstracted to the network concept, and represented in the netwoek data through theorized and systematic definition of ties and non-ties,nodes and network boundaties (for guidelines, see [Howison et al., 2011](https://aisel.aisnet.org/jais/vol12/iss12/2/))
+	- Choosing and Interpreting Centrality Measures :
+		- Centralities measures such as betweenness and closeness are distance-based, i.e. the formula takes into account the entire network structure. Betweenness centrality is derived from the number of shortest paths that go through each node. In SNA nodes with high betweenness can be interpreted as having privileged access to resources.
+	- Comparing, Interpreting, and Modelling Networks :
+		- A network structure can serve as group-level indicator caused by a specific pedagogical and technological setting (Chen et al. 2018, Ouyang & Scharber, 2017) or as a signal of desired outcomes, such as team's performance (Pilny et al., 2016). In such network-level studies, methodological flaws can easily occur :
+			1. When researcher directly compare descriptive networks metrics from different settings
+			2. When they use hypothesis from SNA theory to model how socio-technical netowrks in learning environments form
+		- Comparing descriptive indicators across networks requires stat analyses that rely on the so-called null models that explian how socio-technical network form. Null models are random networks simulated using hypothesized generative rules, such as 'learners are likely to respond to those who interacted with them rearlier' or 'learners interact on a given day when the assignment was posted'. (...) Many different approaches exist to hoe null models can be generated, such as tie permutation, exponential random graph modelilng (ERGM), stochastic actor-oriented modelling, among other approaches to network reconstruction.
+		- LA largely lacks validated null models that explain how networks form in digital learning environments.
+		- First, given the diversity of social contexts examined in LA, it is likely that the processes generating ties between individuals in them are also different, and theories as to how the form are yet to be put forward. Second, stat modelling in LA has only recently statred to explicitly include temporal aspects of learner activity in socio-technical networks and overall participation levels at the node level ([Chen & Poquet, 2020](https://doi.org/10.1145/3375462.3375535))
+- Future Research :
+	- At minimum, a clear description of network models is needed, to enable further synthesis of insights andprevent naive transfer of interpretation from self-reported networks research into the network measures of online learner networks
+	- A new generation of network studies is needed to use the potential of complex network modelling to integrate dynamic, relational, spatial, muti-level, and mutiplex nature of models of social learning with technology. For NA methodologies to deliver on the promise for rich insights and indicators to inform about learning, explicit modelling of socio-technical learning processes and better alignment of theory with the methodologies is needed.
+
+### [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](doi.org/10.18608/hla22.007)
+
+**THM** : 
+
+**Authors** : Inge Molenaar, Alyssa Friend Wise
+
+**Tags** : :temporal-analysis: :sequential-analysis: :concepts-of-time: :metrics:
+
+**Abstract** : This chapter represents an effort to lay out a common framework for the concepts of time to (a) support diverse researchers working on temporal aspects of learning analytics to communicate better, (b) facilitate an understanding of how different approaches to studying time in learning articulate and (c) map out the space of temporal analysis to reduce redundancy of efforts. We distinguish two concepts of time, namely the passage of time and order in time. Passage of time considers time as a continuous flow of events and order in time focuses on the organization among events. Within the passage of time we distinguish four metrics: position, duration, frequency and rate. Within order in time we discriminate between consistency, recurrent and non-recurrent change and irregular change. Metrics extracted to index passage of time can be used in many different statistical methods, whereas analysis of order in time commonly requires the usage of advanced analysis methods. For either, decisions about the level of granularity at which time is considered and segmentation of time into “windows” have important effects on analysis results. We argue that understanding the value of temporal concepts and implications for the related analysis, is foundational for closing the loop and advancing learning analytics design with temporal insights.
+
+**Notes**
+- The primary goal of learning analytics is to understand and optimize learning, a process that occurs over time
+- One of the main arguments made in LA research is that learning does not happen in an instant
+- Within LAR an important focus is on how learning evolvs over time ([Knight et al., 2017](https://doi.org/10.18608%2Fjla.2017.43.2))
+- The field has adapted a wide range of analytic techniques for this purpose from other fields : time series analysis ([Schmitz & Wiese, 2006](https://doi.org/10.1016%2Fj.cedpsych.2005.02.002)), lag-sequential analysis ([Jeong, 2003](https://doi.org/10.1207%2Fs15389286ajde1701_3)), Markov Modelling ([Soller & Steen, 2007]()https://www.semanticscholar.org/paper/Applications-of-Stochastic-Analyses-for-Learning-Soller-Stevens/318c1f89eee223a111ef519b41f198d82209de5e), statistical discourse analysis ([Chiu & Khoo, 2002](https://doi.org/10.1177%2F1046496405279309)), epistemic network analysis ([Schaffer et al., 2016](https://doi.org/10.18608%2Fjla.2016.33.3))
+- 
 
 ## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
 
@@ -1261,7 +1685,6 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Tags** :
 
 **Notes**
-- 
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
@@ -1291,6 +1714,26 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Authors** : Céline Lemercier, André Tricot, Isabelle Chênerie, Didier Marty Dessus, Frédéric Morancho et Jérôme Sokoloff
 
 **Tags** : :EIAH: :exerciseur:
+
+## [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](https://doi.org/10.1109/MCS.2001.939938)
+
+**THM** : 
+
+**Authors** : Seth Lloyd
+
+**Tags** : :complexity: :measure:
+
+**Notes**
+- Difficulty of Description :
+	- Ex : Information, entropy, algorythmic complexity, minimum description length, fisher information, renyi entropy, code length, Chernoff information, dimension, fractal dimension, Lempel-Ziv complexity
+- Difficulty of Creation :
+	- Involving constructing or duplicating a system, e.g., time, energy, money
+	- Ex : Computational compl, Time and Space computational compl, Information-based compl, logical depth, thermodynamic depht, cost, crypticity
+- Degree of organization :
+	- Difficulty of describing organizational structure, whether corporate, chemical, cellular, etc.
+	- Ex : Effective complexity, metric entropy, fractal dimension, excess entropy, stochastic compl, sophistication, (...) grammatical complexity
+	- Amount of organisation shared between the parts of a system as the result of organizational structure
+	- Ex : Mutual information, Algorithmic mutual information, channel capacity, correlation, stored information, organization
 
 ## [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](https://doi.org/10.1016/j.cobeha.2020.11.002)
 
@@ -1484,9 +1927,21 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Formation à distance
 - Aides proposées aux apprenants et la façon dont ces derniers les utilisent
 - Comportements de recherche d'aide 
-- 
 
-## [Olivera et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
+## [Nguyen & Bavelier, 2023 : Play in Video Games](https://doi.org/10.1016/j.neubiorev.2023.105386)
+
+**THM** : 
+
+**Authors** : Nguyen Arthur, Bavelier Daphné
+
+**Tags** : :video-games: :locomotor-rotational: :object: :social-play: :role-play: :rule-play: :play-pretend: :cognition: :future-learning: :action-video-games:
+
+**Abstract** : Video game play is remarkably ubiquitous in today's society given its recent emergence only in the late 1950s. While this fast evolution could exemplify the power of play, video games exploit but also extend other types of play. Here, we review a classification of the ecosystem of video games useful in the emerging field of the cognitive neuroscience of video games. We then discuss how video games may leverage different play types, considering first locomotor-rotational, object, and social play before highlighting the importance of role, rule, and pretend play in video games. With an eye toward comparative studies of the neural bases of play across species, we discuss whether video games may fulfil the five criteria from Burghardt (2005) to identify play. Finally, in line with play’s possible preparatory role for adulthood, we review the positive impact on cognition and future learning of action-like video games. Highlighting that not all video games have this impact, we note more granular hypotheses about the biological functions of play are to be encouraged.
+
+**Notes**
+-...
+
+## [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
 
 **THM** : 
 
@@ -1608,6 +2063,130 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Mais le jeu assure l'engagement de l'apprenant·e
 - Livre pour concevoir des situations d'apprentissage par le jeu
  
+## [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](https://ciel.unige.ch/2023/04/learning-analytics-ou-comment-lire-les-traces-numeriques-pour-aider-les-etudiant-e-s-en-difficulte/#.ZEe7qgNuH1w.linkedin)
+
+**THM** : 
+
+**Authors** : Patrick Roth
+
+**Tags** : :learning-analytics: :traces: :edtech: :moodle: :learning:
+
+**Notes**
+- Accompagner la mise en place d'enseignement ind. en adaptant le parcours d'apprentissage
+- Contribuer à l'amélioration continue d'une formation en analysant l'évolution du niveau de compérences des étudiant·e·s
+- Compétences visées d'une formation vs compétences demandées sur le marché du travail.
+- Contrôle qualité d'une formation en monitorant le taux de rétention, l'évolution des notes ou la comparaison des résultats inter volées
+
+## [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage]()
+
+**THM** : L'institutionalisation des savoirs se fait par le debriefing entre enseignante/formatrice et apprenante.
+
+**Authors** : Eric Sanchez
+
+**Tags** : :game: :play: :learning:
+
+**Notes**
+- Dans la peau de John Malkovich : Le joueur est un marionnettiste, ce qu'il advient dans le jeu dépend de ses décisions. Mais le devenir du joueur dépend également d'autres éléments contingents qui sont liés au jeu lui-même. C'est en effet ce jeu qui informe le joueur des cosnéquences de ses décisions. C'est ce jeu qui détermin les degrés de liberté offert au joueur qui est donc lui-même manipulé par sa marionnette. En s'engageant dans le jeu , troc liberté contre liberté encadrée par règles arbitraires du jeu. Dans le jeu, le marionnettiste peut apprendre de ses découvertes qu'il a lui-même suscitées, provoquées.
+- Le paradoxe du marionnettiste vient souligner que l'idée que l'on peut apprendre en jouant contient une contradiction. Dès lors que les événemtns qui surviennent dans le jeu résultent de ses propres dévisions, si le jeu n'est qu'illusion, comment le joeuur peutéil penser que ces événements l'informent sur la réalité du monde?
+- Vérifier au préalable qu'il y a jeu avant de montrer son "impact" (p.12)
+- "le jeu n'est pas dans la chose mais dans l'usage qu'on en fait" (Henriot, 1969, p.24) (p.17)
+- Catégorisation de joueureuses sur ratio succès/actions ? (p.17)
+- Game (jeu structuré avec règles) vs. Play (libre) (Winnicott, 1971, 2002) (p.25)
+- Selon Piaget, jeu apparaît comme un "secteur d'activités dont la motivation ne doit pas l'adaptation au réel mais au contraire l'assimilation du réel au moi, sans contraintes ni sanctions" (Piaget & Inhelder, 1966, 2008, p.59) (p.29)
+- Jeu "sérieux" est détourné s'il a un fin ludique = faillite de l'apprentissage OU si'il y a disparition de la frivolité = ce n'est plus un jeu (p.30)
+- Plus que de comprendre que le jeu (artefact) puisse donner lieu a de l'apprentissage, il faut plutôt mettre l'accent sur les interactions / la situation pour tenter de comprendre comment ces derniers peuvent devenir épistémiques (p.31)
+- Jeu "épistémique" plus précis que jeu "sérieux" : souligne la situation qu'il permet d'élaborer, et prend en compte la subjectivité du jeu et vers les interactions qu'il permet.
+- [Ludus](https://www.lepetitjournaldesprofs.com/reseauludus/), [Escape n'Game](https://www.cquesne-escapegame.com/), [S'Cape](https://scape.enepe.fr/), [Semper Ludens](https://www.semperludens.fr/)
+- "Chocolate-covered broccoli approach" (Bruckman, 1999) (p.49)
+- Link w/ AL2049 : September 12th game is a persuasive game, based on the idea that retroactions leads to developping an experience to the player to make her think about modalities of a situation
+- "Les rétroactions produites par le jeu-game permettent une évaluation des conséquences des actions réalisées jusqu'à conduire à leur remise en cause, càd le développement de nouvelles connaissances, pour élaborer de nouvelles façons d'agir." (p.57) Lien avec Tuning effect (Lindgren & Schwartz, 2009). Lien avec Tuning, herding, conditionnement (Zuboff, 2021)
+- Link w/ mem : "Ces retours sont rendus possibles par le fait que les jeux recueillent en permanence, de manière automatique, de sinformations sur ce que le joueur et capable de faire et donc sur son avancée dans le processus d'apprentissage" (p.58)
+- Le jeu n'est qu'un modèle simplifié du monde, l'apprentissage par le jeu n'est odnc que selon ce modèle-ci. (p.64)
+- Le caractère performatif du jeu résulte de différentes formes de coopérations : coopérer avec le concepteur du jeu (accept to play), avec adversaires (accept to compete) et avec coéquipiers (accept to teamplay) (p.69)
+- Coopétition (Nalebuff & Brandenburger, 1997) : interactions se mettant en palce au sein du jeu (Sanchez, 2017) (p.70)
+	- Jeu-play 1 relève d'un conflit/compétition et jeu-play 2 relève de la collaboration entre coéquipiers -> coopétition est l'alternance entre ces deux types de situations et donc la mise en place d'interaction épistémiques de deux types :
+		- **Jeu-play 1** (joueureuse <-action/rétroaction-> jeu-game)  = nature actionnelle, permet un apprentissage qui relève d'un processus adaptatif
+		- **Jeu-play 2** (joueureuse <-formulation/validation-> joueureuse  = nature interactionnelle entre co-équipières, apprentissage selon la formulatione t la validation des connaissances en jeu (p.76)
+- Conflit socio-constructiviste pas seulement conflit mais que ce dernier suscite des interactions (p.77)
+- Stealth assessment (Shute et al., 2916) (p.90)
+- Infos sur les processus d'apprentissage sont plus complexes à afficher sur tableau de bord d'apprentissage (learning dashboard) (p.93)
+- L'enseignant dispose de peu de temps pour analyser les erreurs et réussites de ses élèves (p.94)
+- Privacy by design (Cavoukian, 2009) & Ethical by design (Leidner, 2017) (p.95)
+- **Orchestration** (maîtresse du jeu <-> apprennante) = manière dont l'enseignant gère, en temps réel, des activités dans un contexte soumis à des contradictions multiples (Dillenbourg, 2013) (p.98)
+- **Débriefing** (enseignante <-institutionnalisation-> apprenante) :
+	- Apprentissage effectif que si le jeu est suivi d'un temps dédié à l'évocation par le joueur des découvertes qu'il a effectuées en jouant + accompagnée d'une réflexion sur ces découvertes (Garris et al., 2002) -> quitte le cercle magique pour le debriefing
+	- Favorise réflexion et métacognition et transforme les connaissances implicites qui ont été dvpées dans le jeu deviennent explicites
+	- Brousseau (1986) nomme ce processus institutionnalisation, permet un changement de statut de la connaissance : de subjective et située à objectif et indépendant. 
+- Lederman debriefing model "voir/ressentir/savoir" :
+	- Description des événements, prise de données sur l'expérience vécue
+	- "Personnalisation", quelles émotions ressenties lors du jeu
+	- Généralisation et application imaginé de l'usage futur
+- Lederman (1992) on tools for debriefing :
+	1. What were the learning **goals** ?
+	2. How the **elements of the situations** did change the play experience ?
+	3. What **strategy** to adopt to attain the learning goal ?
+	4. What **material**, what questions ?
+	5. How was it, what did I **feel** ?
+- Play-design (instead of game-design) :
+	- Conception d'une expérience de eu ou design d'expérience ludique + collaborative work
+	- Genvo (2008) travaux s'inscrivent dans une vision qui n'essentialise pas le jeu et met la question de l'expérience vécue par le joueur au coeur du processus de conception
+- Precepts (actions possibles/permises dans le jeu) – percepts (infos disponibles dans le jeu) – affects (émotions ressenties au cours du jeu) – concepts (concepts que le jeu conduit à mobiliser)
+- Clim@ction et Insectophagia (Sanchez et al., 2010, Sanchez et al., 2017) résolution passe par la collaboration, la confrontation et la négociation -> ill-structured problems (Jonassen, 2000; King & Kitchener, 1994) : résolution sans haut-degré de certitude et que plusieurs solutions peuvent être proposées, aucune n'étant ni certaine, ni vérifiable, y compris par des experts. (p.129)
+- Résoudre de tels. problèmes est lié à son rapport au savoir ? épistémologie personnelle (Jonassen, 2000) : considère la connaissance et l'acte de connaître.
+- Hofer & Pintrich (1997), 4 dimension pour l'épistémologie personnelle d'un individu :
+	- Certitude : continuum de croyances de l'idée que la vérité absolue existe avec certitude à des positions où le savoir est considéré comme provisoire et changeant
+	- Simplicité : caractère isolé ou intégré des connaissances = idée que les connaissances sont des faits que l'on peut connaître de manière discrète, sans liens avec d'autres, à celles où le savoir est relatif, contingeant et contextuel. => Link with complexity telle que définie par Morin (p.130)
+	- Source de la connaissance : individu est acteur de la construction du savoir et prise de conscience progressive dans cette constr.
+	- Jusstification : science justifie ou justification des savoirsou idées auxquelles on adhère.
+- Visée : développement épistémique = de leur capacité à appréhender la complexité d'un problème, de s'identifier comme capable d'élaborer des solutions à ce problème et de développer une argumentation qui justifie les choix opérés
+- Certains élèves satisfaits de contribuer à la production de solutions mettant en avant l'authenticité de la situation vécue pour justifier leur adhésion au jeu VS. rejet où la question d'une évolution des savoirs ne se pose pas et qu'on ne retire pas de savoirs
+- Jouer le jeu, c'est adhérer à une épistémologie (p.131)
+- Hofstadter & Sander (2013) : apprentissage résulte d'un processus qui permet à l'app d'identifier des relations analogiques entre différentes situations plutôt que d'une pure logique interprétative.
+- Conception de jeux récréatifs (Plass et al., 2015; Salen & Zimmerman, 2004) et jeux éducatifs (Kalmpourtzis, 2018)
+- **Conception** (chercheureuse <-transposition métadidactique-> praticienne en game jam :
+	- Caractérisation du public cible – focus groupes => définition des objectifs pédagogiques du jeu
+	- Présentation de ces objectifs pédagogiques + personas (p.135)
+	- Etablissement d'une fiche descriptive d'un usager fictif du dispositif à concevoir : identification des contraintes et leviers de conception liés à l'autilisateur
+	- Idéation : univers du jeu, narration ,énigmes, par la collaboration des participant·e·s non-expert·e·s du jeu
+- Méthode de conception : Figure 13 - Processus de conception à voir (p.138)
+- **Culture organisationnelle de l'institution** : à prendre en compte (p.155)
+- Les jeux numériques consistuent des systèmes contraints par des règles (du jeu, normativité du jeu-game) mais qui, généralement, offrent néanmoins une grande liberté à la joueuse (liberté du jeu-play)
+- Ce modèle décrit deux jeux épistémiques emboîtés : 1. apprenante qui fait l'expérience d'une situation ludique et apprendre de cette expérience. 2. Celui des conceptrices qui de manière collaborative, vivent une expérience qui peut éalement prendre une forme ludique. Ces deux cas se traduisent par une expérience qui, si accompangées d'une travail métacognitif, peut avoir une valeur épistémique
+- La conversion des connaissances constitutives de l'expérience que le joueur aura vécue à travers le jeu en savoirs institutionnalisés et mobilisables dans des situations analogues nécessite une accompagnement qui doit justementêtre apporté par une représentante de l'institution, formateurice ou enseignante. Faire le pari de l'égalité de l'intelligence et de l'émancipation intellectuelle en utilisant l'apprentissage par le jeu, ne signifie pas apprendre de soi-même, sans maître qui enseigne.
+- On n'apprend pas en jouant, on apprend en portant un regad réflexif sur une expérience ludique, une expérience métaphorique de la vie, une expérience de soi.
+
+## [Scheffel et al., 2014 : Quality indicators for Learning Analytics](https://www.jstor.org/stable/pdf/jeductechsoci.17.4.117.pdf?acceptTC=true&coverpage=false&casa_token=cFakWMF1tDoAAAAA:3KKH7ZKX7S-VJ8ouwNmwJpn_qAG622yqnPTsZ05LNB_PJujTmNJ-ZOG9cY9k48L161f5HS_h3CY9Q_kIMrpUZLk3B57-qNkHAUwcfPa16sMjBYlMEes)
+
+**THM** : Quality of LA tool depends on objectives, learning support, learning measures and output, data aspects and organisational aspects
+
+**Authors** : Maren Scheffel, Hendrik Drachsler, Slavi Stoyanov and Marcus Specht
+
+**Tags** : :learning-analytics: :quality-indicator: :framework:
+
+**Abstract** :This article proposes a framework of quality indicators for learning analytics that aims to standardise the evaluation of learning analytics tools and to provide a mean to capture evidence for the impact of learning analytics on educational practices in a standardised manner. The criteria of the framework and its quality indicators are based on the results of a Group Concept Mapping study conducted with experts from the field of learning analytics. The outcomes of this study are further extended with findings from a focused literature review.
+
+**Notes**
+- Group Concept Mapping (GCM) :
+	1. Generation of ideas
+	2. Sorting the collected ideas into clusters
+	3. Rating the ideas according to several values (Importance and feasibility)
+- "One specific quality indicator to evaluate the effects of learning analytics is...", 8-cluster solution :
+	1. Data: open access
+	2. Data: privacy
+	3. Acceptance & uptake
+	4. Learning outcome
+	5. Teacher awareness
+	6. Learning performance
+	7. Learning support
+	8. Student awareness
+- Quality indicators for LA to help standardise the evaluation of LA tools :
+	1. Objectives : Awareness, reflection, motivation, behavioral change
+	2. Learning Support : perceived usefulness, recommendation, activity classification, detection of students at risk
+	3. Learning measures and output : Comparability, Effectiveness, efficiency, helpfulness
+	4. Data aspects : transparency, data standards, data ownership, privacy
+	5. Organisational aspects : availability, implementation, training of educational stakeholders, organisational change
+- !!! : More research- than practice-oriented
+
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
 **THM** : As researchers working in ecological conditions (e.g., schools), there are 'learning arrangements', and Rrs need to accept the rules of a different life-world = adapting to the situation
@@ -2023,7 +2602,5 @@ Tableau tiré de Tricot (2017) :
 **Abstract** :
 
 **Notes**
-
-**Comments**
 
 -->

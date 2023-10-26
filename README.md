@@ -5,7 +5,6 @@
 [⭐️ Bookmarks](bookmarks.md)<br>
 [🧩 Vimshortcuts](vimshortcuts.md)<br>
 [🎙 Talks](talks.md)<br>
-Ideas
 
 ---
 
