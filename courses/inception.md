@@ -42,8 +42,12 @@ https://tuto.grademe.fr/inception/
 - Check vm IP : `ip addr show` // see enp0s3 inet
 - `docker logs <container>` to see logs
 - `docker exec -it <container> bash` to see inside container
-- In Mariadb: cat  /var/log/mysql/error.log
-- `sudo mysqladmin version` see mariadb is installed
+- `docker-compose -f docker.yml down -v` : remove volumes
+- Nginx :
+	- cat /var/log/nginx/* to see logs
+- Mariadb :
+	- cat /var/log/mysql/error.log
+	- `sudo mysqladmin version` see mariadb is installed
 
 # install docker in vm
 
@@ -52,6 +56,8 @@ https://stackoverflow.com/a/48974927
 # mariadb
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-debian-11
+
+no need no alter https://mariadb.com/kb/en/alter-user/
 
 # wp cli
 
@@ -71,6 +77,8 @@ https://www.datanovia.com/en/lessons/using-docker-wordpress-cli-to-manage-wordpr
 - wp + db (works on host computer in localhost:8000) : https://www.hostinger.com/tutorials/run-docker-wordpress
 - bridged + ssh (the previous works on host computer through ssh in vmip:8000) : https://medium.com/@jasonedlewis/accessing-your-vm-from-your-host-machine-via-ssh-b6e355bcd526
 - https ? : https://zactyh.medium.com/hosting-wordpress-in-docker-with-ssl-2020-fa9391881f3
+- good doc : https://github.com/vbachele/Inception
+- good doc : https://github.com/Forstman1/inception-42
 
 # Notes :
 
