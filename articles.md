@@ -46,8 +46,10 @@
 	* [CHAPTER 3 : Predictive Modelling in Teaching and Learning](#chapter-3--predictive-modelling-in-teaching-and-learning)
 	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
 	* [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](#chapter-7--temporal-aspects-of-learning-analytics---grounding-analyses-in-concepts-of-time)
-* [Lankoski & Björk, 2015 : Game Research Methods](#lankoski--björk-2015--game-research-methods)
+	* [CHAPTER 13: Teacher and Student Facing Learning Analytics](#chapter-13-teacher-and-student-facing-learning-analytics)
+	* [CHAPTER 15: Game Learning Analytics](#chapter-15-game-learning-analytics)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
+* [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
 * [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
@@ -1661,7 +1663,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ### [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](doi.org/10.18608/hla22.007)
 
-**THM** : 
+**THM** : Passage of time; Order of time
 
 **Authors** : Inge Molenaar, Alyssa Friend Wise
 
@@ -1670,21 +1672,59 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Abstract** : This chapter represents an effort to lay out a common framework for the concepts of time to (a) support diverse researchers working on temporal aspects of learning analytics to communicate better, (b) facilitate an understanding of how different approaches to studying time in learning articulate and (c) map out the space of temporal analysis to reduce redundancy of efforts. We distinguish two concepts of time, namely the passage of time and order in time. Passage of time considers time as a continuous flow of events and order in time focuses on the organization among events. Within the passage of time we distinguish four metrics: position, duration, frequency and rate. Within order in time we discriminate between consistency, recurrent and non-recurrent change and irregular change. Metrics extracted to index passage of time can be used in many different statistical methods, whereas analysis of order in time commonly requires the usage of advanced analysis methods. For either, decisions about the level of granularity at which time is considered and segmentation of time into “windows” have important effects on analysis results. We argue that understanding the value of temporal concepts and implications for the related analysis, is foundational for closing the loop and advancing learning analytics design with temporal insights.
 
 **Notes**
-- The primary goal of learning analytics is to understand and optimize learning, a process that occurs over time
-- One of the main arguments made in LA research is that learning does not happen in an instant
-- Within LAR an important focus is on how learning evolvs over time ([Knight et al., 2017](https://doi.org/10.18608%2Fjla.2017.43.2))
-- The field has adapted a wide range of analytic techniques for this purpose from other fields : time series analysis ([Schmitz & Wiese, 2006](https://doi.org/10.1016%2Fj.cedpsych.2005.02.002)), lag-sequential analysis ([Jeong, 2003](https://doi.org/10.1207%2Fs15389286ajde1701_3)), Markov Modelling ([Soller & Steen, 2007]()https://www.semanticscholar.org/paper/Applications-of-Stochastic-Analyses-for-Learning-Soller-Stevens/318c1f89eee223a111ef519b41f198d82209de5e), statistical discourse analysis ([Chiu & Khoo, 2002](https://doi.org/10.1177%2F1046496405279309)), epistemic network analysis ([Schaffer et al., 2016](https://doi.org/10.18608%2Fjla.2016.33.3))
-- 
+- Why Time Matters in LA :
+	- The primary goal of learning analytics is to understand and optimize learning, a process that occurs over time
+	- One of the main arguments made in LA research is that learning does not happen in an instant
+	- Within LAR an important focus is on how learning evolvs over time ([Knight et al., 2017](https://doi.org/10.18608%2Fjla.2017.43.2))
+	- The field has adapted a wide range of analytic techniques for this purpose from other fields : time series analysis ([Schmitz & Wiese, 2006](https://doi.org/10.1016%2Fj.cedpsych.2005.02.002)), lag-sequential analysis ([Jeong, 2003](https://doi.org/10.1207%2Fs15389286ajde1701_3)), Markov Modelling ([Soller & Steen, 2007]()https://www.semanticscholar.org/paper/Applications-of-Stochastic-Analyses-for-Learning-Soller-Stevens/318c1f89eee223a111ef519b41f198d82209de5e), statistical discourse analysis ([Chiu & Khoo, 2002](https://doi.org/10.1177%2F1046496405279309)), epistemic network analysis ([Schaffer et al., 2016](https://doi.org/10.18608%2Fjla.2016.33.3))
+- A conceptual Framework for Considering Temporality :
+	- `time-on-task` : considers the amount of time students spend working on a particular task ([Kovanovic et al., 2018](https://doi.org/10.1145%2F3170358.3170374))
+	- Productive failure indicates that when students have a chance to wrestle with a problem, explanations given after tend to become more meaningful for understanding new concepts compared to receiving the explanation immediately ([Kapur, 2016]()https://doi.org/10.1080%2F00461520.2016.1155457)
+	- When students spend enough time with others' discussion posts to read (rather than just scan) them, they are more likely to contribute high quality posts themselves ([Wise et al., 2014](https://doi.org/10.1007%2Fs11412-014-9192-9))
+- Passage of time: Considering time as a continuous flow of events :
+	- Position : [Kapur and Bielaczyc (2012)](https://doi.org/10.1080%2F10508406.2011.591717) showed that scaffolding interventions too early in the learning process are detrimental to the groups own exploration process, yet scaffolds too late in the larning process do not affect the group learning.
+	- Duration, Frequency, Rate
+- Order in time: Considering time as a relative arrangement of multple events
+	- Consistency (1111), Recurrent regular change (1212), Non-Recurrent regular change (1122), Irregular change (1328)
+- Temporal Analysis, Segmentation and Granularity :
+	- Methods such as statistical discourse analysis, sequential lag analysis, t-pattern analysis, process mining, Markob modeling, latent transition analysis
+	- Choices made about segmentation can have dramatic impacts on results and there for for clear justification the method used to determine time windows is important
+- Closing the loop: temporal consequences for design :
+	- [Chiu et al. (2014)](https://www.igi-global.com/gateway/chapter/89013) found that when students were asked to summarize an online discussion in the middle, tather than at the end of the conversation, it often led them to reach more advances phrases of knowledge construction.
 
-## [Lankoski & Björk, 2015 : Game Research Methods](doi.org/10.1184/R1/6686765)
+### [CHAPTER 13: Teacher and Student Facing Learning Analytics](doi.org/10.18608/hla22.007)
 
 **THM** : 
 
-**Authors** :
+**Authors** : 
 
-**Tags** :
+**Tags** : 
+
+**Abstract** :
 
 **Notes**
+
+### [CHAPTER 15: Game Learning Analytics](https://doi.org/10.18608/hla22.015)
+
+**THM** : 
+
+**Authors** : Emily Reardon, Vishesh Kumar, Glenda Revelle
+
+**Tags** : :digital-games: :learning: :analytics: :agency: :engagement: :assessment: :collaborative-learning: :social-learning:
+
+**Abstract** : Games are a pervasive cultural phenomenon with intriguing connections to learning, and the use of learning analytics can inform our understanding of learning in the context of games. In this chapter we identify four principles that are fundamental to both compelling gameplay and meaningful learning – agency, engagement, growth, and social connection. Agency in learners helps them grow and feel safe to fail, persist, and feel ownership of their learning. Engagement, both as great interest and active involvement, is essential to learning, and digital games can be very engaging. Growth involves increases in ability that are developed through effort, perseverance, trying alternative strategies, and seeking help from others. Social connection with other players both within and outside of games facilitates learning. We propose that these four principles serve as an entry point for understanding and conducting game learning analytics work. For each principle we provide examples of evidence-based approaches to the design, measurement, and analysis of learning in game-based contexts to guide thinking and work in the nascent field of game learning analytics. This chapter is intended to be useful not only to game learning analytics practitioners but also to people working in LA-adjacent domains, such as game design, classroom learning, data security, and educational policy. We suggest that designers, practitioners, educators, and learners could all benefit from the translation of academic GLA work into a form that is useful to this broader constituency
+
+**Notes**
+- 
+
+
+## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
+
+**THM** : The designer's role in one team during co-conception is to let other's creativity emerge, to do that, he needs to take a step back, not thinking about the product's expected qualities, but aiming at a 'user-designed' product.
+
+**Authors** : Yann Le Guennec
+
+**Tags** : :meta-design: :user-centered-design:
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
