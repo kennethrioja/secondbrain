@@ -1715,8 +1715,48 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Abstract** : Games are a pervasive cultural phenomenon with intriguing connections to learning, and the use of learning analytics can inform our understanding of learning in the context of games. In this chapter we identify four principles that are fundamental to both compelling gameplay and meaningful learning – agency, engagement, growth, and social connection. Agency in learners helps them grow and feel safe to fail, persist, and feel ownership of their learning. Engagement, both as great interest and active involvement, is essential to learning, and digital games can be very engaging. Growth involves increases in ability that are developed through effort, perseverance, trying alternative strategies, and seeking help from others. Social connection with other players both within and outside of games facilitates learning. We propose that these four principles serve as an entry point for understanding and conducting game learning analytics work. For each principle we provide examples of evidence-based approaches to the design, measurement, and analysis of learning in game-based contexts to guide thinking and work in the nascent field of game learning analytics. This chapter is intended to be useful not only to game learning analytics practitioners but also to people working in LA-adjacent domains, such as game design, classroom learning, data security, and educational policy. We suggest that designers, practitioners, educators, and learners could all benefit from the translation of academic GLA work into a form that is useful to this broader constituency
 
 **Notes**
-- 
-
+- Game Learning Analytics (GLA) is the application of LA methods to gain insight about learning in the context of digital gameplay.
+- Game ([Salen & Zimmerman, 2003](https://pdfroom.com/books/rules-of-play-game-design-fundamentals/jb5qOn6egxQ)) : A system in which players engage in an artificial conglict, defined by rules, that results in a quantifiable outcome.
+- Four Principles of Game-Based Learning :
+	- These correspond roughly to the four "pillars of learning that [Hirsh-Pasek et al. (2015)](https://pubmed.ncbi.nlm.nih.gov/25985468/) derived from learning sciences research, but adapted them specifically to address game-based learning.
+	- Agency :
+		- Or "magic circle", supports agency by providing players a "psychosocial moratorium" a developmental concept introduced by Erikson (1956) and applied to VG contexts by Gee. Within the magic circle, players craft a perosnalized narrative in dialogue with the game's design, assume temporary power, experiment with identities or roles, and explore their sense of ethics and morals with reduced risk vs real-worls exploration os such ideas.
+		- Help them grow, feel safe to fail, persist, and feel ownership of their learning.
+		- Design for Agency :
+			- Agency is closely tied to concepts of self-efficacy (Bandura, 1977; believe you can succeed, likely to engage and more effort invest; linked with staircase), active learning (monitor their undersanding, seeking out opportunities to experiment and explore, and applying whtat they discorver to shape their own knowledge) and meaningful learning (connecting new information with whtat you already know and with your relevant real-life personal experience ([Brown, 2014](https://psycnet.apa.org/record/2013-42812-000))
+			- Human Centered Design (HCD) is based on undersanding the needs of users, involving users in iterative design, and adapting technology based on user feedback ([Teasley, 2019](https://www.emerald.com/insight/content/doi/10.1108/ILS-06-2018-0045/full/html))
+			- Universal Design for Learning (UDL) provides recommendations and methods for including diverse learning needs, goals, and abilities to better support all learners ([Rose & Meyer, 2006]()https://eric.ed.gov/?id=ED515447) and improves learning processes for a diverse population of students ([Capp, 2017](https://www.tandfonline.com/doi/full/10.1080/13603116.2017.1325074))
+		- Measurement and Analysis of Agency :
+			- Player categorization / models : assessing player agency by recognizing learners' play styles and identifying foals of plans that players are pursuing, then eentually supporting their agency by adapting the game to suit a particular player's gameplay style.
+			- Play styles ([Bartle, 1996](https://www.researchgate.net/publication/247190693_Hearts_clubs_diamonds_spades_Players_who_suit_MUDs)) : achievers, explorers, socialisers, killers then critiqued by [Hamari & Tuunanen (2014)](https://www.semanticscholar.org/paper/Player-Types%3A-A-Meta-synthesis-Hamari-Tuunanen/a4fd78a8713f353ac3994f420b45c91ac6c87612)
+			- Identifying players who play by rapid guesswork versu those using slower strategic moves, which provides insight on players's prior domain knowledge ([Liu et al., 2013](https://www.semanticscholar.org/paper/Predicting-Player-Moves-in-an-Educational-Game%3A-A-Liu-Mandel/04b57aa064e14f824563c94ed11214f33627800a))
+			- Procedural Content Generation is a productive way to practice data-driven adaptive game design : suit a player's experience and inferred preferences (e.g., scale enemy difficulty, puzzle complexity, etc.
+			- Futre work should similarly adress isues of equity and justice, and bette raddress the raneg of players' physical and learning abilities.
+	- Engagement :
+		- Design for engagement : 
+			- Intrinsic motivation is the most well-research construct and ties together many of these features
+			- Challenge, curiosity, control and fantasy and interpersonal motivations like cooperation, competition, and recognition ([Malone & Lepper, 2005](https://www.researchgate.net/publication/238687478_Making_learning_fun_A_taxonomy_of_intrinsic_motivations_for_learning))
+			- Praise for effort or progress is more likely to encourage a growth mindset than praise foe task perofrmance or ability, which has important implications for the workding of instructional and reward messaging in learning games.
+		- Measurement and Analysis of Engagement :
+			- Amount of gameplay, means and variance in gampley time, play time per session, n of sessions. Also flow.
+			- Game progress by using heatmaps to identify where players proceed or get stuck
+			- Clustering and state networkdiagrams can be used to measure engagement ([Owen, 2015](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=V.+Elizabeth+Owen.+%E2%80%9CUsing+learning+analystics+to+support+educational+game+development%3A+A+datadriven+design+apporach%E2%80%9D.+In%3A+American+Educational+Research+Association+%28AERA%29+annual+meeting%2C+Chicago%2C+IL.+2015&btnG=))
+	- Growth :
+		- Design for growth :
+			- Games effectively promote learning when they intefrate cog engagement with playfulness. and when content engagement is linked to game action
+			- DBR, Scaffolding, guided play.
+			- With regard to failure a wrong answer is a learning moment. IF you don't get anything wrong, you aren't learning – your performanc eis evidence that you were already competent in the content before playing the game
+		- Measurement and Analysis of Growth :
+			- Bayesian networks can be used to identify learner's progress by analyzing gameplay data signifying player actions, successes and failures ([Shute et al., 2016](https://www.sciencedirect.com/science/article/pii/S0747563216303740?casa_token=NkYyDqnTDOYAAAAA:uDR0f3WSAEv0W-OZSDXW9PATw37SSXtLNLeAie-DKkBSkvXhSstq_C_hg9Uyy2bSqYELfBmnoA)). This work leverages the Stealth Assessment Framework ([Shute, 2011](https://myweb.fsu.edu/vshute/pdf/shute%20pres_h.pdf)), which involves developping learner models that describe what learners know, competence models that articulate the learning domain, and evidence models that map player game actions to learning. The SAF proposes a desing and analytic framework for embedding assessment activities in engaging game tasks, with the goal of blurring the distinction bw assessment and learning in gameplay
+			- Cluster analysis of gameplay data can be used to identiy different learnning phases such as EXploration, TInkering, and REfinement (EXTIRE framework, [Berland et al., 2013](https://www.tandfonline.com/doi/abs/10.1080/10508406.2013.836655)) 
+			- Hidden Markov Models (HMMs) can be used to identify productive and unproductive progress in gameplay ([Tissenbaum et al., 2016](https://eric.ed.gov/?id=ED592698)). To identify productive player actions (for instance, remembering successful approaches or trying out novel approaches) as well as unproductive player actions(like repeating the same successful approach with no change). Since productive actions indeicate learner growth and unproductive actions often correlate with visitors leaving the exhibit, identifying these patterns helps in understanding and supoprting growth of skills and performance
+	- Social connection :
+		- Measurement and Analsis of SC :
+			- Involves recognizing dynamics such as role enactment, collaboration and cometition, collective and individual guidance, social sharing and parasocial connection.
+- Opportunities :
+	- Standardizing the assessment of efficacy in learning games is a prime opportunity in GLA (...) This work can build on existing standardization frameworks in VG industry ([El-Nasr et al., 2013](https://link.springer.com/book/10.1007/978-1-4471-4769-5)) and could also enable the evalution of learning across multiple games and contexts.
+	- Inform far transfer to differnt activities when integrated with other school and activity data.
+	- Evolve to be transparent, digestible, controlled by, and empowering for all involved participants – teachers, parents and in particular learners themselves.
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
