@@ -66,4 +66,8 @@
 	- Once Authorization server ok,go to redirect URI '/callback' and exchange auth code for access token
 	- Once access token given by authorization server, callback can access resources from resource server using access token 
 - [YT NestJS & GoogleOAuth2 with Passport](https://www.youtube.com/watch?v=OitgkKTxht4):
-	- 27
+	- TO DO UNTIL 30' and you can now store 42 profile
+
+- Access & Refresh Tokens :
+	- https://www.baeldung.com/cs/access-refresh-tokens
+	- 

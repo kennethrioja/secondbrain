@@ -46,7 +46,6 @@
 	* [CHAPTER 3 : Predictive Modelling in Teaching and Learning](#chapter-3--predictive-modelling-in-teaching-and-learning)
 	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
 	* [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](#chapter-7--temporal-aspects-of-learning-analytics---grounding-analyses-in-concepts-of-time)
-	* [CHAPTER 13: Teacher and Student Facing Learning Analytics](#chapter-13-teacher-and-student-facing-learning-analytics)
 	* [CHAPTER 15: Game Learning Analytics](#chapter-15-game-learning-analytics)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
@@ -1692,21 +1691,9 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Closing the loop: temporal consequences for design :
 	- [Chiu et al. (2014)](https://www.igi-global.com/gateway/chapter/89013) found that when students were asked to summarize an online discussion in the middle, tather than at the end of the conversation, it often led them to reach more advances phrases of knowledge construction.
 
-### [CHAPTER 13: Teacher and Student Facing Learning Analytics](doi.org/10.18608/hla22.007)
-
-**THM** : 
-
-**Authors** : 
-
-**Tags** : 
-
-**Abstract** :
-
-**Notes**
-
 ### [CHAPTER 15: Game Learning Analytics](https://doi.org/10.18608/hla22.015)
 
-**THM** : 
+**THM** : Agency, engagement, growth, social connection + see the references !
 
 **Authors** : Emily Reardon, Vishesh Kumar, Glenda Revelle
 
