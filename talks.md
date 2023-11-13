@@ -4,11 +4,20 @@
 
 * [13.11.2023 - Semaine de l'entrepereunariat](#13112023---semaine-de-lentrepereunariat)
 	* [Ressources](#ressources)
-	* [Leçons du terrain: les vérités et les mythes de l’entrepreneuriat](#leçons-du-terrain-les-vérités-et-les-mythes-de-lentrepreneuriat)
+	* [Innovation in Nonprofits & Social Entrepreneurship](#innovation-in-nonprofits--social-entrepreneurship)
 	* [Créer son entreprise à Genève](#créer-son-entreprise-à-genève)
+	* [Leçons du terrain: les vérités et les mythes de l’entrepreneuriat](#leçons-du-terrain-les-vérités-et-les-mythes-de-lentrepreneuriat)
 * [19.10.2023 - Jeffrey Bowers – Deep Problems with NN models of Human Vision](#19102023---jeffrey-bowers--deep-problems-with-nn-models-of-human-vision)
 * [12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency](#12102023---dr-claudia-von-bastian--mechanisms-of-cognitive-training-and-transfer-effects-capacity-and-efficiency)
 * [14.09.2023 - BTN – UNIGE Data Science Day](#14092023---btn--unige-data-science-day)
+	* [Round Table Empowering Inclusive Data Science Education: Breaking the Psychological Walls :](#round-table-empowering-inclusive-data-science-education-breaking-the-psychological-walls-)
+	* [Data Visualisation Workshop :](#data-visualisation-workshop-)
+* [Valorisation de la recherche (Unitec)](#valorisation-de-la-recherche-unitec)
+	* [04.05.2023 - Innovation basée sur la recherche](#04052023---innovation-basée-sur-la-recherche)
+	* [11.05.2023 : From science to entrepreneur](#11052023--from-science-to-entrepreneur)
+	* [01.06.2023 : Collaborer avec les entreprises privées](#01062023--collaborer-avec-les-entreprises-privées)
+	* [08.06.2023 : Valoriser vos inventions](#08062023--valoriser-vos-inventions)
+	* [Mots clés :](#mots-clés-)
 * [08.12.2022 - Chandramallika Basak - Brain-Based Mechanisms of Cognitive Enhancemeents in Aing: Benefits of Computerized Training](#08122022---chandramallika-basak---brain-based-mechanisms-of-cognitive-enhancemeents-in-aing-benefits-of-computerized-training)
 * [02.12.2022 - Swiss Reproducibility Network - Preregistration & Registered reports: how to improve the credibility and reproducibility of your research](#02122022---swiss-reproducibility-network---preregistration--registered-reports-how-to-improve-the-credibility-and-reproducibility-of-your-research)
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
@@ -50,6 +59,57 @@
 - [Patricia Gorin](https://www.linkedin.com/in/patricia-gorin/), facilitatrice du changement et de la transition écologique et fondatrice de BetterFLY your transition
 - Organisation: [venturelab](https://www.venturelab.swiss/)
 - [Elaine France](https://www.linkedin.com/in/elainefrance/), Founder, Flow In Action
+
+## Innovation in Nonprofits & Social Entrepreneurship
+
+- What drives you ? Thing big, being passionate and creative
+- Try to do things differently with mission driven model, often challenged but if opportunity to try
+- Voice of your beneficiary
+- Try new things on pilot projects, when trying new ways of doing things in other sectors
+- KPI : Key Performance Indicator
+- Venture philantropic model : initially rely on initial philantropic and public funding, e.g., Innosuisse
+- Money generate to fund new programms and royalty streams secure for the ttt dvped, patient association
+
+## Créer son entreprise à Genève
+
+- Voir slides sur la page de libérezvosidées
+- Etapes de la création d'entreprise :
+	1. Business plan / reflexions préalables
+		- Je pense que je peux faire ça, vendre x quantité, combien de temps ça va me prendre produire.
+		- On doit avoir 45k, 50k CHF en moyenne pour commencer -> après c'est de l'argent qui vous revient
+		- Key points :
+			- Description du projet (produit et équipe)
+			- Analyse demande et offre (marché & concurrence)
+			- Stratégie de mise ne oeuvre et marketing (clients)
+			- Finance (budgets d'exploitation & de trésorerie)
+	2. Formes juridiques
+		- Sociétés de personnes : individuel, une seule cheffe d'entreprise
+		- Sociétés de capitaux
+	3. Assurances sociales
+	4. Fiances et fiscalités
+- Incubateurs :
+	- Fongit startégie fiancière pour élever le modèle économique : sciences de la vie, ingéniérie, TIC, très innovant, n'intervient pas dans l'expertise scientifique
+	- Opi : mêmes prestations mais dans industrie
+	- Genilem : intérêt économique, dimension innovante dans projet
+	- 1. Le conseil et les outils, aussi finenciers, et aussi encadrement pro et déchargent de ça, pour concentrer sur produit
+- Financement :
+	- FAE : pas de subvention et pas de prêt, cautionnement = relations tripartites, à Genève
+	- Fondetec
+	- Cautionnement romand
+- Soutien à l'innovation :
+	- Platinn : soutien à l'innovation d'affaire, booster pour dvper innovation, mise à dispo de professionnels, plusieurs heures à dispo gratuitement
+	- Alliance pour innover : prestation complémentaire à platinn, booster technologie/scientifique, mettre en place des projets de collaboration avec des chercheurs avec suisse occidentale
+	- Innosuisse : peuvent financer dans le cadre de recherche avec uni, 50%, branche pour startup avec conseil. Peuvent aussi injecter argent dans entreprise.
+- Réseau :
+	- ICT à travers alpict
+	- BioAlps
+	- Cleantech
+	- Micronarc
+	- Asso professionnelles, chambres de commerce, espaces de co-working
+- https://www.ge.ch/document/guide-du-createur-entreprise-geneve/starting-business-geneva
+- Genève pour entreprise à forte valeur ajoutée
+- Lourdeur administrative : trois niveaux de législation
+- Aller à Zürich pour faire entreprise car frais de notaires élevés (notaire pas obligé d'être fait à Genève, d'autres cantons en suisse moins élevé)
 
 ## Leçons du terrain: les vérités et les mythes de l’entrepreneuriat
 
@@ -96,43 +156,6 @@
 - Dans l'entrepreunariat : t'es seul. Quoi qu'il arrive, être qqun de positif. Et même toi quand employé, être la personne qui va trouver la solution.
 - Accepte que c'est dur, combien tu peux encaisser.
 - Jamais prendre les choses personnellement : Si tu sais que t'es pro, que t'as été éthique, c'est ok.
-
-## Créer son entreprise à Genève
-- Ask him slides
-- Etapes de la création d'entreprise :
-	1. Business plan / reflexions préalables
-		- Je pense que je peux faire ça, vendre x quantité, combien de temps ça va me prendre produire.
-		- On doit avoir 45k, 50k CHF en moyenne pour commencer.
-		- Key points :
-			- Description du projet (produit et équipe)
-			- Analyse demande et offre (marché & concurrence)
-			- Stratégie de mise ne oeuvre et marketing (clients)
-			- Finance (budgets d'exploitation & de trésorerie)
-	2. Formes juridiques
-		- Sociétés de personnes : individuel, une seule cheffe d'entreprise
-		- Sociétés de capitaux
-	3. Assurances sociales
-	4. Fiances et fiscalités
-- Incubateurs :
-	- Fongit startégie fiancière pour élever le modèle économique : sciences de la vie, ingéniérie, TIC, très innovant, n'intervient pas dans l'expertise scientifique
-	- Opi : mêmes prestations mais dans industrie
-	- Genilem : intérêt économique, dimension innovante dans projet
-	- 1. Le conseil et les outils, aussi finenciers, et aussi encadrement pro et déchargent de ça, pour concentrer sur produit
-- Financement :
-	- FAE : pas de subvention et pas de prêt, cautionnement = relations tripartites, à Genève
-	- Fondetec
-	- Cautionnement romand
-- Soutien à l'innovation :
-	- Platinn : soutien à l'innovation d'affaire, booster pour dvper innovation, mise à dispo de professionnels, plusieurs heures à dispo gratuitement
-	- Alliance pour innover : prestation complémentaire à platinn, booster technologie/scientifique, mettre en place des projets de collaboration avec des chercheurs avec suisse occidentale
-	- Innosuisse : peuvent financer dans le cadre de recherche avec uni, 50%, branche pour startup avec conseil. Peuvent aussi injecter argent dans entreprise.
-- Réseau :
-	- ICT à travers alpict
-	- BioAlps
-	- Cleantech
-	- Micronarc
-	- Asso professionnelles, chambres de commerce, espaces de co-working
-- https://www.ge.ch/document/guide-du-createur-entreprise-geneve/starting-business-geneva
 
 # 19.10.2023 - Jeffrey Bowers – Deep Problems with NN models of Human Vision
 
@@ -201,18 +224,87 @@
 - Matthias Studer, Geneva School of Social Sciences, "Randomized Moodle exercises for quantitative methods courses
 - Anastasia Floru, Geneva School of Economics and Management, "Why not learning with fun ? Escape Game an innovative tool to test your skills"
 
-Round Table Empowering Inclusive Data Science Education: Breaking the Psychological Walls :
-
+## Round Table Empowering Inclusive Data Science Education: Breaking the Psychological Walls :
 - Lucia : Learning by doing -> by making mistakes (Natalia : errors are ok, and you can google it)
 - The meaning of the data
 - Computer teaching : you won't break the computer with the terminal + typing
 - IDEA TAKE OVER : Not having fear of a computer anymore / We all know how to read, do you want to know how to use a computer ? Cours sur computer litteracy : 1-2-all : argument why do I fear, then pair, arguments, et dit à tout le monde gather all args
 - DISTIC-R&D - look and try to ask a stage
 
-Data Visualisation Workshop :
-
+## Data Visualisation Workshop :
 - Gapminder : présenter données
 - [Observablehq](https://observablehq.com/)
+
+# Valorisation de la recherche ([Unitec](https://www.unige.ch/unitec/fr/act/actualites-recentes/?ccm_paging_p_b1570=2)) 
+
+## 04.05.2023 - Innovation basée sur la recherche 
+
+- Laurent Miéville https://www.linkedin.com/in/laurentmieville/
+- Jean-Pierre Paccaud https://gardp.org/team/jean-pierre-paccaud/
+- innovation is when you give it value
+- when it has been brought to the market - cohen - 2001
+- innovation is not high-tech mandatory
+- pain needs desire : cohen
+- having a license on a plateform can help
+- probleme est de payer, problème est de perdre, mais si on pense en termes d'apprentissage, funders prendront le % de temps pris à apprendre sur les prochaines innovations
+
+## 11.05.2023 : From science to entrepreneur
+- M. Kuhn (Unitec), R. Gago (Venturelab, Venturekick), C. Deléaval (Genilem), L. Zuo (Science2Market) & N. Brembilla (HekeTiss)
+- proof of concept = dvp techno primary
+- venture kick when ? after proof of concept (phd or tangible results)
+- genilem to help companies amake their ideas more profitable
+- clients care about how you solve their problems
+- FOCUS ON market demand, it will make your product viable
+- great team
+
+## 01.06.2023 : Collaborer avec les entreprises privées
+- O. Deloche (Unitec) & V. Currat (Debiopharm International SA)
+- Transfert de technologie, passer des connaissances (académique) à entreprise privées (commercialisation)
+- Mandat de service : intéresse les professeurs, permettent de rentabiliser les appreillages – un accord pour un projet ou service réalisé exclusivement dans l'intérêt de l'entreprise. Uni met à dispo compétences et infrastructures
+- Contacter unitec pour avoir contrats standards et discussions libres, mettre rapidement le contrat de confidentialité et après contacter unitec.
+- overhead = surcoûts (unige 9%, médecine 4%, tva 8%, 20% prévelvés et non pour le labo)
+- Innosuisse 1/2 demandes financées – startup et innovation
+- CSL, Novartis, Sanofi, Wyss Center, Debiopharm
+- https://switt.ch/
+- si projet de valorisation, discussison sous confidentialité
+
+## 08.06.2023 : Valoriser vos inventions
+- R. Flükiger (Unitec)
+- "tout le monde attend que vous fassiez une startup"
+- "activer plus de collaboration"
+- activité commerciale -> look for Propriété intellectuelle
+- annonces d'inventions
+- 1. unige proprio
+- 2. annonce invention à Unitec obligatoire
+- 3. chercheurs reçoivent une part des revenus issus de la valoraisation de leurs inventions
+- Unitec = identifier et évaluer new tech, protéger la PI, promouvoir et licencier des inventions, collecter et redistribuer les royalties
+- accords collaboration : avec société et partage PI et détermine qui sera titulaire et qui exploite
+- licence : transfert des droits et pas collaboration et passage de relai. 
+- ask Unitec if invention
+- Processus de valorisation : 
+	- Formulaire à Unitec pour description détaillée (Technologie/invention? Définir les inventeurs, Cause d'invalidation : Brevet facilement invalidé si la liste des inventeurs pas correctement identifiée? Propriété UNIGE, PI de l'UNIGE : oui pour employé UNIGE mais non pour postdoc avec bourse, étudiant diplômant? Publication?)
+	- Evaluation (manuscript d'un article scientifique où on comprend le but de l'invention)
+	- Protection PI
+	- Marketing
+	- Négociations
+	- Suivi
+- < 50k, 1/2 chercheur, 1/4 lab/dpt, 1/4 unige
+- > 50k, 1/3 all
+- NE PAS PRESENTER A ITEAMS si on veut garder IP
+- Demande de brevet avant la publi !
+- NE PAS DIVULGER SI ON A UNE INVENTION (ex. séminaires, publication scientifiques, etc.)
+- Brevetable : nouveauté, application industruelle et activité inventive
+- check dans pubmed, lens.org, google, recherche assistée IPI (bern, très bonne confiance, sortir tout ce qu'il y a dans le domaine), escapenet.
+- si portée trop étroite = protection insuffisante, si trop large, brevet non délivré ou invalidé par litiges
+- Profil techno : proof of concept?
+- !!! temps extrêmement important quand startup, à ne pas négliger 
+
+## Mots clés : 
+- Transfert de technologie (Unitec, swiTT)
+- Incubateurs (Fongit, Geneus, Eclosion)
+- Wyss, Campus biotech
+- Know-how, protocole qui n'est pas public
+- Proof of concept
 
 # 08.12.2022 - Chandramallika Basak - Brain-Based Mechanisms of Cognitive Enhancemeents in Aing: Benefits of Computerized Training
 
