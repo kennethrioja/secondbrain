@@ -2,6 +2,10 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [13.11.2023 - Semaine de l'entrepereunariat](#13112023---semaine-de-lentrepereunariat)
+	* [Ressources](#ressources)
+	* [Leçons du terrain: les vérités et les mythes de l’entrepreneuriat](#leçons-du-terrain-les-vérités-et-les-mythes-de-lentrepreneuriat)
+	* [Créer son entreprise à Genève](#créer-son-entreprise-à-genève)
 * [19.10.2023 - Jeffrey Bowers – Deep Problems with NN models of Human Vision](#19102023---jeffrey-bowers--deep-problems-with-nn-models-of-human-vision)
 * [12.10.2023 - Dr. Claudia von Bastian – Mechanisms of Cognitive Training and Transfer Effects: Capacity and Efficiency](#12102023---dr-claudia-von-bastian--mechanisms-of-cognitive-training-and-transfer-effects-capacity-and-efficiency)
 * [14.09.2023 - BTN – UNIGE Data Science Day](#14092023---btn--unige-data-science-day)
@@ -10,6 +14,125 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 13.11.2023 - Semaine de l'entrepereunariat
+
+## Ressources
+
+- Flyer : https://www.unige.ch/gsem/files/8316/9944/0825/A5_prog_Gew23_WEB.pdf
+- Soutien dans projet : https://www.fondetec.ch/
+- [Nathalie Brodard](https://www.linkedin.com/in/nathaliebrodard/), fondatrice, Brodard Executive Search et Brodiance;
+- [Sandro Medina](https://www.linkedin.com/in/medinasandro/), co-fondateur, Evo Home;
+- [Fabian Eichmüller](https://www.linkedin.com/in/feich/), COO, Gonet & Cie SA
+- [Youness Yaghcha](https://www.linkedin.com/in/youness-maverick/), fondateur de LIME
+	- Accompagnement dans création startup (Younes Yaghcha, good guy) : [linktr.ee/lime.rocks](linktr.ee/lime.rocks)
+- [Clarisse Cœur](https://www.linkedin.com/in/clarissecoeur/)
+	- SIG Impact pour Projet lié à la transition écologique : https://www.sig-impact.ch/
+- [Jaira Guevara](https://www.linkedin.com/in/guevarajaira/) :
+	- Impact Hub Geneva pour Projet inclusif & respectful : https://geneva.impacthub.net/
+- [Kustrim Reka](https://www.linkedin.com/in/kustrim-reka-821042b3/), attaché au développement économique :
+	- DG DERI Genève : https://www.ge.ch/dossier/developpement-economique-recherche-innovation
+- [Caroline Kant](https://www.linkedin.com/in/caroline-kant-53209310/), founder of EspeRare
+- [Lea Firmin](https://www.linkedin.com/in/lea-firmin-893960ba/), CEO of [>>venture>>](https://www.linkedin.com/company/venture-companies-for-tomorrow/) plans to address.
+- [Maxime Lagane](https://www.linkedin.com/in/maximelagane/), fondateur de 123NextGeneration
+- https://innovation-time.com/
+- [Virginie Bauman](https://www.linkedin.com/in/virginie-bauman/), coach en création d’entreprise, [GENiLEM](https://www.linkedin.com/company/genilem/)
+- [Esther Sève](https://www.linkedin.com/in/estherseve/), fondatrice de l'agence [Qualinsight](https://www.linkedin.com/company/qualinsight/)
+- [Pulse incubateur HES](https://pulse-hesge.ch/)
+- [Emmanuel de Watteville](https://www.linkedin.com/in/emmanueldewatteville/), responsable des programmes de financement, Fongit
+	- [Fongit](https://www.fongit.ch/)
+- [Helena Bornet dit Vorgeat](https://www.linkedin.com/in/helena-bornet-dit-vorgeat-228b2b105/), responsable opérationnelle du Centre de l’innovation des HUG
+- [Artan Latifi](https://www.linkedin.com/in/artan-latifi/), spécialiste en innovation numérique, Centre de l’innovation des HUG
+- Organisation: [Centre de l’innovation – Hôpitaux universitaires de Genève (HUG)](https://www.hug.ch/centre-innovation/presentation) 
+- [Antoine Fatio](https://www.linkedin.com/in/antoine-fatio/), directeur, Fondetec
+- [TalentKick](https://www.talentkick.ch/)
+- [Alexis Moeckli](https://www.linkedin.com/in/alexismoeckli/), fondateur de Wenove.
+- [Patricia Gorin](https://www.linkedin.com/in/patricia-gorin/), facilitatrice du changement et de la transition écologique et fondatrice de BetterFLY your transition
+- Organisation: [venturelab](https://www.venturelab.swiss/)
+- [Elaine France](https://www.linkedin.com/in/elainefrance/), Founder, Flow In Action
+
+## Leçons du terrain: les vérités et les mythes de l’entrepreneuriat
+
+- [Younes Yaghcha](https://www.linkedin.com/in/youness-maverick/) : aide aux startups (good guy)
+	- [LIME. (Lab for Innovative Minds & Entrepreneurship)](https://www.linkedin.com/company/our-lime-rocks/)
+- It's always day one.
+- Cherche le syndrôme de l'imposteur pour s'autocritiquer. Chercher à être bien entouré pour avoir du feedback.
+- Accepter qu'au démarrage ça va être le chaos, tu en sais pas encore qui est le client et quel est le produit
+- Cofondateurices :
+	- Pour VC, à deux car si un drop, l'investissement ne meurt pas.
+	- Si seul, pas avec des boulets. Pas de "rencontre avec cofondateur", voir si le confondateur résiste à la critique, etc.
+	- Contrat d'associé, tout ce que la personne doit faire, faire les closes pour protéger les parts de la boîte à donner.
+	- Embaucher un employé ++ qui va t'aider dans monter la startup.
+	- S'assurer que même valeur et même vision avec cofondateurs
+	- Mirroir, critique dans la bienveillance, si doute capable de dire si oui ou non, travaille dans un but commun.
+- Pain : avoir des collaborateurices qui ne font pas avancer
+- Challenge doit être constructif : "non as comme ça, je te propose de voir ça"
+- Ne pas penser que, quand petite structure, dire que 'est la famille, ils sont là pour un salaire, ce ne sont pas des amis ni la famille : ne pas prendre trop à coeur.
+- Pas besoin d'avoir trop de èersonne, si arrive à avoir un chiffre d'affaire adapté à ce que vous voulez.
+- Il faut que l'innovation soit pertinente, pas besoin de prêcher l'innovation.
+- Savoir pivoter dans le produit, se réinventer. Aussi dans les collaborateurices, savoir écouter leurs besoins.
+- Clé : être customer focused. Avoir un problème à résoudre. Est-ce que marché important derrière? Product market fit, notion importante pour les entrepreneureuses. Trouver une façon de tester le marché.
+- Organiser des séances de feedback : après chaque travaux en groupe.
+- Libérer 2è pilier pour augmenter capital.
+- Argent ennemi de la créativité.
+- Clé : Il faut aller vite, pas qqch t'as le temps, car tu dois apprendre vite.
+- Argent :
+	- VC (Fonds d'investissement), une fois que fait une startup, vous pouvez aussi vous faire ejecter. L'investisseureuse va vous regarder qu'une fois si ielle sait que tu vas générer du profit.
+	- Choix des investisseureuses : Si qqun investi, quel est le contrecoup? Avoir des attentes au delà financier, je te choisis financier, je veux que tu me conseilles sur ... Au-delà de l'argent qu'attendez-vous de l'investissement ?
+	- Bien choisir, ne pas forcément aller à la personne qui donne le plus, mais si moins, peut ouvrir à clientèle nouvelle.
+	- D'une affaire, découle d'autres projets/contacts. Si qqun avec beaucoup de réseau.
+	- Quel besoin ?
+	- Pas besoin d'investisseur avant de commencer forcément.
+	- Follow the pain, si pas de douleur c'est que à l'aise, si douleur il y a une raison.
+	- Investisseur va vous challenger.
+- Chaque année on revient à 0
+- S'entourer de mentors, soient là pour accompagner sur le chemin de l'entrepreunariat.
+- Qqun d'externe à la famille, proposer les idées, pour rassurer. Donner des tuyaux de bienveillance.
+- Tu dois créer la rencontre. Provoquer l'invitation. Demande du suivi. Il faut pas qu'ielle oublie, donner un moyen de suivre. Soyez visibles, commenter les posts, faîtes contenu.
+- TEDx inviter des gens de qui on attendait qqchose d'aujourd'hui. J'ai besoin d'avis d'un expert, on peut discuter?
+- Le momentum, si créer bonne impression, affaires c'est être invité à la bonne table.
+- Linkedin intéressant pour carrière pro classique et entrepreneur pour sortir du lot.
+- Quand tu commences tu vas faire des conneries, plus tu fais et plus tu vas voir que tu ne sais pas (s'entourer des bonnes personnes)
+- Dans l'entrepreunariat : t'es seul. Quoi qu'il arrive, être qqun de positif. Et même toi quand employé, être la personne qui va trouver la solution.
+- Accepte que c'est dur, combien tu peux encaisser.
+- Jamais prendre les choses personnellement : Si tu sais que t'es pro, que t'as été éthique, c'est ok.
+
+## Créer son entreprise à Genève
+- Ask him slides
+- Etapes de la création d'entreprise :
+	1. Business plan / reflexions préalables
+		- Je pense que je peux faire ça, vendre x quantité, combien de temps ça va me prendre produire.
+		- On doit avoir 45k, 50k CHF en moyenne pour commencer.
+		- Key points :
+			- Description du projet (produit et équipe)
+			- Analyse demande et offre (marché & concurrence)
+			- Stratégie de mise ne oeuvre et marketing (clients)
+			- Finance (budgets d'exploitation & de trésorerie)
+	2. Formes juridiques
+		- Sociétés de personnes : individuel, une seule cheffe d'entreprise
+		- Sociétés de capitaux
+	3. Assurances sociales
+	4. Fiances et fiscalités
+- Incubateurs :
+	- Fongit startégie fiancière pour élever le modèle économique : sciences de la vie, ingéniérie, TIC, très innovant, n'intervient pas dans l'expertise scientifique
+	- Opi : mêmes prestations mais dans industrie
+	- Genilem : intérêt économique, dimension innovante dans projet
+	- 1. Le conseil et les outils, aussi finenciers, et aussi encadrement pro et déchargent de ça, pour concentrer sur produit
+- Financement :
+	- FAE : pas de subvention et pas de prêt, cautionnement = relations tripartites, à Genève
+	- Fondetec
+	- Cautionnement romand
+- Soutien à l'innovation :
+	- Platinn : soutien à l'innovation d'affaire, booster pour dvper innovation, mise à dispo de professionnels, plusieurs heures à dispo gratuitement
+	- Alliance pour innover : prestation complémentaire à platinn, booster technologie/scientifique, mettre en place des projets de collaboration avec des chercheurs avec suisse occidentale
+	- Innosuisse : peuvent financer dans le cadre de recherche avec uni, 50%, branche pour startup avec conseil. Peuvent aussi injecter argent dans entreprise.
+- Réseau :
+	- ICT à travers alpict
+	- BioAlps
+	- Cleantech
+	- Micronarc
+	- Asso professionnelles, chambres de commerce, espaces de co-working
+- https://www.ge.ch/document/guide-du-createur-entreprise-geneve/starting-business-geneva
 
 # 19.10.2023 - Jeffrey Bowers – Deep Problems with NN models of Human Vision
 
