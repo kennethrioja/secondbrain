@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics](#14112023---10-mythes-sur-lapprentissage-à-distance--tecfagora-eric-sanchez--elsa-paukovics)
 * [13.11.2023 - Semaine de l'entrepereunariat](#13112023---semaine-de-lentrepereunariat)
 	* [Ressources](#ressources)
 	* [Innovation in Nonprofits & Social Entrepreneurship](#innovation-in-nonprofits--social-entrepreneurship)
@@ -23,6 +24,23 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics
+
+- https://www.lip-unige.ch/2020/04/06/13-infox-sur-le-e-learning-au-temps-du-coronavirus-clap-de-fin/
+- Ingéniérie pédago : formaliser les choses nécessaires à prendre en compte, ne veut pas dire qu'on va tout régler.
+- Quand présence, pas forcément que présence, mais présenter les choses de manière plus combinée "hybride"
+- Pas de contexte idéal, mais utiliser les capacité les fonctionaolité pour enrichir les relations dans une formation d'app à distance : le contexte dans lequel contexte d'app soit analysé et les différentes dimensions soient prises en compte.
+- Par quoi démarrer, et piège à ne pas tomber :
+	- ADDIE, A : Analyser les beosins de formation, représentation la plus fidèle du public, visée et objectifs des formations, cadre pro ou formation souhaite être certifiante, contexte aca/univ. Etape longue sur lequel revenir.
+	- Pas quoi ne pas commencer ? Copie de la présence en distance.
+	- Digital natives : NON, point de départ dans public cible, s'assurer que les personnes ont des connaissances et compétences
+	- "Faut qu'ils sachent ça", NON, mais penser en terme d'activités et pas forcément au niveau du contenu/information.
+	- Se mettre à la place de l'apprenant : ne pensez pas ce que vous allez enseigner, mais ce que l'apprenant va apprendre
+	- Comment scénariser ?
+	- Piège, surestimer l'autonmie des apprenants, les élèves le moins autonome sont ceux qui vont moins s'autoréguler.
+- Stratégie de plannification : autonomie c'est aussi identifier qu'on a une difficutlé, soit chercher ressource (num ou humaine) favoriser cette capacité à demander de l'aide.
+- Encourager à développer des stratégies d'autorégulation.
 
 # 13.11.2023 - Semaine de l'entrepereunariat
 
