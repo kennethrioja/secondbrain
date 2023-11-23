@@ -2006,7 +2006,13 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Abstract** : Video game play is remarkably ubiquitous in today's society given its recent emergence only in the late 1950s. While this fast evolution could exemplify the power of play, video games exploit but also extend other types of play. Here, we review a classification of the ecosystem of video games useful in the emerging field of the cognitive neuroscience of video games. We then discuss how video games may leverage different play types, considering first locomotor-rotational, object, and social play before highlighting the importance of role, rule, and pretend play in video games. With an eye toward comparative studies of the neural bases of play across species, we discuss whether video games may fulfil the five criteria from Burghardt (2005) to identify play. Finally, in line with play’s possible preparatory role for adulthood, we review the positive impact on cognition and future learning of action-like video games. Highlighting that not all video games have this impact, we note more granular hypotheses about the biological functions of play are to be encouraged.
 
 **Notes**
--...
+- Avergae age of a US and European gamer in 2021 was 32 years old, with 7680% of gamers being 18 or older ([esa, 2022](https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/), [ISFE and EGDF, 2021](https://www.videogameseurope.eu/wp-content/uploads/2022/08/FINAL-ISFE-EGDFKey-Facts-from-2021-about-Europe-video-games-sector-web.pdf))
+- In France, the aerage age was 39 yo, with 88% of adults having played vg ([SELL, 2022](https://www.sell.fr/sites/default/files/essentiel-jeu-video/lessentiel_du_jeu_video_eng_nov_22.pdf))
+- AVG derive their positive impact on :
+	- Putting a load on divided attention
+	- Switch attentional mode on demande, visual search mode to highly focused, aiming mode
+	- Alows to train cognitive flexibility
+	- Load on pacing or the need to execute actions or take decisions under tight time constraints : feel under time pressure
 
 ## [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](https://doi.org/10.1007/978-3-031-22124-8_3)
 
