@@ -47,6 +47,9 @@
 	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
 	* [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](#chapter-7--temporal-aspects-of-learning-analytics---grounding-analyses-in-concepts-of-time)
 	* [CHAPTER 15: Game Learning Analytics](#chapter-15-game-learning-analytics)
+* [Lankoski & Björk, 2015: Game Research Methods, an overview](#lankoski--björk-2015-game-research-methods-an-overview)
+	* [CHAPTER 10. Landers & Bauer, 2015 : Quantitative methods and analyses for the study of players and their Behaviour, ](#chapter-10-landers--bauer-2015--quantitative-methods-and-analyses-for-the-study-of-players-and-their-behaviour-)
+	* [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](#chapter-14-wallner--kriglstein-2015--an-introduction-to-gameplay-data-vizualization)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -1744,6 +1747,41 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Standardizing the assessment of efficacy in learning games is a prime opportunity in GLA (...) This work can build on existing standardization frameworks in VG industry ([El-Nasr et al., 2013](https://link.springer.com/book/10.1007/978-1-4471-4769-5)) and could also enable the evalution of learning across multiple games and contexts.
 	- Inform far transfer to differnt activities when integrated with other school and activity data.
 	- Evolve to be transparent, digestible, controlled by, and empowering for all involved participants – teachers, parents and in particular learners themselves.
+
+## [Lankoski & Björk, 2015: Game Research Methods, an overview](https://books.google.ch/books?hl=fr&lr=&id=Pya9CQAAQBAJ&oi=fnd&pg=PR1&dq=game+research+methods&ots=K7oifipp_u&sig=pWEjyV4r5DdMaPESmZw08fQXpGw&redir_esc=y#v=onepage&q=game%20research%20methods&f=false)
+
+### [CHAPTER 10. Landers & Bauer, 2015 : Quantitative methods and analyses for the study of players and their Behaviour, ](https://dl.acm.org/doi/abs/10.5555/2812774.2812788)
+
+**THM** : Very good intro to quanti methods
+
+**Authors** : RICHARD N. LANDERS AND KRISTINA N. BAUER
+
+**Tags** : :quantitative: :player-analysis: :behavior-analysis: :game-analytics:
+
+**Abstract** : Often, when studying games, researchers need to describe, explain, or predict human behaviour. The behaviour we're interested in may occur outside of a game--for example, does violent videogame play cause aggression in children? But the behaviour we're interested in may instead occur inside of a game--for example, does tweaking a particular game element increase player satisfaction? In both of these cases, we want to know the answer to what appears on its surface to be a straightforward question: given a particular situation of interest, what do people do? Unfortunately, people's behaviour is difficult to predict well because people vary to a high degree both interpersonally and across contexts. They have different hopes, dreams, ideas, experiences, skills, attitudes, abilities, and so on, all of which come together to influence their reactions to any particular situation. So how do we develop general rules for how people behave?
+
+**Notes**
+- Construct of interest : any unmeasurable char of a player or a game
+- Since constructs are un measurable, we must operationalize constructs, and the goal of operationalization is to ensure the way that the construct is measured is as accurate a representation of the construct as possible. Operational definitions are precise, objective ways that we try to measure constructs.
+- Relationshiops bw constructs are generally reffered to as theory, whereas relationships between operational definitiosn are referred to as hypotheses.
+- When an independent-samples t-test is statistically significan, it means that if we were to assume there was no true difference between the experimental grops, it is highly improbable that the difference we found in our study would have occured.
+
+### [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](https://dl.acm.org/doi/abs/10.5555/2812774.2812792)
+
+**THM** : 
+
+**Authors** : Günter Wallner, Simone Kriglstein 
+
+**Tags** : 
+
+**Abstract** : The prevalence of internet-enabled gaming devices enables game developers nowadays to remotely and unobtrusively monitor every aspect of a game, allowing them to accumulate large amounts of data of the player-game interaction over extended time periods. This data has become a viable source for developers to guide decision-making throughout the game design process and even after the game has been released, for example, to identify balancing issues (Kim, et al., 2008; Zoeller, 2010), to understand player movement (Moura, El-Nasr and Shaw, 2011), to reduce production costs (Hullett, et al., 2011), or to uncover bugs (Zoeller, 2010), to name but a few. At the same time, the increasing popularity of online multiplayer gaming has attached great importance to in-game statistics to allow players to recap their performance and to compare it with others. This growing interest in game telemetry data is reflected by the emergence of the new field of game analytics--concerned with the discovery and communication of meaningful patterns in data as applied in the context of game development and game research (cf. El-Nasr, Drachen and Canossa, 2013). Game analytics heavily relies on visualization techniques to assist developers and players alike to understand, analyze, and explore the data (cf. Wallner and Kriglstein, 2013). Visualizations in game research can be helpful to discover unexpected paths which have been taken by the players, to identify possible design and balancing problems, or to find common patterns in the behavior of the players. Moreover, since the rich interaction possibilities provided by a game can give rise to emergent behavior which is hard to anticipate, visualizations can assist in exploratory data analysis helping the analyst to discover potentially interesting structures, trends, and anomalies not thought of beforehand.
+
+**Notes**
+- Analytics, in a broad sense, is the process of identifying and communicating meaningful patterns to inform decision making.
+- Game analytics can thus be understood as the application of analytics to game dev and research (El-Nasr et al., 2013)
+- For a visualization to be effective it has to be appropriate for the specific tasks and goals of the user.
+- Visualization first § is showing why visu is important
+- Ben Medler – Data Cracker
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
