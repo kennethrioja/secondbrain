@@ -2,6 +2,12 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?](#07122023---unige-numérique-et-inclusion-à-lécole-quelles-réponses-dans-la-formation-à-lenseignement-)
+* [07.12.2023 - GameLab, UNIL, Penser et intégrer le jeu vidéo dans sa pratique enseignante](#07122023---gamelab-unil-penser-et-intégrer-le-jeu-vidéo-dans-sa-pratique-enseignante)
+	* [Bruno Dupont - Une didactique du jeu vidéo](#bruno-dupont---une-didactique-du-jeu-vidéo)
+	* [Les JV comme outils d'apprentissage](#les-jv-comme-outils-dapprentissage)
+	* [David Javet (UNIL-EPFL) : Play-conférence : une autre manière de discuter le jeu vidéo](#david-javet-unil-epfl--play-conférence--une-autre-manière-de-discuter-le-jeu-vidéo)
+	* [Table ronde](#table-ronde)
 * [14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics](#14112023---10-mythes-sur-lapprentissage-à-distance--tecfagora-eric-sanchez--elsa-paukovics)
 * [13.11.2023 - Semaine de l'entrepereunariat](#13112023---semaine-de-lentrepereunariat)
 	* [Ressources](#ressources)
@@ -24,6 +30,78 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?
+
+- Intervenants : Dre. Oula Abu-Amsha, Inter-agency Network for Education in Emergencies – INEE (membre du RECI) / Pr. El Hadji Yaya Koné, Université d’Ottawa  / Frank Grisard, enseignement primaire Canton de Genève / Jean-René Guénée, Direction générale de l’enseignement obligatoire (DGEO – Genève)
+- Moratoire d'utiliser les tablettes en 1p-4p
+- Technologie comme soutien de l'apprentissage que comme un objet de l'apprentissage.
+- !! Problème d'appropriation des technologies / solutions par les enseignant·e·s !! Mais techno n'est pas la solution, seulement un moyen.
+- Le numérique remplace d'autres compétences
+- Comment opérationaliser sur le terrain ?
+- Opportunités :
+	- Aller sur le terrain et voir ce que eux peuvent faire, mais ne pas imposer, donner le temps d'appropriation
+	- En s'adaptant et en accompagnant les enseignant·e·s dans LEUR réalité du terrain
+- On forme pour un usage -> On forme à un usage
+- Prendre en formation uniquement celleux qui en font usage
+- Partir du terrain
+- Conception universelle de l'apprentissage, ressources d'emblée accessible à tout le monde
+
+# 07.12.2023 - GameLab, UNIL, Penser et intégrer le jeu vidéo dans sa pratique enseignante
+
+## Bruno Dupont - Une didactique du jeu vidéo
+
+- [Bruno Dupont (Université de Louvain, Belgique)](https://soc.kuleuven.be/mintlab/blog/researcher/bruno-dupont/)
+- THM : Prérequis et peur à jouer aux jeux
+- Liège GameLab : Travailler avec la culture vidéoludique pour pouvoir donner capacité de donner enseignement avec JV
+- Donner une base nécessaire avant de parler de JV : Capital Ludique, inciter à expérimenter les jeu => Ne fonctionne pas car ne vont pas tester chez elleux => DONC jouer en classe pour voir les problématiques mais obstacles :
+	- Peur de manquer de skills
+	- Malaise à jouer devant un public
+	- Méconnaissance du genre de jeu
+	- Incertitude quant à sa propre capacité d'analyse
+- Littéracie vidéoludique : VOIR SLIDES
+- Spectre de comment on apprend, meta cognition.
+- Renforcement positif
+- ? : Avez-vous pu tester ces critères, pour baisser la peur de s'engager dans les JV
+
+##  Les JV comme outils d'apprentissage
+
+- [Julien Annart (FOR’J, Belgique)](http://www.forj.be/#quisommesnous-link)
+- [educajeux.be](https://educajeux.be)
+- Overcooked -> Modèles Politiques (A VOIR)
+- Erreur =/= Echec
+- Evaluation : en France évalué 1j/2 et n'utilise pas l'erreur pour continuer l'apprentissage, sécurité
+- ? Une proposition d'amélioration concrète pour l'évaluation
+
+## David Javet (UNIL-EPFL) : Play-conférence : une autre manière de discuter le jeu vidéo
+
+- [David Javet](https://people.epfl.ch/david.javet)
+- Recommandé car résoud les pb techniques et logistiques, on peut juste utiliser qu'une console
+- Moins se permettre quand dialogues et pas de surcharge cognitive
+- ? Comment gère la sauvegarde pour les enseignant·e·s?
+
+## Table ronde
+
+- Faire société :
+	- Idée de travailler des jeux non-compet, exploration permet de rebondir, créer une interaction avec le public en direct
+	- Espace pour faire vivre
+	- Public le plus difficile : enseignant·e·s, besoin d'outils, questions et critiques sur vécu d'avant, ne pas utiliser directement le jeu vidéo, activités d'intro : photolanguages, screenshots et demande de présenter leur état d'esprit en utilisant ces screenshots, pas lié au JV et "ah belles images" sonde et approche par ces personnes là de ces personnes + varier le nb de personnes (1 pour tous ou petits groupes)
+- Piaget : appropriation et .. ?
+- 1,2,tous Tiagi? Qui est l'auteur?
+- Savoir en conception ludique que jeu vidéo
+- Numérique permet l'autonomie
+- Casse brique, déjà donner un bloc de code pour sensbiliser à language de programmation et modifie variables
+- Marion Bareille pour apprendre Twine
+- Evaluation avec jeu bof, mais utilisation du jeu pour la dynamique de l'erreur.
+- La fin du game (available online, CHECK) : public cible.
+- Réappropriez vous des jeux qui existent déjà, prenez els mécaniques qui vous plaisent, simplifier.
+- Le jeu permet une simplification
+- L'Atelier du jeu vidéo, nintendo. 
+- Human ressource machine versus
+- Nogo :
+	- Atelier du Jeu vidéo, object où pas d'enseignant, une des choses à oublier, difficile d'ajouter une parole dessus
+	- Julien : retour d'expérience nogo, invite-le : ça va foirer
+	- Alterner le jeu et débrief pour décomposer/debriefing
 
 # 14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics
 
