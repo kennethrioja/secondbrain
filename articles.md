@@ -8,6 +8,7 @@
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
 * [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
+* [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
@@ -177,6 +178,25 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Ethics and privacy
 	- Scope and Quality of Data : Gasevic et al (2015) pointed out that LA cannot fit one size to all. LA models should not be general and collect general data. It should focus on a specific scope of specific data with high quality that could  give true insights in learning and teaching. (link with PISA in Finland?)
 	- Theoretical and Educational Foundation : (good section, to read) LA is about learning Gasevic et al (2014)
+
+## [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](https://doi.org/10.1111/jcpp.13932)
+
+**THM** : Context of use is dearly needed when talking about phone use
+
+**Authors** :Benoit Bediou, Sezen Cekic, Daphné Bavelier
+
+**Tags** : :child-development: :screen: :cognitive-development:
+
+**Abstract** :There have been extensive debates about the impact of the digital transformation on human development. A recent study by Yang and colleagues highlights the importance of considering context of use, beyond amount of use. In their study, children from parents who reported having TV-on during family meals when they were 2 years old showed poorer cognitive development at age 3.5 as compared to those with TV-off during family meals. This highlights the importance of considering the context of use when studying effect of screen use. While Yang et al. discuss the distracting effects of TV-on sensory processing, we propose an alternative – and not mutually exclusive – interpretation based on TV induced deprivation of family interactions. On a more practical note, this should encourage to preserve screen-free time, especially during structured time such as family meals, in order to maintain family interactions known to be critical to development.
+
+**Notes**
+- Yang et al. ([2023](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13887)) most notable feature : effect of TV-on during family meals at 2yo on Child Development Index predicted 1% of variability in cognition
+- BUT also detrimental effect of sleep depriation on cog is also 1% (Durmer et al., 2005) and beneficial effect of caffeine on memory in shift workers (Ker et al., 2010)
+- Parent's tech consumption during meals : phubbing (phone & snubbing) + evidence that parental smartphone use is deleterious to parent-child interaction which in turn are critical to the dev of socioemotional and language skills
+- TV-on during family meals at 2 years of age result in weaker cognition at 3.5 years of age.
+- Screen time does not predict cognitive development.
+- TV during meals may deprive from social interactions that promote healthy cognitive development.
+- TV and other screens should be turned off during structured family time, such as meals to promote familial interactions critical to healthy development.
 
 ## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
 
@@ -1782,6 +1802,8 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - For a visualization to be effective it has to be appropriate for the specific tasks and goals of the user.
 - Visualization first § is showing why visu is important
 - Ben Medler – Data Cracker
+- Charts :
+	- 
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
