@@ -6,6 +6,7 @@
 * [Deep Work - Cal Newport](#deep-work---cal-newport)
 * [Game Programming Patters - Robert Nystrom](#game-programming-patters---robert-nystrom)
 * [Learning Vim Script The Hard Way - Steve Losh](#learning-vim-script-the-hard-way---steve-losh)
+* [Good Video Games + Good Learning – James Paul Gee](#good-video-games--good-learning--james-paul-gee)
 * [Making Games for Impact - Kirt Squire](#making-games-for-impact---kirt-squire)
 * [The Gamer's Brain - Celia Hodent](#the-gamers-brain---celia-hodent)
 * [Trillion Dollar Coach – Eric Schmidt, Jonathan Rosenber and Alan Eagle](#trillion-dollar-coach--eric-schmidt-jonathan-rosenber-and-alan-eagle)
@@ -59,6 +60,57 @@ Other resources :
 - 
 
 # [Learning Vim Script The Hard Way - Steve Losh](https://learnvimscriptthehardway.stevelosh.com/?link_credit=KennethRioja)
+
+# Good Video Games + Good Learning – James Paul Gee
+
+- 1: purpose make every learnier: proactive, collaborative, reflective, critical, creative and inoovative problem solver = a producer with tech and not just a consumer; and a fully engaged in civic public sphere
+- 2: Situated embodied learning = learning by participation in experience with clear goals, formative feedback, talk and interaction around strategies, critique planning and production within a "passionate affinity space"
+- 2: Kids learn with games when engaged: well designed & good interaction with adults & more advanced peers
+- 6: Single minded, single focused experts are dangerous
+- 9: Passion and master in a creative way
+- 23: I. Empowered learners (1-4), II. Problem Solving (5-11), III. Understanding
+	1. Codesign : Ownership, buy in, engaged participants are students helping to design their own learning : meaningful ways
+	2. Customize : encourage different learning styles and different problem solution with a risking a bad grade
+	3. Identity
+	4. Manipulation & Distributed Knowledge : "union of all the knowledge of individuals in a community of agents" ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Distributed_knowledge))
+	5. Well-Ordered Problems
+	6. Pleasantly Frustrating
+	7. Cycles of Expertise
+	8. Information "On Demand" and "Just in Time"
+	9. Fish Tanks (e.g., models and simplification of real life)
+	10. Sandboxes
+	11. Skills as Strategies
+	12. System Thinking
+	13. Meaning as Action Image
+- 61: Games are based not on content but on pb to solve, content serves pb solving, books should be used this way + Games lead to designing (like books can function when we ask students to "read like writers")
+- 63: Giving books to poor kids does not close a gap, it depends on what you do with and when you do it with... Interactive talk + experience "situated/embodied meaning"
+- 66: Experience properties for learning :
+	1. Clear goals
+	2. Good feedback to rethink goals
+	3. Compare current experience with prior and find patters
+	4. Talk about your assumptions, hypotheses, strategies while acting and after action
+	5. Hear about the others' assumptions
+	6. Allow persistance on past failure, exploration, taking risks and innovation : cost of failure low
+	7. Hear expert language that fits experience
+	8. Assessment on growth variables accross time
+- 70: Design games for testing : at minimum assess collaboration, innnovation, production, design + prepare for future learning, how to make good choices, and understand the consequences
+- 75: Break the old paradigm of teaching to standardized tests of basic facts and skills (Games do this) :
+	1. Change what we test : focus on pb solving, colaboration, innovation, production, design, evaluating students' preparation for future learning
+	2. Change how the assessment takes place : track different information over time
+	3. Change the purpose of assessment
+- 87: What is not a community of practice ([Wenger, Mc Dermott & Snyder, 2002](https://www.clearwatervic.com.au/user-data/resource-files/7Principles_Community-of-Practice.pdf))
+- 97: Affinity space :
+	1. Common endeavour, goal, interest, practices; no race/gender/age/disability; social class is backgrounded and can shown / modified -> allow self-identification
+	2. Newbies & masters at sameplace -> allow mixing
+	3. Portals as generators -> allow shaping environment
+	4. Content organisation is transformed by interactional organs, measure, analyse, decide better
+	5. Encourage intensive (\/ mastery) ad extensive (---.--- broad) knowledge -> creates people who share lots of Kn & anyone can offer something special to others
+	6. Encourage individual and distributed Kn -> spaces to learn & contirbute, encourage to act with others
+	7. Encourage dispersed Kn
+	8. Use and honor tacit Kn -> Kn from the work, to document, form or technical talk
+	9. Different forms & route to participation -> allow periperal & centered participatn & can change
+	10. Lots of different routes to status -> allow recognition for every specificity
+	11. Leadership is porous & leaders are resources
 
 # Making Games for Impact - Kirt Squire
 
