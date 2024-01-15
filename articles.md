@@ -71,6 +71,8 @@
 * [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
 * [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
+* [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](#seif-el-nasr-2013--game-analytics-maximizing-the-value-of-player-data)
+	* [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](#chapter-12--drachen-et-al-2013--game-data-mining)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -2319,6 +2321,26 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	4. Data aspects : transparency, data standards, data ownership, privacy
 	5. Organisational aspects : availability, implementation, training of educational stakeholders, organisational change
 - !!! : More research- than practice-oriented
+
+## [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](https://link.springer.com/book/10.1007/978-1-4471-4769-5)
+
+### [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](https://doi.org/10.1007/978-1-4471-4769-5_12)
+
+**THM** : 
+
+**Authors** : Drachen, A., Thurau, C., Togelius, J., Yannakakis, G. N., & Bauckhage, C
+
+**Tags** : :game-analytics: :data-mining:
+
+**Abstract** : During the years of the Information Age, technological advances in the computers, satellites, data transfer, optics, and digital storage has led to the collection of an immense mass of data on everything from business to astronomy, counting on the power of digital computing to sort through the amalgam of information and generate meaning from the data. Initially, in the 1970s and 1980s of the previous century, data were stored on disparate structures and very rapidly became overwhelming. The initial chaos led to the creation of structured databases and database management systems to assist with the management of large corpuses of data, and notably, the effective and efficient retrieval of information from databases. The rise of the database management system increased the already rapid pace of information gathering.
+
+**Notes**
+- Develeop better AI-controlled opponents or make games that adapt to the player ([Charles and Black, 2004](https://www.cp.eng.chula.ac.th/~vishnu/gameResearch/AI_november_2005/DynamicPlayerModelling.pdf), [Thurau et al., 2007](https://doi.org/10.1504/IJISTA.2007.012489), [Missura & Gärtner, 2009](https://link.springer.com/chapter/10.1007/978-3-642-04747-3_17), [Pedersen et al., 2010](https://doi.org/10.1109/TCIAIG.2010.2043950), [Yannakakis and Hallam, 2009](https://doi.org/10.1109/TCIAIG.2009.2024533)
+- Cross Industry Standard Process for Data Mining (CRISP-DM)
+- https://gameanalytics.com/blog/
+- [Using AI for Game UX](https://www.youtube.com/watch?v=Lc4b7fqyOGQ) :
+	- Why people do things?
+	- How do we report GA in such a way, that all the different stakeholders can utilize and drive action from it ? How to communicate and how do we drive action X ?
 
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
