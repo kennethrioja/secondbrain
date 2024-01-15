@@ -4,10 +4,15 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Mastering the Vim Language](#mastering-the-vim-language)
-* [Why should you use a basic text editor?](#why-should-you-use-a-basic-text-editor)
-* [How to learn (...) without following tutorials ?](#how-to-learn--without-following-tutorials-)
-* [Github working in group setup](#github-working-in-group-setup)
+	* [Mastering the Vim Language](#mastering-the-vim-language)
+	* [Why should you use a basic text editor?](#why-should-you-use-a-basic-text-editor)
+	* [How to learn (...) without following tutorials ?](#how-to-learn--without-following-tutorials-)
+	* [Github working in group setup](#github-working-in-group-setup)
+	* [Unity](#unity)
+		* [20 Unity Tips in 10 min](#20-unity-tips-in-10-min)
+		* [10 Unity Tips You (Probably) Didn't Know About](#10-unity-tips-you-probably-didnt-know-about)
+		* [Scriptable Objects](#scriptable-objects)
+		* [ML-agents](#ml-agents)
 
 <!-- vim-markdown-toc -->
 
@@ -64,3 +69,34 @@ https://www.youtube.com/watch?v=vFjXKOXdgGo
 - `git fetch -p origin`
 - `git branch -rd origin/*`
 - `git pull origin main`
+
+## Unity
+
+### [20 Unity Tips in 10 min](https://www.youtube.com/watch?v=4NNAYvhCWjQ)
+- Inspector Debug View > UpRight corner Normal to Debug, it allows to see private fields, do not use debug.log!, press option key to see real var names
+- Hierarchy Lock and Visibility Button
+- Anonymous Lambda Functions : .onClick.AddListener(() => {});
+- Destroy(this) # destroys script, useful when unit dies but keep animation
+- Debug.Drawline(currentpos,nextpos)
+- Shift+Space : fullscreen
+- Cmd+D : Duplicate
+- F : Focus on object
+- Cmd+Shift+F : Match object with scene camera
+
+### [10 Unity Tips You (Probably) Didn't Know About](https://www.youtube.com/watch?v=fmbYlYU7z9Y)
+- private IEnumerator Start() -> turns start into co-routine that automatically starts at runtime (e.g., timer)
+- To assign multiple objects, instead of locking, open Properties window and drag-drop
+- /// to write a summary of your function
+- Change "if (var != null)" by "var?"
+- Preferences > Scene View > Create Objects at Origin
+
+### [Scriptable Objects](https://www.youtube.com/watch?v=aPXvoWVabPY)
+- Data containers
+- Act as a template
+- Monobehavior to `ScriptableObject`
+- Add before public class `[CreateAssetMenu(fileName = "", menuName = "")]`
+
+### [ML-agents](https://www.youtube.com/watch?v=zPFU30tbyKs)
+- 
+
+###
