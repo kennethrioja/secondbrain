@@ -51,6 +51,8 @@
 * [Lankoski & Björk, 2015: Game Research Methods, an overview](#lankoski--björk-2015-game-research-methods-an-overview)
 	* [CHAPTER 10. Landers & Bauer, 2015 : Quantitative methods and analyses for the study of players and their Behaviour, ](#chapter-10-landers--bauer-2015--quantitative-methods-and-analyses-for-the-study-of-players-and-their-behaviour-)
 	* [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](#chapter-14-wallner--kriglstein-2015--an-introduction-to-gameplay-data-vizualization)
+* [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](#chapter-19-mohseni-et-al-2015--extensive-modding-for-experimental-game-research)
+* [CHAPTER 20. Waern & Back, 2015. Experimental Design.](#chapter-20-waern--back-2015-experimental-design)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -1790,11 +1792,11 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ### [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](https://dl.acm.org/doi/abs/10.5555/2812774.2812792)
 
-**THM** : 
+**THM** : Shows all kind of data visualization
 
 **Authors** : Günter Wallner, Simone Kriglstein 
 
-**Tags** : 
+**Tags** : :game-analytics: :gameplay-data: :visualization:
 
 **Abstract** : The prevalence of internet-enabled gaming devices enables game developers nowadays to remotely and unobtrusively monitor every aspect of a game, allowing them to accumulate large amounts of data of the player-game interaction over extended time periods. This data has become a viable source for developers to guide decision-making throughout the game design process and even after the game has been released, for example, to identify balancing issues (Kim, et al., 2008; Zoeller, 2010), to understand player movement (Moura, El-Nasr and Shaw, 2011), to reduce production costs (Hullett, et al., 2011), or to uncover bugs (Zoeller, 2010), to name but a few. At the same time, the increasing popularity of online multiplayer gaming has attached great importance to in-game statistics to allow players to recap their performance and to compare it with others. This growing interest in game telemetry data is reflected by the emergence of the new field of game analytics--concerned with the discovery and communication of meaningful patterns in data as applied in the context of game development and game research (cf. El-Nasr, Drachen and Canossa, 2013). Game analytics heavily relies on visualization techniques to assist developers and players alike to understand, analyze, and explore the data (cf. Wallner and Kriglstein, 2013). Visualizations in game research can be helpful to discover unexpected paths which have been taken by the players, to identify possible design and balancing problems, or to find common patterns in the behavior of the players. Moreover, since the rich interaction possibilities provided by a game can give rise to emergent behavior which is hard to anticipate, visualizations can assist in exploratory data analysis helping the analyst to discover potentially interesting structures, trends, and anomalies not thought of beforehand.
 
@@ -1802,10 +1804,59 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Analytics, in a broad sense, is the process of identifying and communicating meaningful patterns to inform decision making.
 - Game analytics can thus be understood as the application of analytics to game dev and research (El-Nasr et al., 2013)
 - For a visualization to be effective it has to be appropriate for the specific tasks and goals of the user.
-- Visualization first § is showing why visu is important
+- Visualisation in important because : organization of large amounts of info in a quickly accessible form, builds value knowledge, quality control of the data
 - Ben Medler – Data Cracker
-- Charts :
-	- 
+- Charts / Heatmaps
+- Movement visualizations :
+	- Track position at regular time interals + orientation or health
+- Node-link representation :
+	- Used to visualize abstract or high-dimentional data
+
+## [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](https://dl.acm.org/doi/abs/10.5555/2812774.2812799)
+
+**THM** : Best practices for extensive modding
+
+**Authors** : M. ROHANGIS MOHSENI, BENNY LIEBOLD AND DANIEL PIETSCHMANN
+
+**Tags** : :extensive-modding: :game-research:
+
+**Abstract** : This chapter covers the topic of extensive modding in the area of experimental game research. In simplified terms, modding a computer game means changing specific aspects of how the game looks and feels to the user. This also includes applying minor changes to the game, such as changing the appearance of just a few objects, which does not require a high degree of expertise. Solely relying on making minor changes, however, severely limits the type of research questions that can be addressed. Therefore, we advocate extensive modding, which refers to modifications of a large extent that allow researchers to examine almost any research question imaginable. Extensive modifications may range from major content extensions or replacements, like new tasks or quests, game environments, characters or game mechanics, to total conversions, like changing the game scenario or theme, or the game genre. To apply these changes, researchers have to know which modding tools are available for a given game and how to use them properly. Advanced modifications, such as changing the behaviour of the game world and its inhabitants or even the fundamental mechanics of the game, often require deep knowledge of the game, game design, the modding community and--depending on the game--a certain level of programming skills.
+
+**Notes**
+- Modding (Scacchi, 2010) :
+	1. User interface customizations*
+	2. Game conversion mods*
+	3. Machinima and art mods
+	4. Custom gaming PCs
+	5. Game console hacking
+- Best practices :
+	- Choose the game :
+		- It should be up-to-date
+		- Should have an active modding community
+		- Should provide a setting that is suitable for the research question
+	- Learn the game
+	- Setup the plateform
+	- Maximize internal validity
+	- Create comparable stimuli
+	- Equalize player sample
+	- Dynamically adapt difficulty
+	- Reduce Game complexity
+	- Control cofounder variation
+	- Conduct pre-test
+	- Collect data
+
+## [CHAPTER 20. Waern & Back, 2015. Experimental Design.](https://dl.acm.org/doi/abs/10.5555/2812774.2812800)
+
+**THM** : NA
+
+**Authors** : Annika Waern, Jon Back
+
+**Tags** : :game-design:
+
+**Abstract** : One way to understand games better is to experiment with their design. While experimental game design is part of most game design, this chapter focuses on ways in which it can become amethod to perform academic enquiry, eliciting deeper principles for game design.
+
+**Notes**
+- NA
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
@@ -2326,7 +2377,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 ### [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](https://doi.org/10.1007/978-1-4471-4769-5_12)
 
-**THM** : 
+**THM** : Re-read if interested in techniques of game data mining
 
 **Authors** : Drachen, A., Thurau, C., Togelius, J., Yannakakis, G. N., & Bauckhage, C
 
