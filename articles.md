@@ -8,6 +8,7 @@
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
 * [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
+* [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
@@ -47,6 +48,11 @@
 	* [CHAPTER 4 : Cacophony of Networks in Learning Analytics](#chapter-4--cacophony-of-networks-in-learning-analytics)
 	* [CHAPTER 7 : Temporal Aspects of Learning Analytics - Grounding Analyses in Concepts of Time](#chapter-7--temporal-aspects-of-learning-analytics---grounding-analyses-in-concepts-of-time)
 	* [CHAPTER 15: Game Learning Analytics](#chapter-15-game-learning-analytics)
+* [Lankoski & Björk, 2015: Game Research Methods, an overview](#lankoski--björk-2015-game-research-methods-an-overview)
+	* [CHAPTER 10. Landers & Bauer, 2015 : Quantitative methods and analyses for the study of players and their Behaviour, ](#chapter-10-landers--bauer-2015--quantitative-methods-and-analyses-for-the-study-of-players-and-their-behaviour-)
+	* [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](#chapter-14-wallner--kriglstein-2015--an-introduction-to-gameplay-data-vizualization)
+* [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](#chapter-19-mohseni-et-al-2015--extensive-modding-for-experimental-game-research)
+* [CHAPTER 20. Waern & Back, 2015. Experimental Design.](#chapter-20-waern--back-2015-experimental-design)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -67,6 +73,8 @@
 * [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
 * [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
+* [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](#seif-el-nasr-2013--game-analytics-maximizing-the-value-of-player-data)
+	* [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](#chapter-12--drachen-et-al-2013--game-data-mining)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -174,6 +182,25 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Ethics and privacy
 	- Scope and Quality of Data : Gasevic et al (2015) pointed out that LA cannot fit one size to all. LA models should not be general and collect general data. It should focus on a specific scope of specific data with high quality that could  give true insights in learning and teaching. (link with PISA in Finland?)
 	- Theoretical and Educational Foundation : (good section, to read) LA is about learning Gasevic et al (2014)
+
+## [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](https://doi.org/10.1111/jcpp.13932)
+
+**THM** : Context of use is dearly needed when talking about phone use
+
+**Authors** :Benoit Bediou, Sezen Cekic, Daphné Bavelier
+
+**Tags** : :child-development: :screen: :cognitive-development:
+
+**Abstract** :There have been extensive debates about the impact of the digital transformation on human development. A recent study by Yang and colleagues highlights the importance of considering context of use, beyond amount of use. In their study, children from parents who reported having TV-on during family meals when they were 2 years old showed poorer cognitive development at age 3.5 as compared to those with TV-off during family meals. This highlights the importance of considering the context of use when studying effect of screen use. While Yang et al. discuss the distracting effects of TV-on sensory processing, we propose an alternative – and not mutually exclusive – interpretation based on TV induced deprivation of family interactions. On a more practical note, this should encourage to preserve screen-free time, especially during structured time such as family meals, in order to maintain family interactions known to be critical to development.
+
+**Notes**
+- Yang et al. ([2023](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13887)) most notable feature : effect of TV-on during family meals at 2yo on Child Development Index predicted 1% of variability in cognition
+- BUT also detrimental effect of sleep depriation on cog is also 1% (Durmer et al., 2005) and beneficial effect of caffeine on memory in shift workers (Ker et al., 2010)
+- Parent's tech consumption during meals : phubbing (phone & snubbing) + evidence that parental smartphone use is deleterious to parent-child interaction which in turn are critical to the dev of socioemotional and language skills
+- TV-on during family meals at 2 years of age result in weaker cognition at 3.5 years of age.
+- Screen time does not predict cognitive development.
+- TV during meals may deprive from social interactions that promote healthy cognitive development.
+- TV and other screens should be turned off during structured family time, such as meals to promote familial interactions critical to healthy development.
 
 ## [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](https://doi.org/10.1016/B978-0-12-818872-9.00190-4)
 
@@ -1745,6 +1772,92 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Inform far transfer to differnt activities when integrated with other school and activity data.
 	- Evolve to be transparent, digestible, controlled by, and empowering for all involved participants – teachers, parents and in particular learners themselves.
 
+## [Lankoski & Björk, 2015: Game Research Methods, an overview](https://books.google.ch/books?hl=fr&lr=&id=Pya9CQAAQBAJ&oi=fnd&pg=PR1&dq=game+research+methods&ots=K7oifipp_u&sig=pWEjyV4r5DdMaPESmZw08fQXpGw&redir_esc=y#v=onepage&q=game%20research%20methods&f=false)
+
+### [CHAPTER 10. Landers & Bauer, 2015 : Quantitative methods and analyses for the study of players and their Behaviour, ](https://dl.acm.org/doi/abs/10.5555/2812774.2812788)
+
+**THM** : Very good intro to quanti methods
+
+**Authors** : RICHARD N. LANDERS AND KRISTINA N. BAUER
+
+**Tags** : :quantitative: :player-analysis: :behavior-analysis: :game-analytics:
+
+**Abstract** : Often, when studying games, researchers need to describe, explain, or predict human behaviour. The behaviour we're interested in may occur outside of a game--for example, does violent videogame play cause aggression in children? But the behaviour we're interested in may instead occur inside of a game--for example, does tweaking a particular game element increase player satisfaction? In both of these cases, we want to know the answer to what appears on its surface to be a straightforward question: given a particular situation of interest, what do people do? Unfortunately, people's behaviour is difficult to predict well because people vary to a high degree both interpersonally and across contexts. They have different hopes, dreams, ideas, experiences, skills, attitudes, abilities, and so on, all of which come together to influence their reactions to any particular situation. So how do we develop general rules for how people behave?
+
+**Notes**
+- Construct of interest : any unmeasurable char of a player or a game
+- Since constructs are un measurable, we must operationalize constructs, and the goal of operationalization is to ensure the way that the construct is measured is as accurate a representation of the construct as possible. Operational definitions are precise, objective ways that we try to measure constructs.
+- Relationshiops bw constructs are generally reffered to as theory, whereas relationships between operational definitiosn are referred to as hypotheses.
+- When an independent-samples t-test is statistically significan, it means that if we were to assume there was no true difference between the experimental grops, it is highly improbable that the difference we found in our study would have occured.
+
+### [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](https://dl.acm.org/doi/abs/10.5555/2812774.2812792)
+
+**THM** : Shows all kind of data visualization
+
+**Authors** : Günter Wallner, Simone Kriglstein 
+
+**Tags** : :game-analytics: :gameplay-data: :visualization:
+
+**Abstract** : The prevalence of internet-enabled gaming devices enables game developers nowadays to remotely and unobtrusively monitor every aspect of a game, allowing them to accumulate large amounts of data of the player-game interaction over extended time periods. This data has become a viable source for developers to guide decision-making throughout the game design process and even after the game has been released, for example, to identify balancing issues (Kim, et al., 2008; Zoeller, 2010), to understand player movement (Moura, El-Nasr and Shaw, 2011), to reduce production costs (Hullett, et al., 2011), or to uncover bugs (Zoeller, 2010), to name but a few. At the same time, the increasing popularity of online multiplayer gaming has attached great importance to in-game statistics to allow players to recap their performance and to compare it with others. This growing interest in game telemetry data is reflected by the emergence of the new field of game analytics--concerned with the discovery and communication of meaningful patterns in data as applied in the context of game development and game research (cf. El-Nasr, Drachen and Canossa, 2013). Game analytics heavily relies on visualization techniques to assist developers and players alike to understand, analyze, and explore the data (cf. Wallner and Kriglstein, 2013). Visualizations in game research can be helpful to discover unexpected paths which have been taken by the players, to identify possible design and balancing problems, or to find common patterns in the behavior of the players. Moreover, since the rich interaction possibilities provided by a game can give rise to emergent behavior which is hard to anticipate, visualizations can assist in exploratory data analysis helping the analyst to discover potentially interesting structures, trends, and anomalies not thought of beforehand.
+
+**Notes**
+- Analytics, in a broad sense, is the process of identifying and communicating meaningful patterns to inform decision making.
+- Game analytics can thus be understood as the application of analytics to game dev and research (El-Nasr et al., 2013)
+- For a visualization to be effective it has to be appropriate for the specific tasks and goals of the user.
+- Visualisation in important because : organization of large amounts of info in a quickly accessible form, builds value knowledge, quality control of the data
+- Ben Medler – Data Cracker
+- Charts / Heatmaps
+- Movement visualizations :
+	- Track position at regular time interals + orientation or health
+- Node-link representation :
+	- Used to visualize abstract or high-dimentional data
+
+## [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](https://dl.acm.org/doi/abs/10.5555/2812774.2812799)
+
+**THM** : Best practices for extensive modding
+
+**Authors** : M. ROHANGIS MOHSENI, BENNY LIEBOLD AND DANIEL PIETSCHMANN
+
+**Tags** : :extensive-modding: :game-research:
+
+**Abstract** : This chapter covers the topic of extensive modding in the area of experimental game research. In simplified terms, modding a computer game means changing specific aspects of how the game looks and feels to the user. This also includes applying minor changes to the game, such as changing the appearance of just a few objects, which does not require a high degree of expertise. Solely relying on making minor changes, however, severely limits the type of research questions that can be addressed. Therefore, we advocate extensive modding, which refers to modifications of a large extent that allow researchers to examine almost any research question imaginable. Extensive modifications may range from major content extensions or replacements, like new tasks or quests, game environments, characters or game mechanics, to total conversions, like changing the game scenario or theme, or the game genre. To apply these changes, researchers have to know which modding tools are available for a given game and how to use them properly. Advanced modifications, such as changing the behaviour of the game world and its inhabitants or even the fundamental mechanics of the game, often require deep knowledge of the game, game design, the modding community and--depending on the game--a certain level of programming skills.
+
+**Notes**
+- Modding (Scacchi, 2010) :
+	1. User interface customizations*
+	2. Game conversion mods*
+	3. Machinima and art mods
+	4. Custom gaming PCs
+	5. Game console hacking
+- Best practices :
+	- Choose the game :
+		- It should be up-to-date
+		- Should have an active modding community
+		- Should provide a setting that is suitable for the research question
+	- Learn the game
+	- Setup the plateform
+	- Maximize internal validity
+	- Create comparable stimuli
+	- Equalize player sample
+	- Dynamically adapt difficulty
+	- Reduce Game complexity
+	- Control cofounder variation
+	- Conduct pre-test
+	- Collect data
+
+## [CHAPTER 20. Waern & Back, 2015. Experimental Design.](https://dl.acm.org/doi/abs/10.5555/2812774.2812800)
+
+**THM** : NA
+
+**Authors** : Annika Waern, Jon Back
+
+**Tags** : :game-design:
+
+**Abstract** : One way to understand games better is to experiment with their design. While experimental game design is part of most game design, this chapter focuses on ways in which it can become amethod to perform academic enquiry, eliciting deeper principles for game design.
+
+**Notes**
+- NA
+
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
 **THM** : The designer's role in one team during co-conception is to let other's creativity emerge, to do that, he needs to take a step back, not thinking about the product's expected qualities, but aiming at a 'user-designed' product.
@@ -2259,6 +2372,26 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	4. Data aspects : transparency, data standards, data ownership, privacy
 	5. Organisational aspects : availability, implementation, training of educational stakeholders, organisational change
 - !!! : More research- than practice-oriented
+
+## [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](https://link.springer.com/book/10.1007/978-1-4471-4769-5)
+
+### [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](https://doi.org/10.1007/978-1-4471-4769-5_12)
+
+**THM** : Re-read if interested in techniques of game data mining
+
+**Authors** : Drachen, A., Thurau, C., Togelius, J., Yannakakis, G. N., & Bauckhage, C
+
+**Tags** : :game-analytics: :data-mining:
+
+**Abstract** : During the years of the Information Age, technological advances in the computers, satellites, data transfer, optics, and digital storage has led to the collection of an immense mass of data on everything from business to astronomy, counting on the power of digital computing to sort through the amalgam of information and generate meaning from the data. Initially, in the 1970s and 1980s of the previous century, data were stored on disparate structures and very rapidly became overwhelming. The initial chaos led to the creation of structured databases and database management systems to assist with the management of large corpuses of data, and notably, the effective and efficient retrieval of information from databases. The rise of the database management system increased the already rapid pace of information gathering.
+
+**Notes**
+- Develeop better AI-controlled opponents or make games that adapt to the player ([Charles and Black, 2004](https://www.cp.eng.chula.ac.th/~vishnu/gameResearch/AI_november_2005/DynamicPlayerModelling.pdf), [Thurau et al., 2007](https://doi.org/10.1504/IJISTA.2007.012489), [Missura & Gärtner, 2009](https://link.springer.com/chapter/10.1007/978-3-642-04747-3_17), [Pedersen et al., 2010](https://doi.org/10.1109/TCIAIG.2010.2043950), [Yannakakis and Hallam, 2009](https://doi.org/10.1109/TCIAIG.2009.2024533)
+- Cross Industry Standard Process for Data Mining (CRISP-DM)
+- https://gameanalytics.com/blog/
+- [Using AI for Game UX](https://www.youtube.com/watch?v=Lc4b7fqyOGQ) :
+	- Why people do things?
+	- How do we report GA in such a way, that all the different stakeholders can utilize and drive action from it ? How to communicate and how do we drive action X ?
 
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
