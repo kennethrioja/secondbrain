@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
 * [14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics](#14112023---10-mythes-sur-lapprentissage-à-distance--tecfagora-eric-sanchez--elsa-paukovics)
 * [13.11.2023 - Semaine de l'entrepereunariat](#13112023---semaine-de-lentrepereunariat)
 	* [Ressources](#ressources)
@@ -24,6 +25,10 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie
+- Punitive response with more time to wait can be a motivational punishment
+- RT measures : Intensity and stability
 
 # 14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics
 
