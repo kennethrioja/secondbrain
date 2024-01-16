@@ -2,16 +2,13 @@
 
 <!-- vim-markdown-toc GFM -->
 
-<<<<<<< HEAD
 * [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
-=======
 * [07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?](#07122023---unige-numérique-et-inclusion-à-lécole-quelles-réponses-dans-la-formation-à-lenseignement-)
 * [07.12.2023 - GameLab, UNIL, Penser et intégrer le jeu vidéo dans sa pratique enseignante](#07122023---gamelab-unil-penser-et-intégrer-le-jeu-vidéo-dans-sa-pratique-enseignante)
 	* [Bruno Dupont - Une didactique du jeu vidéo](#bruno-dupont---une-didactique-du-jeu-vidéo)
 	* [Les JV comme outils d'apprentissage](#les-jv-comme-outils-dapprentissage)
 	* [David Javet (UNIL-EPFL) : Play-conférence : une autre manière de discuter le jeu vidéo](#david-javet-unil-epfl--play-conférence--une-autre-manière-de-discuter-le-jeu-vidéo)
 	* [Table ronde](#table-ronde)
->>>>>>> a093c2e61e1317129361f61cbfe6320646875466
 * [14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics](#14112023---10-mythes-sur-lapprentissage-à-distance--tecfagora-eric-sanchez--elsa-paukovics)
 * [13.11.2023 - Semaine de l'entrepereunariat](#13112023---semaine-de-lentrepereunariat)
 	* [Ressources](#ressources)
@@ -35,11 +32,10 @@
 
 <!-- vim-markdown-toc -->
 
-<<<<<<< HEAD
 # 16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie
 - Punitive response with more time to wait can be a motivational punishment
 - RT measures : Intensity and stability
-=======
+
 # 07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?
 
 - Intervenants : Dre. Oula Abu-Amsha, Inter-agency Network for Education in Emergencies – INEE (membre du RECI) / Pr. El Hadji Yaya Koné, Université d’Ottawa  / Frank Grisard, enseignement primaire Canton de Genève / Jean-René Guénée, Direction générale de l’enseignement obligatoire (DGEO – Genève)
