@@ -107,7 +107,6 @@
 	- Atelier du Jeu vidéo, object où pas d'enseignant, une des choses à oublier, difficile d'ajouter une parole dessus
 	- Julien : retour d'expérience nogo, invite-le : ça va foirer
 	- Alterner le jeu et débrief pour décomposer/debriefing
->>>>>>> a093c2e61e1317129361f61cbfe6320646875466
 
 # 14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics
 
