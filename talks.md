@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
 * [07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?](#07122023---unige-numérique-et-inclusion-à-lécole-quelles-réponses-dans-la-formation-à-lenseignement-)
 * [07.12.2023 - GameLab, UNIL, Penser et intégrer le jeu vidéo dans sa pratique enseignante](#07122023---gamelab-unil-penser-et-intégrer-le-jeu-vidéo-dans-sa-pratique-enseignante)
 	* [Bruno Dupont - Une didactique du jeu vidéo](#bruno-dupont---une-didactique-du-jeu-vidéo)
@@ -30,6 +31,10 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie
+- Punitive response with more time to wait can be a motivational punishment
+- RT measures : Intensity and stability
 
 # 07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?
 
@@ -102,6 +107,7 @@
 	- Atelier du Jeu vidéo, object où pas d'enseignant, une des choses à oublier, difficile d'ajouter une parole dessus
 	- Julien : retour d'expérience nogo, invite-le : ça va foirer
 	- Alterner le jeu et débrief pour décomposer/debriefing
+>>>>>>> a093c2e61e1317129361f61cbfe6320646875466
 
 # 14.11.2023 - 10 mythes sur l'apprentissage à distance – TECF'Agora, Eric Sanchez & Elsa Paukovics
 
