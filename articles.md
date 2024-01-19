@@ -51,8 +51,8 @@
 * [Lankoski & Björk, 2015: Game Research Methods, an overview](#lankoski--björk-2015-game-research-methods-an-overview)
 	* [CHAPTER 10. Landers & Bauer, 2015 : Quantitative methods and analyses for the study of players and their Behaviour, ](#chapter-10-landers--bauer-2015--quantitative-methods-and-analyses-for-the-study-of-players-and-their-behaviour-)
 	* [CHAPTER 14. Wallner & Kriglstein, 2015 : An Introduction to Gameplay Data Vizualization](#chapter-14-wallner--kriglstein-2015--an-introduction-to-gameplay-data-vizualization)
-* [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](#chapter-19-mohseni-et-al-2015--extensive-modding-for-experimental-game-research)
-* [CHAPTER 20. Waern & Back, 2015. Experimental Design.](#chapter-20-waern--back-2015-experimental-design)
+	* [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](#chapter-19-mohseni-et-al-2015--extensive-modding-for-experimental-game-research)
+	* [CHAPTER 20. Waern & Back, 2015. Experimental Design.](#chapter-20-waern--back-2015-experimental-design)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
@@ -75,6 +75,7 @@
 * [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
 * [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](#seif-el-nasr-2013--game-analytics-maximizing-the-value-of-player-data)
 	* [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](#chapter-12--drachen-et-al-2013--game-data-mining)
+	* [CHAPTER 19 : Seif El-Nasr – Visual Analytics Tools – A Lens into Player’s Temporal Progression and Behavior](#chapter-19--seif-el-nasr--visual-analytics-tools--a-lens-into-players-temporal-progression-and-behavior)
 * [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](#sloane-2017--where-no-man-has-gone-before--exploring-new-knowledge-in-design-based-research-projects-a-treatise-on-phenomenology-in-design-studies)
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
@@ -1812,7 +1813,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Node-link representation :
 	- Used to visualize abstract or high-dimentional data
 
-## [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](https://dl.acm.org/doi/abs/10.5555/2812774.2812799)
+### [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](https://dl.acm.org/doi/abs/10.5555/2812774.2812799)
 
 **THM** : Best practices for extensive modding
 
@@ -1845,7 +1846,7 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	- Conduct pre-test
 	- Collect data
 
-## [CHAPTER 20. Waern & Back, 2015. Experimental Design.](https://dl.acm.org/doi/abs/10.5555/2812774.2812800)
+### [CHAPTER 20. Waern & Back, 2015. Experimental Design.](https://dl.acm.org/doi/abs/10.5555/2812774.2812800)
 
 **THM** : NA
 
@@ -2392,6 +2393,24 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - [Using AI for Game UX](https://www.youtube.com/watch?v=Lc4b7fqyOGQ) :
 	- Why people do things?
 	- How do we report GA in such a way, that all the different stakeholders can utilize and drive action from it ? How to communicate and how do we drive action X ?
+
+### [CHAPTER 19 : Seif El-Nasr – Visual Analytics Tools – A Lens into Player’s Temporal Progression and Behavior](https://link.springer.com/chapter/10.1007/978-1-4471-4769-5_19)
+
+**THM** : Map with circles and paths to show time, interaction, items, paths
+
+**Authors** : Magy Seif El-Nasr Ph.D., André Gagné, Dinara Moura & Bardia Aghabeigi Ph.D.
+
+**Tags** : :visual-analytics: :temporal:
+
+**Abstract** : As argued in previous chapters, developing engaging interactive new media experiences, including virtual worlds, multi-player or single-player games, involves understanding the target market. Telemetry and metrics can provide a powerful method to enable designers and other industry professionals to gain insight about their users. Previous chapters have discussed telemetry analysis extensively (see Chaps. 4, 5, 7, 9, 11, 12, 13, 14, 15, 16, and 17). Chapter 18 introduced the Information visualization field and game visual analytics, specifically. In this chapter, we extend the arguments made in previous chapters, specifically investigating the use of visual analytics systems that reveal player behaviors over time, where we emphasize the temporal dimension as key to revealing information that indicate causes for specific behavior, and they may also give developers more insight about popular patterns of behaviors.
+
+**Notes**
+- Heatmaps but cannot take temporal activity
+- Visualizing Time Spent in Each Area : Knowing how much time players spent playing in a particular area is crucial to hypothesize whether players had problems in an area or not.
+- Visualizing Interaction with Characters : KNowing what players do in each area of the game is also important for understtading player behavior
+- Visualizing where maps are activated
+- Visualizing items collected
+- Visualizing players path
 
 ## [Sloane, 2017 : ‘Where no man has gone before!’ – Exploring new knowledge in design-based research projects: A treatise on phenomenology in design studies](http://dx.doi.org/10.15460/eder.1.1.1026)
 
