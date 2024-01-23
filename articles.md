@@ -25,6 +25,9 @@
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
 * [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](#dillenbourg-2023-yt--les-mythes-qui-sabordent-les-technologies-éducatives)
 * [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](#dimov-et-al-2023--an-integrated-model-of-collaborative-skill-acquisition-anticipation-control-tuning-and-role-adoption)
+* [Dörner et al., 2016 : Serious Video Games](#dörner-et-al-2016--serious-video-games)
+	* [CHAPTER 9 : Wiemeyer et al., 2016 : Player Experience](#chapter-9--wiemeyer-et-al-2016--player-experience)
+	* [CHAPTER 10 : Wiemeyer et al., 2016 : Performance Assessment in Serious Games](#chapter-10--wiemeyer-et-al-2016--performance-assessment-in-serious-games)
 * [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](#dye-et-al-2009---increasing-speed-of-processing-with-action-video-games)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
 * [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
@@ -54,7 +57,6 @@
 	* [CHAPTER 19. Mohseni et al. 2015 : Extensive modding for experimental game research](#chapter-19-mohseni-et-al-2015--extensive-modding-for-experimental-game-research)
 	* [CHAPTER 20. Waern & Back, 2015. Experimental Design.](#chapter-20-waern--back-2015-experimental-design)
 * [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer)
-* [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](#le-guennec-2016--le-métadesign-ou-comment-lexpérience-doit-échapper-au-designer-1)
 * [Lemercier et al., 2001 : Quels apprentissages sont-ils possibles avec des exerciseurs multimédia en classe ? Réflexions théoriques et compte rendu d’une expérience](#lemercier-et-al-2001--quels-apprentissages-sont-ils-possibles-avec-des-exerciseurs-multimédia-en-classe--réflexions-théoriques-et-compte-rendu-dune-expérience)
 * [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
@@ -699,6 +701,93 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Anticipatory actions
 - Control parameters
 - Skill acquisition processes in collaboration : cog control is a key component of their model; the model acquires skill through production compilation and control tuning; prediction is also likely a major factor in joint action peformance.
+
+## [Dörner et al., 2016 : Serious Video Games](http://link.springer.com/10.1007/978-3-319-40612-1)
+
+### [CHAPTER 9 : Wiemeyer et al., 2016 : Player Experience](https://link.springer.com/chapter/10.1007/978-3-319-40612-1_9)
+
+**THM** : Great overview of the different definitions of PE
+
+**Authors** : Josef Wiemeyer, Lennart Nacke, Christiane Moser & Florian ‘Floyd’ Mueller 
+
+**Tags** : :serious-video-games: :player-experience:
+
+**Abstract** : In computer science, the concept of user experience has proven to be beneficial in order to improve the quality of interaction between software and its users, by taking users’ emotions and attitudes into account. In general, user experience focuses on interaction. As not only interaction (e.g., good usability) is of importance for players, this chapter discusses how the concept of user experience can not only be applied to serious games, but also how it can be extended in order to cover the characteristics of games as a special software. For this refined concept, the term player experience has been coined. First, the concept of player experience is introduced in this chapter. The adequate conceptualization of player experience requires differentiating specific dimensions like (game-) flow, immersion, challenge, tension, competence, and emotions. Because of the individual nature of player experience, psychological models need to be used for the conceptualization as they are able to reflect this multidimensional structure. In addition, interdisciplinary models are needed in order to address the various factors influencing player experience. This ensures a holistic approach. Second, the question how to measure player experience is discussed. Here, different levels have to be distinguished: Behavior, physiological reactions, and subjective experience. Finally, it is shown how knowledge about player experience can be employed to develop serious games systematically and to improve their quality.
+
+**Notes**
+- The goal of SG is to exploit [the fascination of the uniqueness of gaming experience] to enhance engagement, in order to foster the acquisition of the characterizing goal(s).
+- Player experience more appropriate term as compared to game experience, because it is the person of the player who makes this specific experience.
+- Player types, see [Nacke et al (2014) : BrainHex: A neurobio gamer typology survey](https://www.sciencedirect.com/science/article/abs/pii/S1875952113000086?via%3Dihub)
+- Classic usability testing is not sufficient for testing games, since its standard metrics, such as effectiveness measured as task completion or efficiency measured as error rates, do not map directly to evaluating games
+- The focus on humans as part of evaluating technology is now the de facto standard for many evaluation approaches within human-computer interaction (HCI) and has led to prominence of user experience (UX) research over usability research
+- Playability, game usability (techno level) & player experience (ind and personal experience of playing games)
+- In games research Player experience > Game experience
+- [Gerling et al. (2011)](https://doi.org/10.1145%2F2181037.2181052) state that the term player experience “in video games describes the individual perception of the interaction process between player and game,” and is derived from the phenomenon of UX (defined in ISO 9241-210:2010) describing how a person perceives and responds to the interaction with a system—both highlighting the subjective, psychological nature of the phenomenon and focusing on the interaction process.
+- [Lazzaro (2008)](https://edisciplinas.usp.br/pluginfile.php/7739573/mod_resource/content/1/Game_Usability_2008_cap20_Nicole_Lazzaro.pdf) argues that UX and PE are not the same . For her, UX is the experience of use (i.e., how easily and well suited is the system to the task or what the person expects to accomplish in order to advancing the usability), while PE is the experience of play (i.e., how well the game supports and provides the type of fun the player wants to have). She claims that UX looks at what prevents the ability to play, and PE looks at what prevents the player from having fun.
+	- -> Four fun keys :
+		- Hard Fun : challenge and mastery
+		- Easy Fun : inspiring imagination, exploration, and RP
+		- Serious fun : changing a player's internal state or doing real work
+		- People fun : social interaction
+	- -> "The goal of testing is to improve quality. However, there is more to software quality than ease of use. There is a lot more going on for games. Without usability no one can play a game, make it too usable and it’s no fun. That’s the difference between user experience design (UX) and player experience design (PX). Games create emotions from experiences that usability and traditional market research cannot measure"
+- Generic models that have been developed for a wide range of application areas including gaming :
+	- Self-determination theory :
+		- Competence, autonomy, relatedness
+		- Player Experience of Need Satsfaction (PENS) model ([Ryan, Rigby & Przybylski, 2006](https://link.springer.com/article/10.1007/s11031-006-9051-8)) :
+			- PENS in-game autonomy : This dimension denotes the experience of the players to feel free to make decisions and choices in the game.
+			- PENS in-game competence : This dimension concerns an appropriate balance between the challenges of the game and the competence level of the players.
+			- PENS in-game relatedness : In-game relatedness means, how much the players are feeling connected to other players in the game.
+			- PENS presence : This dimension is subdivided into three subdimensions, i.e., physical, emotional, and narrative presence.
+			- PENS intuitive controls: This dimension concerns the ease of control in the game, e.g., by easy-to-remember control keys. 
+	- Attention, relevance, confidence, satisfaction (ARCS, [Keller 1987](https://link.springer.com/article/10.1007/bf02905780)) :
+	- Flow ([Nakamura & Csikszentmihalyi (2002)](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Nakamura+J%2C+Csikszentmihalyi+M+%282002%29+The+concept+of+flow&btnG=))
+	- Presence and immersion 
+- Domain-specific models that have been developed especially for the game domain
+	- GameFlow ([Sweetser & Wyeth, 2005](https://dl.acm.org/doi/abs/10.1145/1077246.1077253?casa_token=9qppgWYml5EAAAAA:Zj_BY8DUqiGDJqIKg_aL0AhFix3kJZASuE-jOlfAhdvm0Rp_DpvAXKRbp4Eva520wC7KCiORrieU)) :
+		- Applied the concept of flow to gaming in order to explain enjoyment in games. Their concept of GameFlow consists of eight elements: concentration, challenge, skills, control, clear goals, feedback, immersion, and social interaction
+	- Fun of gaming (FUGA, [Poels et al., 2013](https://research.tue.nl/en/publications/the-game-experience-questionnaire)) :
+		- Seven factors are specified as follows: Sensory and imaginative immersion, tension, competence, flow, negative affect, positive affect, and challenge
+	- Core elements of game experience (CEGE, [Calvillo-Gámez et al., 2010](https://doi.org/10.1007%2F978-1-84882-963-3_4)) :
+		- Puppetry and video-game perception
+	- PLAY heuristics ([Desurvire & Wiberg, 2009](https://link.springer.com/chapter/10.1007/978-3-642-02774-1_60)) :
+		- Three categories: Gameplay, coolness/entertainment/humor/emotional immersion, and usability and game mechanics
+- To combine the results, the following (social-)psychological elements of player experience are reported:
+	- Competence
+	- Autonomy and control
+	- Immersion, (spatial and social) presence, flow, and GameFlow
+	- Involvement and (enduring) engagement
+	- Social relatedness and social interaction
+	- Challenge
+	- Tension
+	- Curiosity
+	- Fantasy
+	- Positive and negative emotions
+	- Intrinsic goals
+	- Feedback and evaluation
+- Integrative models of player experience :
+	- To conclude, the integrative models described in this section extend the view on player experience by adding important perspectives, e.g., social and (neuro-) physiological aspects. This knowledge contributes to the quality of serious games design. In particular, the relationship between different disciplinary perspectives has to be considered. Therefore, the development of serious games requires interdisciplinary teamwork. Considering the multi-faceted and interdisciplinary nature of player experience, the question arises as to how the different components and dimensions can be assessed. This issue will be addressed in the following section.
+- Measuring PE :
+	- Physio (EEG, EMG, EDA, HR)
+	- Psycho (Persona, Players, Surveys and Questionnaires, Vb reports, Interviews, Thinking aloud)
+	- Behavioral (Eye track, Game logs, RT & quality, Observation, Video recordings)
+-  For example, designers interested in facilitating a desired player experience can:
+	- Learn from prior games. Game creators can look at (and play) other games and learn from bad as well as good examples.
+	- Read post mortems as often published by game studios in industry publications, learn from them, and use them to inspire a (re)design.
+	- Examine academic papers from serious game projects in a university or research organization setting. These academic papers often describe detailed learnings when it comes to fostering player experience and what the authors would do differently in future game designs.
+	- Learn from books on game design.
+
+### [CHAPTER 10 : Wiemeyer et al., 2016 : Performance Assessment in Serious Games](https://link.springer.com/chapter/10.1007/978-3-319-40612-1_10)
+
+**THM** : 
+
+**Authors** : Josef Wiemeyer, Michael Kickmeier-Rust & Christina M. Steiner 
+
+**Tags** : :serious-video-games: :assessment: :performance:
+
+**Abstract** : In every digital game, players both act in and interact with the game. They use the options of game mechanics to achieve goals. For example, players move a controller to steer the motions of an avatar, or they press buttons to trigger certain actions. These actions and interactions lead to certain results like a successful finish of a quest, solving a problem, or increasing a score. Both the quality and results of actions and interactions are subsumed under the term performance. Assessment of player performance is required for several purposes, for example for in-game or online adaptation and for offline evaluation. This chapter addresses the issue of performance assessment in serious games. Performance is a complex concept comprising results and processes of actions and interactions of the players in and with the game. First, generic and domain-specific models of performance are introduced to illustrate the variety of approaches. Based on this knowledge, online and offline assessments of performance are discussed. Finally, the integration of online and offline performance assessment into the process of game adaptation is described.
+
+**Notes**
+-  
 
 ## [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](https://journals.sagepub.com/doi/10.1111/j.1467-8721.2009.01660.x)
 
@@ -1858,14 +1947,6 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 
 **Notes**
 - NA
-
-## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
-
-**THM** : The designer's role in one team during co-conception is to let other's creativity emerge, to do that, he needs to take a step back, not thinking about the product's expected qualities, but aiming at a 'user-designed' product.
-
-**Authors** : Yann Le Guennec
-
-**Tags** : :meta-design: :user-centered-design:
 
 ## [Le Guennec, 2016 : Le métadesign, ou comment l’expérience doit échapper au designer](doi.org/10.3917/sdd.004.0124)
 
