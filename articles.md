@@ -11,6 +11,7 @@
 * [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
+* [Blume et al., 2023 : Individualisation in cognitive skills training: essential or superfluous? Examining the effectiveness of an adaptive game for training executive functions in young adults](#blume-et-al-2023--individualisation-in-cognitive-skills-training-essential-or-superfluous-examining-the-effectiveness-of-an-adaptive-game-for-training-executive-functions-in-young-adults)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
@@ -245,6 +246,25 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Parental warmth, engagement, playfulness and autonomy support predicted more positive child affect during joint interaction with edu game apps ([Griffith & Arnold, 2017](https://doi.org/10.1080/17482798.2018.1489866))
 - An examination of children's learning from educational programs, including those designated by commercial broadcasters as E/I programs, revealed that second-to sixth-grade children preferred programs with socioal-emotional themes and learned social-emotional content after viweing those programs; childrent who viewed television programs with an academic focus also learned academic content ([Calvert & Kotler, 2003](https://www.sciencedirect.com/science/article/pii/S0193397303000601?via%3Dihub))
 - Move forward by integrating media experiences into the lives of children, and those responsible for their care and education, in ways that foster 21st-century learning and thinking skills.
+
+## [Blume et al., 2023 : Individualisation in cognitive skills training: essential or superfluous? Examining the effectiveness of an adaptive game for training executive functions in young adults](https://osf.io/preprints/psyarxiv/dzqjp)
+
+**THM** :  no s* impact on the development of executive functions when using adapt vs. non-adapt games
+
+**Authors** : Friederike Blume, Shashank Pawar, Manuel Ninaus, and Jan L. Plass
+
+**Tags** : :cognitive-training: :adaptive-game:
+
+**Abstract** : Considerable effort has been devoted to the development of training programmes aimed at effectively enhancing executive functions. Recently, specifically designed digital games have shown promise as a useful tool for this goal. The present study investigated the overall effect of a 120-minute training employing an executive function game that aimed to improve shifting abilities. Young adults played the game over four consecutive days, and the effects on shifting (near transfer), updating, and inhibition (far transfer) were examined. The study also investigated the differential effects of playing an adaptive versus a non-adaptive version of the game. Findings demonstrated that engaging in the shifting game enhanced individuals’ abilities in shifting, updating, and inhibition. In spite of the adaptive version’s greater challenge, there were no notable variations in training outcomes between the two game versions. The present study thus exhibits the effectiveness of games that train executive function, and contributes to the expanding evidence base in this area.
+
+**Notes**
+- In the adaptive game version, feeding rule complexity and speed were adjusted based on accuracy and reaction time, respectively. The percentage of aliens fed correctly in the previous level determined the feeding rule complexity adjustment. The game has three difficulty tracks, normal, difficult, and very difficult, which were used to make the necessary adjustments. Players were moved to a simpler track if they scored below 50%, remained on the same track for scores between 50% and 80%, and were moved to a more challenging one for scores greater than 80%. These numbers were established through playtesting the game
+- Difference bw non-adapt & adapt game :
+	- More challenging gameplay
+	- No impact on shifting abilities in a crucial way
+	- No diff in improvement of pps' updating abilities
+	- No further improvement in pps' inhibition ability
+ - "Finally, although the current study did not reveal any significant differences between the adaptive and non-adaptive versions of the game in terms of their impact on the development of executive functions, the potential for heightened participant motivation resulting from the adaptive version remained unexplored (e.g., Hidi & Renninger, 2006; Rotgans & Schmidt, 2011). Future research should investigate the impact of playing the adaptive versus nonadaptive version of the game on participants' motivation to play, especially during prolonged gameplay."
 
 ## [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](https://doi.org/10.3917/puf.brgeo.2011.01.0023)
 
