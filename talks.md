@@ -3,6 +3,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
+* [11.12.2023 – UNIGE, Innosuisse Business Training Concept](#11122023--unige-innosuisse-business-training-concept)
 * [07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?](#07122023---unige-numérique-et-inclusion-à-lécole-quelles-réponses-dans-la-formation-à-lenseignement-)
 * [07.12.2023 - GameLab, UNIL, Penser et intégrer le jeu vidéo dans sa pratique enseignante](#07122023---gamelab-unil-penser-et-intégrer-le-jeu-vidéo-dans-sa-pratique-enseignante)
 	* [Bruno Dupont - Une didactique du jeu vidéo](#bruno-dupont---une-didactique-du-jeu-vidéo)
@@ -35,6 +36,32 @@
 # 16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie
 - Punitive response with more time to wait can be a motivational punishment
 - RT measures : Intensity and stability
+
+# 11.12.2023 – UNIGE, Innosuisse Business Training Concept
+
+Here is a list of each of the take home messages I got from the courses :
+
+1. Pitch: build trust, simulate interest in your company (not your product), start a conversation. “Our (product) Helps (people) Who want to (action) By (our uniqueness) And Unlike (market analysis)”
+
+2. Top 3 reasons of failure : No market; Ran out of… (cash); Not the right… (team)
+
+3. Market Analysis: Do a Lean Canvas and a Value Proposition Canvas.
+
+4. Accounting: (So much to say) GAAP, Accounting Equation, Balance Sheet, Income Statement, Statement of Cash Flow
+
+5. Financial Planning: People/staff cost the most
+
+6. IP Protection: Trademarks, Copyrights, Design, Patents
+
+7. WhereToPlay: Compete in different market
+
+8. Financing & Funding: Market Pull not Technology Push. Grasp investors by showing you have clients.
+
+9. Building a strong team: Never pay with a share.
+
+10. Product Development: Go for the low hanging fruits within a short amount of time. Start with value then you can define cost.
+
+11. Presentation skill: Call for action, focus on the problem you're trying to solve.
 
 # 07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?
 
