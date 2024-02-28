@@ -5,7 +5,6 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Mastering the Vim Language](#mastering-the-vim-language)
-* [Why should you use a basic text editor?](#why-should-you-use-a-basic-text-editor)
 * [How to learn (...) without following tutorials ?](#how-to-learn--without-following-tutorials-)
 * [Github working in group setup](#github-working-in-group-setup)
 * [Unity](#unity)
@@ -26,7 +25,7 @@ Notes taken from : [Mastering the Vim Language](https://www.youtube.com/watch?v=
 - power of `.`, `c`, `i[wt"p]`, `f`, `t` (cf. https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language , https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/ , https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 , https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 )
 - [vim textobj user](https://github.com/kana/vim-textobj-user/wiki)
 
-# Why should you use a basic text editor?
+Why should you use a basic text editor?
 
 08 sept. 2022
 
@@ -97,3 +96,15 @@ https://www.youtube.com/watch?v=vFjXKOXdgGo
 - Add before public class `[CreateAssetMenu(fileName = "", menuName = "")]`
 
 ## [ML-agents](https://www.youtube.com/watch?v=zPFU30tbyKs)
+- `python -m venv venv`
+- `source venv/bin/activate`
+- `python -m pip install --upgrade pip`
+- `pip install torch`
+- `pip install mlagents`
+- `mlagents-learn --help` 
+- It did not work : I went with https://unity-technologies.github.io/ml-agents/Installation/
+- `conda create -n mlagents python=3.10.12 && conda activate mlagents`
+- `conda info --envs`
+- `cd /path/to/ml-agents`
+- `python -m pip install ./ml-agents-envs`
+- `python -m pip install ./ml-agents`

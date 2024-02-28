@@ -3,6 +3,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer](#28022024--project-ethel-building-a-virtual-teachin-assistant--gerd-kortemeyer)
+* [21.02.2024 – Les effets des "écrans" sur le développement des jeunes enfants : quels sont les apports et les limites de la recherche ? – Edouard Gentaz](#21022024--les-effets-des-écrans-sur-le-développement-des-jeunes-enfants--quels-sont-les-apports-et-les-limites-de-la-recherche---edouard-gentaz)
 * [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
 * [11.12.2023 – UNIGE, Innosuisse Business Training Concept](#11122023--unige-innosuisse-business-training-concept)
 * [07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?](#07122023---unige-numérique-et-inclusion-à-lécole-quelles-réponses-dans-la-formation-à-lenseignement-)
@@ -37,6 +38,25 @@
 # 28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer
 - Students can chat with a bot that retreives examples from the book (BUT MANUAL PROCESS TO DO THAT)
 - Discussion about resources and author rights
+
+# 21.02.2024 – Les effets des "écrans" sur le développement des jeunes enfants : quels sont les apports et les limites de la recherche ? – Edouard Gentaz
+- La technologie avance tellement vite que pour avoir des résulats scientifiques, longitudinaux, revus par les pairs, ça prend 7-10 ans avant d'avoir des résulats solides, cependant lorsque ces résultats sont publiés, ils sont peut-être déjà dépassés.
+- Bernard et al., 2023 : Temps d'écran plus élevé chez familles ayant des origines immigrées, avec un niveau d'études de la mère faible et selon la région géographique. Puis garçons 10min de plus dès 5.5 ans que filles.$
+- [Yang et al., 2023](https://acamh.onlinelibrary.wiley.com/doi/epdf/10.1111/jcpp.13887) :
+	- L'effet négatif des écrans sur le développement cog et language est moyen, mais facteurs familiaux et activités le baisse
+	- Baisse de pas moins de 2 QI
+	- 13.5% respectent la recommandation "sans écran"
+- Technoférence parentale
+- Recommandation, si regarde écran, expliquer et partager la visualisation
+- Exemples de recommandation : Gentaz & Borradori Tolsa (2023):
+	- Limiter au maximum les écrans avant 2 ans
+	- Contrôler et réguler le contexte et les contenus
+		- Pas d'écrans durant les repas
+		- Pas d'écrans le matin au levé
+		- Eviter de mettre l'enfant seul face à l'écran
+		- La qualité de ce qui est visionné doit être adaptée à l'âge
+	- Encourager et accompagner les parents dans l'exercice de leur parentalité
+	- Réguler ses propres copmortements d'adultes avec les écrans (imitation et apprentissage social)
 
 # 16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie
 - Punitive response with more time to wait can be a motivational punishment
