@@ -101,10 +101,14 @@ https://www.youtube.com/watch?v=vFjXKOXdgGo
 - `python -m pip install --upgrade pip`
 - `pip install torch`
 - `pip install mlagents`
-- `mlagents-learn --help` 
 - It did not work : I went with https://unity-technologies.github.io/ml-agents/Installation/
 - `conda create -n mlagents python=3.10.12 && conda activate mlagents`
 - `conda info --envs`
 - `cd /path/to/ml-agents`
 - `python -m pip install ./ml-agents-envs`
 - `python -m pip install ./ml-agents`
+- `mlagents-learn --help` 
+- `mlagents-learn --force` // overrides previous data
+- `mlagents-learn --run-id=newid` // creates new id
+- Discrete branch = different actions:
+	- Branch to 2 actions = accelerating and braking
