@@ -62,6 +62,7 @@
 * [Lloyd, 2001 : Measures of Complexity: A nonexhaustive List](#lloyd-2001--measures-of-complexity-a-nonexhaustive-list)
 * [Lövdén et al., 2020 - Human skill learning: expansion, exploration, slection, and refinement](#lövdén-et-al-2020---human-skill-learning-expansion-exploration-slection-and-refinement)
 * [Lugan, 2009 : La modélisation des systèmes complexe chez E-Morin et J.-L. Le Moigne](#lugan-2009--la-modélisation-des-systèmes-complexe-chez-e-morin-et-j-l-le-moigne)
+* [Luo et al., 2024 : Large language models surpass human experts in predicting neuroscience results](#luo-et-al-2024--large-language-models-surpass-human-experts-in-predicting-neuroscience-results)
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
@@ -2069,6 +2070,19 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	2. Auto-organisation qui exprime l'autonomie;
 	3. Eco -organisation qui exprime le fonctionnement synchronique ouvert dans l'environnement
 - Se distingue de la structure comprise comme charpente, squelette relativement stable.
+
+## [Luo et al., 2024 : Large language models surpass human experts in predicting neuroscience results](https://arxiv.org/abs/2403.03230)
+
+**THM** : 90% accuracy LLM vs 66% accuracy human experts
+
+**Authors** : Xiaoliang Luo, Akilles Rechardt, Guangzhi Sun, Kevin K. Nejad, Felipe Yáñez, Bati Yilmaz, Kangjoo Lee, Alexandra O. Cohen, Valentina Borghesani, Anton Pashkov, Daniele Marinazzo, Jonathan Nicholas, Alessandro Salatiello, Ilia Sucholutsky, Pasquale Minervini, Sepehr Razavi, Roberta Rocca, Elkhan Yusifov, Tereza Okalova, Nianlong Gu, Martin Ferianc, Mikail Khona, Kaustubh R. Patil, Pui-Shee Lee, Rui Mata, Nicholas E. Myers, Jennifer K Bizley, Sebastian Musslick, Isil Poyraz Bilgin, Guiomar Niso, Justin M. Ales, Michael Gaebler, N Apurva Ratan Murty, Chloe M. Hall, Jessica Dafflon, Sherry Dongqi Bao, Bradley C. Love
+
+**Tags** : :llm: :brainGPT: :prediction:
+
+**Abstract** : Scientific discoveries often hinge on synthesizing decades of research, a task that potentially outstrips human information processing capacities. Large language models (LLMs) offer a solution. LLMs trained on the vast scientific literature could potentially integrate noisy yet interrelated findings to forecast novel results better than human experts. To evaluate this possibility, we created BrainBench, a forward-looking benchmark for predicting neuroscience results. We find that LLMs surpass experts in predicting experimental outcomes. BrainGPT, an LLM we tuned on the neuroscience literature, performed better yet. Like human experts, when LLMs were confident in their predictions, they were more likely to be correct, which presages a future where humans and LLMs team together to make discoveries. Our approach is not neuroscience-specific and is transferable to other knowledge-intensive endeavors.
+
+**Notes**
+- Can LLMs outperform human experts on this forward-looking benchmark? In particular, BrainBench evaluates how well the test-taker can predict neuroscience results from methods by presenting two versions of an abstract from a recent journal article. The test-taker’s task is to predict the study’s outcome, choosing between the original and an altered version. The altered abstract significantly changes the study’s outcome (i.e., results) while maintaining overall coherence.
 
 ## [Mayer, 2010 : Apprentissage et technologie](https://books.google.fr/books?hl=fr&lr=&id=306PApBeLTwC&oi=fnd&pg=PA179&dq=mayer+2010+learning+with+technology&ots=-KDkEGRGoN&sig=1tzXmzcDjMbGJ8R0GV1Nh8DciSk&redir_esc=y#v=onepage&q=mayer%202010%20learning%20with%20technology&f=false)
 
