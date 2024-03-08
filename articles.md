@@ -13,6 +13,7 @@
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Blume et al., 2023 : Individualisation in cognitive skills training: essential or superfluous? Examining the effectiveness of an adaptive game for training executive functions in young adults](#blume-et-al-2023--individualisation-in-cognitive-skills-training-essential-or-superfluous-examining-the-effectiveness-of-an-adaptive-game-for-training-executive-functions-in-young-adults)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
+* [Bowman et al., 2024 : A Continuous-Space Description of Video Games: A Preliminary Investigationhttps://psycnet.apa.org/doi/10.1037/ppm0000522](#bowman-et-al-2024--a-continuous-space-description-of-video-games-a-preliminary-investigationhttpspsycnetapaorgdoi101037ppm0000522)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
 * [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](#clark-2023-yt--ai-work--learning-can-ai-teach-)
@@ -296,6 +297,20 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Déséquilibre, destabilisation des connaissances initiales ("conflit cognitif") et afin de rétablir l'équilibre, soit rend compatible avec connaissances initiales, soit transforme ces dernières pour rendre compte l'information perturbante = apprentissage
 - 1960 - apprentissage social, Albert Bandura, importance de l'observation d'autrui dans l'apprentissage - théorie "sociale-cognitive"
 - Plus de théories unifiées/générales de l'apprentissage actuellement, mais plus "locales" pour l'apprentissage de différents aspects/thèmes ou situé dans différents contextes spécifiques
+
+## [Bowman et al., 2024 : A Continuous-Space Description of Video Games: A Preliminary Investigation]()https://psycnet.apa.org/doi/10.1037/ppm0000522
+
+**THM** : Following up on Dale et al., 2020. Space : x as action-like VG/control VG (e.g., condition control in psychog domain), y as narrative
+
+**Authors** : Bowman, Nicholas David Klecka, Hanna Li, Zeyu Yoshimura, Koji Green, C. Shawn
+
+**Tags** : :video-games: :brain: :behavior: :classification:
+
+**Abstract** : Research on the impact of video games on the brain and behavior typically focuses, at its root, on particular experiences inherent in different types of gameplay. Historically, genre labels have been used to quickly classify games into (at least somewhat) nonoverlapping types of experiences. Genre labels have been successfully used in previous research to describe differences in experiences across games. However, modern video games increasingly borrow conventions from myriad genres. This increased complexity of modern games calls to question the applicability of genre labels to such research endeavors. Here we sought to determine whether it would be possible to create a valid continuous description of video games instead. We crowdsourced recognizable lists of 100 comparative retro (1985–1995) and 100 modern (2013–2020) video games. Fifty thousand human triplet comparison decisions regarding those games were then used to seed a machine learning algorithm to establish a continuous two-dimensional space in which individual video games could be situated. These two game spaces (modern/retro) were found to have reasonable validity and could be used to visualize and support beliefs about the game space, and how it has changed over the past 30 years.
+
+**Notes**
+- 50k individual human decision of "Is Game A more similar to Game B or Game C?"
+- Next: include more dimensions and more games (like mobile and VR)
 
 ## [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](https://doi.org/10.1177/0735633118797330)
 
