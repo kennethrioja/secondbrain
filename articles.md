@@ -92,6 +92,7 @@
 * [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
 * [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
+* [Wang & Nunes, 2019 : Matching serious games with museum’s educational roles: smart education in practice](#wang--nunes-2019--matching-serious-games-with-museums-educational-roles-smart-education-in-practice)
 * [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](#wood--wood-1999--help-seeking-learning-and-contingent-tutoring)
 * [Zuboff, 2021 : L'âge du capitalisme de surveillance](#zuboff-2021--lâge-du-capitalisme-de-surveillance)
 * [](#)
@@ -2922,6 +2923,43 @@ Tableau tiré de Tricot (2017) :
 	5. **cummulatif** : "Plus on apprend, plus on est en mesure d'apprendre" (#learningtolearn)
 	6. **produit d'une culture**
 	7. **multidimentionnel** : pas seulement dimension cognitive, mais dans tous les autres savoirs énoncés avant
+
+## [Wang & Nunes, 2019 : Matching serious games with museum’s educational roles: smart education in practice](https://www.emerald.com/insight/content/doi/10.1108/ITSE-03-2019-0013/full/html)
+
+**THM** : 
+
+**Authors** : Meng Wang, Miguel Baptista Nunes
+
+**Tags** : :museum-educational-roles: :educational-games: :museum:
+
+**Abstract** : Purpose. This study aims to present a meta-analysis of the use of serious educational games in museums. The analysis is based on a critical literature review that maps educational roles of museums against serious educational games used in support of those roles. The meta-analysis focuses on the specific context of informal learning in museums. Design/methodology/approach. The research design presented in this study is based on a meta-analysis research design that consists of a critical literature review, a multi-matrix representation of findings of the literature review and a conceptual visualization of the multidisciplinary area of the usage of serious games in support of educational roles in museums. Findings. Clear and detailed categorizations of educational roles and serious games types for informal learning are presented. These are followed by matching these educational roles with published reports of the use of serious games within museums. The study concludes with observations and a conceptual map of the design of serious games for museums. Originality/value. This study presents the first meta-analysis of research in this emergent multidisciplinary field. It will help serious game designers, museum educators and educational practitioners to make decisions regarding the choice of game type, customization and content design to support informal learning in the specific context of museum educational activities.
+
+**Notes**
+- Focus on informal learning in museums
+- First MA in this field
+- Visualization, closeness and een manipulation of emulated items displayed in museums can contribute to visitor learning processes and have a strong impact on understanding and knowledge acquisition ([de Rijcke and Beaulieu, 2011](https://doi.org/10.1353/lib.2011.0020))
+- Therefore, informal learning, in contrast to the structured and directed formal learning, is the sum of learning experiences and activities undertaken by individuals when they are not in the presence of a teacher ([Gerber et al., 2001](https://doi.org/10.1080/09500690116959))
+- 3 aims:
+	- Identify and classify educational roles of museums
+	- Identify and classify SEG suitable for use in museum environments
+	- Map games to the educational roles identifies according to their suitability
+- Educational roles of museums:
+	- Since the late 1880s, 1880s, museums have adopted formal teaching practices to educate visitors about their collections and displays, as well as their preservation strategies and methods (Joel and Mintz, 2018)
+	- 1992 is commonly regarded as the changing point in the educational role of museum because of the publication of the American Association of Museum Museums report entitled “Excellence and Equity: Education and the Public Dimension of Museums” (Anastasia and Sylaiou, 2015; [Nuzzaci, 2006](https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/125025/16724-16800-1-PB.PDF?sequence=1); [Williams, 1996](https://doi.org/10.1080/00393541.1996.11649989)). The report proposed ways in which museums should expand their role in education and move beyond the traditional boundaries of walls and collections to reach broader audiences. The aim of this new vision was to provide guidance in supporting and increasing educational opportunities for people of all ages and reflecting the pluralism of a diverse and heterogeneous modern society (American Association of Museums, 1992).
+	- Promoting awareness:
+		- Because the museums are open to the public and seek to have a social impact beyond their walls, it has become a common practice for advanced museums to transform the museum into a teaching place that provides learning about the social contexts, historical events, cultural backgrounds and scientific knowledge that are designed to help visitors to interpret their exhibits ([Efird, 2014](https://doi.org/10.1080/13504622.2014.976607); Akamca et al., 2017; [Ames, 1988](https://doi.org/10.1111/j.2151-6952.1988.tb00671.x))
+	- Changing habits:
+		- Learning by doing: The aspiration to enact change in visitor’s habits and engagement led to a shift in museology, aiming at turning visitors’ attitudes from “cultural consumption to cultural production”. This was initially the base philosophy of an initiative that originated in the UK, which was aimed at developing cultural and creative industries ([O’Connor, 2009](https://doi.org/10.1086/599549)). 
+		- Response to the challenge of changing societal and visitor's habits related to perceptions of museums visits -> towards a more social and shared experience -> more constructivist process by the sharing of learning experiences and social negociation of meanings. Visitors' understanding and existing knowledge of phenomena can be influenced by others by the sharing of experiences, discussion and other forms of social interaction (Hooper-Greenhill, 1999; [Mortara et al., 2014](https://doi.org/10.1016/j.culher.2013.04.004); Cao et al., 2018; Liu, 2014)
+	- Contextualizing visits:
+		- Transfer (...). A less formal but more playful approach is the use of customized educational games that encourage visitors to complete museum-related challenges, adventures and quizzes ([Perezvalle et al., 2014](https://doi.org/10.1007/978-3-319-13695-0_54); [Gee, 2004](https://www.raco.cat/index.php/IEM/article/download/204239/272773); Mortara et al., 2014; Zheng, 2017; Li, 2018).
+- Serious EdGames for museums:
+	- [Djaouti et al. (2011)](https://doi.org/10.4018/978-1-60960-495-0.ch006) -> Gameplay (game structure and how it is played) / Purpose (purpose beyond entertainment for which the game was designed) / Scope (targeted applications(s) of the SG considering actual uses, target market and intended audience)  model.
+	- Three purposes:
+		1. Message broadcasting or the communication of specific information about the museum specs. -> formal educative content which is informative, persuasive and customized
+		2. Training learners for the acquisition of intellectual knowledge and/or physical skills -> encourage from passive into active cultural producers. Either well-defined learning objectives and skills acquisition is more directed, either games designed to promote experiential learning are less prescriptive and offer more opportunity for exploration either by allowing navigation through a virtual world or by requiring players to inhabit a role that requires them to make decisions and face the consequences of those decisions (AL2049).Experiential learning games are aimed at providing interactive and complex serious game environments along with complex challenges to encourage experiential learning ([Kiili, 2005](https://doi.org/10.1016/j.iheduc.2004.12.001); [Breuer and Bente, 2010](https://hal.science/hal-00692052); Mortara et al., 2014). 
+- Matching museums' informal educational roles to serious edgames:
+	- 
 
 ## [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](https://www.sciencedirect.com/science/article/pii/S0360131599000305?casa_token=SNnc3y-SOFUAAAAA:_woEegyc81EM6XXLUPFmwwNs9zdaMDe1k0RC9S7_xRVYAgFaIXxP8p0u05dRzILJelUBZnbdCA)
 
