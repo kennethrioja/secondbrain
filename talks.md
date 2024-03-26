@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)](#20032024--confÉrence-de-mathieu-schroeter-consacrÉe-À-la-restauration-de-blupimana-1994)
 * [28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer](#28022024--project-ethel-building-a-virtual-teachin-assistant--gerd-kortemeyer)
 * [21.02.2024 – Les effets des "écrans" sur le développement des jeunes enfants : quels sont les apports et les limites de la recherche ? – Edouard Gentaz](#21022024--les-effets-des-écrans-sur-le-développement-des-jeunes-enfants--quels-sont-les-apports-et-les-limites-de-la-recherche---edouard-gentaz)
 * [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
@@ -34,6 +35,15 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)
+- https://gamelab-lausanne.ch/evenement/conference-de-mathieu-schroeter-consacree-a-la-restauration-de-blupimana-1994/
+- https://blupi.org/mania/index.html
+- Restauration d'un jeu de 1994-1996 sur une image
+- Travail collaboratif avec des fans
+- Breakpoint dans main, et pas à pas pour arriver à avoir la boucle du jeu.
+- Pour menus et autres, passer par boucle événementielle principale: n'avoir qu'une seule boucle pour les events du jeu
+- Color key: utiliser une couleur pour la transparence.
 
 # 28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer
 - Students can chat with a bot that retreives examples from the book (BUT MANUAL PROCESS TO DO THAT)
