@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).](#26032024--r-lunch--how-to-create-interactive-maps-with-r-switzerland-use-cases-felix-luginbuhl-data-scientist)
 * [20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)](#20032024--confÉrence-de-mathieu-schroeter-consacrÉe-À-la-restauration-de-blupimana-1994)
 * [28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer](#28022024--project-ethel-building-a-virtual-teachin-assistant--gerd-kortemeyer)
 * [21.02.2024 – Les effets des "écrans" sur le développement des jeunes enfants : quels sont les apports et les limites de la recherche ? – Edouard Gentaz](#21022024--les-effets-des-écrans-sur-le-développement-des-jeunes-enfants--quels-sont-les-apports-et-les-limites-de-la-recherche---edouard-gentaz)
@@ -35,6 +36,15 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).
+- https://felixluginbuhl.com/talks/geneva-r-lunches/
+- for me: Use swiss map to map video game studios
+- |> : https://stackoverflow.com/questions/67744604/what-does-pipe-greater-than-mean-in-r
+- `glimpse()`
+- `tmpfile()`
+- [simple feature package](https://r-spatial.github.io/sf/)
+- Leaflet open js package to create spatial data.
 
 # 20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)
 - https://gamelab-lausanne.ch/evenement/conference-de-mathieu-schroeter-consacree-a-la-restauration-de-blupimana-1994/
