@@ -91,6 +91,7 @@
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
 * [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
+* [van Opheusden et al., 2023 : Expertise increases planning depth in human gameplay](#van-opheusden-et-al-2023--expertise-increases-planning-depth-in-human-gameplay)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
 * [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](#wood--wood-1999--help-seeking-learning-and-contingent-tutoring)
 * [Zuboff, 2021 : L'âge du capitalisme de surveillance](#zuboff-2021--lâge-du-capitalisme-de-surveillance)
@@ -2883,6 +2884,20 @@ Tableau tiré de Tricot (2017) :
 - 4) Fixed vs. variable socialization processes
 - 5) Serial vs. dis. uctive socialization processes
 - 6) Investiture vs. divestiture socialization processes
+
+## [van Opheusden et al., 2023 : Expertise increases planning depth in human gameplay](https://doi.org/10.1038/s41586-023-06124-2)
+
+**THM** : 
+
+**Authors** : Bas van Opheusden, Ionatan Kuperwajs, Gianni Galbiati, Zahy Bnaya, Yunqi Li & Wei Ji Ma
+
+**Tags** : :expertise: :planning:
+
+**Abstract** : A hallmark of human intelligence is the ability to plan multiple steps into the future1,2. Despite decades of research3,4,5, it is still debated whether skilled decision-makers plan more steps ahead than novices6,7,8. Traditionally, the study of expertise in planning has used board games such as chess, but the complexity of these games poses a barrier to quantitative estimates of planning depth. Conversely, common planning tasks in cognitive science often have a lower complexity9,10 and impose a ceiling for the depth to which any player can plan. Here we investigate expertise in a complex board game that offers ample opportunity for skilled players to plan deeply. We use model fitting methods to show that human behaviour can be captured using a computational cognitive model based on heuristic search. To validate this model, we predict human choices, response times and eye movements. We also perform a Turing test and a reconstruction experiment. Using the model, we find robust evidence for increased planning depth with expertise in both laboratory and large-scale mobile data. Experts memorize and reconstruct board features more accurately. Using complex tasks combined with precise behavioural modelling might expand our understanding of human planning and help to bridge the gap with progress in artificial intelligence.
+
+**Notes**
+- Lit explained the superior planning performance of experts chess players as being due to better pattern recognition and/or deeper search
+- 
 
 ## [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](https://tecfalms.unige.ch/moodle/pluginfile.php/39498/mod_resource/content/4/COMEL1_Vienneau_Concepts%20de%20base%20en%20apprentissage%20et%20en%20enseignement.pdf)
 
