@@ -54,3 +54,4 @@
 [programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br>
 [unige/agenda](https://agenda.unige.ch/) - events happening at UNIGE<br>j
 https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software <br>
+https://github.com/Kadaaran/every-programmer-should-know?tab=readme-ov-file<br>
