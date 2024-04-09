@@ -3,6 +3,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [09.04.2024 – Nguyen, Thiam & De Renty](#09042024-nguyen-thiam--de-renty)
+* [26.03.2024 – Richard Stallman : Free Software and Free computing (Unidufour)](#26032024-richard-stallman--free-software-and-free-computing-unidufour)
 * [26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).](#26032024--r-lunch--how-to-create-interactive-maps-with-r-switzerland-use-cases-felix-luginbuhl-data-scientist)
 * [20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)](#20032024--confÉrence-de-mathieu-schroeter-consacrÉe-À-la-restauration-de-blupimana-1994)
 * [28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer](#28022024--project-ethel-building-a-virtual-teachin-assistant--gerd-kortemeyer)
@@ -60,6 +61,11 @@
 	- Amplitude and latency of p3a and p3b can be modulated by task diff
 - Katayama & Polich (1996):
 	- Probability and task-relevance of the stimulus are part of the main contributors of P300 amplitude
+
+# 26.03.2024 – Richard Stallman : Free Software and Free computing (Unidufour)
+- https://stallman.org/
+- open source -> better life quality VS. free software -> freedom
+- Bullshit generators
 
 # 26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).
 - https://felixluginbuhl.com/talks/geneva-r-lunches/

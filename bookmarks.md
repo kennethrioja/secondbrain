@@ -52,4 +52,6 @@
 [programming/markdown/markdown-editor](https://jbt.github.io/markdown-editor/)<br>
 [programming/vim/NERDTree](https://github.com/preservim/nerdtree) - display your current directory (Stop using Finder or the File Explorer !)<br>
 [programming/vim/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - autogenerate a Table Of Contents for md. files<br>
-[unige/agenda](https://agenda.unige.ch/) - events happening at UNIGE<br>
+[unige/agenda](https://agenda.unige.ch/) - events happening at UNIGE<br>j
+https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software <br>
+https://github.com/Kadaaran/every-programmer-should-know?tab=readme-ov-file<br>
