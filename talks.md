@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [09.04.2024 – Nguyen, Thiam & De Renty](#09042024-nguyen-thiam--de-renty)
 * [26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).](#26032024--r-lunch--how-to-create-interactive-maps-with-r-switzerland-use-cases-felix-luginbuhl-data-scientist)
 * [20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)](#20032024--confÉrence-de-mathieu-schroeter-consacrÉe-À-la-restauration-de-blupimana-1994)
 * [28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer](#28022024--project-ethel-building-a-virtual-teachin-assistant--gerd-kortemeyer)
@@ -36,6 +37,29 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 09.04.2024 – Nguyen, Thiam & De Renty
+- oddball_only vs. _game &
+- N1 sensitive to attention, linked to physical parameters of stimulus
+- P3 linked to attentional resource allocation, b only when tak relevant, a wheter relevant or not; a and b not same processes, a surprise exogenous attention and b more top-down, both are overlapping
+- Trejo et al. (1991):
+	- P300 along Fz Cz Pz electrodes
+	- Pz optimal apmplitude and lowest SD for P3
+	- .8 test-retest reliability correlation : reliable and trust this measure
+	- Peak amplitude, peak latency, RMS have different reliabilites and inter-lab consistencies
+	- Fz, Cz, Pz have different reliabilites and inter-lab consistencies
+	- What is the baseline? Target-lock? Response-lock?
+- Hillyard et al. (1971):
+	- P3 will reflect the detection (e.g., press button when hear) of the stimulus
+	- Amplitude of P3 is pos corr with self-reported detection of the auditory stimulus
+- Comerchero & Polich (1999):
+	- P3b higher amplitude for tagets in Pz
+	- Latency of P3b, increase due to the fact that longer time to classify
+	- P3a reflect distractino from frontal lobe of activity
+	- Not just gain but change in configuration, when more difficult, longer integration at perceptual to integrate on time information. Not same exact pool neurons.
+	- Amplitude and latency of p3a and p3b can be modulated by task diff
+- Katayama & Polich (1996):
+	- Probability and task-relevance of the stimulus are part of the main contributors of P300 amplitude
 
 # 26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).
 - https://felixluginbuhl.com/talks/geneva-r-lunches/
