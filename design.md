@@ -33,8 +33,29 @@
 - Texte artistique:
 	- Tire trait, sélectionne chemin et clic texte artistique et saisir texte le long du chemin
 	- Ligne de base en haut à droite quand texte
+- Angles arondis (C): transforme en courbe, selectionne angles et drag-drop
+- Dans calques, choisis au lieu de Normal -> Produit et change transparence
 
 ## Affinity Publisher 2
 
 - [Shortcuts](https://resources.serif.com/spotlight/learning/shortcuts/Affinity-Publisher-Shortcuts-Mac.pdf)
+	- Cmd + Shift + M: Importer
+- Profil 1
+- Fond perdu 3 ou 5mm
+- Affichage > Afficher les marges
+- Utile que pour de la composition
+- Dans un article (§) il y a plusieurs paragraphes
+- Helvetica > Arial
+- Interligne fait 120% du corps de la police
+- NE PAS FAIRE DE DOUBLE SAUT DE PAGE
+- Mettre la langue sous "Caractère" permet la césure (cou-per les mots). Quand on fait justification, il faut faire attention à la césure.
+- Espace non sécable (opt+space) (ex. "voir p.9" ou "5 mm"). Toujours avant ! ? : ; " "
+- Chaîner les blocs: quand oeil rouge et texte dépasse, clique sur le point de l'oeil rouge, single clic et reclique sur un autre bloc texte
+- Gouttière: espace entre deux colonnes
+- Afficher > Guide
+- Pas d'empattement et pas de délié pour le sans serif => pour le texte qui va être vu "impactant" VS. pour lu c'est police avec serif (garamon, times)
+- Chemin de fer (à gauche avec pages)
+- Export > PDF (Imprimerie) + Inclure le fond perdu et inclure les repères d'impression
+- Déborder du fond perdu pour avoir des contenus francs-bords (jusqu'au bout de la page)
+- Insérer image avec "Outil Cadre d0image rectangulaire" (F)
 - 
