@@ -7,6 +7,7 @@
 * [REST](#rest)
 	* [Saison 20-21- Part 3 - Web services REST Concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
 	* [Adopter les API REST pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
+	* [[MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)](#mysql-tutorial-for-beginners-full-coursehttpswwwyoutubecomwatchv7s_tz1z_5ba)
 * [Unity](#unity)
 	* [20 Unity Tips in 10 min](#20-unity-tips-in-10-min)
 	* [10 Unity Tips You (Probably) Didn't Know About](#10-unity-tips-you-probably-didnt-know-about)
@@ -143,8 +144,25 @@ return new Compte(1L, Math.random()*9999, new Date());
 - Quel framework?
 	- [Express js](https://expressjs.com/) (JS)
 	- [RoR](https://rubyonrails.org/) (Ruby)
-- 
 
+## [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- Database is a collection of data stored in a format that can easily be accessed
+- Using a DBManagementSystem :
+	- Relational (Structured Query Language) : store data into tables linked to each other using relationships (ex. mySQL, Oracle)
+- Administration tab to start or stop a server, import/export data
+- For each db you have :
+	- Tables : to store data
+	- Views : like virtual cables, to combine data from multiple tables and put them in a view. Powerful to create reports.
+	- Stored Procedures and Function : store functions inside our db for querying data
+- Clauses : 
+	- `SELECT` : `col1 + 10 AS new_col1`, if `SELECT DISTINCT` removes duplicates
+	- `FROM` 
+	- `WHERE` : `IN ('cond1', 'cond2')` to avoid OR, OR; `BETWEEN 10 AND 100` to avoid <= AND >=; `LIKE 'b%'` search everything which begins with b* and _ for single char; `REGEXP` ^ to say beginning of string, $ to represent the end of a string, | to seach multiple search pattern, `[abc]e` a b or c before e
+	- `ORDER`
+	- `LIMIT` : at the end, choose the x first rows
+	- `JOIN`
+- Comment by using two hyphens "--"
+- 1:40
 
 # Unity
 
