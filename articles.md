@@ -85,6 +85,7 @@
 * [Sokolov et al., 2020 : Serious video games and virtual reality for prevention and neurorehabilitation of cognitive decline because of aging and neurodegeneration. Current opinion in neurology, 33(2), 239-248.](#sokolov-et-al-2020--serious-video-games-and-virtual-reality-for-prevention-and-neurorehabilitation-of-cognitive-decline-because-of-aging-and-neurodegeneration-current-opinion-in-neurology-332-239-248)
 * [Stuckler, 2021 : 5 steps to write a research paper in a weekend](#stuckler-2021--5-steps-to-write-a-research-paper-in-a-weekend)
 * [Szilas, 2022 : Serious game design in practice: lessons learned from a corpus of games developed in an academic context](#szilas-2022--serious-game-design-in-practice-lessons-learned-from-a-corpus-of-games-developed-in-an-academic-context)
+* [Szilas, 2024 : Intelligence Artificielle dans l’éducation : le point de vue de la Terre](#szilas-2024--intelligence-artificielle-dans-léducation--le-point-de-vue-de-la-terre)
 * [Taylor et al., 2020 : The Paradox of Help Seeking in the Entropy Mastermind Game](#taylor-et-al-2020--the-paradox-of-help-seeking-in-the-entropy-mastermind-game)
 * [Tchounikine & Tricot, 2011 : Environnements informatiques et apprentissages humains](#tchounikine--tricot-2011--environnements-informatiques-et-apprentissages-humains)
 * [Tondello et al., 2016 : The Gamification User Types Hexad Scale](#tondello-et-al-2016--the-gamification-user-types-hexad-scale)
@@ -2637,6 +2638,24 @@ Comment made by @ruampimentel883
 	- Use an authoring tool that embeds the graphics
 	- Use graphical rendering effects
 	- Use specialized graphic design tools
+
+## [Szilas, 2024 : Intelligence Artificielle dans l’éducation : le point de vue de la Terre](https://cdn.discordapp.com/attachments/1182770506047443025/1228290972576780380/Szilas_IA_Terre_LudoviaCH2024.pdf?ex=662b821c&is=66190d1c&hm=f15129449d707b9e3317d3b4972265ea0f602cf1a250b232e3155cbe4a538100&)
+
+**THM** : Quels usages de la technologie?
+
+**Authors** : Nicolas Szilas
+
+**Tags** : :intelligence-artificielle: :écologie: :pollution-numérique: :sobriété-numérique: :futur:
+
+**Abstract** : L’arrivée de l’Intelligence Artificielle (IA) est perçue comme une révolution. Nous estimons que l’IA est avant tout une nième technologie qui s’offre au monde de l’éducation, dont les impacts environnementaux ne font qu’aggraver une situation déjà alarmante : une pollution numérique considérable à tous les niveaux, et qui à terme conduit à une fin du numérique, par épuisement des ressources ! Loin des discours des industriels, c’est donc avec parcimonie et sobriété qu’il faut envisager l’utilisation de l’IA dans l’éducation. Pour ce faire, le monde académique doit jouer un rôle de premier plan, et résister à cette tentation de la numérisation à tout va, dont l’IA fait partie
+
+**Notes**
+- L'IA dans l’éducation constitue une nième technologie, au même titre que l’audiovisuel, l’EAO1 , les hypertextes, le multimédia, les tuteurs intelligents, les simulations et micromondes, la communication médiatisée via Internet, les jeux vidéo pédagogiques, les tableaux blancs interactifs, la réalité virtuelle, la réalité augmentée. On objectera que cette liste est hétérogène et revêt des réalités différentes, mais elle illustre le fait qu’à chaque époque une technologie surgit et accapare l’attention (au moins des chercheurs en technologie éducative), qu’elle pénètre ou non l’école elle-même.
+- Avantages "potentiels"
+- C’est précisément l’enjeu du numérique dans l’éducation d’une part d’identifier des usages pertinents et d’autre part, à travers ces usages, de donner des exemples positifs d’utilisation du numérique, en contraste avec les usages hors classe, contribuant ainsi à l’éducation au numérique.
+- On trouvera l’argument que des LLMs moins énergivores que ChatGPT existent ou sont à l’étude et que de grands progrès d’optimisation vont voir le jour très prochainement. Cependant, l’histoire montre que de telles optimisations, aussi souhaitables soient-elles, seront largement compensées par une augmentation importante d’utilisation justement permise par ces optimisations ; c’est ce qu’on appelle l’effet rebond
+- Il est nécessaire, sans être réfractaire à cette technologie, d’identifier les usages qui sont parcimonieux et ceux qui ne le sont pas, et de s’abstenir de promouvoir ces derniers.
+- Pourquoi l’université suit-elle ainsi la tendance et n’est pas ce qu’on pourrait attendre d’elle, à savoir un lieu (protégé car non soumis à des contraintes économiques) de réflexion à long terme et de dépassement de la simple tendance ? Car bercé par l'équation : innovation = numérique = futur.
 
 ## [Taylor et al., 2020 : The Paradox of Help Seeking in the Entropy Mastermind Game](https://doi.org/10.3389/feduc.2020.533998)
 

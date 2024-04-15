@@ -18,6 +18,7 @@
 	- Cmd + L = lock
 	- Cmd + Shift + R = Rename
 	- Cmd + J = (Jump) duplique comme point avec vim
+	- Cmd + Y = Affichange fil de fer
 - Hamburger mini menu > pour changer vue
 - En bas à gauche, palette pour couleur et contour
 - Dragdrop into object, makes it child of parent
@@ -35,6 +36,11 @@
 	- Ligne de base en haut à droite quand texte
 - Angles arondis (C): transforme en courbe, selectionne angles et drag-drop
 - Dans calques, choisis au lieu de Normal -> Produit et change transparence
+- Ombre = copie, retourne, shift and floute
+- Détourage > Pixel Persona > W > Ajouter OU soustraire
+- Copy FX, glisser déposer a un autre calque et DELETE glisse depose dans bin
+- Questions:
+	- Comment faire le même point à la même distance?
 
 ## Affinity Publisher 2
 

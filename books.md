@@ -11,6 +11,7 @@
 * [The Gamer's Brain - Celia Hodent](#the-gamers-brain---celia-hodent)
 * [Trillion Dollar Coach – Eric Schmidt, Jonathan Rosenber and Alan Eagle](#trillion-dollar-coach--eric-schmidt-jonathan-rosenber-and-alan-eagle)
 * [Rules of Play - Katie Salen Tekinbaş and Eric Zimmerman](#rules-of-play---katie-salen-tekinba-and-eric-zimmerman)
+* [Zero to One: Notes on Startups, or How to Build the Future](#zero-to-one-notes-on-startups-or-how-to-build-the-future)
 
 <!-- vim-markdown-toc -->
 
@@ -168,3 +169,5 @@ Other resources :
 
 # [Rules of Play - Katie Salen Tekinbaş and Eric Zimmerman](https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf)
 
+# [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
+- https://www.goodreads.com/review/show/915062535
