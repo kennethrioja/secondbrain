@@ -56,12 +56,32 @@
 - NE PAS FAIRE DE DOUBLE SAUT DE PAGE
 - Mettre la langue sous "Caractère" permet la césure (cou-per les mots). Quand on fait justification, il faut faire attention à la césure.
 - Espace non sécable (opt+space) (ex. "voir p.9" ou "5 mm"). Toujours avant ! ? : ; " "
-- Chaîner les blocs: quand oeil rouge et texte dépasse, clique sur le point de l'oeil rouge, single clic et reclique sur un autre bloc texte
-- Gouttière: espace entre deux colonnes
-- Afficher > Guide
 - Pas d'empattement et pas de délié pour le sans serif => pour le texte qui va être vu "impactant" VS. pour lu c'est police avec serif (garamon, times)
 - Chemin de fer (à gauche avec pages)
 - Export > PDF (Imprimerie) + Inclure le fond perdu et inclure les repères d'impression
 - Déborder du fond perdu pour avoir des contenus francs-bords (jusqu'au bout de la page)
 - Insérer image avec "Outil Cadre d0image rectangulaire" (F)
-- 
+- Pour deux colonnes :
+	- Guide > Colonne | Gouttière
+	- Gouttière: espace entre deux colonnes
+	- Afficher > Guide
+	- Chaîner les blocs: quand oeil rouge et texte dépasse, clique sur le point de l'oeil rouge, single clic et reclique sur un autre bloc texte
+- Zone de texte :
+	- Colonnes en haut à droite et >>
+- Double page c'est une planche
+- Être consistant :
+	- Ajouter une palette de document
+		- Deuxième avec chaîne our add as chain
+		- Double clic sur couleur = change couleur
+		- Left clic = Définir comme global
+	- Maquette en haut à gauche pour mettre des éléments qui se retrouvent partout
+		- Répéter pour page de gauche et page de droite dans la maquette
+		- Numéro de page: Texte > Insérer > Champs > Numéro de page
+- Style de texte :
+	- Détacher et en haut à droite : Supprimer les styles inutilisés
+	- Texte > Style de Texte > Créer un style de texte
+- Césure
+- Lettrine, dans Paragraphe > Lettrine
+- Automatic fill :
+	- Maj + point (under eye)
+- Quand reliure (pic et pli) : Toujours multiple de 4 !
