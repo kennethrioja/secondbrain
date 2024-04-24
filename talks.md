@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [23.04.2024 – Pasqualotto & Fanourakis](#23042024--pasqualotto--fanourakis)
 * [09.04.2024 – Nguyen, Thiam & De Renty](#09042024-nguyen-thiam--de-renty)
 * [26.03.2024 – Richard Stallman : Free Software and Free computing (Unidufour)](#26032024-richard-stallman--free-software-and-free-computing-unidufour)
 * [26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).](#26032024--r-lunch--how-to-create-interactive-maps-with-r-switzerland-use-cases-felix-luginbuhl-data-scientist)
@@ -38,6 +39,14 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 23.04.2024 – Pasqualotto & Fanourakis
+- We focus on enhancing attention which has been discovered on playing action video games, we measure it through MOT but we implement MOT... isn't there a wrong loop here?
+- Difficulty update:
+	- On a grid
+	- Advance to the farthest sub-level parameter to master
+	- Or come back to previous
+- Push, push and go back, push, push and go back : game design
 
 # 09.04.2024 – Nguyen, Thiam & De Renty
 - oddball_only vs. _game &

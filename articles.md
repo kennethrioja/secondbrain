@@ -112,6 +112,7 @@
 - Karsenti, T., & Fiévez, A. (2013). L'iPad à l'école: usages, avantages et défis. Rapport de recherche. Retrieved from http://s442047004.onlinehome.fr/images/classenumerique/ipadecole.pdf?link_credit=KennethRioja
 - Shin, T., Koehler, M., & Mishra, P. (2009). Changing technological pedagogical content knowledge (TPACK) through course experiences. In International Conference of the Society for the Information and Technology & Teacher Education. Charleston, South Carolina.
 - Zucker, A., & Light, D. (2009). Laptop programs for students. Science, 323(January), 82-85.
+- https://www.solaresearch.org/events/lak/lak24/table-of-contents/
 
 ## Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.
 http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf

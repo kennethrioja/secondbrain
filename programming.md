@@ -6,6 +6,7 @@
 
 * [REST](#rest)
 	* [Saison 20-21- Part 3 - Web services REST Concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
+	* [Ecrivez du code python maintenablehttps://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable](#ecrivez-du-code-python-maintenablehttpsopenclassroomscomfrcourses7160741-ecrivez-du-code-python-maintenable)
 	* [Adopter les API REST pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
 	* [[MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)](#mysql-tutorial-for-beginners-full-coursehttpswwwyoutubecomwatchv7s_tz1z_5ba)
 * [Unity](#unity)
@@ -75,6 +76,79 @@ return new Compte(1L, Math.random()*9999, new Date());
 }
 ...
 ```
+
+## [Ecrivez du code python maintenable]()https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable
+- [PEP 8](https://peps.python.org/pep-0008/) :
+	- Python Enhancement Proposal
+	- Style guide
+	- variables (snake_case) = `pep_eight`
+	- const variables = `PEP_EIGHT`
+	- class (CapitalizedCase) = `PepEight`
+	- modules = `pepeight`
+	- # Comments above the code
+	- Simple line docstrings :
+		- `"""This is my docstring"""`
+	- Or complete docstring :
+```
+"""Docstrings are written at the begining of a function, class or module. They only describe return, useful to explain the usage.
+
+Attrs:
+- first (str) -- bla
+- second (str) -- bla
+
+Returns:
+- blabla
+"""
+```
+	- `_PrivateClasses` do not need docstrings
+	- When fixing default value, we can do `var1="my var"`
+	- Pas (d'espace)
+	- Line code max = 79 chars
+	- Cut a long string by CR
+	- Order : File comments, imports, constants then code
+	- try: ... except ValueError as error: raise ValueError
+	- `if isinstance(obj, int):`
+	- `if greeting` AND NOT == True or is True
+	- Linter :
+		- `pip install flake8`
+		- `pip install black`
+- Design patterns :
+	- Constant : faire des chiffres variables, des VAR_CONST
+	- Decorateur : quand on veut faire exécuter des fonctions avant et après, on fait un décorateur; si tu veux faire des trucs avant et après ta fonction, tu va décorer cette fonction du décorateur (wrapper)
+```
+def calculate_time_spent(function):
+	
+    def wrapper(*args, **kwargs):
+	
+		start = time()
+		result = function(*args, **kwargs)
+		end = time()
+		time_spent = end - start
+		print(f"sec passées: {time_spent:.2f}")
+		
+		return result
+		
+	return wrapper
+
+
+@decorate_function # sucre syntaxique
+def function_to_pass():
+	print("Await...")
+	sleep(3)
+	print("Done!")
+```
+	- MVC, Modèle-Vue-Contrôleur : 
+		- Modèle -- notification -> Contrôleur -- mise à jour -> Vue
+		- Modèle <- mise à jour  -- Contrôleur <- user action -- Vue
+		- Modèle = infos relatives à l'état du système, càd fonctionnalités brutes de l'application
+		- Vue = Interface visuelle et/ou sonore pour l'user
+		- Contrôleur = garantit que les commandes sont exe correctement, modifie les objects, met à jour l'app, càd rouages de l'app
+- `__init__` pour initialiser les variables à l'intérieur d'une classe, `self.var1 = var1`
+- `__str__` pour retourner joliment `return f"{self.var1} is {self.var2}"`
+- `__repr__` pour retourner directement `self`
+- `__lt__` pour comparer la classe less than
+- SOLID principles :
+	- 
 
 ## [Adopter les API REST pour vos projets web](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) :
 - API comme intermédiaire entre données de l'application et le client

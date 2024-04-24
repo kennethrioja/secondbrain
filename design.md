@@ -41,6 +41,23 @@
 - Copy FX, glisser déposer a un autre calque et DELETE glisse depose dans bin
 - Questions:
 	- Comment faire le même point à la même distance?
+- Grille :
+	- Afficher la grille > Magnétisme coller à la grille
+	- Grille > Isométrique (pour 3d)
+	- Afficher Isométrique > Changer haut-devant-côté à chaque fois
+- Plan de travail :
+	- Deuxième outil et contexte bar d'insérer un plan de travail.
+	- Et export pour choisir plan de travail
+- Cercle > Convertir en Circulaire
+- Symbole :
+	- Affichage symbole
+	- #clone
+- Coube bézier : Control + click pour que ça soit symétrique
+- Dégradé (G) en bitmap :
+	- Crée un petit motif de 30x30, save in png
+	- Fais le dégradé et choisis : Bitmap
+	- Une forme peut avoir plusieurs remplissages et plusieurs traits
+- Il y a un mode pixel art
 
 ## Affinity Publisher 2
 
@@ -85,3 +102,28 @@
 - Automatic fill :
 	- Maj + point (under eye)
 - Quand reliure (pic et pli) : Toujours multiple de 4 !
+- Small CAPS :
+	- Texte > Majuscules > Majuscule en début de phrase
+- Saut de page :
+	- Texte > Insérer > Sauts
+- Options d'allignement du bloc : En haut, barre, vers alignement à droite
+- Remplacer :
+	- Seulement dans les styles
+- Règle :
+	- Flux = Début d'enchainement (dans la page belle) Page impair est toujours à droite
+	- Conserver avec le paragraphe précédent : ex. ChapterNum & ChapterTitle (binôme)
+- Preview :
+	- Tab et control+W
+- Hauteur à la même taille que 
+- Empêcher les lignes veuves et orphelines (dans paragraphe > Options d'enchaînement)
+- Interlettres : Quand retour détail, faire réglage ponctuel
+- Césures :
+	- Tu peux changer le language (FR de FR)
+- Crénage :
+	- Quand le f sous le a, tu peux changer ça finement
+- Grille de référence : comme cahier ligné
+- Habillage :
+	- Texte contourne l'image
+	- En haut à droite, le cercle avec traits (comme word)
+- Image :
+	- Photoshop, noir et blanc, à côté de FX
