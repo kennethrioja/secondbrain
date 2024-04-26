@@ -23,4 +23,5 @@
 | `gs{motion}`                                  | get sort ([vim sort motion](https://github.com/christoomey/vim-sort-motion))                                                          |
 | `:GenTocGFM`                                  | Generate Toc in GFM link style                                                                                                        |
 | `gl{bulletpoint}`                             | get list 1. or -                                                                                                                      |
+| Cmd + Shift + L c								| On vsc to search replace
 |                                               |                                                                                                                                       |

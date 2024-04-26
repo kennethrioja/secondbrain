@@ -4,9 +4,13 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [Tabby](#tabby)
+* [Python](#python)
+	* [Python 101: Learn the 5 Must-Know Concepts](#python-101-learn-the-5-must-know-concepts)
+	* [Ecrivez du code python maintenablehttps://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable](#ecrivez-du-code-python-maintenablehttpsopenclassroomscomfrcourses7160741-ecrivez-du-code-python-maintenable)
+	* [Débutez avec le framework Django :](#débutez-avec-le-framework-django-)
 * [REST](#rest)
 	* [Saison 20-21- Part 3 - Web services REST Concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
-	* [Ecrivez du code python maintenablehttps://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable](#ecrivez-du-code-python-maintenablehttpsopenclassroomscomfrcourses7160741-ecrivez-du-code-python-maintenable)
 	* [Adopter les API REST pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
 	* [[MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)](#mysql-tutorial-for-beginners-full-coursehttpswwwyoutubecomwatchv7s_tz1z_5ba)
 * [Unity](#unity)
@@ -20,62 +24,24 @@
 
 <!-- vim-markdown-toc -->
 
-# REST
-## [Saison 20-21- Part 3 - Web services REST Concepts de base](https://www.youtube.com/watch?v=jzK1mBOe33E) :
-- REpresentational State Transfert es tun style d'architecture pour les systèmes hypermédia distribués
-	- [Explaining Distributed Systems Like I'm 5](https://www.youtube.com/watch?v=CESKgdNiKJw) :
-		- Client->API server->DB : synchronous so blocking people from uploading, question is : What is we have dozens of concurrent uploads?
-		- IRL, for Icecream vendor -> you create queues! -> but what if a LOT of people? -> So hire a security guard
-		- A DS is a collection of indipendent computers that appear to its users as one computer (Tanenbaum A.) -> what matter to the user is the speed and possibility to ask for many different icecream at the same time
-		- Rules :
-			- All computers operate concurrently
-			- All computers fail concurrently
-			- All computers do not share a global clock
-				- We will never have synchronized hours, e.g., latency due to speed of light, [NTP PTP](https://www.geeksforgeeks.org/difference-between-ntp-and-ptp/)
-- [What are HTTP requests?](https://www.youtube.com/watch?v=-Zea7GB2OwA) :
-	- HyperText Transfer Protocol : used to structure requests and responses over the internet
-	- Transmission Control Protocol : manages the channels bw your browser and the server
-	- GET, POST, etc. are an http method.
-- Une norme avec 5 règles :
-	1. l'URI (Uniforme Resource Identifier) comme identifiant des ressources
-		- Request Parameter, ex. "/books?filtre=policier"
-		- Path Parameter, ex. "/books/87"
-	2. Les méthodes HTTP comme identifiant des opérations
-		- Pour une ressource, il y a 4 opérations possibles (CRUD):
-			- Create -> POST = ajouter,
-			- Read -> GET = consulter,
-			- Update -> PUT = mettre à jour,
-			- Delete -> DELETE = supprimer
-	3. Les réponses HTTP comme représentation des ressources : la réponse envoyée n'est pas une ressources mais la représentation d'une ressource, c'est au client de définir quel format de réponse il souhaite recevoir via le HEADER HTTP "Accept: application/json"
-	4. Les liens comme relation entre ressources : https://www.iana.org/assignments/link-relations/link-relations.xhtml
-	5. Un paramètre comme jeton d'authentification avec un token. Deux type de sécurité :
-		- Stateful -> quand utilise session et cookies, stocké dans la mémoire du serveur et géré par lui, identifiant comme Cookie. Inconvénients quand utilise REST
-		- Stateless -> quand utilise token d'identification. Votre session est gérée par le client. Ex. Json Web Token, on trouve username, rôle, date d'expiration user. C'est votre session.
-- REST ou RESTful? REST respecte les 3 premières règles, RESTful on respecte les 5 règles.
-- Différence entre :
-	- Serveur d'application JEE: peut être GlassFish, JBOSS (Wildfly) plus performant, WebSphere. OpenSource plus performant et possibilités que Commercial. Démarre plusieurs services, ex. Web Container (TomCat) Servlet, JSP. Et des Spec / APIs.
-	- SpringIOC : utilise Tomcat, utilise les Specs que tu veux.
-- Un web service RESTful est un objet.
-```
- @Path("/banque")
- public class BanqueRestService {
- 
- @Path("/comptes")
- @GET
- @Produces(MediaType.APPLICATION_JSON)
- public List<Compte> listComptes() {
-	List<Compte> cptes=new ArrayList<>();
-	...
-	return cptes;
-}
-@Path("/comptes/{code}")
-@GET
-@Produces({MediaType.APPLICATION_JSON,MediaType.APPLICATION_XML})
-public Compte getCompte(@PathParam(value="code")Long code) {
-return new Compte(1L, Math.random()*9999, new Date());
-}
-...
-```
+# [Tabby](https://tabby.tabbyml.com/docs/installation/apple)
+tabby serve --device metal --model StarCoder-1B
+
+# Python
+
+## [Python 101: Learn the 5 Must-Know Concepts](https://www.youtube.com/watch?v=mMv6OSuitWw)
+- Mutable – immutable
+- List comprehensions :
+	- `x = [i for i in range (10)]`
+- Function arguments & parameter types :
+	- `def fn(*args, **kwargs)` # key word args
+	- `*args` to say that we can accept any positional parameters -> stored in tuple
+	- `**kwargs` means the function can accept any number of keyword arguments -> stored in dictionary
+- if __name__ == "__main__" :
+	- Allow the file, when ran directly, to do what's under it
+	- But when imported, does not run it
+- Global Interpreter Lock :
+	- Cannot run multi-thread
 
 ## [Ecrivez du code python maintenable]()https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable
 - [PEP 8](https://peps.python.org/pep-0008/) :
@@ -147,8 +113,112 @@ def function_to_pass():
 - `__str__` pour retourner joliment `return f"{self.var1} is {self.var2}"`
 - `__repr__` pour retourner directement `self`
 - `__lt__` pour comparer la classe less than
-- SOLID principles :
-	- 
+- SOLID beneficial principles ([Durand, 2013](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)):
+	- KISS (Keep It Simple, Stupid) to an easier understanding, maintenance, modification and testing
+	- Single responsibility, one class/function = one job/task, there's only one reason to modify it
+		- Model View Controler
+		- Lorsque vous ajoutez une nouvelle fonctionnalité, posez-vous ces questions :
+			- Quels sont les changements à venir qui pourraient impacter cette classe ?
+			- Qu’est-ce qui pourrait donner à la classe plus d’une raison d’être modifiée ?
+	- Opened to extension / Closed to modification
+		- Quand algorithmes, probable qu'il change au fil du temps
+		- Quand données qui entrent ou sortent du système
+	- Liskov substitution, child classes should be able to do what parent classes do
+		- "Si Φ(x) est une propriété démontrable pour tout objet x de type T, alors, Φ(y) doit être vrai pour les objets y de type S, lorsque S est un sous-type de T."
+		- Le principe de substitution de Liskov s’applique aux hiérarchies d’héritage. Il est enfreint lorsqu’une classe dérivée ne peut pas prendre la place d’une classe de base sans casser le système.
+	- Interface segregation, responsabilité unique appliqué aux interfaces
+		- Mieux vaut avoir deux interfaces avec peu de méthodes à impléementer qu'une seule interface qui ait tropp de reponsabilités!
+	- Dependency inversion, classes parents ne doivent pas avoir à changer lorsqu'une de leur sous-classes est modifiée
+		- Moins un objet en sait sur un autre et moins il est dépendant de cet autre objet
+- STUPID principles to avoid :
+	- Singleton:
+		- Difficile de tester, on ne peut pass sous-classer, il casse le O
+	- Tight coupling:
+		- When 2 classes/modules dépendent tellement l'une de l'autre que si modif de l'une modif de l'autre
+	- Untestability:
+		- Si une classe a besoin de nombreuses dépendances pour fonctionner correctement, il faut réécrire.
+	- Premature Optimization
+	- Indescriptive Naming
+	- Duplication
+
+## [Débutez avec le framework Django](https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django?archived-source=4425076) :
+- Commands:
+	- `python3 -m venv env`
+	- `source env/bin/activate` & `deactivate` to leave
+	- `pip install django` # once in env, installs django
+	- `pip freeze > requirements.txt` # keep track of required packages
+	- `django-admin startproject merchex` # creates local proj, app, db, command line utility (CLU)
+	- `python manage.py runserver` # creates local server,  manage.py is the CLU script of django
+	- `python manage.py migrate` # creates db.sqlite3
+	- `python manage.py startapp listings` # repertoire of apps
+	- add 'listings' to INSTALLED_APPS in appname/appname/settings.py (the config of the entire project)
+	- create views in listings/views.py by defining a function
+		- A view is a function accepting an HttpRequest Object as a parameter and returns an HttpResponse
+```
+def hello(request):
+	return HttpResponse('<h1>Hello, world.')
+```
+	-
+- La meilleure pratique consiste à ajouter notre application en bas de la liste afin qu'elle soit la dernière à se charger.
+- MVT(emplate) is a fresh take on the classic MVC design pattern ([django](https://www.askpython.com/django/django-mvt-architecture))
+- 
+
+# REST
+## [Saison 20-21- Part 3 - Web services REST Concepts de base](https://www.youtube.com/watch?v=jzK1mBOe33E) :
+- REpresentational State Transfert es tun style d'architecture pour les systèmes hypermédia distribués
+	- [Explaining Distributed Systems Like I'm 5](https://www.youtube.com/watch?v=CESKgdNiKJw) :
+		- Client->API server->DB : synchronous so blocking people from uploading, question is : What is we have dozens of concurrent uploads?
+		- IRL, for Icecream vendor -> you create queues! -> but what if a LOT of people? -> So hire a security guard
+		- A DS is a collection of indipendent computers that appear to its users as one computer (Tanenbaum A.) -> what matter to the user is the speed and possibility to ask for many different icecream at the same time
+		- Rules :
+			- All computers operate concurrently
+			- All computers fail concurrently
+			- All computers do not share a global clock
+				- We will never have synchronized hours, e.g., latency due to speed of light, [NTP PTP](https://www.geeksforgeeks.org/difference-between-ntp-and-ptp/)
+- [What are HTTP requests?](https://www.youtube.com/watch?v=-Zea7GB2OwA) :
+	- HyperText Transfer Protocol : used to structure requests and responses over the internet
+	- Transmission Control Protocol : manages the channels bw your browser and the server
+	- GET, POST, etc. are an http method.
+- Une norme avec 5 règles :
+	1. l'URI (Uniforme Resource Identifier) comme identifiant des ressources
+		- Request Parameter, ex. "/books?filtre=policier"
+		- Path Parameter, ex. "/books/87"
+	2. Les méthodes HTTP comme identifiant des opérations
+		- Pour une ressource, il y a 4 opérations possibles (CRUD):
+			- Create -> POST = ajouter,
+			- Read -> GET = consulter,
+			- Update -> PUT = mettre à jour,
+			- Delete -> DELETE = supprimer
+	3. Les réponses HTTP comme représentation des ressources : la réponse envoyée n'est pas une ressources mais la représentation d'une ressource, c'est au client de définir quel format de réponse il souhaite recevoir via le HEADER HTTP "Accept: application/json"
+	4. Les liens comme relation entre ressources : https://www.iana.org/assignments/link-relations/link-relations.xhtml
+	5. Un paramètre comme jeton d'authentification avec un token. Deux type de sécurité :
+		- Stateful -> quand utilise session et cookies, stocké dans la mémoire du serveur et géré par lui, identifiant comme Cookie. Inconvénients quand utilise REST
+		- Stateless -> quand utilise token d'identification. Votre session est gérée par le client. Ex. Json Web Token, on trouve username, rôle, date d'expiration user. C'est votre session.
+- REST ou RESTful? REST respecte les 3 premières règles, RESTful on respecte les 5 règles.
+- Différence entre :
+	- Serveur d'application JEE: peut être GlassFish, JBOSS (Wildfly) plus performant, WebSphere. OpenSource plus performant et possibilités que Commercial. Démarre plusieurs services, ex. Web Container (TomCat) Servlet, JSP. Et des Spec / APIs.
+	- SpringIOC : utilise Tomcat, utilise les Specs que tu veux.
+- Un web service RESTful est un objet.
+```
+ @Path("/banque")
+ public class BanqueRestService {
+ 
+ @Path("/comptes")
+ @GET
+ @Produces(MediaType.APPLICATION_JSON)
+ public List<Compte> listComptes() {
+	List<Compte> cptes=new ArrayList<>();
+	...
+	return cptes;
+}
+@Path("/comptes/{code}")
+@GET
+@Produces({MediaType.APPLICATION_JSON,MediaType.APPLICATION_XML})
+public Compte getCompte(@PathParam(value="code")Long code) {
+return new Compte(1L, Math.random()*9999, new Date());
+}
+...
+```
 
 ## [Adopter les API REST pour vos projets web](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) :
 - API comme intermédiaire entre données de l'application et le client
