@@ -45,16 +45,16 @@ tabby serve --device metal --model StarCoder-1B
 
 ## [Ecrivez du code python maintenable]()https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable
 - [PEP 8](https://peps.python.org/pep-0008/) :
-	- Python Enhancement Proposal
-	- Style guide
-	- variables (snake_case) = `pep_eight`
-	- const variables = `PEP_EIGHT`
-	- class (CapitalizedCase) = `PepEight`
-	- modules = `pepeight`
-	- # Comments above the code
-	- Simple line docstrings :
-		- `"""This is my docstring"""`
-	- Or complete docstring :
+- Python Enhancement Proposal
+- Style guide
+- variables (snake_case) = `pep_eight`
+- const variables = `PEP_EIGHT`
+- class (CapitalizedCase) = `PepEight`
+- modules = `pepeight`
+- Comments (#) are above the code
+- Simple line docstrings :
+	- `"""This is my docstring"""`
+- Or complete docstring :
 ```
 """Docstrings are written at the begining of a function, class or module. They only describe return, useful to explain the usage.
 
@@ -67,18 +67,18 @@ Returns:
 """
 ```
 
-	- `_PrivateClasses` do not need docstrings
-	- When fixing default value, we can do `var1="my var"`
-	- Pas (d'espace)
-	- Line code max = 79 chars
-	- Cut a long string by CR
-	- Order : File comments, imports, constants then code
-	- try: ... except ValueError as error: raise ValueError
-	- `if isinstance(obj, int):`
-	- `if greeting` AND NOT == True or is True
-	- Linter :
-		- `pip install flake8`
-		- `pip install black`
+- `_PrivateClasses` do not need docstrings
+- When fixing default value, we can do `var1="my var"`
+- Pas (d'espace)
+- Line code max = 79 chars
+- Cut a long string by CR
+- Order : File comments, imports, constants then code
+- try: ... except ValueError as error: raise ValueError
+- `if isinstance(obj, int):`
+- `if greeting` AND NOT == True or is True
+- Linter :
+	- `pip install flake8`
+	- `pip install black`
 - Design patterns :
 	- Constant : faire des chiffres variables, des VAR_CONST
 	- Decorateur : quand on veut faire exécuter des fonctions avant et après, on fait un décorateur; si tu veux faire des trucs avant et après ta fonction, tu va décorer cette fonction du décorateur (wrapper)
@@ -105,33 +105,33 @@ def function_to_pass():
 	print("Done!")
 ```
 
-	- MVC, Modèle-Vue-Contrôleur : 
-		- Modèle -- notification -> Contrôleur -- mise à jour -> Vue
-		- Modèle <- mise à jour  -- Contrôleur <- user action -- Vue
-		- Modèle = infos relatives à l'état du système, càd fonctionnalités brutes de l'application
-		- Vue = Interface visuelle et/ou sonore pour l'user
-		- Contrôleur = garantit que les commandes sont exe correctement, modifie les objects, met à jour l'app, càd rouages de l'app
+- MVC, Modèle-Vue-Contrôleur : 
+	- Modèle -- notification -> Contrôleur -- mise à jour -> Vue
+	- Modèle <- mise à jour  -- Contrôleur <- user action -- Vue
+	- Modèle = infos relatives à l'état du système, càd fonctionnalités brutes de l'application
+	- Vue = Interface visuelle et/ou sonore pour l'user
+	- Contrôleur = garantit que les commandes sont exe correctement, modifie les objects, met à jour l'app, càd rouages de l'app
 - `__init__` pour initialiser les variables à l'intérieur d'une classe, `self.var1 = var1`
 - `__str__` pour retourner joliment `return f"{self.var1} is {self.var2}"`
 - `__repr__` pour retourner directement `self`
 - `__lt__` pour comparer la classe less than
 - SOLID beneficial principles ([Durand, 2013](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)):
-	- KISS (Keep It Simple, Stupid) to an easier understanding, maintenance, modification and testing
-	- Single responsibility, one class/function = one job/task, there's only one reason to modify it
-		- Model View Controler
-		- Lorsque vous ajoutez une nouvelle fonctionnalité, posez-vous ces questions :
-			- Quels sont les changements à venir qui pourraient impacter cette classe ?
-			- Qu’est-ce qui pourrait donner à la classe plus d’une raison d’être modifiée ?
-	- Opened to extension / Closed to modification
-		- Quand algorithmes, probable qu'il change au fil du temps
-		- Quand données qui entrent ou sortent du système
-	- Liskov substitution, child classes should be able to do what parent classes do
-		- "Si Φ(x) est une propriété démontrable pour tout objet x de type T, alors, Φ(y) doit être vrai pour les objets y de type S, lorsque S est un sous-type de T."
-		- Le principe de substitution de Liskov s’applique aux hiérarchies d’héritage. Il est enfreint lorsqu’une classe dérivée ne peut pas prendre la place d’une classe de base sans casser le système.
-	- Interface segregation, responsabilité unique appliqué aux interfaces
-		- Mieux vaut avoir deux interfaces avec peu de méthodes à impléementer qu'une seule interface qui ait tropp de reponsabilités!
-	- Dependency inversion, classes parents ne doivent pas avoir à changer lorsqu'une de leur sous-classes est modifiée
-		- Moins un objet en sait sur un autre et moins il est dépendant de cet autre objet
+- KISS (Keep It Simple, Stupid) to an easier understanding, maintenance, modification and testing
+- Single responsibility, one class/function = one job/task, there's only one reason to modify it
+	- Model View Controler
+	- Lorsque vous ajoutez une nouvelle fonctionnalité, posez-vous ces questions :
+		- Quels sont les changements à venir qui pourraient impacter cette classe ?
+		- Qu’est-ce qui pourrait donner à la classe plus d’une raison d’être modifiée ?
+- Opened to extension / Closed to modification
+	- Quand algorithmes, probable qu'il change au fil du temps
+	- Quand données qui entrent ou sortent du système
+- Liskov substitution, child classes should be able to do what parent classes do
+	- "Si Φ(x) est une propriété démontrable pour tout objet x de type T, alors, Φ(y) doit être vrai pour les objets y de type S, lorsque S est un sous-type de T."
+	- Le principe de substitution de Liskov s’applique aux hiérarchies d’héritage. Il est enfreint lorsqu’une classe dérivée ne peut pas prendre la place d’une classe de base sans casser le système.
+- Interface segregation, responsabilité unique appliqué aux interfaces
+	- Mieux vaut avoir deux interfaces avec peu de méthodes à impléementer qu'une seule interface qui ait tropp de reponsabilités!
+- Dependency inversion, classes parents ne doivent pas avoir à changer lorsqu'une de leur sous-classes est modifiée
+	- Moins un objet en sait sur un autre et moins il est dépendant de cet autre objet
 - STUPID principles to avoid :
 	- Singleton:
 		- Difficile de tester, on ne peut pass sous-classer, il casse le O
@@ -144,24 +144,28 @@ def function_to_pass():
 	- Duplication
 
 ## [Débutez avec le framework Django](https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django?archived-source=4425076) :
-- Commands:
-	- `python3 -m venv env`
-	- `source env/bin/activate` & `deactivate` to leave
-	- `pip install django` # once in env, installs django
-	- `pip freeze > requirements.txt` # keep track of required packages
-	- `django-admin startproject merchex` # creates local proj, app, db, command line utility (CLU)
-	- `python manage.py runserver` # creates local server,  manage.py is the CLU script of django
-	- `python manage.py migrate` # creates db.sqlite3
-	- `python manage.py startapp listings` # repertoire of apps
-	- add 'listings' to INSTALLED_APPS in appname/appname/settings.py (the config of the entire project)
-	- create views in listings/views.py by defining a function
-		- A view is a function accepting an HttpRequest Object as a parameter and returns an HttpResponse
+
+Commands:
+
+- `python3 -m venv env`
+- `source env/bin/activate` & `deactivate` to leave
+- `pip install django` # once in env, installs django
+- `pip freeze > requirements.txt` # keep track of required packages
+- `django-admin startproject merchex` # creates local proj, app, db, command line utility (CLU)
+- `python manage.py runserver` # creates local server,  manage.py is the CLU script of django
+- `python manage.py migrate` # creates db.sqlite3
+- `python manage.py startapp listings` # repertoire of apps
+- add 'listings' to INSTALLED_APPS in appname/appname/settings.py (the config of the entire project)
+- create views in listings/views.py by defining a function
+	- A view is a function accepting an HttpRequest Object as a parameter and returns an HttpResponse
 ```
 def hello(request):
-	return HttpResponse('<h1>Hello, world.')
+return HttpResponse('<h1>Hello, world.')
 ```
+- 
 
-	-
+Notes:
+
 - La meilleure pratique consiste à ajouter notre application en bas de la liste afin qu'elle soit la dernière à se charger.
 - MVT(emplate) is a fresh take on the classic MVC design pattern ([django](https://www.askpython.com/django/django-mvt-architecture))
 - 
