@@ -12,7 +12,7 @@
 * [REST](#rest)
 	* [Saison 20-21- Part 3 - Web services REST Concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
 	* [Adopter les API REST pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
-	* [[MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)](#mysql-tutorial-for-beginners-full-coursehttpswwwyoutubecomwatchv7s_tz1z_5ba)
+	* [MySQL Tutorial for Beginners, Full Course](#mysql-tutorial-for-beginners-full-course)
 * [Unity](#unity)
 	* [20 Unity Tips in 10 min](#20-unity-tips-in-10-min)
 	* [10 Unity Tips You (Probably) Didn't Know About](#10-unity-tips-you-probably-didnt-know-about)
@@ -66,6 +66,7 @@ Returns:
 - blabla
 """
 ```
+
 	- `_PrivateClasses` do not need docstrings
 	- When fixing default value, we can do `var1="my var"`
 	- Pas (d'espace)
@@ -103,6 +104,7 @@ def function_to_pass():
 	sleep(3)
 	print("Done!")
 ```
+
 	- MVC, Modèle-Vue-Contrôleur : 
 		- Modèle -- notification -> Contrôleur -- mise à jour -> Vue
 		- Modèle <- mise à jour  -- Contrôleur <- user action -- Vue
@@ -158,6 +160,7 @@ def function_to_pass():
 def hello(request):
 	return HttpResponse('<h1>Hello, world.')
 ```
+
 	-
 - La meilleure pratique consiste à ajouter notre application en bas de la liste afin qu'elle soit la dernière à se charger.
 - MVT(emplate) is a fresh take on the classic MVC design pattern ([django](https://www.askpython.com/django/django-mvt-architecture))
@@ -289,7 +292,7 @@ return new Compte(1L, Math.random()*9999, new Date());
 	- [Express js](https://expressjs.com/) (JS)
 	- [RoR](https://rubyonrails.org/) (Ruby)
 
-## [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+## [MySQL Tutorial for Beginners, Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 - Database is a collection of data stored in a format that can easily be accessed
 - Using a DBManagementSystem :
 	- Relational (Structured Query Language) : store data into tables linked to each other using relationships (ex. mySQL, Oracle)
