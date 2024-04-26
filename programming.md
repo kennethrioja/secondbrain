@@ -155,12 +155,18 @@ Commands:
 - `python manage.py runserver` # creates local server,  manage.py is the CLU script of django
 - `python manage.py migrate` # creates db.sqlite3
 - `python manage.py startapp listings` # repertoire of apps
-- add 'listings' to INSTALLED_APPS in appname/appname/settings.py (the config of the entire project)
-- create views in listings/views.py by defining a function
+- Add 'listings' to INSTALLED_APPS in appname/appname/settings.py (the config of the entire project)
+- Create views in `listings/views.py` by defining a function
 	- A view is a function accepting an HttpRequest Object as a parameter and returns an HttpResponse
 ```
 def hello(request):
-return HttpResponse('<h1>Hello, world.')
+	return HttpResponse('<h1>Hello, world.')
+```
+- Once the view created, update the URL Model in `urls.py`
+```
+from listings import views
+...
+path('hello/', views.hello)
 ```
 - 
 
