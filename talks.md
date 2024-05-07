@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [07.05.2024 – Alice Iannantuoni, text analysis in R](#07052024-alice-iannantuoni-text-analysis-in-r)
 * [23.04.2024 – Pasqualotto & Fanourakis](#23042024--pasqualotto--fanourakis)
 * [09.04.2024 – Nguyen, Thiam & De Renty](#09042024-nguyen-thiam--de-renty)
 * [26.03.2024 – Richard Stallman : Free Software and Free computing (Unidufour)](#26032024-richard-stallman--free-software-and-free-computing-unidufour)
@@ -39,6 +40,22 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 07.05.2024 – Alice Iannantuoni, text analysis in R
+- Who can give an R-lunch?
+	- Sezen?
+- `quanteda` for social science
+- `beepr` makes a beep when finish
+	- beep(), beep("mario")
+- `readtxt` reads directly form pdf
+	- Bag of word -> you do not care whats before and after
+	- Otherwise you care about the order.
+- Create a corpus then a document feature matrix (like table())
+- Pre and post a pattern : kwic(corpus, pattern = phrase(""), window = 20)
+- Idea :
+	- Recupère the top 100 motivational speeches on YT and find the words that are the most prevalent
+	- Weighted with view and if it is often rewinded
+- In social science we want to explain patterns in a given set of data and not make prediciton so we are overfitting
 
 # 23.04.2024 – Pasqualotto & Fanourakis
 - We focus on enhancing attention which has been discovered on playing action video games, we measure it through MOT but we implement MOT... isn't there a wrong loop here?
