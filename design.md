@@ -127,3 +127,21 @@
 	- En haut à droite, le cercle avec traits (comme word)
 - Image :
 	- Photoshop, noir et blanc, à côté de FX
+- Penser à la reliure, penser au pouce
+- Aligner par rapport à reliure
+- Numéro de page:
+	- Créer une autre maquette
+	- Sélectionner les pages > Appliquer maquette
+- Gestionnaire de ressources :
+	- Mieux d'avoir des images liées (extérieur du doc) vs intégré
+- Enregistrer comme package -> pour garder les images et les polices de caractère
+- Export PDF – numérique petit format VS. Export imprimerie (détails suffisants)
+- Export supérieur:
+	- JPEG bon à 85
+	- Mettre les pixels selon le ratio (ex. 1080x...)
+- Publipostage :
+	- Gestionnaire de fusion de données
+	- Insérer > Champs > Plus
+	- Dans Champs > Fusion de données > Sélectionner texte > double cliquer
+	- Une fois tout placé, go Gestionnaire de fusion de données et faire aperçu
+	- Voir avec la personne qui a les champs les plus longs
