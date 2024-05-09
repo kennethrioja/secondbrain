@@ -16,6 +16,7 @@
 * [rest](#rest)
 	* [saison 20-21- part 3 - web services rest concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
 	* [adopter les api rest pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
+	* [Mettez en place une API avec Django REST Framework](#mettez-en-place-une-api-avec-django-rest-framework)
 	* [mysql tutorial for beginners, full course](#mysql-tutorial-for-beginners-full-course)
 * [unity](#unity)
 	* [20 unity tips in 10 min](#20-unity-tips-in-10-min)
@@ -159,8 +160,6 @@ def function_to_pass():
 
 ## [Débutez avec le framework Django](https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django?archived-source=4425076) :
 
-Commands:
-
 - `python3 -m venv env`
 - `source env/bin/activate` & `deactivate` to leave
 - `pip install django` # once in env, installs django
@@ -221,31 +220,61 @@ def hello(request):
                         </ul>
                         """)
 ```
-- **GABARIT** est un fichier HTML permet d'interprêter du code python
+- **GABARIT** est un fichier HTML permet d'interprêter du code python, https://docs.djangoproject.com/fr/5.0/ref/templates/builtins/
 - MVT : Modèle(stock données)-Vue(récupère données)-Template(affiche données)
 - To render this HTML file in `listings/views.py` : `return render(request, 'listings/hello.html', {'players':players})`
-- Under `listings/templates/listings/hello.html`:
+- Under `listings/templates/listings/base.html`:
 ```
 <html>
     <head><title>VeryKoolGames</title></head>
     <body>
-        <h1>Welcome in VeryKoolGames!</h1>
-        <p>We are an indie video game studio created by {{players|length}} co-founders:</p>
-        <ul>
-            {% for player in players%}
-            <li>{{player.name|upper}}</li>
-            {% endfor%}
-        </ul>
+		{% block content %}{% endblock %}
     </body>
 </html>
 ```
-- 
-
-notes:
-
+- Under `listings/templates/listings/hello.html`:
+```
+{% extends 'listings/base.html' %}
+{% block content %}
+	<h1>Welcome in VeryKoolGames!</h1>
+	<p>We are an indie video game studio created by {{players|length}} co-founders:</p>
+	<ul>
+		{% for player in players%}
+		<li>{{player.name|upper}}</li>
+		{% endfor%}
+	</ul>
+{% endblock %}
+```
 - la meilleure pratique consiste à ajouter notre application en bas de la liste afin qu'elle soit la dernière à se charger.
 - mvt(emplate) is a fresh take on the classic mvc design pattern ([django](https://www.askpython.com/django/django-mvt-architecture))
-- 
+- [Static files](https://docs.djangoproject.com/fr/3.1/howto/static-files/#configuring-static-files)
+- Style.css to put in `listings/static/listings` + `{% load static %}` in model with `{% static 'listings/styles.css' %}`
+- **Système de Gestion de Base de Données** :
+- [Validateurs](https://docs.djangoproject.com/fr/3.2/ref/validators/)
+- https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django/7516421-capturez-des-donnees-avec-des-modeles-et-des-champs
+- Do not forget to makemigrations and migrate, if ask to put default value, press '1' and define
+- **CRUD** in Django :
+- `python manage py. createsuperuser`
+- In `/admin` you can go to the Django Administration and do your CRUD there
+- To display the models' name add to the models' class : `def __str__(self): return f'{self.name}'`
+- To display other fields add in `admin.py`:
+```
+class PlayerAdmin(admin.ModelAdmin):
+	list_display = ('field1', 'field2')
+	
+admin.site.register(Player, PlayerAdmin)
+```
+- `python manage.py showmigrations`
+- Vue en liste = affiche tous les objets
+- Vue détaillée = un objet avec tous les détails et champs
+- Notez comment nous terminons chaque chemin par un slash (« / »), c'est une convention Django.
+- In `urls.py` : `path("games/<int:game_id>", views.games_detail)`
+- In `views.py`, update the games_detail def
+- In template, you can use whatever you have
+- `get_VAR_display`, VAR being the name of the field to display it
+- 404 when not found `obj = get_object_or_404(Game, id=game_id)`
+- Form to send mails
+- "Ne jamais faire confiance au client"
 
 # rest
 ## [saison 20-21- part 3 - web services rest concepts de base](https://www.youtube.com/watch?v=jzk1mboe33e) :
@@ -372,6 +401,9 @@ return new compte(1l, math.random()*9999, new date());
 - quel framework?
 	- [express js](https://expressjs.com/) (js)
 	- [ror](https://rubyonrails.org/) (ruby)
+
+## [Mettez en place une API avec Django REST Framework](https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework)
+
 
 ## [mysql tutorial for beginners, full course](https://www.youtube.com/watch?v=7s_tz1z_5ba)
 - database is a collection of data stored in a format that can easily be accessed
