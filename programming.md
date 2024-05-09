@@ -404,6 +404,11 @@ return new compte(1l, math.random()*9999, new date());
 
 ## [Mettez en place une API avec Django REST Framework](https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework)
 
+- `pip install djangorestframework`
+- `pip install markdown`
+- `pip install django-filter`
+- Under INSTALLED_APPS, add 'rest_framework'
+- 
 
 ## [mysql tutorial for beginners, full course](https://www.youtube.com/watch?v=7s_tz1z_5ba)
 - database is a collection of data stored in a format that can easily be accessed
