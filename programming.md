@@ -408,6 +408,7 @@ return new compte(1l, math.random()*9999, new date());
 - `pip install markdown`
 - `pip install django-filter`
 - Under INSTALLED_APPS, add 'rest_framework'
+- Serializer : pour transformer des modèles Django en format exploitables par une API ou recevoir JSON et transforme en objet
 - 
 
 ## [mysql tutorial for beginners, full course](https://www.youtube.com/watch?v=7s_tz1z_5ba)
