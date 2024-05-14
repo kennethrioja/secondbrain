@@ -8,6 +8,7 @@
 * [26.03.2024 – Richard Stallman : Free Software and Free computing (Unidufour)](#26032024-richard-stallman--free-software-and-free-computing-unidufour)
 * [26.03.2024 – R-lunch : How to Create Interactive Maps with R: Switzerland Use Cases (Felix Luginbuhl, Data Scientist).](#26032024--r-lunch--how-to-create-interactive-maps-with-r-switzerland-use-cases-felix-luginbuhl-data-scientist)
 * [20.03.2024 – CONFÉRENCE DE MATHIEU SCHROETER CONSACRÉE À LA RESTAURATION DE BLUPIMANA (1994)](#20032024--confÉrence-de-mathieu-schroeter-consacrÉe-À-la-restauration-de-blupimana-1994)
+* [13.03.2024 – Des jeux numériques dans la classe. Une bonne idée ? – Eric Sanchez](#13032024--des-jeux-numériques-dans-la-classe-une-bonne-idée---eric-sanchez)
 * [28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer](#28022024--project-ethel-building-a-virtual-teachin-assistant--gerd-kortemeyer)
 * [21.02.2024 – Les effets des "écrans" sur le développement des jeunes enfants : quels sont les apports et les limites de la recherche ? – Edouard Gentaz](#21022024--les-effets-des-écrans-sur-le-développement-des-jeunes-enfants--quels-sont-les-apports-et-les-limites-de-la-recherche---edouard-gentaz)
 * [16.01.2024 – BLAST (Lachaux, 2019, Lyon) – Sylvie](#16012024--blast-lachaux-2019-lyon--sylvie)
@@ -110,6 +111,28 @@
 - Breakpoint dans main, et pas à pas pour arriver à avoir la boucle du jeu.
 - Pour menus et autres, passer par boucle événementielle principale: n'avoir qu'une seule boucle pour les events du jeu
 - Color key: utiliser une couleur pour la transparence.
+
+# 13.03.2024 – Des jeux numériques dans la classe. Une bonne idée ? – Eric Sanchez
+- https://www.youtube.com/watch?v=BQG8NCyCDVo&list=PLlZdvmQB3mW5U8ZvngNQxvh57Eb-9aAB3&index=4
+- JV première industrie culturelle
+- Jeu: d'accord sur un nombre de caractéristiques : 1) défi/compétition/résoudre problème, 2) univers narratif, 3) règles, 4) frivolité/c'est que du jeu, 5) incertitude -> pour un changement de cadre d'expérience (Callois, 1958; Brougère, 1995; Goffman, 1991)
+- Pas forcément motivation, mais faire attention aux caractéristiques du jeu
+- Ludicisation et transposition des savoirs (Bonnat et al., 2023) :
+	- Situation cible (l'objectif pédago, opaque et abstraite) -- LUDICISATION (métaphorisation) -> Situation source (jeu, transparent et concret) -- DEBRIEFING / déconstruction de la métaphore -> Situation cible
+- L'apprentissage se fait parce qu'il y a eu cette expérience
+- Le jeu fourni une expérienc ecommune sur laquelle les élèves peuvent s'appuyer pour interroger leur rapport au savoir lors du débriefing
+- Le jeu a des propriétés éducatives intrinsèques:
+	- Contextualise les savoirs (le sens)
+	- Dévolution (engagement des apprenant·e·s)
+	- Autonomie (liberté et feedback
+	- Prise en compte des émotions
+	- Statut de l'erreur (frivolité)
+	- -> Apprentissage expérientiel
+- Apprendre de son expérience de jeu plutôt qu'apprendre du jeu:
+	- Caractère subjectif
+	- Apprendre en jouant, un apprentissage ludique et expérientiel lié à un scénario pédagogique
+	- Rôle crucial de l'enseignant·e : conception, debriefing, orchestration
+- https://www.zotero.org/groups/240497/game-based_learning__gamification
 
 # 28.02.2024 – Project Ethel, Building a Virtual Teachin Assistant – Gerd Kortemeyer
 - Students can chat with a bot that retreives examples from the book (BUT MANUAL PROCESS TO DO THAT)
