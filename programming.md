@@ -12,12 +12,16 @@
 * [Python](#python)
 	* [Python 101: Learn the 5 Must-Know Concepts](#python-101-learn-the-5-must-know-concepts)
 	* [Ecrivez du code python maintenablehttps://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable](#ecrivez-du-code-python-maintenablehttpsopenclassroomscomfrcourses7160741-ecrivez-du-code-python-maintenable)
-	* [Débutez avec le framework Django :](#débutez-avec-le-framework-django-)
+	* [Django](#django)
+		* [Débutez avec le framework Django :](#débutez-avec-le-framework-django-)
+		* [Mettez en place une API avec Django REST Framework](#mettez-en-place-une-api-avec-django-rest-framework)
+	* [Flask](#flask)
+		* [Designing a RESTful API with Python and Flask](#designing-a-restful-api-with-python-and-flask)
+* [MySQL](#mysql)
+	* [mysql tutorial for beginners, full course](#mysql-tutorial-for-beginners-full-course)
 * [rest](#rest)
 	* [saison 20-21- part 3 - web services rest concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
 	* [adopter les api rest pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
-	* [Mettez en place une API avec Django REST Framework](#mettez-en-place-une-api-avec-django-rest-framework)
-	* [mysql tutorial for beginners, full course](#mysql-tutorial-for-beginners-full-course)
 * [unity](#unity)
 	* [20 unity tips in 10 min](#20-unity-tips-in-10-min)
 	* [10 unity tips you (probably) didn't know about](#10-unity-tips-you-probably-didnt-know-about)
@@ -158,7 +162,9 @@ def function_to_pass():
 	- Indescriptive Naming
 	- Duplication
 
-## [Débutez avec le framework Django](https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django?archived-source=4425076) :
+## Django
+
+### [Débutez avec le framework Django](https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django?archived-source=4425076) :
 
 - `python3 -m venv env`
 - `source env/bin/activate` & `deactivate` to leave
@@ -275,6 +281,43 @@ admin.site.register(Player, PlayerAdmin)
 - 404 when not found `obj = get_object_or_404(Game, id=game_id)`
 - Form to send mails
 - "Ne jamais faire confiance au client"
+
+### [Mettez en place une API avec Django REST Framework](https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework)
+
+- `pip install djangorestframework`
+- `pip install markdown`
+- `pip install django-filter`
+- Under INSTALLED_APPS, add 'rest_framework'
+- Serializer : pour transformer des modèles Django en format exploitables par une API ou recevoir JSON et transforme en objet
+- https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework/7424498-gerez-des-donnees-avec-un-endpoint
+
+## Flask
+
+### [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+- The easiest way to secure our web service is to require clients to provide a username and a password. In a regular web application you would have a login form that posts the credentials, and at that point the server would create a session for the logged in user to continue working, with the session id stored in a cookie in the client browser. Unfortunately doing that here would violate the stateless requirement of REST, so instead we have to ask clients to send their authentication information with every request they send to us.
+- Protect the functions by adding `@auth.login_required` decorator
+
+# MySQL
+
+## [mysql tutorial for beginners, full course](https://www.youtube.com/watch?v=7s_tz1z_5ba)
+- database is a collection of data stored in a format that can easily be accessed
+- using a dbmanagementsystem :
+	- relational (structured query language) : store data into tables linked to each other using relationships (ex. mysql, oracle)
+- administration tab to start or stop a server, import/export data
+- for each db you have :
+	- tables : to store data
+	- views : like virtual cables, to combine data from multiple tables and put them in a view. powerful to create reports.
+	- stored procedures and function : store functions inside our db for querying data
+- clauses : 
+	- `select` : `col1 + 10 as new_col1`, if `select distinct` removes duplicates
+	- `from` 
+	- `where` : `in ('cond1', 'cond2')` to avoid or, or; `between 10 and 100` to avoid <= and >=; `like 'b%'` search everything which begins with b* and _ for single char; `regexp` ^ to say beginning of string, $ to represent the end of a string, | to seach multiple search pattern, `[abc]e` a b or c before e
+	- `order`
+	- `limit` : at the end, choose the x first rows
+	- `join`
+- comment by using two hyphens "--"
+- 1:40
+
 
 # rest
 ## [saison 20-21- part 3 - web services rest concepts de base](https://www.youtube.com/watch?v=jzk1mboe33e) :
@@ -401,34 +444,6 @@ return new compte(1l, math.random()*9999, new date());
 - quel framework?
 	- [express js](https://expressjs.com/) (js)
 	- [ror](https://rubyonrails.org/) (ruby)
-
-## [Mettez en place une API avec Django REST Framework](https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework)
-
-- `pip install djangorestframework`
-- `pip install markdown`
-- `pip install django-filter`
-- Under INSTALLED_APPS, add 'rest_framework'
-- Serializer : pour transformer des modèles Django en format exploitables par une API ou recevoir JSON et transforme en objet
-- 
-
-## [mysql tutorial for beginners, full course](https://www.youtube.com/watch?v=7s_tz1z_5ba)
-- database is a collection of data stored in a format that can easily be accessed
-- using a dbmanagementsystem :
-	- relational (structured query language) : store data into tables linked to each other using relationships (ex. mysql, oracle)
-- administration tab to start or stop a server, import/export data
-- for each db you have :
-	- tables : to store data
-	- views : like virtual cables, to combine data from multiple tables and put them in a view. powerful to create reports.
-	- stored procedures and function : store functions inside our db for querying data
-- clauses : 
-	- `select` : `col1 + 10 as new_col1`, if `select distinct` removes duplicates
-	- `from` 
-	- `where` : `in ('cond1', 'cond2')` to avoid or, or; `between 10 and 100` to avoid <= and >=; `like 'b%'` search everything which begins with b* and _ for single char; `regexp` ^ to say beginning of string, $ to represent the end of a string, | to seach multiple search pattern, `[abc]e` a b or c before e
-	- `order`
-	- `limit` : at the end, choose the x first rows
-	- `join`
-- comment by using two hyphens "--"
-- 1:40
 
 # unity
 

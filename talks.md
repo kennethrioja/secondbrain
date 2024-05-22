@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG](#22052024--miraj-la-place-du-récit-interactif-dans-les-sg)
 * [07.05.2024 – Alice Iannantuoni, text analysis in R](#07052024-alice-iannantuoni-text-analysis-in-r)
 * [23.04.2024 – Pasqualotto & Fanourakis](#23042024--pasqualotto--fanourakis)
 * [09.04.2024 – Nguyen, Thiam & De Renty](#09042024-nguyen-thiam--de-renty)
@@ -41,6 +42,35 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG
+- Contenu d'apprentissage DANS la mécanique principale
+- https://www.ludoscience.com/EN/diffusion/927-LA-GAMIFICATION-COMBIEN-CA-COUTE--COMBIEN-CA-RAPPORTE---COMMENT-REUSSIR-SON-PROJET-DE-GAMIFICATION-.html
+- https://www.succubus.fr/en/get-to-know-succubus-interactive/
+- C'est quoi un SG:
+	- Faire passer un message (fonction):
+		- formation, sensibilisation, promotion
+	- Pour rendre la transmission de la façon la plus engageante possible
+	- Digital interactif vs tangible statique
+- Récit:
+	- narration -> scénario et interactions: obejctifs à atteindre
+- [Mise en place de l'échec comme processus d'apprentissage](https://edutechwiki.unige.ch/fr/Place_de_l%27erreur_dans_l%27apprentissage)
+- Rejouabilité
+- Feedback
+- Permettre un skip si expertise
+- Contextualisation (présenter le contexte au joueur)/ mise en situation (voilà ce que tu peux faire, fais des choix)/ restitution (feedback, ici où message à transmettre)
+	- Flouter frontière et donner expérience par composantes interactive et ludique dans briefing-debriefing
+- Briefing-simulation-debriefing
+- Est-ce que le/la joueureuse connait tout ce qu'il faut + compétences nécessaires? 2) on fait assessment au dedans de contextualisation
+- Contraintes de budget c'est dans les mécaniques
+- Concevoir des SG est difficile -> 
+- Metrics: Taux de complétion, où arrêté, quelle est la partie la plus engageante
+- Comprendre le message à passer. qu'est-ce que ça nécessite? Analyser le message pédagogique, le décomposer dans scénario pédagogique, les msg à faire passer à la joueuse.
+- Expérience digitale vs SG ->répond à besoin d'engagement dans les formations. Besoin: manque d'engagement dans les formations
+- Perception des SG
+- Pousser les gens à évoluer dans les entreprises
+- Partir sur mécanisme principal qui n'inclut pas les objectifs pédago, mais peut être détourné.
+- Il n'existe pas encore de 'bonne' manière/recette de faire un jeu
 
 # 07.05.2024 – Alice Iannantuoni, text analysis in R
 - Who can give an R-lunch?

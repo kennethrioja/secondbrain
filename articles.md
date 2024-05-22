@@ -10,13 +10,18 @@
 * [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
 * [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
+* [(YT) Blow, 2024 – On Burning out](#yt-blow-2024--on-burning-out)
+* [(YT) Blow, 2024 – Jonathan Blow on leading an indie game company](#yt-blow-2024--jonathan-blow-on-leading-an-indie-game-company)
+* [(YT) Blow, 2024 – Jonathan Blow on Simplicity](#yt-blow-2024--jonathan-blow-on-simplicity)
+* [(YT) Blow, 2022 – Jonathan Blow on work-life balance and working hard](#yt-blow-2022--jonathan-blow-on-work-life-balance-and-working-hard)
+* [(YT) Blow, 2018 – Techniques for dealing with lack of motivation malaise, depression](#yt-blow-2018--techniques-for-dealing-with-lack-of-motivation-malaise-depression)
 * [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](#blumberg-et-al-2019--digital-games-as-a-context-for-childrens-cognitive-development-research-recommendation-and-policy-considerations)
 * [Blume et al., 2023 : Individualisation in cognitive skills training: essential or superfluous? Examining the effectiveness of an adaptive game for training executive functions in young adults](#blume-et-al-2023--individualisation-in-cognitive-skills-training-essential-or-superfluous-examining-the-effectiveness-of-an-adaptive-game-for-training-executive-functions-in-young-adults)
 * [Bourgeois, 2011 : Chapitre 1. Les théories de l’apprentissage: Un peu d’histoire... In Apprendre et faire apprendre (pp. 23–39)](#bourgeois-2011--chapitre-1-les-théories-de-lapprentissage-un-peu-dhistoire-in-apprendre-et-faire-apprendre-pp-2339)
 * [Bowman et al., 2024 : A Continuous-Space Description of Video Games: A Preliminary Investigationhttps://psycnet.apa.org/doi/10.1037/ppm0000522](#bowman-et-al-2024--a-continuous-space-description-of-video-games-a-preliminary-investigationhttpspsycnetapaorgdoi101037ppm0000522)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
-* [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](#clark-2023-yt--ai-work--learning-can-ai-teach-)
+* [(YT) Clark, 2023 : AI: work & learning, Can AI teach ?](#yt-clark-2023--ai-work--learning-can-ai-teach-)
 * [Clow, 2013 : An overview of learning analytics](#clow-2013--an-overview-of-learning-analytics)
 * [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
 * [Cosnefroy, 2010 : L'apprentissage autorégulé : perspectives en formation d'adultes](#cosnefroy-2010--lapprentissage-autorégulé--perspectives-en-formation-dadultes)
@@ -25,7 +30,7 @@
 * [Deterding et al., From game design elements to gamefulness: defining "gamification"](#deterding-et-al-from-game-design-elements-to-gamefulness-defining-gamification)
 * [Dicheva et al., 2015 : Gamification in Education: A Systematic Mapping Study](#dicheva-et-al-2015--gamification-in-education-a-systematic-mapping-study)
 * [Dillenbourg et al., 1995 : The evolution of research on collaborative learning](#dillenbourg-et-al-1995--the-evolution-of-research-on-collaborative-learning)
-* [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](#dillenbourg-2023-yt--les-mythes-qui-sabordent-les-technologies-éducatives)
+* [(YT) Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives](#yt-dillenbourg-2023--les-mythes-qui-sabordent-les-technologies-éducatives)
 * [Dimov et al., 2023 : An Integrated Model of Collaborative Skill Acquisition: Anticipation, Control Tuning, and Role Adoption](#dimov-et-al-2023--an-integrated-model-of-collaborative-skill-acquisition-anticipation-control-tuning-and-role-adoption)
 * [Dörner et al., 2016 : Serious Video Games](#dörner-et-al-2016--serious-video-games)
 	* [CHAPTER 9 : Wiemeyer et al., 2016 : Player Experience](#chapter-9--wiemeyer-et-al-2016--player-experience)
@@ -42,7 +47,7 @@
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
-* [Kapur, 2022 (YT) : Productive Failure](#kapur-2022-yt--productive-failure)
+* [(YT) Kapur, 2022 : Productive Failure](#yt-kapur-2022--productive-failure)
 * [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
 * [Lallemand et al., 2015 : Création et validation d’une version franc¸ aise du questionnaire AttrakDiff pour l’évaluation de l’expérience utilisateur des systèmes interactifs](#lallemand-et-al-2015--création-et-validation-dune-version-franc-aise-du-questionnaire-attrakdiff-pour-lévaluation-de-lexpérience-utilisateur-des-systèmes-interactifs)
 * [Lallemand & Gronier, 2016 : Méthodes de design UX. 30 méthodes fondamentales pour concevoir et évaluer les systèmes interactifs.](#lallemand--gronier-2016--méthodes-de-design-ux-30-méthodes-fondamentales-pour-concevoir-et-évaluer-les-systèmes-interactifs)
@@ -234,6 +239,45 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	2. EFs *mediate* the relationship bw MU and media effects (media effects reflect individual diffeerences in EF)
 	3. EFs *moderate* the relationship between media use and media effects (EF skills can enhance or attenuate the effects of media use on health)
 - See media use like eating food : quantity does not matter, but quality, physiology of the individual and other factors
+
+## [(YT) Blow, 2024 – On Burning out](https://www.youtube.com/watch?v=HkhHvP8emRM)
+- Goggins
+- Learn effectively by finding a project you really wnat to work on, that requires more Kn or Sk than you currently have so it's pushing or enlarging your boundaries + find what you can't do and have a specific thing to learn and very specific motivation to learn it
+
+## [(YT) Blow, 2024 – Jonathan Blow on leading an indie game company](https://www.youtube.com/watch?v=_vcdDsaPiVA)
+- You can't control what happens
+- What you can control is how you comport yourself when things happen
+- Respond to things with reasonable amount of grace
+- When you're leading, other people are very limited in their capacity to do damage to the thing "that's a bummer but YOU are the one"
+
+## [(YT) Blow, 2024 – Jonathan Blow on Simplicity](https://www.youtube.com/watch?v=4oky64qN5WI)
+- Be reality based in engineering discipline means designing the thing that will solve the problem that you have
+- People do not solve problems because they become attached to some system of doing things that's overly complex and doesn't address the problem
+- A modern game is reading input, you simulate game state and you render -> this order that should happen in frame and also in order of how much they cost: reading and simulating is cheap, rendering is super expensive
+- We're not allergic to complexity as programmers
+- Keep it simple, because modern environment is "so screwed up"
+
+## [(YT) Blow, 2022 – Jonathan Blow on work-life balance and working hard](https://www.youtube.com/watch?v=alfCi8QoZQ8)
+- Putting in hours is how you get good
+- Train your brain not with small portion, amount of time, you must be able to work longer if you like it
+- Don't think that when working 10-20h/w will make you as better as someone who works 80h/w
+- Everything is opportunity cost, there's positive and negative trade-offs
+
+## [(YT) Blow, 2018 – Techniques for dealing with lack of motivation malaise, depression](https://www.youtube.com/watch?v=i7kh8pNRWOo)
+- Look around, aware of this audio-visual experience, thought about something emotionally neutral => thoughts are actually small
+- Feel sensations and put attention to it
+- The actual sensation is neutral, your interpretation gives valence
+- Turning attention on emotion then you feel it for a small portion of time
+- Thoughts:
+	- Do not necessarily identify so closely with thoughts because you are not your thoughts and these are very small
+	- Have a viewpoint of standing back from your thoughts and seeing them happen because they won't instantly reactivate
+- Sensations:
+	- Fundamentally neutral
+	- See the lower level of what's happening
+- Emotional states:
+	- They disappear instanly once you look at them
+1. Observe bodily sensation, see what your body is feeling
+2. Observe thoughts
 
 ## [Blumberg et al., 2019 : Digital Games as a Context for Children's Cognitive Development: Research Recommendation and Policy Considerations](https://doi.org/10.1002/sop2.3)
 
@@ -430,7 +474,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
 - Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
 
-## [Clark, 2023 (YT) : AI: work & learning, Can AI teach ?](https://www.youtube.com/watch?v=K9TOD65BuXQ)
+## [(YT) Clark, 2023 : AI: work & learning, Can AI teach ?](https://www.youtube.com/watch?v=K9TOD65BuXQ)
 
 **THM** : 
 
@@ -703,7 +747,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Stop using 'collaboration' and 'explanation' as these are now too large.
 - "We have to study and understand the mechanisms of negociation to a much greater depth than we have so far"
 
-## [Dillenbourg, 2023 (YT) : Les mythes qui sabordent les technologies éducatives](https://www.youtube.com/watch?v=OS1-n9zmFdM)
+## [(YT) Dillenbourg, 2023 : Les mythes qui sabordent les technologies éducatives](https://www.youtube.com/watch?v=OS1-n9zmFdM)
 
 **THM** : Les edtech *permettent des activités cognitives*, *individuelles ou en groupe*, qui ont un effet d'apprentissage *si dûment orchestrées par l'enseignant·e* (ET PAS : les technologies educatives ont un effet intrinseque)
 
@@ -1324,7 +1368,7 @@ From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-
 - [Jonassen & Hung (2015)](https://www.researchgate.net/publication/273459514_All_problems_are_not_equal_Implications_of_problem_type_complexity_and_structuredness)
 - https://research.com/u/david-h-jonassen : see other pubs
 
-## [Kapur, 2022 (YT) : Productive Failure](https://www.youtube.com/watch?v=kC8O-2y5pyE)
+## [(YT) Kapur, 2022 : Productive Failure](https://www.youtube.com/watch?v=kC8O-2y5pyE)
 
 **THM** : Activation, awareness, affect, assembly
 
