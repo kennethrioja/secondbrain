@@ -9,6 +9,7 @@
 * [Rectangle](#rectangle)
 * [Yabai](#yabai)
 * [AutoRaise](#autoraise)
+* [GitStatusRef](#gitstatusref)
 * [Python](#python)
 	* [Python 101: Learn the 5 Must-Know Concepts](#python-101-learn-the-5-must-know-concepts)
 	* [Ecrivez du code python maintenablehttps://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable](#ecrivez-du-code-python-maintenablehttpsopenclassroomscomfrcourses7160741-ecrivez-du-code-python-maintenable)
@@ -17,6 +18,10 @@
 		* [Mettez en place une API avec Django REST Framework](#mettez-en-place-une-api-avec-django-rest-framework)
 	* [Flask](#flask)
 		* [Designing a RESTful API with Python and Flask](#designing-a-restful-api-with-python-and-flask)
+		* [Flask mega-tutorial I: Hello-World](#flask-mega-tutorial-i-hello-world)
+		* [Flask meta-tutorial IV: Database](#flask-meta-tutorial-iv-database)
+		* [Flask mega-tutorial VII: Error Handling](#flask-mega-tutorial-vii-error-handling)
+		* [Flask mega-tutorial XV: A better app structure](#flask-mega-tutorial-xv-a-better-app-structure)
 * [MySQL](#mysql)
 	* [mysql tutorial for beginners, full course](#mysql-tutorial-for-beginners-full-course)
 * [rest](#rest)
@@ -45,6 +50,8 @@ Open 'MonitorControl' and control any monitor (I use it for brightness mainly)
 https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 
 # [AutoRaise](https://github.com/sbmpost/AutoRaise)
+
+# [GitStatusRef](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
 # Python
 
@@ -293,9 +300,31 @@ admin.site.register(Player, PlayerAdmin)
 
 ## Flask
 
+- `flask run`, opt: --port 5001
+- `flask --app app shell`
+- `flask db init`
+- `flask db stamp head` if not up to date
+- `flask db migrate -m "yourcommenthere"`, generates migration script, it does not make any changes to the db
+- Create the db in db server before running upgrade
+- `flask db upgrade` applies changes to the db -> do it when in prod
+
 ### [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 - The easiest way to secure our web service is to require clients to provide a username and a password. In a regular web application you would have a login form that posts the credentials, and at that point the server would create a session for the logged in user to continue working, with the session id stored in a cookie in the client browser. Unfortunately doing that here would violate the stateless requirement of REST, so instead we have to ask clients to send their authentication information with every request they send to us.
 - Protect the functions by adding `@auth.login_required` decorator
+
+### [Flask mega-tutorial I: Hello-World](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- `from app import routes` is imported at the bottom to avoid circular imports
+- `export FLASK_APP=path/to/app.py`
+
+### [Flask meta-tutorial IV: Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
+- "To accomplish this seemingly difficult task, Alembic maintains a migration repository, which is a directory in which it stores its migration scripts. Each time a change is made to the database schema, a migration script is added to the repository with the details of the change. To apply the migrations to a database, these migration scripts are executed in the sequence they were created."
+
+### [Flask mega-tutorial VII: Error Handling](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling)
+
+### [Flask mega-tutorial XV: A better app structure](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure)
+- Not use a global vairable for the application and instead use an application factory function to create the function at runtime
+- In Flask, a blueprint is a logical structure that represents a subset of the app. A BP can include elements such as routes, view unctions, forms, templates, and static files. If your write your blueprint in a sepatate Python package, then you have a component that encapsulates the elements related to specific feature of the app -> as a temporary storage for app functionality that helps in organizing your code
+- 
 
 # MySQL
 
