@@ -37,6 +37,7 @@
 	* [CHAPTER 10 : Wiemeyer et al., 2016 : Performance Assessment in Serious Games](#chapter-10--wiemeyer-et-al-2016--performance-assessment-in-serious-games)
 * [Dye et al., 2009 - Increasing Speed of Processing with Action Video Games](#dye-et-al-2009---increasing-speed-of-processing-with-action-video-games)
 * [Ergolab, 2005 : L'analyse concurrentielle en ergonomie](#ergolab-2005--lanalyse-concurrentielle-en-ergonomie)
+* [(YT) Erhel – Comprendre les déterminants des usages problématiques d’Internet](#yt-erhel--comprendre-les-déterminants-des-usages-problématiques-dinternet)
 * [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
@@ -964,6 +965,30 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Inconvénients :
 	- Pas d'intervention des users réels
 	- Les résultats doivent être validés suite aux actions de conception détaillée, afin de s'assurer de la qualité ergonomique des choix effectués
+
+## [(YT) Erhel – Comprendre les déterminants des usages problématiques d’Internet](https://www.youtube.com/watch?v=ueXvYKmH0pg&list=PLlZdvmQB3mW5U8ZvngNQxvh57Eb-9aAB3&index=9)
+
+**THM** : 
+
+**Authors** : Séverine Erhel
+
+**Tags** : :internet-problematic-use:
+
+**Notes**
+- Pas d'addiction mais trouble du JV en ligne
+- L'usage problématique d'internet réfère à un trouble comportemental reposant sur l'usage compulsif et excessif d'internet qui interfère avec les activités de la vie quotidienne (Caplan, 2007)
+- Les pratiques et activités qui ont conséquences délétères et pas intenret en lui-même.
+- Mécanisme :
+	- Coping dysfonctionnel, centré sur l'évitement (distraction, évitement social) – dans UPI, stratégie d'évitement pour réduire attentes, émotions, stress, ou stress lié à troubles mentaux plus complexes
+	- Gérer le stress par la distraction
+- Modèle Interaction of Person-Affect-Cognition-Execution (Brand et al)
+- Le contrôle inhibiteur interviendrait pour modérer les associations entre les réponses affectives et cognitives aux déclencheurs et les décisions de s'engager dans des ocmportements addictifs
+- Flow est un prédicteur de la performance, conscience de soi diminué et limiter les émotions négatives (anxiété, projection dans le futur)
+- Dark Flow : La fluidité de l'UX et exploration des biais cog, algo, ml
+- FoMO associé fort à UPI, anxiété sociale et besoin de relation sociale insatisfaits expliqueraient ces effets
+- Solutions :
+	- Politiques de prévention centrées sur les vulnérabilité psychologique VS dose, substance : donc pas addiction + pas mêmes mécanismes neuronaux
+	- Approche de la métacognition pour l'autodéfense face aux designs prédateurs
 
 ## [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=281919e199e285c02bf92aab07d3d637d3c0b060)
 
