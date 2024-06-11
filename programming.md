@@ -301,12 +301,17 @@ admin.site.register(Player, PlayerAdmin)
 ## Flask
 
 - `flask run`, opt: --port 5001
-- `flask --app app shell`
+- `flask --app app shell` or `flask shell`
+	- `db`
 - `flask db init`
 - `flask db stamp head` if not up to date
 - `flask db migrate -m "yourcommenthere"`, generates migration script, it does not make any changes to the db
 - Create the db in db server before running upgrade
 - `flask db upgrade` applies changes to the db -> do it when in prod
+- `flask db history`
+- After tests :
+	- `flask db downgrade base`
+	- `flask db upgrade`
 
 ### [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 - The easiest way to secure our web service is to require clients to provide a username and a password. In a regular web application you would have a login form that posts the credentials, and at that point the server would create a session for the logged in user to continue working, with the session id stored in a cookie in the client browser. Unfortunately doing that here would violate the stateless requirement of REST, so instead we have to ask clients to send their authentication information with every request they send to us.
@@ -318,6 +323,9 @@ admin.site.register(Player, PlayerAdmin)
 
 ### [Flask meta-tutorial IV: Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
 - "To accomplish this seemingly difficult task, Alembic maintains a migration repository, which is a directory in which it stores its migration scripts. Each time a change is made to the database schema, a migration script is added to the repository with the details of the change. To apply the migrations to a database, these migration scripts are executed in the sequence they were created."
+- `user_id` is called a *foreign key* because it references a primary key of another table.
+- Since not all databases automatically create an index for foreign keys, the index=True option is added explicitly, so that searches based on this column are optimized.
+- 
 
 ### [Flask mega-tutorial VII: Error Handling](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling)
 
