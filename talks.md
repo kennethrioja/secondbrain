@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [21.06.2024 – Guillaume Bonvin, Classcraft](#21062024--guillaume-bonvin-classcraft)
 * [22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG](#22052024--miraj-la-place-du-récit-interactif-dans-les-sg)
 * [07.05.2024 – Alice Iannantuoni, text analysis in R](#07052024-alice-iannantuoni-text-analysis-in-r)
 * [23.04.2024 – Pasqualotto & Fanourakis](#23042024--pasqualotto--fanourakis)
@@ -42,6 +43,25 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 21.06.2024 – Guillaume Bonvin, Classcraft
+- Subjectivité du jeu (Genvo, 2013)
+- 5 composantes (Gaudreau, 2017)
+- Triangle pédagogique (Haussaye, 2014)
+- Triangle ludique
+- Problèmes :
+	- Intervention face à l'indiscipline
+	- Capter et maintenir l'attention
+- Classcraft anime et perçoit positivement le MdJ
+- LA :
+	- Descriptif, diagnostic, predictif, prescriptif -> ? que mettre sur un tableau de bord, indicateurs pour informer l'enseignant?
+	- Teaching analytics
+- Diversification des rapports au savoir
+- "Pour une fois on redonne le pouvoir aux élèves"
+- Ajouter un jeu en classe c'est chronophage
+- ATTENTION aux Health points quand c'est un jeu en classe, éviter de "tuer" un élève
+- Question de la correspondance de l'environnement de jeu aux attraits de l'enseignant·e (e.g., better if was Harry Potter)
+- Appropriation du jeu quand augmente actions
 
 # 22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG
 - Contenu d'apprentissage DANS la mécanique principale

@@ -41,8 +41,6 @@
 * [Ermi & Mäyrä, 2011 : Fundamental Components of the Gameplay Experience: Analysing Immersion](#ermi--mäyrä-2011--fundamental-components-of-the-gameplay-experience-analysing-immersion)
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
-* [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](#morin-1999--les-sept-savoirs-nécessaires-à-léducation-du-futur)
-* [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
@@ -73,17 +71,22 @@
 * [Mayer, 2010 : Apprentissage et technologie](#mayer-2010--apprentissage-et-technologie)
 * [Meri et al., 2022 : Higher access to screens is related to decreased functional connectivity between neural networks associated with basic attention skills and cognitive control in children](#meri-et-al-2022--higher-access-to-screens-is-related-to-decreased-functional-connectivity-between-neural-networks-associated-with-basic-attention-skills-and-cognitive-control-in-children)
 * [Molinari et al., 2017 : Les émotions dans les situations de collaboration et d'apprentissage collaboratif médiatisées par ordinateur](#molinari-et-al-2017--les-émotions-dans-les-situations-de-collaboration-et-dapprentissage-collaboratif-médiatisées-par-ordinateur)
+* [(YT) Morard, 2023 – AL2049, a PLayful Museum's Visit to Grasp the Issues of Complexity](#yt-morard-2023--al2049-a-playful-museums-visit-to-grasp-the-issues-of-complexity)
+* [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](#morin-1999--les-sept-savoirs-nécessaires-à-léducation-du-futur)
 * [Mosconi, 2004 : Effets et limites de la mixité scolaire](#mosconi-2004--effets-et-limites-de-la-mixité-scolaire)
 * [Mulet et al., 2017 : Quels tuteurs informatisés pour réduire les comportements d’évitement de la recherche d’aides des apprenants.](#mulet-et-al-2017--quels-tuteurs-informatisés-pour-réduire-les-comportements-dévitement-de-la-recherche-daides-des-apprenants)
+* [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](#nelson-le-gall-1985--help-seeking-behavior-in-learning)
 * [Nguyen & Bavelier, 2023 : Play in Video Games](#nguyen--bavelier-2023--play-in-video-games)
 * [Oliveira et al., 2022 : Game Design for a Museum Visit: Insights into the Co-design of AL2049, a Game About Food Systems](#oliveira-et-al-2022--game-design-for-a-museum-visit-insights-into-the-co-design-of-al2049-a-game-about-food-systems)
 * [Ortiz-Rojas et al., 2017 : Gamification and learning performance. A systematic review of the literature](#ortiz-rojas-et-al-2017--gamification-and-learning-performance-a-systematic-review-of-the-literature)
 * [Oviedo-García, 2021 : Journal citation reports and the difinition of a predatory journal: The case of the Multidisciplinary Digital Publishing Institute (MDPI)](#oviedo-garcía-2021--journal-citation-reports-and-the-difinition-of-a-predatory-journal-the-case-of-the-multidisciplinary-digital-publishing-institute-mdpi)
+* [Parmentier, 2023 : Jeux expressifs :iLe récit suffit-il à générer du sens ? Étude du lien entre la richesse du gameplay d’un jeu expressif et la perception de sens chez le « joueur eudémonique ».](#parmentier-2023--jeux-expressifs-ile-récit-suffit-il-à-générer-du-sens--Étude-du-lien-entre-la-richesse-du-gameplay-dun-jeu-expressif-et-la-perception-de-sens-chez-le--joueur-eudémonique-)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
 * [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
 * [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
+* [Stepping Outside the Ivory Tower: How Can We Implement Multimodal Learning Analytics in Ecological Settings, and Turn Complex Temporal Data Sources into Actionable Insights?](#stepping-outside-the-ivory-tower-how-can-we-implement-multimodal-learning-analytics-in-ecological-settings-and-turn-complex-temporal-data-sources-into-actionable-insights)
 * [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](#seif-el-nasr-2013--game-analytics-maximizing-the-value-of-player-data)
 	* [CHAPTER 12 : Drachen et al., 2013 – Game Data Mining](#chapter-12--drachen-et-al-2013--game-data-mining)
 	* [CHAPTER 19 : Seif El-Nasr – Visual Analytics Tools – A Lens into Player’s Temporal Progression and Behavior](#chapter-19--seif-el-nasr--visual-analytics-tools--a-lens-into-players-temporal-progression-and-behavior)
@@ -1097,71 +1100,6 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Pas de temps d'apprentissage supplémentaire - Utilisable
 	- Attitude positive et précautionneuse, pas d'exaspération ou lassitude
 	- 15 min suffisant pour favorable à apprentissage
-
-## [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](http://unesdoc.unesco.org/images/0011/001177/117740Fo.pdf)
-
-**THM** : Penser et éduquer de manière planétaire
-
-**Authors** : Edgar Morin
-
-**Tags** : :education: :savoir:
-
-**Notes**
-- "L'un des défis les plus difficiles à relever sera de modifier nos modes de pensée de façon à faire face à la complexité grandissance, à la rapidité des changements et à l0imprévisible, qui caractérisent notre monde. (p.7)
-- Exprimer ses idées sur l'essence même de l'édcation du futur dans le contexte de sa vision de "la pensée complexe"
-1. Les cécités de la connaissance : l'erreur et l'illusion :
-	- Le développement de l'intelligence est inséparable de celui de l'affectivité
-	- A l'erreur de perception s'ajoute l'erreur intellectuelle. La connaissance, sous forme de mot, d'idée de théorie, est le fruit d'une traduction/reconstitution par les omyens du langage et de la panesée et elle connaît le risque d'erreur. Cette connaissance, à la fois en tant que traduction et en tant que reconstruction, comporte de l'interprétation, ce qui introduit le risque d'erreur à l'intérieur de la subjectivité du connaissance, de sa vision du monde, de ses principes des connaissance.
-	- Un rationalisme qui ignore les êtres, la subjectivité, l'affectivité, la vie est irrationnelle (#quotes)
-	- Nous commençons à devenir vraiment rationnels quand nous reconnaissons la rationalisation incluse dans notre rationalité et reconnaissons nos propres mythes, dont le mythe de la toute-puissance de notre raison et celui du progrès garanti.
-	- Reconnaître dans l'éducation du future un **principe d'incertitude rationnel**
-	- Le mythe et l'idéologie détruisent et dévorent les faits (...) **nous devons mener une lutte cruciale contre les idées, mais nous ne pouvons le faire qu'avec le secours des idées**.
-	- Le nouveau jaillit sans cesse (...) une fois l'inattendu survenu, il faudrait être capable de réviser nos théories et idées, plutôt que de faire entrer au forceps le fait nouveau dans la théorie incapable de vraiment l'accueillir.
-	- 20/71
-2. 
-
-From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-selon-edgar-morin/ :
-- Lutte contre les erreurs du système éducatif actuel
-- Aveuglement du savoir : erreur et illusion :
-	- Emotions et limitation de la perception énère des biais et limitation des connaissances : critique de la connaissance elle-même
-- Les principes d'une connaissance pertinente :
-	- Générer des méthodes qui facilitent la détection des interactions complexes qui existent dans la réalité – en intégrant les connaissances au lieu de les désagréger
-- Enseigner la condition humaine :
-	- Identité vs. membre d'un groupe; cerveau-esprit-culture, raison-affect-impulsion, individu-société-espèce
-- Enseigner l'identité terrienne :
-	- Education doit avoir une perspective planétaire (environnement immédiat), rend les connaissances plus réelles et inclusives
-- Affronter les incertitudes :
-	- La réalité est dynamique, changeante, incertitude continuelle dans les décisions. Il n'est pas convenable de continuer à éduquer les individus comme si ce qui existait était un système de certitudes
-- Enseigner la compréhension :
-	- Communication =/= compréhension; ouverture empathique envers les autres + tolérance des idées et des sentiments des autres, tant qu'ils ne violent pas la dignité humaine
-- L'éthique du genre humain :
-	- Promotion des pratiques démocratiques et le respect de la diversité (sinon dictature des majorités) – les projets, interactions et engagements doivent être conçus et vécus à l'échelle de l'espèce.
-
-## [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](https://doi.org/10.3102/0091732X012001055 )
-
-**THM** : 
-
-**Authors** : Sharon Nelson-Le Gall
-
-**Tags** : :help-seeking: :learning:
-
-**Notes** :
-- Social-normative models:
-	- Cultural values and social roles emphasize norms related to dependence or independence as the basis for predicting and explaning help-seeking
-	- Cultural norms emphasizing self-reliance and individual achievement may influence attitudes toward HS - Individuals may differ in the way they have internalized them
-	- Diff bw US and Dutch (Graf et al., 1979)
-	- Also sex differences (McMullen & Gross, 1983) - on the sex-role-consistent behavior (f+, m-)
-	- Limitations : evaluations of the perceived normativeness of help-seeking for occupants of the student role in learning setting are virtually nonexistent
-	- Research indicates that help-seekers tend to prefer helpers who are perceived as being older, competent, and obligated to comply with their requests for help (e.g., Barnett, Darcie, Holland, & Kobasigawa, 1982; Druian & De Paulo, 1977; Nelson-Le Gall & Gumerman, 1984)
-	- If, however, classroom norms support and encourage informal helping exchanges among peers, the perceived costs of help-seeking may be lessened.
-	- Limits : a) variability may exist within a given group so that generalizations are not possible, b) measures of specific aspects of individuals' personality and motiv orient. of the environment appear to have greater predictive and explanatory power than do normative variables (Ames, 1983; Fisher, Nadler, & Whitcher-Alagna, 1982)
-- Self-esteem models :
-	- Focuses on the role of norms and beliefs in moderating the decision to seek or not to seek help. The beliefs are deeply instilled personal beliefs and conceptions about the self as an individual.
-	- Prediction based on notion of vulnerability :
-		- Low self-esteem ind seek less than high self-esteem ind - less positive self-cognition > more vulnerable to self-threatening info > avoid the self-threatening situation of seeking help
-	- Prediction based on notion of consistency :
-		- High self-esteem is expected to be associated with less help-seeking - it is the inconsitency of incoming self-related information with existing self-cognitions that is threatening to the self
-- TO READ - instrumentality of Help-Seeking
 
 ## [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](https://www.persee.fr/doc/intel_0769-4113_2013_num_59_1_1091)
 
@@ -2284,6 +2222,60 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 		- Frustration et désespoir négativement corrélés à performance de groupe
 		- Gratitude la plus fortement corrélée à la performance de groupe et transactivité, argumentation et recherche de consensus
 
+## [(YT) Morard, 2023 – AL2049, a PLayful Museum's Visit to Grasp the Issues of Complexity](https://www.youtube.com/watch?v=fl3l9EYA1tM)
+
+**Authors** : Simon Morard
+
+**Tags** : :play: :al2049: :museum: :video-game:
+
+**Notes**
+- Food production & complexity : Ericksen, 2009; Rastein & Ghersi, 2010; NRC 2015
+- Collective game
+- There is not a perfect and unique solution yet.
+- Resource management game can be metaphorical
+- https://drive.google.com/file/d/1p6E-H902UaFC9lcFz9gCjuLPsw5W-N7R/view :
+	- Mixed method, gameplay analysis
+	- Culture, society, tourism
+
+## [Morin, 1999 – Les sept savoirs nécessaires à l'éducation du futur](http://unesdoc.unesco.org/images/0011/001177/117740Fo.pdf)
+
+**THM** : Penser et éduquer de manière planétaire
+
+**Authors** : Edgar Morin
+
+**Tags** : :education: :savoir:
+
+**Notes**
+- "L'un des défis les plus difficiles à relever sera de modifier nos modes de pensée de façon à faire face à la complexité grandissance, à la rapidité des changements et à l0imprévisible, qui caractérisent notre monde. (p.7)
+- Exprimer ses idées sur l'essence même de l'édcation du futur dans le contexte de sa vision de "la pensée complexe"
+1. Les cécités de la connaissance : l'erreur et l'illusion :
+	- Le développement de l'intelligence est inséparable de celui de l'affectivité
+	- A l'erreur de perception s'ajoute l'erreur intellectuelle. La connaissance, sous forme de mot, d'idée de théorie, est le fruit d'une traduction/reconstitution par les omyens du langage et de la panesée et elle connaît le risque d'erreur. Cette connaissance, à la fois en tant que traduction et en tant que reconstruction, comporte de l'interprétation, ce qui introduit le risque d'erreur à l'intérieur de la subjectivité du connaissance, de sa vision du monde, de ses principes des connaissance.
+	- Un rationalisme qui ignore les êtres, la subjectivité, l'affectivité, la vie est irrationnelle (#quotes)
+	- Nous commençons à devenir vraiment rationnels quand nous reconnaissons la rationalisation incluse dans notre rationalité et reconnaissons nos propres mythes, dont le mythe de la toute-puissance de notre raison et celui du progrès garanti.
+	- Reconnaître dans l'éducation du future un **principe d'incertitude rationnel**
+	- Le mythe et l'idéologie détruisent et dévorent les faits (...) **nous devons mener une lutte cruciale contre les idées, mais nous ne pouvons le faire qu'avec le secours des idées**.
+	- Le nouveau jaillit sans cesse (...) une fois l'inattendu survenu, il faudrait être capable de réviser nos théories et idées, plutôt que de faire entrer au forceps le fait nouveau dans la théorie incapable de vraiment l'accueillir.
+	- 20/71
+2. 
+
+From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-selon-edgar-morin/ :
+- Lutte contre les erreurs du système éducatif actuel
+- Aveuglement du savoir : erreur et illusion :
+	- Emotions et limitation de la perception énère des biais et limitation des connaissances : critique de la connaissance elle-même
+- Les principes d'une connaissance pertinente :
+	- Générer des méthodes qui facilitent la détection des interactions complexes qui existent dans la réalité – en intégrant les connaissances au lieu de les désagréger
+- Enseigner la condition humaine :
+	- Identité vs. membre d'un groupe; cerveau-esprit-culture, raison-affect-impulsion, individu-société-espèce
+- Enseigner l'identité terrienne :
+	- Education doit avoir une perspective planétaire (environnement immédiat), rend les connaissances plus réelles et inclusives
+- Affronter les incertitudes :
+	- La réalité est dynamique, changeante, incertitude continuelle dans les décisions. Il n'est pas convenable de continuer à éduquer les individus comme si ce qui existait était un système de certitudes
+- Enseigner la compréhension :
+	- Communication =/= compréhension; ouverture empathique envers les autres + tolérance des idées et des sentiments des autres, tant qu'ils ne violent pas la dignité humaine
+- L'éthique du genre humain :
+	- Promotion des pratiques démocratiques et le respect de la diversité (sinon dictature des majorités) – les projets, interactions et engagements doivent être conçus et vécus à l'échelle de l'espèce.
+
 ## [Mosconi, 2004 : Effets et limites de la mixité scolaire](https://www.cairn.info/revue-travail-genre-et-societes-2004-1-page-165.htm)
 
 **THM** : 
@@ -2312,6 +2304,32 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 - Formation à distance
 - Aides proposées aux apprenants et la façon dont ces derniers les utilisent
 - Comportements de recherche d'aide 
+
+## [Nelson-Le Gall, 1985 : Help-Seeking Behavior in Learning](https://doi.org/10.3102/0091732X012001055 )
+
+**THM** : 
+
+**Authors** : Sharon Nelson-Le Gall
+
+**Tags** : :help-seeking: :learning:
+
+**Notes** :
+- Social-normative models:
+	- Cultural values and social roles emphasize norms related to dependence or independence as the basis for predicting and explaning help-seeking
+	- Cultural norms emphasizing self-reliance and individual achievement may influence attitudes toward HS - Individuals may differ in the way they have internalized them
+	- Diff bw US and Dutch (Graf et al., 1979)
+	- Also sex differences (McMullen & Gross, 1983) - on the sex-role-consistent behavior (f+, m-)
+	- Limitations : evaluations of the perceived normativeness of help-seeking for occupants of the student role in learning setting are virtually nonexistent
+	- Research indicates that help-seekers tend to prefer helpers who are perceived as being older, competent, and obligated to comply with their requests for help (e.g., Barnett, Darcie, Holland, & Kobasigawa, 1982; Druian & De Paulo, 1977; Nelson-Le Gall & Gumerman, 1984)
+	- If, however, classroom norms support and encourage informal helping exchanges among peers, the perceived costs of help-seeking may be lessened.
+	- Limits : a) variability may exist within a given group so that generalizations are not possible, b) measures of specific aspects of individuals' personality and motiv orient. of the environment appear to have greater predictive and explanatory power than do normative variables (Ames, 1983; Fisher, Nadler, & Whitcher-Alagna, 1982)
+- Self-esteem models :
+	- Focuses on the role of norms and beliefs in moderating the decision to seek or not to seek help. The beliefs are deeply instilled personal beliefs and conceptions about the self as an individual.
+	- Prediction based on notion of vulnerability :
+		- Low self-esteem ind seek less than high self-esteem ind - less positive self-cognition > more vulnerable to self-threatening info > avoid the self-threatening situation of seeking help
+	- Prediction based on notion of consistency :
+		- High self-esteem is expected to be associated with less help-seeking - it is the inconsitency of incoming self-related information with existing self-cognitions that is threatening to the self
+- TO READ - instrumentality of Help-Seeking
 
 ## [Nguyen & Bavelier, 2023 : Play in Video Games](https://doi.org/10.1016/j.neubiorev.2023.105386)
 
@@ -2400,6 +2418,30 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 **Notes**
 - Nature definition of pred journal : "Predatory journals and publishers are entities that prioritize self-interest at the expense of scolarship and are characterized by false or misleading information, deviation from best editorial and publication practices, a lack of transparency, and/or the use of aggressive and indiscriminate solicitation practices" ([Grundniewicz et al., 2019](http://dx.doi.org/10.1038/d41586-019-03759-y))
 - Pred journal has no or pratically inexistent peer-review process
+
+## [Parmentier, 2023 : Jeux expressifs :iLe récit suffit-il à générer du sens ? Étude du lien entre la richesse du gameplay d’un jeu expressif et la perception de sens chez le « joueur eudémonique ».](https://tecfa.unige.ch/tecfa/maltt/memoire/Parmentier2023.pdf)
+
+**THM** : 
+
+**Authors** : Hélène Parmentier
+
+**Tags** : :jeu-expressif: :meaning: :jeu-sérieux: :eudémonisme:
+
+**Abstract** :Appelés meaningful, purposeful, voire eudaimonic games en anglais, les jeux expressifs proposent un gain de sens ou de perspective, parfois à travers leur structure narrative, parfois en utilisant le gameplay pour permettre au joueur d’interpréter le sens du jeu en interagissant avec lui. Cettte étude explore le lien entre la richesse du gameplay et la perception de sens chez les joueurs, en distinguant le sens du contenu (signifiance) et le sens du jeu en tant que support (pertinence). Par ailleurs, les jeux expressifs sont un médium de choix pour le jeune domaine de recherche que représente l’expérience vidéoludique eudémonique. L’éudémonisme, chez les grecs, était une conception du bonheur dans laquelle les individus s’investissent dans des activités signifiantes dans un objectif de croissance personnelle. En utilisant deux jeux expressifs traitant du deuil, nous étudions le lien entre l’eudémonisme des joueurs et leur perception de sens des jeux expressifs. Cinquante participants ont rempli un questionnaire visant à mesurer un score d’eudémonisme avant d’être aléatoirement répartis en deux groupes, l’un proposant un jeu dont le récit est entièrement intégré au gameplay, l’autre dont le récit est plutôt transmis directement. Ils ont ensuite renseigné un questionnaire portant sur l’expérience de jeu et le sens perçu. Bien que les résultats indiquent effectivement que le niveau de gameplay détermine la pertinence du support, qui à son tour détermine l’appréciation du jeu, aucune différence n’a été trouvée entre les deux conditions. Des perspectives sont proposées pour la recherche en expériences vidéoludiques eudémoniques. 
+
+**Notes**
+- Expressive/meaningful games, more than entertainment or leisure (Susi et al., 2015) VS persuasive games (to convince) -> they invite player to requestion the world and want to leave player find their own answer and interpret the play experience.
+- No pedagogical goals (VS educational games)
+- Recherche de sens est associée au concept d'eudémonisme -> vise à la réalisation de son plein potentiel, à une vie accomplie -> s'implique dans des activités ou buts qui favorisent la croissance et en perpétuelle quête de sens.
+- L'expérience de jeu étant délibérément suggestive et reposant sur l'interprétation du sens du jeu par le joueur lui-même
+- "En jouant à ces jeux qui permettent de questionner le monde, d’interroger ses propres représentations, de changer de perspective, le « joueur eudémonique » trouverait dans ces expériences de jeu le sens qu’il recherche au sein des activités dans lesquelles il s’investit.
+- JVP défi d'intégration dans la mécanique principale du jeu (Szilas & Widmer, 2009)
+- Expressif vs pédagogique: on n'y enseigne/apprend pas une connaissance ou une compétence précise, mais plutôt une forme de "leçon de vie", qu'on connaissait sans doute déjà d'une certaine manière, en offrant la possibilité de la vivre différemment pour obtenir l'"effet Eureka".
+- Daneels et al. (2020), dimensions qui font d'un jeu une "expérience eudémonique" :
+	- Emouvant (+/-) -> mixed-affect, plus appréciation que plaisir, càd l'exposition volontaire à des expériences difficiles offrant paradoxalement un bénéfice positif (Cole & Gillies, 2022)
+- Why does this story need to be told as a video game? (Bogost, 2017) -> Quelle est la valeur ajoutée du jeu dans cette expérience -> discriminer sens du support du sens de l'expérience
+- Pb: interroger l'existence d'un lien entre l'eudémonisme des joueureuses et leur expérience de jeu expressif en fonction de son niveau de gameplay
+- 
 
 ## [Plass et al., 2015 : Foundations of Game-Based Learning](https://doi.org/10.1080/00461520.2015.1122533)
 
@@ -2577,6 +2619,30 @@ https://books.google.ch/books?hl=fr&lr=&id=6CJtDwAAQBAJ&oi=fnd&pg=PP1&dq=Lallema
 	4. Data aspects : transparency, data standards, data ownership, privacy
 	5. Organisational aspects : availability, implementation, training of educational stakeholders, organisational change
 - !!! : More research- than practice-oriented
+
+## [Stepping Outside the Ivory Tower: How Can We Implement Multimodal Learning Analytics in Ecological Settings, and Turn Complex Temporal Data Sources into Actionable Insights?](https://ris.utwente.nl/ws/portalfiles/portal/422493657/ISLS2024.pdf#page=340)
+
+**THM** : 
+
+**Authors** : Bertrand Schneider, Richard Davis, Roberto Martinez-Maldonado, Gautam Biswas, Marcelo Worsley, N Rummel
+
+**Tags** : :multimodal-learning-analytics: :learning-analytics:
+
+**Abstract** : The field of Multimodal Learning Analytics (MMLA) is expanding, allowing researchers to capture rich, fine-grained data on learning processes in a variety of learning environments. High-quality process data can open the door for new insights on how people learn, creative interventions to support them, and build the foundation for personalized learning platforms. There is, however, a growing recognition that there is a lack of ecological implementations in MMLA (Cukurova, Giannakos & Martinez-Maldonado, 2020): the vast majority of projects are lab-based, which limit the generalizability and impact of multimodal sensing in education. This symposium brings together researchers who have used MMLA methods in the wild. The panel will discuss obstacles to the use of multimodal data in real-world settings, share lessons learned from current projects, and propose productive next steps for the field to become more ecologically relevant.
+
+**Notes**
+- MMLA seeks to understand how different modalities contribute to learning, how they intersect and influence each other; and helps in designing effective Lg env.
+- [3D reconstruction algorithm](github.com/WildflowerSchools/poseconnect)
+- Teachers' concerns about how introducing LA tools into exercise sessions might degrade env of trust and safety that they had worked hard to cultivate
+- 
+- Lessons learned:
+	- If possible find partners who are working on the same problem
+	- Work with students to undertsand their level of comfort with data collection tools and which measures need to be taken to create a safe and trusted learning env
+	- Make data collection process transparent so that students can opt-out
+	- Avoid collecting data that impacts privacy (e.g., speech)
+	- Adopt participatory design methodologies to create useful platforms for learners and teachers
+	- Do not underestimate the technical know-how and infrastructure required to collect and process MM data
+	- Focus on formative (and not summative) assessment
 
 ## [Seif El-Nasr, 2013 : Game Analytics: Maximizing the Value of Player Data](https://link.springer.com/book/10.1007/978-1-4471-4769-5)
 

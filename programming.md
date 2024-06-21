@@ -325,14 +325,12 @@ admin.site.register(Player, PlayerAdmin)
 - "To accomplish this seemingly difficult task, Alembic maintains a migration repository, which is a directory in which it stores its migration scripts. Each time a change is made to the database schema, a migration script is added to the repository with the details of the change. To apply the migrations to a database, these migration scripts are executed in the sequence they were created."
 - `user_id` is called a *foreign key* because it references a primary key of another table.
 - Since not all databases automatically create an index for foreign keys, the index=True option is added explicitly, so that searches based on this column are optimized.
-- 
 
 ### [Flask mega-tutorial VII: Error Handling](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling)
 
 ### [Flask mega-tutorial XV: A better app structure](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure)
 - Not use a global vairable for the application and instead use an application factory function to create the function at runtime
 - In Flask, a blueprint is a logical structure that represents a subset of the app. A BP can include elements such as routes, view unctions, forms, templates, and static files. If your write your blueprint in a sepatate Python package, then you have a component that encapsulates the elements related to specific feature of the app -> as a temporary storage for app functionality that helps in organizing your code
-- 
 
 # MySQL
 
