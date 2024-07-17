@@ -62,6 +62,10 @@
 - ATTENTION aux Health points quand c'est un jeu en classe, éviter de "tuer" un élève
 - Question de la correspondance de l'environnement de jeu aux attraits de l'enseignant·e (e.g., better if was Harry Potter)
 - Appropriation du jeu quand augmente actions
+- Est-ce que le jeu favorise ou défavorise la charge de la classe de jeu ?
+- Système de valeur de l'enseignant en ligne avec jeu?
+	- Sanction éducative, là c'est le cumul, les limites sont plus lax dans CC que dans école.
+- **Rendre le pouvoir aux élèves** et **autonomie**
 
 # 22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG
 - Contenu d'apprentissage DANS la mécanique principale

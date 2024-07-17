@@ -10,6 +10,7 @@
 * [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
 * [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
+* [(YT) Bogost, 2014 – Persuasive games: the expressive power of videogames](#yt-bogost-2014--persuasive-games-the-expressive-power-of-videogames)
 * [(YT) Blow, 2024 – On Burning out](#yt-blow-2024--on-burning-out)
 * [(YT) Blow, 2024 – Jonathan Blow on leading an indie game company](#yt-blow-2024--jonathan-blow-on-leading-an-indie-game-company)
 * [(YT) Blow, 2024 – Jonathan Blow on Simplicity](#yt-blow-2024--jonathan-blow-on-simplicity)
@@ -21,6 +22,7 @@
 * [Bowman et al., 2024 : A Continuous-Space Description of Video Games: A Preliminary Investigationhttps://psycnet.apa.org/doi/10.1037/ppm0000522](#bowman-et-al-2024--a-continuous-space-description-of-video-games-a-preliminary-investigationhttpspsycnetapaorgdoi101037ppm0000522)
 * [Brom et al., 2018 : Do a Game Goal, Choice,Pointsm and Praise Enhance Learning ?](#brom-et-al-2018--do-a-game-goal-choicepointsm-and-praise-enhance-learning-)
 * [Brown, 1992 : Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings](#brown-1992--design-experiments-theoretical-and-methodological-challenges-in-creating-complex-interventions-in-classroom-settings)
+* [(YT) Cassavaugh, 2019 – If I Could Turn Back Time: A Game Developers Ultimate Quest](#yt-cassavaugh-2019--if-i-could-turn-back-time-a-game-developers-ultimate-quest)
 * [(YT) Clark, 2023 : AI: work & learning, Can AI teach ?](#yt-clark-2023--ai-work--learning-can-ai-teach-)
 * [Clow, 2013 : An overview of learning analytics](#clow-2013--an-overview-of-learning-analytics)
 * [Collin, 2023 (conf) : Pour que l'IA parte sur de bonnes bases en éducation](#collin-2023-conf--pour-que-lia-parte-sur-de-bonnes-bases-en-éducation)
@@ -44,6 +46,7 @@
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
+* [Houry, 2024 – Utiliser l'IA en cours de mandarinhttps://docs.google.com/presentation/d/1oFVxhC0B4MyWi7DQhpWrc9j0scDqLvqaAPiBhbrdOoE/edit#slide=id.g273b7d628a0_0_148](#houry-2024--utiliser-lia-en-cours-de-mandarinhttpsdocsgooglecompresentationd1ofvxhc0b4mywi7dqhpwrc9j0scdqlvqaapibhbrdooeeditslideidg273b7d628a0_0_148)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
 * [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
 * [(YT) Kapur, 2022 : Productive Failure](#yt-kapur-2022--productive-failure)
@@ -243,6 +246,13 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	2. EFs *mediate* the relationship bw MU and media effects (media effects reflect individual diffeerences in EF)
 	3. EFs *moderate* the relationship between media use and media effects (EF skills can enhance or attenuate the effects of media use on health)
 - See media use like eating food : quantity does not matter, but quality, physiology of the individual and other factors
+
+## [(YT) Bogost, 2014 – Persuasive games: the expressive power of videogames](https://www.youtube.com/watch?v=h6onXZUbgbE)
+- Teaching is about institutional politics
+- Procedural rhetoric :
+	- Processesses : the logics by which things work
+	- Orator, Persuasion toward correct judgment (Aristotle); the art of effective expression
+- 16
 
 ## [(YT) Blow, 2024 – On Burning out](https://www.youtube.com/watch?v=HkhHvP8emRM)
 - Goggins
@@ -477,6 +487,29 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Seduce students into the world of learning, to make them engaged in the learning content
 - But tendency to romanticize research through claiming the success on a few engaging anecdotes or particulary exciting transcripts -> must convey general, reliable and repeatable anectdotes (not only the selective and not necessarily representative)
 - Videotapes are invaluable for documenting conceptual change, in teachers as well as students, and they provide a common data base for discussion and reflextive action on the part of teachers and researchers. We can reanalyse and have new and more powerful theories of learning and concomitant methodologies emerging
+
+## [(YT) Cassavaugh, 2019 – If I Could Turn Back Time: A Game Developers Ultimate Quest](https://www.youtube.com/watch?v=A7UGNevWx-4)
+
+**THM** : When you've seen the point, you've missed it entirely
+
+**Authors** : Joe Cassavaugh
+
+**Tags** : :game-dev:
+
+**Notes**
+- No fear-based decision-making
+- "Prod & Art directors 'marking' their territory with irrelevant game changes" e.g., make it bluer
+- Do games that you love
+- Cons for him of going solo (to solve):
+	- Sloppy Dev (no checks & balances -> do UXR, no well-defined methods -> pre-document/register like a paper, no doc -> github), No synergy -> group of relatives to talk to?, no camaraderie -> SGDA
+- Do prefabs
+- Make something that is uniquerly yours
+- Proving people wrong is still a great motivator
+- Find better techniques
+- Most things don't make a difference
+- Do not sweat any decision, enough is enough
+- The game of making original IP, the score is in sales
+- Digital original-IP, the gift that keeps on giving
 
 ## [(YT) Clark, 2023 : AI: work & learning, Can AI teach ?](https://www.youtube.com/watch?v=K9TOD65BuXQ)
 
@@ -1192,6 +1225,14 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 **Comments**
 - 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
+
+## [Houry, 2024 – Utiliser l'IA en cours de mandarin]()https://docs.google.com/presentation/d/1oFVxhC0B4MyWi7DQhpWrc9j0scDqLvqaAPiBhbrdOoE/edit#slide=id.g273b7d628a0_0_148
+- PROSE :
+	- Public cible "tu t'adresses à"
+	- Rôle "tu es"
+	- Objectif "produis-moi"
+	- Sujet "sur le thème de"
+	- Explicitation "en utilisant, comme"
 
 ## [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](https://www.emerald.com/insight/content/doi/10.1108/13665621011028620/full/html#idm46216430258464)
 
