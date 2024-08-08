@@ -8,6 +8,7 @@
 	* [*Edtech:*](#edtech)
 * [Baccino, T., Bellino, C. & Colombi, T. (2004). Mesure de l’utilisabilté des interfaces. Hermes Science Publications.](#baccino-t-bellino-c--colombi-t-2004-mesure-de-lutilisabilté-des-interfaces-hermes-science-publications)
 * [Banihashem et al., 2018 : Learning Analytics: A systematic Literature Review](#banihashem-et-al-2018--learning-analytics-a-systematic-literature-review)
+* [Bauckhage et al., 2015 – Clustering Game Behavior Datahttps://www.semanticscholar.org/paper/Clustering-Game-Behavior-Data-Bauckhage-Drachen/1970498fa49800a388e7920566478b95ca353d10](#bauckhage-et-al-2015--clustering-game-behavior-datahttpswwwsemanticscholarorgpaperclustering-game-behavior-data-bauckhage-drachen1970498fa49800a388e7920566478b95ca353d10)
 * [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [(YT) Bogost, 2014 – Persuasive games: the expressive power of videogames](#yt-bogost-2014--persuasive-games-the-expressive-power-of-videogames)
@@ -204,6 +205,24 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Ethics and privacy
 	- Scope and Quality of Data : Gasevic et al (2015) pointed out that LA cannot fit one size to all. LA models should not be general and collect general data. It should focus on a specific scope of specific data with high quality that could  give true insights in learning and teaching. (link with PISA in Finland?)
 	- Theoretical and Educational Foundation : (good section, to read) LA is about learning Gasevic et al (2014)
+
+## [Bauckhage et al., 2015 – Clustering Game Behavior Data]()https://www.semanticscholar.org/paper/Clustering-Game-Behavior-Data-Bauckhage-Drachen/1970498fa49800a388e7920566478b95ca353d10
+
+**THM** : Key points and questions before clustering game data
+
+**Authors** : C. Bauckhage, Anders Drachen, R. Sifa
+
+**Tags** : :cluster: :game-data: :play-analysis:
+
+**Abstract** : Recent years have seen a deluge of behavioral data from players hitting the game industry. Reasons for this data surge are many and include the introduction of new business models, technical innovations, the popularity of online games, and the increasing persistence of games. Irrespective of the causes, the proliferation of behavioral data poses the problem of how to derive insights therefrom. Behavioral data sets can be large, time-dependent and high-dimensional. Clustering offers a way to explore such data and to discover patterns that can reduce the overall complexity of the data. Clustering and other techniques for player profiling and play style analysis have, therefore, become popular in the nascent field of game analytics. However, the proper use of clustering techniques requires expertise and an understanding of games is essential to evaluate results. With this paper, we address game data scientists and present a review and tutorial focusing on the application of clustering techniques to mine behavioral game data. Several algorithms are reviewed and examples of their application shown. Key topics such as feature normalization are discussed and open problems in the context of game analytics are pointed out.
+
+**Notes**
+- Yet, there are questions which can inform the choice of a cluster model:
+	- Are the data high-dimensional and/or sparse? If so, consider models tailored to sparse data (AA or NMF).
+	- What is the overall goal? To build general models of player behavior or to detect extreme behaviors (e.g., cheating, gold-farming)? For the former, consider centroid-seeking models ( -means, -medoids); for the latter, consider models such as AA.
+	- Are the data numerical or relational? For the latter, use spectral clustering or kernel methods.
+	- Are the players tightly grouped in variance space, so that -means might have difficulties distinguishing them? If so, consider density-based approaches that do not operate on Euclidean distances.
+	- Are the data noisy? If so density-based methods might be appropriate as they are better tunable
 
 ## [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](https://doi.org/10.1111/jcpp.13932)
 
@@ -3170,7 +3189,6 @@ Tableau tiré de Tricot (2017) :
 		1. Message broadcasting or the communication of specific information about the museum specs. -> formal educative content which is informative, persuasive and customized
 		2. Training learners for the acquisition of intellectual knowledge and/or physical skills -> encourage from passive into active cultural producers. Either well-defined learning objectives and skills acquisition is more directed, either games designed to promote experiential learning are less prescriptive and offer more opportunity for exploration either by allowing navigation through a virtual world or by requiring players to inhabit a role that requires them to make decisions and face the consequences of those decisions (AL2049).Experiential learning games are aimed at providing interactive and complex serious game environments along with complex challenges to encourage experiential learning ([Kiili, 2005](https://doi.org/10.1016/j.iheduc.2004.12.001); [Breuer and Bente, 2010](https://hal.science/hal-00692052); Mortara et al., 2014). 
 - Matching museums' informal educational roles to serious edgames:
-	- 
 
 ## [Wood & Wood, 1999 : Help seeking, learning and contingent tutoring](https://www.sciencedirect.com/science/article/pii/S0360131599000305?casa_token=SNnc3y-SOFUAAAAA:_woEegyc81EM6XXLUPFmwwNs9zdaMDe1k0RC9S7_xRVYAgFaIXxP8p0u05dRzILJelUBZnbdCA)
 
