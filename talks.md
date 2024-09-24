@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [24.09.2024 – Aaron Cochrane, Koedinger et al.](#24092024--aaron-cochrane-koedinger-et-al)
 * [21.06.2024 – Guillaume Bonvin, Classcraft](#21062024--guillaume-bonvin-classcraft)
 * [22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG](#22052024--miraj-la-place-du-récit-interactif-dans-les-sg)
 * [07.05.2024 – Alice Iannantuoni, text analysis in R](#07052024-alice-iannantuoni-text-analysis-in-r)
@@ -43,6 +44,18 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 24.09.2024 – Aaron Cochrane, Koedinger et al.
+- https://www.pnas.org/doi/full/10.1073/pnas.2221311120
+- Prior, Responsiveness and number of learning experiences
+- After publishing, go back to archives and internal meta-ana
+- 7k students (no repetition?)
+- Prior knowledge?
+- Knowledge Component = matrix of relationship bw different trial types bw shared -> latent connexion bw
+- Initial ability: diff between 25 and 75 of around 9.5 learning opportunities
+- Learning rate: only around 1
+- Prior ability is the largest determinant of time-to-learn -> only accurate for "most" people but unknown influence of initial instruction
+- Design tasks with plenty of variation (possibility to learn)
 
 # 21.06.2024 – Guillaume Bonvin, Classcraft
 - Subjectivité du jeu (Genvo, 2013)
