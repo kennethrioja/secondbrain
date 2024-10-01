@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [01.10.2024 – Neil Burgess, spatial memory](#01102024--neil-burgess-spatial-memory)
 * [24.09.2024 – Aaron Cochrane, Koedinger et al.](#24092024--aaron-cochrane-koedinger-et-al)
 * [21.06.2024 – Guillaume Bonvin, Classcraft](#21062024--guillaume-bonvin-classcraft)
 * [22.05.2024 – MIRAJ, la place du récit (interactif) dans les SG](#22052024--miraj-la-place-du-récit-interactif-dans-les-sg)
@@ -44,6 +45,10 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 01.10.2024 – Neil Burgess, spatial memory
+- Ego and allocentric representations have to interact.
+- Tetris baisse PTSD consolidation
 
 # 24.09.2024 – Aaron Cochrane, Koedinger et al.
 - https://www.pnas.org/doi/full/10.1073/pnas.2221311120
