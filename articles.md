@@ -1024,8 +1024,6 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 
 ## [(YT) Erhel – Comprendre les déterminants des usages problématiques d’Internet](https://www.youtube.com/watch?v=ueXvYKmH0pg&list=PLlZdvmQB3mW5U8ZvngNQxvh57Eb-9aAB3&index=9)
 
-**THM** : 
-
 **Authors** : Séverine Erhel
 
 **Tags** : :internet-problematic-use:
@@ -1042,6 +1040,9 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 - Flow est un prédicteur de la performance, conscience de soi diminué et limiter les émotions négatives (anxiété, projection dans le futur)
 - Dark Flow : La fluidité de l'UX et exploration des biais cog, algo, ml
 - FoMO associé fort à UPI, anxiété sociale et besoin de relation sociale insatisfaits expliqueraient ces effets
+- Anxiété état bon prédicteur
+- Frustration des besoins de la relation social prédicteur modéré
+- Coping d'écitement prédicteur modéré
 - Solutions :
 	- Politiques de prévention centrées sur les vulnérabilité psychologique VS dose, substance : donc pas addiction + pas mêmes mécanismes neuronaux
 	- Approche de la métacognition pour l'autodéfense face aux designs prédateurs
