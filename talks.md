@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [08.10.2024 – Augustin Bergerot, Sebastien Laurent, Lusha](#08102024--augustin-bergerot-sebastien-laurent-lusha)
 * [01.10.2024 – Neil Burgess, spatial memory](#01102024--neil-burgess-spatial-memory)
 * [24.09.2024 – Aaron Cochrane, Koedinger et al.](#24092024--aaron-cochrane-koedinger-et-al)
 * [21.06.2024 – Guillaume Bonvin, Classcraft](#21062024--guillaume-bonvin-classcraft)
@@ -45,6 +46,14 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 08.10.2024 – Augustin Bergerot, Sebastien Laurent, Lusha
+- https://lusha.care/?lang=en_us
+- Relaxing survival game?
+- While doing your game, do they have other therapies?
+- Then when you say ADHD vs control I'd try to use the 1st quarter vs 3rd Q
+- Distance X ADHD score?
+- Deviation for optimal path
 
 # 01.10.2024 – Neil Burgess, spatial memory
 - Ego and allocentric representations have to interact.

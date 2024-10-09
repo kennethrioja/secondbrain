@@ -10,6 +10,8 @@
 * [Yabai](#yabai)
 * [AutoRaise](#autoraise)
 * [GitStatusRef](#gitstatusref)
+* [Web performance](#web-performance)
+	* [Ultimate guide to web performance](#ultimate-guide-to-web-performance)
 * [Python](#python)
 	* [Python 101: Learn the 5 Must-Know Concepts](#python-101-learn-the-5-must-know-concepts)
 	* [Ecrivez du code python maintenablehttps://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable](#ecrivez-du-code-python-maintenablehttpsopenclassroomscomfrcourses7160741-ecrivez-du-code-python-maintenable)
@@ -52,6 +54,38 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 # [AutoRaise](https://github.com/sbmpost/AutoRaise)
 
 # [GitStatusRef](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+# Web performance
+
+## [Ultimate guide to web performance](https://www.youtube.com/watch?v=0fONene3OIA)
+- LCP, Largest Contentful Paint:
+	- Loading performance
+	- Good < 2.5s Needs improvement < 4.0s Poor
+	- First to largest contenful paint (from the first assets to be displayed to the page with all assets)
+	- Bad LCP == Bad SEO
+	- HOWTO:
+		- Open Network tab
+		- Examine the network waterfall
+		- It shows you how each asset is loaded
+		- Solutions:
+			1. Reduce resource load time -> lower the Bytes of an asset + use modern assets (webp or avif, same for fonts)
+			2. In production, use a CDN
+			3. Render blocking JS -> AVOID await, e.g., Next.js > react because SSR (server side render) vs Single page application
+			4. Preload -> `rel="preload"`, `fetchpriority="{low|high}"`
+- FID, First Input Delay:
+	- Interactivity
+	- Good < 100ms NI < 300ms Poor
+	- HOWTO:
+		- With Web vitals pluggin
+		- Solutions:
+			- Reduce JS execution -> use partytown or lazy loading
+- CLS, Cumulative Layout Shift:
+	- Visual Stability
+	- Good < 0.1 NI < 0.25 Poor
+	- Elements on the page shouldn't be jumping
+	- HOWTO:
+		- Solutions:
+			- Use img width and height OR srcset
 
 # Python
 
