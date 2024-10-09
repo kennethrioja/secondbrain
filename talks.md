@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [09.10.2024 – Michel Fayol, De la psychologie des apprentissages à l'instruction en milieu scolaire. Et réciproquement. Peut-on optimiser les apprentissages?](#09102024--michel-fayol-de-la-psychologie-des-apprentissages-à-linstruction-en-milieu-scolaire-et-réciproquement-peut-on-optimiser-les-apprentissages)
 * [08.10.2024 – Augustin Bergerot, Sebastien Laurent, Lusha](#08102024--augustin-bergerot-sebastien-laurent-lusha)
 * [01.10.2024 – Neil Burgess, spatial memory](#01102024--neil-burgess-spatial-memory)
 * [24.09.2024 – Aaron Cochrane, Koedinger et al.](#24092024--aaron-cochrane-koedinger-et-al)
@@ -46,6 +47,28 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 09.10.2024 – Michel Fayol, De la psychologie des apprentissages à l'instruction en milieu scolaire. Et réciproquement. Peut-on optimiser les apprentissages?
+- Refus du réductionnisme, phémnomène observés pas simplement que de laboratoire -> soucis de rigueur expérimentaliste et propriété écologiste
+- Manque de tentative de résolution des difficultés dans les recherches fondammentales
+- Pratiques dont manque d'évaluation de l'efficacité
+- L'innovation ne garantit pas la réussite, si on veut qu'elle joue son rôle il faut accepter qu'elle soit contrôlée, montrer que ce que l'on met en place sur des populations représentatives des études pilotes
+- Intervenir précocément ppour rétablir égalité (e.g., en arithmétique)
+- L'une des composantes qui explique la faiblesse des perfs des élèves en CE2-6è, relevaient non pas d'arithmétique mais de la **compréhension** de textes
+	- Retirer les données numériques pour contraindre les élèves pour travailler sur l'énoncé, la compréhensiond e la situation à l'aide de paraphrase, mimes, simulation.
+	- Dispositif qui se centre sur la compréhension de l'énoncé et ensuite montre données numérique.
+	- Présenter le dispositif expérimental (dire en général puis les chiffres après) permet d'avoir une diff entre janv et mai
+	- Baisse systématique associée à la période des vacances d'été.
+- Mathématiques :
+	- Cardinalité nécessite beaucoup d'items, propriété des ensembles
+	- Perception -> visuel, haptique, expérimenter!
+	- Mentalisation -> la contraindre pour symboliser, là où il n'y a plus entre le signifié et le signifiant, ne pas aller tout de suite aux signe et aux opérations
+- Orthographe :
+	- Découverte des lettre muettes en les rapprochant de mots de la même famille
+	- Presque tous les travaux sur morpho dérivationnelle, réalisés à propos de la lecture. On a montré dans 20 ans que on pouvait en préparant élèves. Pratiquement aucun porte sur production, mais c'est en production qu'on a les erreurs les plus récurrentes.
+	- Augmente ortho en faisant appel à la dérivation et le renforcement de la conscience morphologique; amélioration en extraction (compréhension, prise de ocnscience9 et en produciton (à tester dans textes) -> passage à l'échelle?
+	- Marques morphologique n'ayant le plus souvent pas de correspondant oral (granD, petiT)
+	- S'assurer que les marques sont connues et qu'ielles les utilisent consciemment
 
 # 08.10.2024 – Augustin Bergerot, Sebastien Laurent, Lusha
 - https://lusha.care/?lang=en_us
