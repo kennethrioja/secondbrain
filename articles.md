@@ -87,6 +87,7 @@
 * [Parmentier, 2023 : Jeux expressifs :iLe récit suffit-il à générer du sens ? Étude du lien entre la richesse du gameplay d’un jeu expressif et la perception de sens chez le « joueur eudémonique ».](#parmentier-2023--jeux-expressifs-ile-récit-suffit-il-à-générer-du-sens--Étude-du-lien-entre-la-richesse-du-gameplay-dun-jeu-expressif-et-la-perception-de-sens-chez-le--joueur-eudémonique-)
 * [Plass et al., 2015 : Foundations of Game-Based Learning](#plass-et-al-2015--foundations-of-game-based-learning)
 * [Rétaux, 2023 : Analyse d'ouvrage par Xavier Rétaux](#rétaux-2023--analyse-douvrage-par-xavier-rétaux)
+* [(YT) Rigby, 2017 : The Freedom Fallacy: Understanding "Player Autonomy" in Game Design](#yt-rigby-2017--the-freedom-fallacy-understanding-player-autonomy-in-game-design)
 * [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](#roth-2023--learning-analytics-ou-comment-lire-les-traces-numériques-pour-aider-les-étudiantes-en-difficulté)
 * [Sanchez, 2022 : Le paradoxe du marionnettiste, jeu et apprentissage](#sanchez-2022--le-paradoxe-du-marionnettiste-jeu-et-apprentissage)
 * [Scheffel et al., 2014 : Quality indicators for Learning Analytics](#scheffel-et-al-2014--quality-indicators-for-learning-analytics)
@@ -2556,6 +2557,27 @@ From : https://nospensees.fr/les-sept-savoirs-necessaires-a-leducation-du-futur-
 - Mais le jeu assure l'engagement de l'apprenant·e
 - Livre pour concevoir des situations d'apprentissage par le jeu
  
+## [(YT) Rigby, 2017 : The Freedom Fallacy: Understanding "Player Autonomy" in Game Design](https://www.youtube.com/watch?v=3vct13OhIio)
+
+**THM** : 
+
+**Authors** : Scott Rigby
+
+**Tags** : :autonomy: :sdt: :gdc:
+
+**Notes**
+- Autonomy means that when we act, we do so volitionally
+- Volition isn't independence or freedom to do whatever you want, it is wanting to do the things that you are doing
+- Freedom Fallacy : Autonomy =/= freedom BUT = volition
+- What are you doing to build volition and not just provide freedom?
+- Structure beats out freedom in satisfying autonomy
+- The key is not to just offer more, it is to offer a density of things that matter!
+- Procedural Volition Quest :
+	- Players verbs in the equations, as players make choices and act, those actions alter the game world procedurally and at scale
+	- Focus on meaningful impact, focus on dynamicaly changing content, goal, and activity structures in response to players actions in ways that satisfy that basic needs
+	- Latent variables, the players individual patterns might become important in weighting other variables – surfacing content and opportunity that is most likely to resonate with the player
+- Engeneering deep volitional player experiences that lead to satisfaction
+
 ## [Roth, 2023 : Learning analytics ou comment lire les traces numériques pour aider les étudiant·e·s en difficulté](https://ciel.unige.ch/2023/04/learning-analytics-ou-comment-lire-les-traces-numeriques-pour-aider-les-etudiant-e-s-en-difficulte/#.ZEe7qgNuH1w.linkedin)
 
 **THM** : 
