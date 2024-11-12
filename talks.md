@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [12.11.2024 – Vestin Hategekimana, R Workflow](#12112024--vestin-hategekimana-r-workflow)
 * [09.10.2024 – Michel Fayol, De la psychologie des apprentissages à l'instruction en milieu scolaire. Et réciproquement. Peut-on optimiser les apprentissages?](#09102024--michel-fayol-de-la-psychologie-des-apprentissages-à-linstruction-en-milieu-scolaire-et-réciproquement-peut-on-optimiser-les-apprentissages)
 * [08.10.2024 – Augustin Bergerot, Sebastien Laurent, Lusha](#08102024--augustin-bergerot-sebastien-laurent-lusha)
 * [01.10.2024 – Neil Burgess, spatial memory](#01102024--neil-burgess-spatial-memory)
@@ -47,6 +48,20 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 12.11.2024 – Vestin Hategekimana, R Workflow
+
+R shortcuts:
+- `cmd + shift + f` to Find in Files
+- `cmd + shift + p` to Open Command Palette
+- `cmd + d` to Delete
+- `opt + shift + arrow` to Copy line
+
+Appearance:
+- https://we-data-ch.github.io/worshop_2023_09_04/#/display
+
+Use {renv} (https://we-data-ch.github.io/worshop_2023_09_04/#/5/8):
+- For each project to keep track of your R version and packages
 
 # 09.10.2024 – Michel Fayol, De la psychologie des apprentissages à l'instruction en milieu scolaire. Et réciproquement. Peut-on optimiser les apprentissages?
 - Refus du réductionnisme, phémnomène observés pas simplement que de laboratoire -> soucis de rigueur expérimentaliste et propriété écologiste
