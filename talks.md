@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [14.11.2024 – Attila, Tecf'Agora](#14112024-attila-tecfagora)
 * [12.11.2024 – Vestin Hategekimana, R Workflow](#12112024--vestin-hategekimana-r-workflow)
 * [09.10.2024 – Michel Fayol, De la psychologie des apprentissages à l'instruction en milieu scolaire. Et réciproquement. Peut-on optimiser les apprentissages?](#09102024--michel-fayol-de-la-psychologie-des-apprentissages-à-linstruction-en-milieu-scolaire-et-réciproquement-peut-on-optimiser-les-apprentissages)
 * [08.10.2024 – Augustin Bergerot, Sebastien Laurent, Lusha](#08102024--augustin-bergerot-sebastien-laurent-lusha)
@@ -49,8 +50,10 @@
 
 <!-- vim-markdown-toc -->
 
-# 12.11.2024 – Vestin Hategekimana, R Workflow
+# 14.11.2024 – Attila, Tecf'Agora
+- 
 
+# 12.11.2024 – Vestin Hategekimana, R Workflow
 R shortcuts:
 - `cmd + shift + f` to Find in Files
 - `cmd + shift + p` to Open Command Palette
@@ -285,26 +288,27 @@ Use {renv} (https://we-data-ch.github.io/worshop_2023_09_04/#/5/8):
 Here is a list of each of the take home messages I got from the courses :
 
 1. Pitch: build trust, simulate interest in your company (not your product), start a conversation. “Our (product) Helps (people) Who want to (action) By (our uniqueness) And Unlike (market analysis)”
+	- When in doubt, lean on the formula, “accomplished [X] as measured by [Y], by doing [Z].” cf. [google](https://www.google.com/about/careers/applications/how-we-hire/?hl=en_US)
 
-2. Top 3 reasons of failure : No market; Ran out of… (cash); Not the right… (team)
+3. Top 3 reasons of failure : No market; Ran out of… (cash); Not the right… (team)
 
-3. Market Analysis: Do a Lean Canvas and a Value Proposition Canvas.
+4. Market Analysis: Do a Lean Canvas and a Value Proposition Canvas.
 
-4. Accounting: (So much to say) GAAP, Accounting Equation, Balance Sheet, Income Statement, Statement of Cash Flow
+5. Accounting: (So much to say) GAAP, Accounting Equation, Balance Sheet, Income Statement, Statement of Cash Flow
 
-5. Financial Planning: People/staff cost the most
+6. Financial Planning: People/staff cost the most
 
-6. IP Protection: Trademarks, Copyrights, Design, Patents
+7. IP Protection: Trademarks, Copyrights, Design, Patents
 
-7. WhereToPlay: Compete in different market
+8. WhereToPlay: Compete in different market
 
-8. Financing & Funding: Market Pull not Technology Push. Grasp investors by showing you have clients.
+9. Financing & Funding: Market Pull not Technology Push. Grasp investors by showing you have clients.
 
-9. Building a strong team: Never pay with a share.
+10. Building a strong team: Never pay with a share.
 
-10. Product Development: Go for the low hanging fruits within a short amount of time. Start with value then you can define cost.
+11. Product Development: Go for the low hanging fruits within a short amount of time. Start with value then you can define cost.
 
-11. Presentation skill: Call for action, focus on the problem you're trying to solve.
+12. Presentation skill: Call for action, focus on the problem you're trying to solve.
 
 # 07.12.2023 - UNIGE, Numérique et Inclusion à l'école: quelles réponses dans la formation à l'enseignement ?
 
