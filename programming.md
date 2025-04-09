@@ -10,6 +10,13 @@
 * [Yabai](#yabai)
 * [AutoRaise](#autoraise)
 * [GitStatusRef](#gitstatusref)
+* [Kubernetes](#kubernetes)
+	* [Udemy, Kubernetes for the Absolute Beginners - Hands-on https://cern.udemy.com/course/learn-kubernetes/learn/lecture/22027940#overview](#udemy-kubernetes-for-the-absolute-beginners---hands-on-httpscernudemycomcourselearn-kuberneteslearnlecture22027940overview)
+		* [K8 overview](#k8-overview)
+		* [K8 Concepts](#k8-concepts)
+		* [K8 concepts - Pods, replicasets, deployments](#k8-concepts---pods-replicasets-deployments)
+		* [Networking](#networking)
+		* [Services](#services)
 * [Web performance](#web-performance)
 	* [Ultimate guide to web performance](#ultimate-guide-to-web-performance)
 * [Python](#python)
@@ -54,6 +61,95 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 # [AutoRaise](https://github.com/sbmpost/AutoRaise)
 
 # [GitStatusRef](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+# Kubernetes
+
+## Udemy, Kubernetes for the Absolute Beginners - Hands-on https://cern.udemy.com/course/learn-kubernetes/learn/lecture/22027940#overview
+
+### K8 overview
+- Kubernetes is a container orchestration technology used to orchestrate the deployment and management of hundreds of thousands of containers in a clustered environment
+- Node (Minions) = worker machine where containers will be launched by K8
+- Cluster = a set of nodes grouped together
+- Master is another node with K8 installed and configured as a master
+- Components:
+	- API server (m): frontend for K8 to interact with K8 server
+	- etcd (m): distributed reliable key-value store to store all data used to manage the cluster, responsible for implementing locks within the cluster to ensure that there are no conflicts bw the Masters
+	- scheduler (m): distribute work across multiple nodes
+	- controller (m): notice and responde when nodes, containers or end points goes down
+	- container runtime (w): docker
+	- kubelet (w): agent running each node in the cluster, make sure that containers are running on the nodes as expected
+- `kubectl run hello-minikube`
+- `kubectl cluster-info`
+- `kubectl get nodes` + `-o wide` (for OS)
+- rkt uses Container Runtime Interface whereas docker uses `dockershim` (until 1.24)
+- `nerdctl` provides a Docker-like CLI for containerD, supportes docker compose
+- `crictl` provides a CLI for CRI compatible container runtimes, debugging tool
+	- `crictl pods`
+
+### K8 Concepts
+- Pod is smallest object to be created in K8
+- Pods have a 1-1 interaction with a node/container
+- A pod can contain multiple containers of different kinds
+- `kubectl run nginx --image nginx` creates nginx image from cloud
+- `kubectl get pods -o wide`
+- `kubectl describe pod <name>`
+- `kubectl get deployments` # list deployments
+- `kubectl get services <name>` # see type, ip, ports of <name>
+- `minikube start`
+- `minikube service <name>` # deploy
+- `minikube pause/unpause`
+- `minikube stop`
+- `minikube delete services <name>`
+- `minikube delete --all`
+- Minikube handbook : https://minikube.sigs.k8s.io/docs/handbook/
+
+### K8 concepts - Pods, replicasets, deployments
+- In YAML, always :
+	- `apiVersion` (e.g., v1, v1, apps/v1, apps/v1),
+	- `kind` (e.g., Pod, Service, ReplicaSet, Deployment), 
+	- `metadata` (with `name`, `labels` [app, type], etc.), 
+	- `spec` (e.g., `containers` [name, image])
+- Pods:
+	- `kubectl create -f <file.yml>` (imperative management, tells exactly how to do smth, e.g., step-by-step instructions – to use when quick one-offs, debug, learning)
+	- `kubectl apply -f <file.yml>` (declarative management, tell what you want and it figures out how to do it, e.g., "make sure it is done" – for prod, automation, gitops, repeatability)
+- Replicaset:
+	- Replication Controller (Older tech) | Replica Set (New way to setup replication)
+	- `kubectl get replicationcontrollers`
+	- ReplicaSet must have `selector`, it can indeed monitor another pod that was created before, it is a process that monitor the pods
+	- To change n° of replicas:
+		- `kubectl replace -f <def.yml>`
+		- `kubectl scale --replicas=6 -f <def.yml>`
+		- `kubectl scale --replicas=6 replicaset <rs-name>`
+	- `kubectl describe replicaset <rs-name>`
+	- `kubectl edit replicaset <rs-name>`
+- Deployment:
+	- When you deploy, it creates replicaset
+	- `kubectl get all`
+	- `kubectl create deployment httpd-frontend --image=httpd:2.4-alpine --replicas=3`
+	- Two types of deployment strategies:
+		- Recreate: delete then up, but application down time in between
+		- Rolling update (default): one pod after the other
+	- Rollout:
+		- `kubectl rollout status deployment/<deployment-name>` see status
+		- `kubectl rollout history deployment/<deployment-name>` see history
+			- to change cause, either `kubectl create -f <deployment.yaml> --record` or add under `metadata`, `kubernetes.io/change-cause:` 
+		- When you `kubectl apply -f <deployment.yml>`, you can see changes in status and history
+	- Updates: It creates another replicaset under the hood and then delete the number 1
+	- Rollback: to undo `kubectl rollout undo deployment/<deployment-name>`
+	- `kubectl set image deployment <d-name> <container-name>/<image>`
+
+### Networking
+- Private IP inside a node is 10.244.0.0, and each POD is 0.2, 0.3, etc.
+- All containers/PODs can communicate to one another without NAT
+- All nodes can communicate with all containers and vice-versa without NAT
+
+### Services
+- Services is an object that enable loose coupling between micro services in our app
+- Services types:
+	- NodePort: takes an internal port accessible on a port on the node
+	- ClusterIP: creates a virtual IP inside the cluster to enable communication bw different services
+	- LoadBalancer: provisions a load balancer for our app in supported cloud providers
+	- 
 
 # Web performance
 
