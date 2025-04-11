@@ -17,6 +17,8 @@
 		* [K8 concepts - Pods, replicasets, deployments](#k8-concepts---pods-replicasets-deployments)
 		* [Networking](#networking)
 		* [Services](#services)
+		* [Microservices Architecture](#microservices-architecture)
+		* [K8 on Cloud](#k8-on-cloud)
 * [Web performance](#web-performance)
 	* [Ultimate guide to web performance](#ultimate-guide-to-web-performance)
 * [Python](#python)
@@ -116,7 +118,7 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 	- Replication Controller (Older tech) | Replica Set (New way to setup replication)
 	- `kubectl get replicationcontrollers`
 	- ReplicaSet must have `selector`, it can indeed monitor another pod that was created before, it is a process that monitor the pods
-	- To change n° of replicas:
+	- To change n° of replicas
 		- `kubectl replace -f <def.yml>`
 		- `kubectl scale --replicas=6 -f <def.yml>`
 		- `kubectl scale --replicas=6 replicaset <rs-name>`
@@ -136,7 +138,7 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 		- When you `kubectl apply -f <deployment.yml>`, you can see changes in status and history
 	- Updates: It creates another replicaset under the hood and then delete the number 1
 	- Rollback: to undo `kubectl rollout undo deployment/<deployment-name>`
-	- `kubectl set image deployment <d-name> <container-name>/<image>`
+	- `kubectl set image deploy <d-name> <container-name>/<image>`
 
 ### Networking
 - Private IP inside a node is 10.244.0.0, and each POD is 0.2, 0.3, etc.
@@ -147,9 +149,37 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 - Services is an object that enable loose coupling between micro services in our app
 - Services types:
 	- NodePort: takes an internal port accessible on a port on the node
+		- E.g., external access
+		- TargetPort = Port of the pod, Port = port of the Service, NodePort = Port of the Node (bw 30000;32767)
+		- Use labels and selectors to link the service to the pod
+		- selector: takes the pod-definition.yml
+		- `kubectl get svc`
+		- `minikube service <service-name> --url`
 	- ClusterIP: creates a virtual IP inside the cluster to enable communication bw different services
 	- LoadBalancer: provisions a load balancer for our app in supported cloud providers
-	- 
+- Service endpoints are the touching points with each node, if you `kubectl describe service/...` and you got no endpoints, it means it is not linked to a pod
+- Service template can be found in man : https://kubernetes.io/docs/concepts/services-networking/service/
+
+### Microservices Architecture
+- Name the container when `docker run`
+- A POD IP can change, so never make the link to a specific IP address
+- This is why you must use a service that expose an app to other applications for users for external access
+- Workflow:
+	a) Deploy PODs for each container
+	a) Create Services (ClusterIP) for the apps that need to be exposed/accessed
+	a) Create Services (NodePort) for the apps that need to be open to the user
+- Create pod, create service
+- Deploying single pods is NOT the way, but deploy deployment having multiple instance of a pod
+- From pod, create deployment
+- Scale deployment:
+	- `kubectl scale deployment <deploy-name> --replicas=3`
+
+### K8 on Cloud
+- K8 on AWS using kops or KubeOne
+- Google Cloud Platform / Google Kubernetes Engine:
+	- Create deploy, then services
+- Amazon Elastic Kubernetes Service
+- Azure Kubernetes Service
 
 # Web performance
 
