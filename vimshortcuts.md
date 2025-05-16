@@ -21,7 +21,11 @@
 | `gr{motion}`                                  | get replace, note: yank something before! ([vim ReplaceWithRegister](https://github.com/inkarkat/vim-ReplaceWithRegister))            |
 | `gz{motion}`                                  | get titlecaZe ([vim titlecase](https://github.com/christoomey/vim-titlecase))                                                         |
 | `gs{motion}`                                  | get sort ([vim sort motion](https://github.com/christoomey/vim-sort-motion))                                                          |
-| `:GenTocGFM`                                  | Generate Toc in GFM link style                                                                                                        |
+| `:GenTocGFM`                                  | generate Toc in GFM link style                                                                                                        |
 | `gl{bulletpoint}`                             | get list 1. or -                                                                                                                      |
-| Cmd + Shift + L c								| On vsc to search replace
-|                                               |                                                                                                                                       |
+| Cmd + Shift + L c                             | On vsc to search replace                                                                                                              |
+| R                                             | Replace mode                                                                                                                          |
+| :e {filename}                                 | open file for editing                                                                                                                 |
+| Ctrl+u / Ctrl+d                               | Scroll up/down                                                                                                                        |
+| f, t, F, T + `,` `;`                          | Navigate matches                                                                                                                      |
+|                      |   |

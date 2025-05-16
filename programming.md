@@ -19,6 +19,13 @@
 		* [Services](#services)
 		* [Microservices Architecture](#microservices-architecture)
 		* [K8 on Cloud](#k8-on-cloud)
+	* [Udemy, Kubernetes Certified Application Developer (CKAD) with Tests](#udemy-kubernetes-certified-application-developer-ckad-with-tests)
+		* [2. Core Concepts](#2-core-concepts)
+		* [3. Configuration](#3-configuration)
+		* [4. Multi-Container Pods](#4-multi-container-pods)
+		* [5. Observability](#5-observability)
+		* [10. Helm Fundamentals](#10-helm-fundamentals)
+		* [(admin) 12. Helm Basics](#admin-12-helm-basics)
 * [Web performance](#web-performance)
 	* [Ultimate guide to web performance](#ultimate-guide-to-web-performance)
 * [Python](#python)
@@ -66,6 +73,8 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 
 # Kubernetes
 
+- [Cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+
 ## Udemy, Kubernetes for the Absolute Beginners - Hands-on https://cern.udemy.com/course/learn-kubernetes/learn/lecture/22027940#overview
 
 ### K8 overview
@@ -92,7 +101,7 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 - Pod is smallest object to be created in K8
 - Pods have a 1-1 interaction with a node/container
 - A pod can contain multiple containers of different kinds
-- `kubectl run nginx --image nginx` creates nginx image from cloud
+- `kubectl run nginx --image=nginx` creates nginx image from cloud
 - `kubectl get pods -o wide`
 - `kubectl describe pod <name>`
 - `kubectl get deployments` # list deployments
@@ -165,9 +174,9 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 - A POD IP can change, so never make the link to a specific IP address
 - This is why you must use a service that expose an app to other applications for users for external access
 - Workflow:
-	a) Deploy PODs for each container
-	a) Create Services (ClusterIP) for the apps that need to be exposed/accessed
-	a) Create Services (NodePort) for the apps that need to be open to the user
+	i) Deploy PODs for each container
+	ii) Create Services (ClusterIP) for the apps that need to be exposed/accessed
+	iii) Create Services (NodePort) for the apps that need to be open to the user
 - Create pod, create service
 - Deploying single pods is NOT the way, but deploy deployment having multiple instance of a pod
 - From pod, create deployment
@@ -180,6 +189,117 @@ https://flat-pasta-dc7.notion.site/Yabai-8da3b829872d432fac43181b7ff628fc
 	- Create deploy, then services
 - Amazon Elastic Kubernetes Service
 - Azure Kubernetes Service
+
+## Udemy, Kubernetes Certified Application Developer (CKAD) with Tests
+
+### 2. Core Concepts
+- Nodes/Minions
+- Cluster is a set of Nodes, multiple nodes allow sharing the weight
+- Master is another node with K8 installed and is configured as a master
+- Helper containers can be part of the same pod alongside your app, they live and die together
+- To begin: Run docker, `minikube start`, `kubectl get nodes -o wide`
+- `kubectl get pod <pod-name> -o yaml > pod-definition.yaml` to extract definition of an existing POD, then edit changes, delete and recreate the pod
+- `kubectl apply -f redis.yaml` to apply changes
+- `kubectl set image pods/redis redis=redis` to change image of redis pod to redis
+- `kubectl edit replicaset` to edit a replicaset
+- `kubectl scale replicaset/new-replica-set --replicas=2` scale a replicaset
+- `kubectl explain replicaset` man to replicaset
+- `kubectl get all`
+- In definition under `metadata` you can specify `namespace` 
+- `kubectl create namespace dev`
+- `kubectl config set-context $(kubectl config current-context) --namespace=dev`
+- `kubectl get pods --all-namespaces` or `kubectl get pods --namespace=research`
+- `kubectl run redis --namespace=finance --image=redis` to create redis pod in finance namespace
+- `kubectl get pods -n=dev`
+- For 'Blue' in 'dev1' to access 'db-service' in 'dev2' namespace, it has to use: db-service.dev2.svc.cluster.local
+- Imperative Commands:
+	- `kubectl run redis --image=redis --dry-run=client -o yaml > redis.yaml` to create a redis image with a yaml as output
+	- `kubectl create -f redis.yaml`
+	- `--dry-run=client` allows to not create, and to check if the command is right
+	- https://kubernetes.io/docs/reference/kubectl/conventions/
+	- POD : `kubectl run nginx --image=nginx --port=8080 --dry-run=client -o yaml`
+	- DEPLOYMENT : `kubectl create deployment nginx --image=nginx -n=dev --dry-run -o yaml`
+	- SERVICE : `kubectl expose pod redis --port=6379 --name redis-service --dry-run=client -o yaml` or `kubectl create service clusterip redis --tcp=6379:6379 --dry-run=client -o yaml` or `kubectl expose pod nginx --port=80 --name nginx-service --type=NodePort --dry-run=client -o yaml`
+
+### 3. Configuration
+- Commands and arguments in k8:
+	- ENTRYPOINT -> specs/containers/command: then list of '-' or ["cmd1", "cmd2"]
+	- CMD -> specs/containers/args: ["--my","args"]
+- Environment variables
+```
+spec:
+  containers:
+  - name: bla
+    image: bla-img
+	env:
+	  - name: APP_ENV
+	    value: lol # for plain key
+		valueFrom:
+		  configMapKeyRef: # for configmap
+		    name: <configfile-name>
+			key: ENVVAR
+		  secretKeyRef: # for secrets
+```
+- ConfigMaps:
+	- 1) create configmap
+	- `kubectl create configmap app-config --from-literal=KEY=value --from-literal=KEY2=value2`
+	- `kubectl create configmap app-config --from-file=app_config.properties`
+	- and 2) inject into pod
+	- in specs/containers add `envFrom: - configMapRef: name:<metadata-name-of-configmap>`
+- Secrets:
+	- 1) create secrets
+	- `kubectl create secret generic <secret-name> --from-literal=<key>=<value> --from-file=<path-to-file>`
+	- But encode `| base64` when putting in secrets and to decode `| base64 --decode`
+	- and 2) inject into pod
+	- in pod's spec/containers add `envFrom: - secretRef: name: db-secret`
+	- in spec/containers add `volumes: -name: <volume-name> secret: secretName: <secret-name>`
+	- Encrypting confidential data at rest: https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
+		- `ETCDCTL_API=3 etcdctl --cacert=/etc/kubernetes/pki/etcd/ca.crt --cert=/etc/kubernetes/pki/etcd/server.crt --key=/etc/kubernetes/pki/etcd/server.key get /registry/secrets/default/secret1 | hexdump -C`
+		- `kubectl get secrets --all-namespaces -o json | kubectl replace -f -`
+	- https://kubernetes.io/docs/concepts/configuration/secret/#risks
+- Security contexts:
+	- Security settings
+	- `kubectl exec ubuntu-sleeper -- whoami`
+	- `securityContext: runAsUser: 1010`
+- Service accounts:
+	- For Prometheus or Jenkins
+	- Automatically mounts the default SA, to undo it: `spec: automountServiceAccountToken: false`
+- Resource Requirements:
+	- kube-scheduler identifies best node to place node on, if too full 'insufficient cpu'
+	- `spec:containers:resources:requests:memory: "1Gi"cpu: 1` 
+	- `spec:containers:resources:limits:memory: "2Gi"cpu: 2` 
+- Taints and Tolerations:
+	- What pods can be scheduled on a node, place a pod (toleration, e.g., bug) on a node (taints, e.g., spray on person) but no guarantee that it will be placed on that node
+	- Tells the node to accept certain toleration
+	- A taint is automatically applied to the Master node
+- Node Selectors:
+	- If we have different power nodes
+	- `kubectl label nodes node-1 size=Large`
+	- And for pod `spec:ndoeSelector:size:Large`
+	- Cannot have conditionnal: Large or Medium, not small, this is why you must work with affinity
+- Node Affinity:
+	- `spec:affinity:nodeAffinity:requiredDuringSchedulingIgnoredDuringExecution:nodeSelectorTerms:-marchExpressions:-key:size/operator: In/values:-Large/-Medium`
+
+### 4. Multi-Container Pods
+- They share the same workspace (e.g., app and logs), can refer to localhost, and have access to same storage volumes
+- Design Patterns:
+	- Sidecar: Log Server
+	- Adapter: Process logs before sending it to central server
+	- Ambassador: connects to different db at different stages
+- initContainers:
+	- `spec:containers:-//firstcontainer//initContainers:-//secondcontainer//-//thirdcontainer//`
+	- https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+
+### 5. Observability
+- 
+
+### 10. Helm Fundamentals
+- You may have many yaml file for every object
+- Sometimes called as the package manager of K8, it does all the micro management
+- You put each of your yaml in templates
+
+### (admin) 12. Helm Basics
+- 
 
 # Web performance
 
