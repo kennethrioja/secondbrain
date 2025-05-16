@@ -299,7 +299,24 @@ spec:
 - You put each of your yaml in templates
 
 ### (admin) 12. Helm Basics
-- 
+- Chart = collection of files to ceate a collection of objects
+- Release = a single installation of your app using a helm chart
+- Templating = "\{{}}" (double curly braces), is always linked with a `values.yaml`
+- `helm install my-site bitnami/wordpress` you can do my-second-website too to get two releases (dev, prod)
+- https://artifacthub.io/
+- Chart.yaml:
+	- `apiVersion`: Helm 2=v1, Helm 3=v2
+	- `appVersion`: verion of the app
+	- `version`: of the chart
+	- `type`: application or library
+	- `dependencies`: objects from the app (e.g., db)
+	- `keywords`: to retrieve the app in repo
+	- `maintainers`: email name of the maintainer
+- /templates + values.yaml + Chart.yaml + /charts
+- `helm list`
+- `helm repo list`
+- `helm history app-name`
+- `helm rollback app-name <nrevision>`
 
 # Web performance
 
