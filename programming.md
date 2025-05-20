@@ -26,6 +26,7 @@
 		* [5. Observability](#5-observability)
 		* [10. Helm Fundamentals](#10-helm-fundamentals)
 		* [(admin) 12. Helm Basics](#admin-12-helm-basics)
+* [ghrc.io](#ghrcio)
 * [Web performance](#web-performance)
 	* [Ultimate guide to web performance](#ultimate-guide-to-web-performance)
 * [Python](#python)
@@ -317,6 +318,18 @@ spec:
 - `helm repo list`
 - `helm history app-name`
 - `helm rollback app-name <nrevision>`
+
+# ghrc.io
+
+- Get a PAT on github
+- `docker login ghcr.io -u <username>` + paste PAT, should output 'Login Succeeded'
+- `docker build . -t ghcr.io/<username>/<reponame>:<version> --platform linux/amd64,linux/arm64` ([source](https://docs.docker.com/build/building/multi-platform/#build-multi-platform-images))
+- `docker push ghcr.io/<username>/<reponame>:<version>`
+- `mkdir k8s/`
+- `kompose convert -f docker-compose -o k8s/`
+- `oc apply -R -f k8s/`
+- `kubectl delete deploy --all && kubectl delete svc --all && kubectl delete pvc --all && kubectl delete cm --all`
+- `kubectl get all`
 
 # Web performance
 
