@@ -28,4 +28,5 @@
 | :e {filename}                                 | open file for editing                                                                                                                 |
 | Ctrl+u / Ctrl+d                               | Scroll up/down                                                                                                                        |
 | f, t, F, T + `,` `;`                          | Navigate matches                                                                                                                      |
+| gU<motion>                                    | To uppercase, u for lowercase                                                                                                         |
 |                      |   |
