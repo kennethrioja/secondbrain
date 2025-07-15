@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [15.07.2025 – Ben Segal, How innovation happens for real @Ideasquare, CERN](#15072025--ben-segal-how-innovation-happens-for-real-ideasquare-cern)
 * [14.11.2024 – Attila, Tecf'Agora](#14112024-attila-tecfagora)
 * [12.11.2024 – Vestin Hategekimana, R Workflow](#12112024--vestin-hategekimana-r-workflow)
 * [09.10.2024 – Michel Fayol, De la psychologie des apprentissages à l'instruction en milieu scolaire. Et réciproquement. Peut-on optimiser les apprentissages?](#09102024--michel-fayol-de-la-psychologie-des-apprentissages-à-linstruction-en-milieu-scolaire-et-réciproquement-peut-on-optimiser-les-apprentissages)
@@ -50,8 +51,20 @@
 
 <!-- vim-markdown-toc -->
 
+# 15.07.2025 – Ben Segal, How innovation happens for real @Ideasquare, CERN
+- https://indico.cern.ch/event/1554360/contributions/6545347/attachments/3103947/5500581/TCPIP_IdeaSquare.pdf
+- Conservatism about IT tech acceptance 
+- Reflecting on having projects that you care -> allowing 10 to 25% to do personal projects "Give some space" (e.g., [Google '20%' rule](https://www.cnbc.com/2021/12/16/google-20-percent-rule-shows-exactly-how-much-time-you-should-spend-learning-new-skills.html))
+- One or two gifted people are often the most effective
+- But true innovaiton is unpredictable, usually involves chance/coincidence, and overall remains a mystery
+- Conclusions:
+	- Find a good boss
+	- Value your mentors – and be a mentor too
+	- Beware of the 'SHEEP EFFECT'
+	- Watch out for 'career-based' people
+	- Enjoy your work – if it's not fun, complain!
+
 # 14.11.2024 – Attila, Tecf'Agora
-- 
 
 # 12.11.2024 – Vestin Hategekimana, R Workflow
 R shortcuts:
