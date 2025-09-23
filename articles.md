@@ -12,6 +12,7 @@
 * [Bediou et al., 2023 : Not screens but their context of use impact cognitive development: a commentary on Yang et al. (2023)](#bediou-et-al-2023--not-screens-but-their-context-of-use-impact-cognitive-development-a-commentary-on-yang-et-al-2023)
 * [Bediou & Wac, 2022 : The role of cognition in mediating the relationship between media use and health in a media saturated world](#bediou--wac-2022--the-role-of-cognition-in-mediating-the-relationship-between-media-use-and-health-in-a-media-saturated-world)
 * [(YT) Bogost, 2014 – Persuasive games: the expressive power of videogames](#yt-bogost-2014--persuasive-games-the-expressive-power-of-videogames)
+* [(YT) Boshchenko, 2025 : How to collect application metrics if it needs to be done yesterday](#yt-boshchenko-2025--how-to-collect-application-metrics-if-it-needs-to-be-done-yesterday)
 * [(YT) Blow, 2024 – On Burning out](#yt-blow-2024--on-burning-out)
 * [(YT) Blow, 2024 – Jonathan Blow on leading an indie game company](#yt-blow-2024--jonathan-blow-on-leading-an-indie-game-company)
 * [(YT) Blow, 2024 – Jonathan Blow on Simplicity](#yt-blow-2024--jonathan-blow-on-simplicity)
@@ -105,6 +106,7 @@
 * [Tondello et al., 2016 : The Gamification User Types Hexad Scale](#tondello-et-al-2016--the-gamification-user-types-hexad-scale)
 * [Tricot, 2017 : Quels apports de la théorie de la charge cognitive à la différenciation pédagogique ? Queles pistes conctrètes pour adapter des situations d'apprentissage.](#tricot-2017--quels-apports-de-la-théorie-de-la-charge-cognitive-à-la-différenciation-pédagogique--queles-pistes-conctrètes-pour-adapter-des-situations-dapprentissage)
 * [Tricot, 2021 : Le numérique permet-il des apprentissages scolaires moins contraints ? Une revue de la littérature](#tricot-2021--le-numérique-permet-il-des-apprentissages-scolaires-moins-contraints--une-revue-de-la-littérature)
+* [(YT) Van Beckhoven, 2025 : Cracking the code review](#yt-van-beckhoven-2025--cracking-the-code-review)
 * [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](#van-maanen--schein-1977--toward-a-theory-of-organizational-socialization)
 * [van Opheusden et al., 2023 : Expertise increases planning depth in human gameplay](#van-opheusden-et-al-2023--expertise-increases-planning-depth-in-human-gameplay)
 * [Vienneau, 2005 : Apprentissage et enseignement : théories et pratiques](#vienneau-2005--apprentissage-et-enseignement--théories-et-pratiques)
@@ -273,6 +275,21 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Processesses : the logics by which things work
 	- Orator, Persuasion toward correct judgment (Aristotle); the art of effective expression
 - 16
+
+## [(YT) Boshchenko, 2025 : How to collect application metrics if it needs to be done yesterday](https://www.youtube.com/watch?v=3lJLnP5b4xU&list=PLRsbF2sD7JVoIn_ONlDxzXB6B7gB-ZZE6&index=19)
+
+**THM** : 
+
+**Authors** : Alina Boshchenko
+
+**Tags** : :metrics:
+
+**Notes**
+- Metrics collection and aggregation: Dropwizard, Micrometer, Prometheus
+- Storage: InfluxDB, Elasticsearch, Prometheus
+- Visualisation: Grafana, Kibana, Prometheus dashboards
+- All-in-one solutions: NewRelic, Sentry, Datadog
+- ...
 
 ## [(YT) Blow, 2024 – On Burning out](https://www.youtube.com/watch?v=HkhHvP8emRM)
 - Goggins
@@ -3107,6 +3124,26 @@ Tableau tiré de Tricot (2017) :
 	- Coopérer entre élèves :
 		- Kirschner et al. (2018), apprennent mieux en groupe mais :
 			- Possible coût de prise en main et si tâche suffisament simple pour être faite par 1 élève, détériore sa réalisation et l'apprentissage
+
+## [(YT) Van Beckhoven, 2025 : Cracking the code review](Jansen & Vandeperre, 2025 : Platform Engineering 101: Building Internal Dev Platforms)
+
+**THM** : Be specific, use we, ask questions and help
+
+**Authors** : Paco van Beckhoven
+
+**Tags** : :devops: :code-review:
+
+**Notes**
+- In PR:
+	- Good title https://www.conventionalcommits.org/en/v1.0.0/
+	- Description: Context, what changes, why, examples, keep it concise and readable
+	- Set templates + checklists : Changes are covered by tests; There is clear logging and error handling; Update architecture diagrams; service documentation updated
+	- Review your own code + add context to smaller changes + highlight important parts + ask specific questions
+- Giving reviews:
+	- Start days doing reviews
+	- Get the context, read the description
+	- Design, functionality, complexity, tests
+	- Use suggestions
 
 ## [Van Maanen & Schein, 1977 : Toward a Theory of Organizational Socialization](https://dspace.mit.edu/bitstream/handle/1721.1/1934/?sequence=1)
 

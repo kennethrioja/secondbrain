@@ -43,6 +43,8 @@
 		* [Flask mega-tutorial XV: A better app structure](#flask-mega-tutorial-xv-a-better-app-structure)
 * [MySQL](#mysql)
 	* [mysql tutorial for beginners, full course](#mysql-tutorial-for-beginners-full-course)
+* [RoR](#ror)
+	* [Introduction](#introduction)
 * [rest](#rest)
 	* [saison 20-21- part 3 - web services rest concepts de base :](#saison-20-21--part-3---web-services-rest-concepts-de-base-)
 	* [adopter les api rest pour vos projets web :](#adopter-les-api-rest-pour-vos-projets-web-)
@@ -663,6 +665,28 @@ admin.site.register(Player, PlayerAdmin)
 - comment by using two hyphens "--"
 - 1:40
 
+
+# RoR
+## Introduction
+- @user # is the variable user of the current instance
+- :id # the thing named id
+- a << b.obj # to append b.obj to array a
+- %w[a, b, c] # to create an array of a, b, c words
+- hash = { :a => "ah" } # can be changed to hash = { a: "ah }
+- redirect_to action: "show", id: product.id # redirect_to({"action":"show","id":product.id})
+- if line =~ /P(erl|ython)/ # regex
+- /ab+c/ # one a, one or more b, one c
+- /ab\*c/ # one a, zero or more b, one c
+- \d # match any digits
+- \s # match any whitespace char
+- \w # match any alphanum (word) char
+- \A # match the start of the string
+- \z # match the end of the string
+- \. # match as is
+- in Class, `self.find_x` makes find_x a class method
+- protected methods can be accessed by all instances
+- private methods only for this instance
+- Modules cannot create objects, Classes do
 
 # rest
 ## [saison 20-21- part 3 - web services rest concepts de base](https://www.youtube.com/watch?v=jzk1mboe33e) :
