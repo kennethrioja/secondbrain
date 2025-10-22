@@ -46,6 +46,8 @@
 * [Fischer et al., 2004 : Meta-Design a Manifesto for End-User Development](#fischer-et-al-2004--meta-design-a-manifesto-for-end-user-development)
 * [Fleck et al., 2017 : “ Teegi, il est trop beau ”: Exemple d’évaluation du potentiel pédagogique d’une interface tangible interactive pour enfants en contexte scolaire](#fleck-et-al-2017---teegi-il-est-trop-beau--exemple-dévaluation-du-potentiel-pédagogique-dune-interface-tangible-interactive-pour-enfants-en-contexte-scolaire)
 * [George et al., 2013 : Usages reflexifs des traves dans les environnements informatiques pour l'apprentissage humain](#george-et-al-2013--usages-reflexifs-des-traves-dans-les-environnements-informatiques-pour-lapprentissage-humain)
+* [(YT) GGJ – IP Mistakes too many indies make (and how to avoid them)](#yt-ggj--ip-mistakes-too-many-indies-make-and-how-to-avoid-them)
+* [(YT) GGJ – Getting IP Right: Tips for indie devs](#yt-ggj--getting-ip-right-tips-for-indie-devs)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
 * [Houry, 2024 – Utiliser l'IA en cours de mandarinhttps://docs.google.com/presentation/d/1oFVxhC0B4MyWi7DQhpWrc9j0scDqLvqaAPiBhbrdOoE/edit#slide=id.g273b7d628a0_0_148](#houry-2024--utiliser-lia-en-cours-de-mandarinhttpsdocsgooglecompresentationd1ofvxhc0b4mywi7dqhpwrc9j0scdqlvqaapibhbrdooeeditslideidg273b7d628a0_0_148)
@@ -1228,6 +1230,59 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 		- Donnent à l'ordinateur une place plus important en lui conférant des tâches de diagnostics et de proposition de remédiation
 		- Des systèmes conçus dans l'optique d'un partenanriat homme-machine (mixte) nous semble les plus adaptés pour une plus grande implication de l'user dans son apprentissage
 		- ex. Tuteurs intelligents
+
+## [(YT) GGJ – IP Mistakes too many indies make (and how to avoid them)](https://www.youtube.com/live/JVjVm0DthHA)
+
+**THM** : Even when small, begin to write the creative process.
+
+**Authors** : Maria Burns Ortiz
+
+**Tags** : :ip: :gamedev: :startup:
+
+**Notes**
+- IP is what can be monetized
+- 99% of VG is IP : Graphics, drawing, trademarks, design, patents, mechanics
+- How are we going to protect it from the outset?
+- Failure to think about IP ownership. Write something that confirms who owns what and what our rights are. Who owns what percentage of right to a game when you're first starting. Put that on paper, get that out of the way, to avoid fighting in the future about who owns what.
+- You never discuss IP when it already has value.
+- For new studios, working on the game, creating ideas, source code, graphics, scenario, must begin with paperworks.
+- Be careful, especially when a former founder was indeed the creator of the main character.
+- Write the contact with proper IP clauses + reflects the particular law of the state where it was actually created.
+- Laws of IP are unified – so do not worry about territorial details, you have already a decent level of protection
+- Document as much as possible, especially the creative process, to have a proof.
+- The risk is very low if you created it all from scratch/by yourself.
+- What's the best way to document? e.g., Source code: Github
+- If you are reusing something that is 150 years old, you are 99% safe to reuse it.
+- Copyrights no need to register vs. Trademarks, patents, industrial design register.
+- If marketing (caps, etc.), be sure to register.
+- Contracts for the copyright, who gave the name of the studio.
+- Add a copyright notice and send it by email
+
+## [(YT) GGJ – Getting IP Right: Tips for indie devs](https://www.youtube.com/live/JPudXFHwthQ)
+
+**THM** : 
+
+**Authors** : Maria Burns Ortiz
+
+**Tags** : :ip: :gamedev: :startup:
+
+**Notes**
+- See IP as an initial setup, like GitHub.
+- It is the very first thing to do, it becomes exponentially harder to come back.
+- No lack of clarity, who owns it, and what can the company do with it?
+- Those are my assets, that create value, and these are all created by our team – it came from us, originated from us.
+- Hold back a little bit on annoucements to the public until you have sorted the records out. E.g., trademakrs or patents need to be filed first at least a provisional application, because you are publishing to the public, you must secure your IP rights to it.
+- Make notes on what you have discussed, concerning ownership of the game.
+- Founders agreements, you need to have those discussions.
+- If funders, and you are not alligned, wait.
+- Seek help from the beginning.
+- Having a plan, a vision of the various phases is very important, e.g., documentation, relationships in vg, who's doing what and who wants what. A rought timetable or a list is always useful.
+- Prepare for the moment where there can be a dispute
+- Save records and early process of your creative thinking. E.g., brainstorming, who said what.
+- Who owns IP when it comes to dev? It should be agreed on what is brought to the table and by whome.
+- There are crucial aspects of your game that you can protect.
+- Mickey Mouse is free now, >70 yo
+- Be clear about the relationship with your employees, and what you expect parties to do, and consequences of non-compliance. E.g., you're working with us, we are paying you for your work, but this doesn't make an owner or co-owner of the game, nor gives you IP rights in the game.
 
 ## [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](https://doi.org/10.1016/j.infsof.2021.106792)
 
