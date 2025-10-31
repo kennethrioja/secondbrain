@@ -2,6 +2,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [19.08.2025 – Melanie Rieback: Non-Extractive Business and Finance](#19082025-melanie-rieback-non-extractive-business-and-finance)
 * [15.07.2025 – Ben Segal, How innovation happens for real @Ideasquare, CERN](#15072025--ben-segal-how-innovation-happens-for-real-ideasquare-cern)
 * [14.11.2024 – Attila, Tecf'Agora](#14112024-attila-tecfagora)
 * [12.11.2024 – Vestin Hategekimana, R Workflow](#12112024--vestin-hategekimana-r-workflow)
@@ -50,6 +51,16 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 19.08.2025 – Melanie Rieback: Non-Extractive Business and Finance
+- https://indico.cern.ch/event/1578514/
+- https://www.youtube.com/watch?v=ApINAX7XEqc&list=PL14vcCXv7XVONAwzNv0ApYwZ5iepLzz3S&index=1
+- Having VCs to start your company and the 'happy-ending' (*kof kof*) of selling your company at the highest price is not the only way!!!
+- I had the pleasure of attending Melanie Rieback talk @CERN called "Non-Extractive Business and Finance". That was an eye-*open*er on the alternatives of building a company having Open Source as a backbone.
+- The take home messages for me were : 
+1) Sell your company at 1€ to non profit organisations when you know money can be a tempting option. 💡 I loved the image Melanie used : act like Homer, tied to the ship’s mast to resist the lure of the sirens.
+2) Distribute steward ownership (= golden share) as much as you can!
+- If you are interested or curious about this, here is her 11h-long course at Universiteit van Amsterdam about Post Growth Entrepreuneurship.
 
 # 15.07.2025 – Ben Segal, How innovation happens for real @Ideasquare, CERN
 - https://indico.cern.ch/event/1554360/contributions/6545347/attachments/3103947/5500581/TCPIP_IdeaSquare.pdf
