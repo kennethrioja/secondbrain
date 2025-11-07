@@ -1,5 +1,7 @@
 # CERN School of Computing on IT Services 2025
 
+https://indico.cern.ch/event/1580446/timetable/
+
 ## MON, AM. Sebastien Ponce – A bit of physics in a week of computing
 
 - 4 missions of CERN: Research, Technology, Collaborating, Education
@@ -187,4 +189,42 @@
 
 - Once a model is brewed, it needs to be served
 - What is my input and what is my output, this is all we need to take care of, the serving is automatic
+
+## FRI, AM. Cameron Duncan McClymont, Tibor Simko – Data Analysis Techniques using SWAN and REANA (part 2 of 3)
+
+- Advocating for reusability
+- Do not do it: the time it takes to document for release
+- "Your closest collaborator is you six months ago but you don't reply to email" – Broman, K.
+- 1. Preserving parts of experimental data
+- 2. Preserving RS (Github->Zenodo)
+- 3. Computing env: containers
+- 4. Computational recipes: many steps (DAG) -> Make it actionable
+- `reana-client run -w <workspace>`, also create, upload, start, status, logs, ls
+- `reana-client --help`
+
+## FRI, AM. Andrzej Nowicki – Database Services (part 4 of 4) - DBoD maintenance exercises
+
+## FRI, PM. Vincent Brillault – Application security
+
+- Least privilege principle: should operate using the least amount of privilege
+- Defense in depth: multiple layers of defense
+- Complexity kills security
+- Linters, test coverage
+- Broken Access Control:
+	- Missing access control for API access
+	- => Add missing auth
+	- => Don't rely on "security"
+- Injections:
+	- => Validation (e.g., age is int, age is not coma)
+	- => Sanitize user input (quote/escape special characters)
+	- => Securely pass user input to backend systems
+- Security penetration testing:
+	- Goal: finding security vulnerabilities, misconfig, exposures
+	- Blackbox vs whitebox: Do you know what you are testing?
+- Application security scanning:
+	- Source code analysis: SAST, Secret detection
+	- Dynamic (live) analysis: DAST ...
+- Deployment security:
+	- Avoid supply-chain attacks: use trusted soft and trusted sources
+	- Harden your deployment: less is more, update soft regularity, lock the version of used libraries, use unprivileged accounts, restrict access
 
