@@ -50,8 +50,9 @@
 * [(YT) GGJ – Getting IP Right: Tips for indie devs](#yt-ggj--getting-ip-right-tips-for-indie-devs)
 * [Gregory et al., 2022 : An onboarding model for integrating newcomers into agile project teams](#gregory-et-al-2022--an-onboarding-model-for-integrating-newcomers-into-agile-project-teams)
 * [Hoseini et al., 2022 : The Effect of 2D and 3D Action Video Game Interventions on Executive Functions in Male Students](#hoseini-et-al-2022--the-effect-of-2d-and-3d-action-video-game-interventions-on-executive-functions-in-male-students)
-* [Houry, 2024 – Utiliser l'IA en cours de mandarinhttps://docs.google.com/presentation/d/1oFVxhC0B4MyWi7DQhpWrc9j0scDqLvqaAPiBhbrdOoE/edit#slide=id.g273b7d628a0_0_148](#houry-2024--utiliser-lia-en-cours-de-mandarinhttpsdocsgooglecompresentationd1ofvxhc0b4mywi7dqhpwrc9j0scdqlvqaapibhbrdooeeditslideidg273b7d628a0_0_148)
+* [Houry, 2024 – Utiliser l'IA en cours de mandarin](#houry-2024--utiliser-lia-en-cours-de-mandarin)
 * [Johnson & Senges, 2010 : Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google](#johnson--senges-2010--learning-to-be-a-programmer-in-a-complex-organization-a-case-study-on-practicebased-learning-during-the-onboarding-process-at-google)
+* [Jolicoeur-Martineau, 2025 : Less is More: Recursive Reasoning with Tiny Networks](#jolicoeur-martineau-2025--less-is-more-recursive-reasoning-with-tiny-networks)
 * [Jonassen, 2000 : Toward a design theory of problem solving](#jonassen-2000--toward-a-design-theory-of-problem-solving)
 * [(YT) Kapur, 2022 : Productive Failure](#yt-kapur-2022--productive-failure)
 * [Ladyman et al., 2013 : What is a complex system?](#ladyman-et-al-2013--what-is-a-complex-system)
@@ -1319,7 +1320,7 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 **Comments**
 - 2D (uncharted drake's fortune) and 3D (uncharted drake's deception) groups are trained on '3D' games...
 
-## [Houry, 2024 – Utiliser l'IA en cours de mandarin]()https://docs.google.com/presentation/d/1oFVxhC0B4MyWi7DQhpWrc9j0scDqLvqaAPiBhbrdOoE/edit#slide=id.g273b7d628a0_0_148
+## [Houry, 2024 – Utiliser l'IA en cours de mandarin](https://docs.google.com/presentation/d/1oFVxhC0B4MyWi7DQhpWrc9j0scDqLvqaAPiBhbrdOoE/edit#slide=id.g273b7d628a0_0_148)
 - PROSE :
 	- Public cible "tu t'adresses à"
 	- Rôle "tu es"
@@ -1365,6 +1366,34 @@ http://tecfa.unige.ch/tecfa/maltt/ergo/articles/P1/focus_group_(Baccino2004).pdf
 	- Trainee program : follow more senior peers to participate in their meetings and project activities – realistics expectation is an aspect to be most important for job satisfation ([Buckley et al., 1998)](https://psycnet.apa.org/record/1998-02893-008))
 	- Expectation management
 	- Practice-based learning : Role models; Communities of practice
+
+## [Jolicoeur-Martineau, 2025 : Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/pdf/2510.04871)
+
+**THM** : 
+
+**Authors** : Alexia Jolicoeur-Martineau
+
+**Tags** : :HRM: :LLM:
+
+**Abstract** : Hierarchical Reasoning Model (HRM) is a novel approach using two small neural networks recursing at different frequencies. This biologically inspired method beats Large Language models (LLMs) on hard puzzle tasks such as Sudoku, Maze, and ARC-AGI while trained with small models (27M parameters) on small data (∼ 1000 examples). HRM holds great promise for solving hard problems with small networks, but it is not yet well understood and may be suboptimal. We propose Tiny Recursive Model (TRM), a much simpler recursive reasoning approach that achieves significantly higher generalization than HRM, while using a single tiny network with only 2 layers. With only 7M parameters, TRM obtains 45% test-accuracy on ARC-AGI1 and 8% on ARC-AGI-2, higher than most LLMs (e.g., Deepseek R1, o3-mini, Gemini 2.5 Pro) with less than 0.01% of the parameters.
+
+**Notes**
+- Chain of Thoughts (Wei et al., 2022) seeks to emulate human reasoning by having the LLM to sample step-by-step reasoning traces prior to giving their answer. It improves Acc but expensive, and can be brittle.
+- Test-Time Compute (Snell et al., 2024)
+- Since 2019, human-level accuracy still has not been reached, Gemini 2.5 Pro Acc = 4.9% on ARC-AGI-2 (Chollet et al., 2025)
+- HRM is a supervised learning model with two main novelties: 
+	- Recursive hierarchical reasoning:
+		- Recursing multiple times through two small networks (fL, at high freq, and fH at low freq) to predict the answer
+		- Each of them generate a different latent feature: fL outputs zH, fH outputs zL.
+		- Both are used as input to the two networks.
+	- Deep supervision:
+		- Consists of improving the answer through multiple supervision steps while carrying the two latent features as initialization for the improvement steps.
+		- Seems to be the primary driver of the perf gains.
+- Reasoning across different supervision steps is worth it, but the recursion done in each supervision step is not particularly important.
+- Tiny Recursive Model, an improved and simplified approach using a much smaller tiny network with only 2 layers that achieves s* higher generalization than HRM on a variety of problems.
+- Sudoku-extreme: .55 -> .87; maze-hard: .75 -> .85, ARC-AGI-1: .40 -> .45; ARC-AGI-2: .05 -> .08
+- https://github.com/arcprize/ARC-AGI-2?tab=readme-ov-file
+- The focus of HRM is supervised learning. Both input and output are assumed to have shape [B, L] B is batch-size, L is context-length
 
 ## [Jonassen, 2000 : Toward a design theory of problem solving](https://link.springer.com/article/10.1007/BF02300500)
 
