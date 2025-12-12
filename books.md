@@ -3,6 +3,7 @@
 ## Table of Contents
 <!-- vim-markdown-toc GFM -->
 
+* [Better Play – Paul Mégroz](#better-play--paul-mégroz)
 * [Deep Work - Cal Newport](#deep-work---cal-newport)
 * [Game Programming Patters - Robert Nystrom](#game-programming-patters---robert-nystrom)
 * [Learning Vim Script The Hard Way - Steve Losh](#learning-vim-script-the-hard-way---steve-losh)
@@ -14,6 +15,28 @@
 * [Zero to One: Notes on Startups, or How to Build the Future](#zero-to-one-notes-on-startups-or-how-to-build-the-future)
 
 <!-- vim-markdown-toc -->
+
+# Better Play – Paul Mégroz
+- Gaudiaut, Tristan, "Le jeu vidéo, plus que jamais roi du divertissement", Statista, 2021
+- "Mon constat est clair : non seulement l’industrie, gangrenée par ces problèmes, ne m’attire pas, mais pire encore, le statut de «gamer» me dégoûte désormais."
+- "Comment mettre en place des moyens de faire du jeu, non plus un objet aliénant mais un outil émancipateur et fédérateur ?"
+- "Le jeu vidéo indépendant offre, certes, des oasis créatives, tout comme certaines compagnies émergentes tentent de proposer des alternatives plus éthiques et respectueuses. Pourtant, me lancer dans ce domaine me semble difficile : il faudrait non seulement des compétences techniques substantielles que je ne possède malheureusement pas, mais aussi naviguer et tenter de se faire une place dans une industrie toujours toxique et cruelle où seulement une poignée d’oeuvres parviennent à être rentables et où tenter de s’y inscrire avec une proposition alternative est simplement irréaliste.
+- "Se tourner vers la création, non de jeux immenses, repoussant les limites techniques et les records mais plutôt de jeux bizarres, plus modestes, coûtant moins chers et permettant donc une plus grande liberté créatrice.16 Ce terrain me semble en adéquation avec mes aspirations et j’espère sincèrement un jour, avoir l’opportunité de m’essayer à la conception de jeux pouvant s’inscrire dans cette lignée.
+- Faisons un jeu numérique qui contredise ça :
+	- "Le jeu analogique a aussi un atout évident : celui de rapprocher géographiquement ses joueur·euse·s. Il leur demande de partager le même espace, de l’investir et d’y performer l’acte de jouer ensemble. Il force un contact direct avec l’autre, demande de faire usage de capacités sociales comme amuser, mentir ou convaincre. Il demande également de faire preuve d’empathie autours de la table, d’être à l’écoute des autres, d’apprendre à reconnaître quand se mettre en retrait au bénéfice du groupe ou au contraire d’identifier le moment parfait pour passer au premier plan. Pour beaucoup de jeunes personnes, adopter le jeu analogique dans leurs habitudes a été un moyen de développer une confiance en soi et des capacités relationnelles, ce qu’une pratique ludique entièrement numérique aurait plus difficilement pu faire. Aujourd’hui, le jeu analogique reste pour beaucoup un moyen de tisser et d’entretenir des liens sociaux. Les conventions et autres événements « geek » offrent même l’opportunité d’y jouer avec des inconnu·e·s, favorisant ainsi les rencontres et le sentiment de communauté."
+- Assurer une 'safe place'
+- Qu'est-ce que les "X-Card, les feux tricolores"?
+- "Cependant, ces outils ne suffisent pas à eux seuls : leur efficacité repose avant tout sur la volonté collective de les faire respecter. Un cadre bienveillant ne peut exister que si chaque participant·e s’engage activement à intervenir lorsqu’une limite est franchie, à écouter et à prendre en compte les ressentis des autres. Instaurer des règles est une chose, mais c’est la vigilance du groupe qui garantie un véritable espace de jeu sécurisant et inclusif" :
+	- Créer un dispositif qui prend en compte le niveau de bruit et faire un pop up pour canaliser les joueureuses
+- "Ainsi, m’engager dans cette voie me permet de répondre à mon malaise face au jeu vidéo. Le jeu analogique, et en particulier le jeu de rôle, est pour moi un moyen excitant de toucher au game design. Il me permet de concilier mes envies de création et de réflexion avec mes préoccupations éthiques, tout en m’offrant un espace libre où je suis à la fois actif et responsable du bon déroulement de l’expérience. Il me pousse à sortir de ma zone de confort, aussi bien socialement qu’intellectuellement, et me permet de maintenir des amitiés précieuses. Jouer avec attention et engagement crée des opportunités uniques d’échange, de partage d’idées et de renforcement des liens sociaux, d’une manière parfois plus fluide et naturelle qu’ailleurs. Plus que tout, avoir eu la chance de développer cette pratique régulière me confirme le potentiel créatif qu’apporte son aspect collectif."
+- The Quiet Year, Jeu analogique, Avery Alder, Buried Without
+- D&D non questionné sur la violence et le pillage, son intrusion dans une population locale est traitée comme une menace à exterminer
+- Dans VG, orc has -1 intel, +1 force - institutionalisation de la problématique et stéréotypes associés, difficilement questionnable dans le cadre du système
+- Réalisme capitaliste – Mark Fisher
+- Masks: A New Generation – dilemnes personnels, relations et crises identitaires vs. combats
+- "En effet, rendre la violence « amusante » sans cadre critique, c’est courir le risque qu’elle soit récupérée ou pire : normalisée, standardisée."
+- "Le jeu – et encore plus le jeu de rôle – peut, en réunissant des personnes aux idées et vécus variés, devenir un espace de pensée collective. Un lieu où l’on peut analyser ensemble, apprendre de nos erreurs et ouvrir le dialogue."
+- "Jouer avec des personnes qui n’ont jamais touché à un jeu, créer avec des apportant d’autres idées et savoir-faire, c’est bousculer les conventions établies et enrichir le médium. La culture ludique, qu’elle soit numérique ou analogique, est fondamentalement collective : c’est dans ces rencontres et ces échanges que naissent les idées nouvelles et les expériences les plus marquantes."
 
 # Deep Work - Cal Newport
 

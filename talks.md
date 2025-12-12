@@ -2,6 +2,8 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [09.12.2025 – Ian Tracey (Anchored in), From Research to Recognition: Positioning Yourself as a Thought Leader in Science](#09122025--ian-tracey-anchored-in-from-research-to-recognition-positioning-yourself-as-a-thought-leader-in-science)
+* [14.11.2025 – Régimes de taxation pour les fonctionnaires internationaux en FR et CH](#14112025--régimes-de-taxation-pour-les-fonctionnaires-internationaux-en-fr-et-ch)
 * [19.08.2025 – Melanie Rieback: Non-Extractive Business and Finance](#19082025-melanie-rieback-non-extractive-business-and-finance)
 * [15.07.2025 – Ben Segal, How innovation happens for real @Ideasquare, CERN](#15072025--ben-segal-how-innovation-happens-for-real-ideasquare-cern)
 * [14.11.2024 – Attila, Tecf'Agora](#14112024-attila-tecfagora)
@@ -52,7 +54,34 @@
 
 <!-- vim-markdown-toc -->
 
+# 09.12.2025 – Ian Tracey ([Anchored in](https://www.anchoredin.uk/)), From Research to Recognition: Positioning Yourself as a Thought Leader in Science
+
+- slides: https://indico.gsi.de/event/23569/
+- originality and innovation
+- credibility and authority
+- communication and dissemination
+- impact and actionability -> value proposition
+- authenticity and purpose
+- low/high interest/influence
+- recognition ladder: field reshaping
+- find other domains with interesting ideas and make it for your domain
+- presentation (how to speak):
+  - knowledge (know your stuff), passion, pace, personality, confidence
+  - the personality stays
+  - power pause (barack obama), if they do not interrupt, then ur powerful
+  - rhetoric (barbara jordan)
+  - simplicity (einstein), give the conclusion first, if more depth go on
+  - quiet dignity (lou gehrig)
+  - carefully crafted (churchill)
+  - powerful repetition (mlking)
+
+# 14.11.2025 – Régimes de taxation pour les fonctionnaires internationaux en FR et CH
+
+- https://cds.cern.ch/record/2949629
+- https://brocardavocats.com/
+
 # 19.08.2025 – Melanie Rieback: Non-Extractive Business and Finance
+
 - https://indico.cern.ch/event/1578514/
 - https://www.youtube.com/watch?v=ApINAX7XEqc&list=PL14vcCXv7XVONAwzNv0ApYwZ5iepLzz3S&index=1
 - Having VCs to start your company and the 'happy-ending' (*kof kof*) of selling your company at the highest price is not the only way!!!
