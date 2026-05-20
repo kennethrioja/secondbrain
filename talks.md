@@ -2,6 +2,10 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [20.05.2026 – EnhanceR seminar: Two presentations by RSE ambassadors](#20052026--enhancer-seminar-two-presentations-by-rse-ambassadors)
+	* [Ilya Misyura, FHNW, Fachhochschule Nordwestschweiz: Digital Trust in Graph-RAG: From Authentication to Authority](#ilya-misyura-fhnw-fachhochschule-nordwestschweiz-digital-trust-in-graph-rag-from-authentication-to-authority)
+	* [James Runnalls, EAWAG, Swiss Federal Institute of Aquatic Science and Technology: The Last Mile of Open Science: UI/UX for Research Software Engineers](#james-runnalls-eawag-swiss-federal-institute-of-aquatic-science-and-technology-the-last-mile-of-open-science-uiux-for-research-software-engineers)
+* [15.01.2026 – Maître David Dana (DANA) – Prêts en CHF : risque de change et exigence de transparence des clauses contractuelles – Comprendre le contentieux et les enjeux](#15012026--maître-david-dana-dana--prêts-en-chf--risque-de-change-et-exigence-de-transparence-des-clauses-contractuelles--comprendre-le-contentieux-et-les-enjeux)
 * [09.12.2025 – Ian Tracey (Anchored in), From Research to Recognition: Positioning Yourself as a Thought Leader in Science](#09122025--ian-tracey-anchored-in-from-research-to-recognition-positioning-yourself-as-a-thought-leader-in-science)
 * [14.11.2025 – Régimes de taxation pour les fonctionnaires internationaux en FR et CH](#14112025--régimes-de-taxation-pour-les-fonctionnaires-internationaux-en-fr-et-ch)
 * [19.08.2025 – Melanie Rieback: Non-Extractive Business and Finance](#19082025-melanie-rieback-non-extractive-business-and-finance)
@@ -53,6 +57,88 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 20.05.2026 – EnhanceR seminar: Two presentations by RSE ambassadors
+
+## Ilya Misyura, FHNW, Fachhochschule Nordwestschweiz: Digital Trust in Graph-RAG: From Authentication to Authority
+- Graph-RAG needs graph database – neo4j or FalkorDB -> have RAG features out of the box
+- Solution free to use: Postgres -> pgvector
+
+## James Runnalls, EAWAG, Swiss Federal Institute of Aquatic Science and Technology: The Last Mile of Open Science: UI/UX for Research Software Engineers
+
+
+# 15.01.2026 – Maître David Dana ([DANA](https://www.dana-avocats.fr/)) – Prêts en CHF : risque de change et exigence de transparence des clauses contractuelles – Comprendre le contentieux et les enjeux
+
+- https://indico.cern.ch/event/1619322/
+- Bien en france, prêt en CHF, parce qu'ils percevaient CHF, le fait d'emprunter dans devise prêt CHF, les met à l'abri du risque de change.
+- Le fait d'emprunter CHF pour bien EUR, risque de taux de conversion
+- 1.6X avant, 1.07 now
+- En réalité, les emprunteurs perçoivent fonds en euros, sont convertis parce que le bien est en FR, l'emprunteur n'a pas besoin de CHF mais d'EUR.
+- La banque prête la contrevaleur en CHF du prix d'acquisition en EUR, converti au taux du jour de l'achat de l'immobilier
+- L'emprunter reçoit montant en EUR et rb en CHF une somme dont l'équivalant en EUR fluctue.
+- La baisse de l'euro donne hausse coût du prix d'achat du prix financé.
+- Décisions judiciaires dès janvier 2025: reconnaissance risque de change pour les frontaliers, annulation possible des prêts en CHF, restitutions financières majeures pour les emprunteurs
+- Même si travaille CHF, perçoit CHF, banque doit informer conséquences financières.
+- Débat se déplace sur la prescription et le délai pour agir: à partir du quel emprunteur peut agir.
+- **Risque de change**:
+	- Inhérent à l'ensemble contractuel
+	- Dès lors que bien en FR, le bien est acquis et payé en EUR
+	- Montant du prêt en CHF, fonds dans compte versés en CHF sur compte bloqué, banque convertit en EUR au jour de l'achat immo et EUR versés au notaire -> le taux de change EUR/CHF appliqué est celui du jour de l'achat immobilier
+	- Emprunteur reçoit EUR, dans les 25 ans de durée du prêt, cette opération de change initiale va peser sur emprunteur.
+	- Si EUR baisse (comme depuis 2008), dette va être indexée de manière déplafonnée, sans aucun contrôle
+	- Non pas pareil, quand EUR baisse, la dette augmente au fur et à mesure, on sait ce qu'on reçoit, mais on ne sait pas ce qu'on doit rb.
+	- On a EUR qui baisse (pas CHF qui s'apprécie) de manière continue, vertigineuse, et pas à l'abri d'une baisse encore agravée.
+	- On ne sait pas jusqu'où l'EUR peut baisser
+	- Si ici: 300k, mais dans 25 ans peut être 300k + 20%/20% si EUR baisse
+	- Argument: tx intérêt préférable, moins cher d'emprunter en CHF qu'en EUR (SARON) car tx d'intérêt bonnifié
+	- Risque taux variable d'intérêt, MAIS risque de perte du taux de change
+	- Valeur nominale / Valeur réelle:
+		- Dette reste identique en CHF, 1000CHF=1000CHF
+		- Il faut toujours comparer EUR reçus.
+	- Droit de la consommation européen, Cour Justice de l'UE:
+		- La banque accord en réalité un prêt en euros, tout en exigeant de l'emprunteur qu'il rembourse l'emprunt consenti...
+		- Prêt en EUR et expose emprunteur à tx de change
+- **Evolution jurisprudentielle de l'exigence de transparence**:
+	- L. 212-1 du Code de la consommation:
+		- "Les clauses doivent être rédigées de façon claire et compréhensible"
+	- La notion de consommateur est toute personne physique, agissant à des fins non professionneles, indépendamment de ses connaissances ou compétences. Il s'agit d'une notion objective.
+	- CJUE directive 93/13
+	- Arrêt 20 sept 2017, dit: une clause contractuelle sont des clauses standards, les CG, doivent être comprises par le consommateur de manière formel et grammatical, et que la portée, les conséquences de chacune de ces clauses et ce que ça implique financièrement. Et évaluer les conséquences économiques potentiellement significatives d'une telle clause sur ses obligations financières.
+	- Comprendre concrètement combien on perd si l'EUR baisse
+	- Des exemples chiffrés de perte de change - des tableaux
+	- Lire les notices d'informations, si clauses abusives
+	- 2021: EUR/CHF, 1.68CHF pour 1EUR à 0.92CHF pour 1EUR
+- **Conséquences de l'annulation**:
+	- Annulation = le contrat est sensé ne jamais existé, le juge annule le contrat et rétro activement, un jour avant le contrat, et l'emprunteur ne reçoit pas le prêt, rb ça
+	- Et banque lui restitue l'ensemble des CHF et converti en CHF en vigueur de chaque jour
+	- Equivalent économique d'un prêt en euros à taux 0.
+	- Devient prêt en EUR à taux 0.
+	- On rend EUR à ce qu'on a reçu, pas tx intérêt, pas tx de change.
+	- Reçu 300k, rend 300k
+	- Pour chiffrer, demander au notaire le relevé comptable lors de l'acquisition du bien immobilier, et demander à la banque le taux d'amortissement réel, détaillant l'ensemble des paiement réalisés en CHF, montant du capital et tous les montants, connait la date, et calcule contrevaleur publiés et chiffré.
+	- Les juges donnent raison et chiffre les restitutions.
+	- Il faut être très précis, concret.
+	- Si banque ne les communique pas, banque ordonne.
+- **La prescription – recevabilité des actions**:
+	- Dès lors que pas chiffrage, les banques vont perdre c'est certain
+	- Le terrain de la prescription
+	- La cour de cassation dit que pas de délai pour agir, quand bien même prêt en 2000
+	- Ce sont les prêts anciens avant la crise de l'euro
+	- L'abus des clauses, c'est technique, résulte jusrisp UE, et dit en 2021 et 2021, cette solution apparue que récemment
+	- La cour d'appel de Chambé nous disait que clause pas abusive
+	- La cour de cassation disait en 2023 que clauses pas abusives
+	- Auj on voudrait nous faire croire que les clauses sont abusives, et vous non-jurisque, simple consommateur, devrait l'avoir compris il y a 5 ans et vous venez maintenant?
+	- Arg. banques: vous pouviez comprendre.
+	- La perte de change, permet de comprendre l'abus de la clause
+- **Conclusion**:
+	- La jusrisprudence favorable, vient appliquer cette information détaillée et le contentieux sera très favorable.
+- Si 2000 et 2015 rb, le banque dira consommateur connu, ça va durer, va y avoir un combat judiciaire
+- Les banques contestent en permanence.
+- Actions groupées? Dans 1 an et demi, créé asso, et compliqué car consommateur agit de manière privée. Pas mûr pour 'class actions'. Le cabinet fait action sérielles.
+- Plus le prêt est ancien, plus l'échéance est importante, plus capitale exédée en EUR. Un prêt entièrement rb = crédit reçu sur banque. Si déjà rb, pb de recevabilité.
+- Voir notices d'informations: 2013, avant non-clair, après moyen-clair.
+- Si avenant (2018) de CA, si signé, alors faiblesse, mais combat.
+- Temps: 1è instance 12-18mois, soit gagne là, appel, cassation; procès peut durer 5-6 ans et attendre la fin, avoir rendement avec si gagne jusqu'à fin procès
 
 # 09.12.2025 – Ian Tracey ([Anchored in](https://www.anchoredin.uk/)), From Research to Recognition: Positioning Yourself as a Thought Leader in Science
 
