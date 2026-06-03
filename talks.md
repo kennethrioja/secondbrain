@@ -2,6 +2,14 @@
 
 <!-- vim-markdown-toc GFM -->
 
+* [02.06.2026 – RSE Swiss Romand, EPFL](#02062026--rse-swiss-romand-epfl)
+	* [Linus](#linus)
+	* [Emmanuel Lanti – Your simulation works. Your code doesn't. A tale about scientific software design.](#emmanuel-lanti--your-simulation-works-your-code-doesnt-a-tale-about-scientific-software-design)
+	* [Kenneth](#kenneth)
+	* [Clément Humbert – ZKPs and applications (e.g., e-ID)](#clément-humbert--zkps-and-applications-eg-e-id)
+	* [Samuel Gaist – Why make it nice and readable when you can make it short and terrible?](#samuel-gaist--why-make-it-nice-and-readable-when-you-can-make-it-short-and-terrible)
+	* [Diego – RésIn – A RSE network in Paris and its online repository of engineers](#diego--résin--a-rse-network-in-paris-and-its-online-repository-of-engineers)
+	* [Gaelle Chapuis – Analytical degrees of freedom in practice: Evidence from hackathons and implications for automated science](#gaelle-chapuis--analytical-degrees-of-freedom-in-practice-evidence-from-hackathons-and-implications-for-automated-science)
 * [20.05.2026 – EnhanceR seminar: Two presentations by RSE ambassadors](#20052026--enhancer-seminar-two-presentations-by-rse-ambassadors)
 	* [Ilya Misyura, FHNW, Fachhochschule Nordwestschweiz: Digital Trust in Graph-RAG: From Authentication to Authority](#ilya-misyura-fhnw-fachhochschule-nordwestschweiz-digital-trust-in-graph-rag-from-authentication-to-authority)
 	* [James Runnalls, EAWAG, Swiss Federal Institute of Aquatic Science and Technology: The Last Mile of Open Science: UI/UX for Research Software Engineers](#james-runnalls-eawag-swiss-federal-institute-of-aquatic-science-and-technology-the-last-mile-of-open-science-uiux-for-research-software-engineers)
@@ -57,6 +65,44 @@
 * [11.10.2022 - Cvetomir Dimov - An Integrated Model of Collaborative Skill Acquisition: Anticipation,Control Tuning, and Role Adoption](#11102022---cvetomir-dimov---an-integrated-model-of-collaborative-skill-acquisition-anticipationcontrol-tuning-and-role-adoption)
 
 <!-- vim-markdown-toc -->
+
+# 02.06.2026 – RSE Swiss Romand, EPFL
+
+## Linus
+- ORDP, Center for digital trust
+- making our work and impact visible
+- Swiss wide RSE4ORD grant, goal: make this more viable
+- > RSECon26 9-11 september sheffield UK
+- responsible for more people
+
+## Emmanuel Lanti – Your simulation works. Your code doesn't. A tale about scientific software design.
+- Technical training: course on scientific software design
+- What would you suggest for the recognition of the code quality? In terms of assessing the quality and in terms of public credit?
+  - EuroFusion: standard soft guidelines, start with defining criteria of good code, code owners ranking them. Badly implemented. Propose, quality label, give 20% more resources.
+  - Publishers about code quality?
+- Scientific software design: only for EPFL?
+- By "quality of the tool" do you mean: the quality of the code OR the intent use of the code (i.e., the scientific results)?
+	- Always a balance between perfect code and results: initiate a change in their minds (e.g., naming)
+
+## Kenneth
+- What about the sustainability of the tools? of the project?
+- What about the adoption of the entire set of tools? too much tools = less adoption 
+
+## Clément Humbert – ZKPs and applications (e.g., e-ID)
+- ZKP: interactive protocol in which a prover tries to convice...
+
+## Samuel Gaist – Why make it nice and readable when you can make it short and terrible?
+
+## Diego – RésIn – A RSE network in Paris and its online repository of engineers
+- Missions:
+	- Collective training and formation
+	- No disciplinary boundary
+	- Sharing resources and ideas
+	- Foster reflexive thinking
+	- Map competences
+	- Prevent isolation
+
+## Gaelle Chapuis – Analytical degrees of freedom in practice: Evidence from hackathons and implications for automated science
 
 # 20.05.2026 – EnhanceR seminar: Two presentations by RSE ambassadors
 
