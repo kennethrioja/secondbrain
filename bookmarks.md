@@ -1,6 +1,10 @@
 [articles/career-plan](https://80000hours.org/career-planning/career-plan-template/)<br>
 [articles/game-designers-analysis-of-quanon](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5)<br>
 [articles/planning-high-impact-career](https://80000hours.org/career-planning/summary/) - in 7 points<br>
+[articles/you-dont-have-to-if-you-dont-want-to](https://www.scottsmitelli.com/articles/you-dont-have-to/)<br>
+[articles/the-subprime-ai-crisis-is-here](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)<br>
+[articles/giving-university-exams-in-the-age-of-bots](https://ploum.net/2026-01-19-exam-with-chatbots.html)<br>
+[articles/i-love-generative-ai-and-hate-the-companies-building-it](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)<br>
 [blogs/barelysignificant](https://www.barelysignificant.com/) - stats<br>
 [blogs/catonmat.net](https://catonmat.net/archive) -> Vim tips<br>
 [blogs/latelierduformateur](https://latelierduformateur.fr/) - digital learning<br>
