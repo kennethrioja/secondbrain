@@ -56,6 +56,7 @@
 * [github working in group setup](#github-working-in-group-setup)
 * [how to learn (...) without following tutorials ?](#how-to-learn--without-following-tutorials-)
 * [mastering the vim language](#mastering-the-vim-language)
+* [Git commands](#git-commands)
 
 <!-- vim-markdown-toc -->
 
@@ -911,3 +912,39 @@ I will mostly focus on vim since I have been using this since the beginning
 **Going further**
 
 - [How to Do 90% of What Plugings Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM?link_credit=KennethRioja)
+
+# Git commands
+
+commit msg: feat, fix, chore, refactor, docs, style, test, perf, ci, build, revert
+
+If you have one small mistake after submitting your PR:
+
+  Change file
+  git commit --amend
+  git push --force-with-lease origin <my-branch>
+  
+Review
+
+  git fetch upstream pull/{n}/head:{n}
+  git checkout {n}
+  
+Fetch last commit of PR
+
+  git pull upstream pull/{n}/head
+
+Squash all branch commits
+
+  git reset --soft $(git merge-base master HEAD)
+
+Remove n last commits
+
+  git reflog
+  git reset --hard HEAD{n}
+  
+Come back to nth action
+
+  git reflog
+  git reset --soft HEAD{n}
+  
+
+  
